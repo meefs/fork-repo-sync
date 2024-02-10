@@ -14,32 +14,47 @@ jobs:
       
       - name: Sync all forks
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT }} # Using GitHub's built-in token for authentication
+          GITHUB_TOKEN: ${{ secrets.PAT }} # Using the specified token for authentication
         run: |
           #!/bin/bash
           set -e
 
+          # Check if jq is installed
+          if ! command -v jq &> /dev/null; then
+              echo "jq could not be found. Please ensure jq is installed in the runner environment."
+              exit 1
+          fi
+
           # Fetch list of forked repositories for the user 'meefs'
-          REPOS=$(curl -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/users/meefs/repos?type=forks")
+          REPOS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/users/meefs/repos?type=forks")
 
           # Loop through each repository and sync
-          echo "$REPOS" | jq -r '.[] | .full_name + " " + .clone_url' | while read -r REPO_FULL_NAME REPO_CLONE_URL; do
+          echo "$REPOS" | jq -r '.[] | .full_name + " " + .clone_url' | while IFS=" " read -r REPO_FULL_NAME REPO_CLONE_URL; do
+            echo "Processing $REPO_FULL_NAME"
+            
             # Extract repository name
             REPO_NAME=$(basename "$REPO_CLONE_URL" .git)
             
             # Clone the forked repository
-            git clone "$REPO_CLONE_URL" "$REPO_NAME"
-            cd "$REPO_NAME"
-            
-            # Assuming 'main' as the default branch; adjust as needed
-            # Fetch updates from the original repository
-            git fetch origin main:main
-            
-            # Optionally, merge changes from 'main' and push
-            git pull origin main
+            if git clone "$REPO_CLONE_URL" "$REPO_NAME"; then
+              cd "$REPO_NAME"
+              
+              # Fetch repository details to get the default branch name
+              REPO_DETAILS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/repos/$REPO_FULL_NAME")
+              DEFAULT_BRANCH=$(echo "$REPO_DETAILS" | jq -r '.default_branch')
 
-            
-            # Cleanup: Move out and remove the repo directory
-            cd ..
-            rm -rf "$REPO_NAME"
+              # Check if the default branch exists
+              if [ -n "$DEFAULT_BRANCH" ]; then
+                # Pull updates from the default branch of the original repository
+                git pull origin "$DEFAULT_BRANCH" || echo "Failed to pull from $DEFAULT_BRANCH"
+              else
+                echo "Default branch not found for $REPO_FULL_NAME"
+              fi
+              
+              # Cleanup: Move out and remove the repo directory
+              cd ..
+              rm -rf "$REPO_NAME"
+            else
+              echo "Failed to clone $REPO_CLONE_URL"
+            fi
           done
