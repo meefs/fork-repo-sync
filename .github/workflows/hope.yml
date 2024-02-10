@@ -27,7 +27,7 @@ jobs:
           while : ; do
             REPOS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
               "https://api.github.com/user/repos?type=forks&per_page=$PER_PAGE&page=$PAGE" \
-              | jq -r '.[] | "\(.full_name) \(.parent.clone_url) \(.default_branch)"')
+              | jq -r '.[] | "\(.full_name) \(.clone_url) \(.default_branch)"')
             if [ -z "$REPOS" ]; then
               break
             fi
