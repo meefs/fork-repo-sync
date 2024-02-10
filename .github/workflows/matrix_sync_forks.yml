@@ -1,4 +1,4 @@
-name: Sync All Forks
+name: Sync All Forks - Matrix Edition
 
 on:
   workflow_dispatch:
@@ -11,23 +11,11 @@ jobs:
     outputs:
       matrix: ${{ steps.set-output.outputs.matrix }}
     steps:
-      - name: Fetch repositories
-        id: fetch-repos
-        run: |
-          curl -H "Authorization: token ${{ secrets.PAT }}" "https://api.github.com/users/meefs/repos?type=forks" > repos.json
-          cat repos.json
-
-      - name: Generate base64 list
-        id: generate-list
-        run: |
-          jq -r '.[] | @base64' repos.json > repos_base64.txt
-          cat repos_base64.txt
-
-      - name: Set matrix output
+      - name: Fetch repositories and prepare matrix
         id: set-output
         run: |
-          REPO_LIST=$(cat repos_base64.txt)
-          MATRIX=$(cat repos_base64.txt | while read -r line; do echo $line | base64 --decode; done | jq -s .)
+          REPOS=$(curl -H "Authorization: token ${{ secrets.PAT }}" "https://api.github.com/users/meefs/repos?type=forks")
+          MATRIX=$(echo "$REPOS" | jq '.[] | .clone_url' | jq -s .)
           echo "::set-output name=matrix::$MATRIX"
 
   sync:
@@ -38,25 +26,16 @@ jobs:
       matrix:
         repo: ${{ fromJson(needs.prepare.outputs.matrix) }}
     steps:
-      - name: Decode repository information
-        id: repo
-        run: |
-          REPO_INFO=$(echo "${{ matrix.repo }}" | base64 -d)
-          REPO_FULL_NAME=$(echo $REPO_INFO | jq -r '.full_name')
-          REPO_CLONE_URL=$(echo $REPO_INFO | jq -r '.clone_url')
-          
-          echo "Full name: $REPO_FULL_NAME"
-          echo "Clone URL: $REPO_CLONE_URL"
-      
       - name: Sync repository
         run: |
-          git clone "$REPO_CLONE_URL" "$REPO_FULL_NAME"
-          cd "$REPO_FULL_NAME"
+          REPO_CLONE_URL="${{ matrix.repo }}"
+          REPO_NAME=$(basename "$REPO_CLONE_URL" .git)
           
+          git clone "$REPO_CLONE_URL" "$REPO_NAME"
+          cd "$REPO_NAME"
           # Assuming 'main' as the default branch; adjust as needed
           git fetch origin main:main
           git merge origin/main
           git push origin main
-          
           cd ..
-          rm -rf "$REPO_FULL_NAME"
+          rm -rf "$REPO_NAME"
