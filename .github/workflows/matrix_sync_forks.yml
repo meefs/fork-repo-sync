@@ -27,7 +27,7 @@ jobs:
         id: set-output
         run: |
           REPO_LIST=$(cat repos_base64.txt)
-          MATRIX=$(cat repoos_base64.txt | while read -r line; do echo $line | base64 --decode; done | jq -s .)
+          MATRIX=$(cat repos_base64.txt | while read -r line; do echo $line | base64 --decode; done | jq -s .)
           echo "::set-output name=matrix::$MATRIX"
 
   sync:
