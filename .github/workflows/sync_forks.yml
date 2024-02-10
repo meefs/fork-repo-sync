@@ -36,8 +36,8 @@ jobs:
             git fetch origin main:main
             
             # Optionally, merge changes from 'main' and push
-            git merge origin/main
-            git push origin main
+            git pull origin main
+
             
             # Cleanup: Move out and remove the repo directory
             cd ..
