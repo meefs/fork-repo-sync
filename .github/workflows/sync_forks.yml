@@ -1,0 +1,48 @@
+name: Sync All Forks
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight
+
+jobs:
+  sync-forks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
+      
+      - name: Sync all forks
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }} # Your Personal Access Token stored as a secret
+        run: |
+          #!/bin/bash
+          set -e
+
+          # List all forked repositories for the user 'meefs'
+          REPOS=$(curl -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/users/meefs/repos?type=forks")
+
+          # Loop through each repository
+          echo "$REPOS" | jq -r '.[] | .full_name + " " + .parent.clone_url' | while read -r REPO_URL; do
+            IFS=" " read -r FORK_URL UPSTREAM_URL <<< "$REPO_URL"
+            
+            # Extract repository name
+            REPO_NAME=$(basename "$FORK_URL" .git)
+            
+            # Clone the forked repository
+            git clone "$FORK_URL" "$REPO_NAME"
+            cd "$REPO_NAME"
+            
+            # Add upstream remote and fetch updates
+            git remote add upstream "$UPSTREAM_URL"
+            git fetch upstream
+            
+            # Merge changes from upstream and push
+            git checkout main
+            git merge upstream/main
+            git push origin main
+            
+            # Cleanup
+            cd ..
+            rm -rf "$REPO_NAME"
+          done
