@@ -14,35 +14,32 @@ jobs:
       
       - name: Sync all forks
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT }} # Your Personal Access Token stored as a secret
+          GITHUB_TOKEN: ${{ secrets.PAT }} # Using GitHub's built-in token for authentication
         run: |
           #!/bin/bash
           set -e
 
-          # List all forked repositories for the user 'meefs'
+          # Fetch list of forked repositories
           REPOS=$(curl -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/users/meefs/repos?type=forks")
 
-          # Loop through each repository
-          echo "$REPOS" | jq -r '.[] | .full_name + " " + .parent.clone_url' | while read -r REPO_URL; do
-            IFS=" " read -r FORK_URL UPSTREAM_URL <<< "$REPO_URL"
-            
+          # Loop through each repository and sync
+          echo "$REPOS" | jq -r '.[] | .full_name + " " + .clone_url' | while read -r REPO_FULL_NAME REPO_CLONE_URL; do
             # Extract repository name
-            REPO_NAME=$(basename "$FORK_URL" .git)
+            REPO_NAME=$(basename "$REPO_CLONE_URL" .git)
             
             # Clone the forked repository
-            git clone "$FORK_URL" "$REPO_NAME"
+            git clone "$REPO_CLONE_URL" "$REPO_NAME"
             cd "$REPO_NAME"
             
-            # Add upstream remote and fetch updates
-            git remote add upstream "$UPSTREAM_URL"
-            git fetch upstream
+            # Assuming 'main' as the default branch; adjust as needed
+            # Fetch updates from the original repository
+            git fetch origin main:main
             
-            # Merge changes from upstream and push
-            git checkout main
-            git merge upstream/main
+            # Optionally, merge changes from 'main' and push
+            git merge origin/main
             git push origin main
             
-            # Cleanup
+            # Cleanup: Move out and remove the repo directory
             cd ..
             rm -rf "$REPO_NAME"
           done
