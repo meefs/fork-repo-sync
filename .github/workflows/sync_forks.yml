@@ -19,7 +19,7 @@ jobs:
           #!/bin/bash
           set -e
 
-          # Fetch list of forked repositories
+          # Fetch list of forked repositories for the user 'meefs'
           REPOS=$(curl -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/users/meefs/repos?type=forks")
 
           # Loop through each repository and sync
