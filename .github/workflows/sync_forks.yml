@@ -26,7 +26,7 @@ jobs:
           fi
 
           # Fetch list of forked repositories for the user 'meefs'
-          REPOS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/users/meefs/repos?type=forks")
+          REPOS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/users/meefs/repos?type=forks&per_page=100&page=1")
 
           # Loop through each repository and sync
           echo "$REPOS" | jq -r '.[] | .full_name + " " + .clone_url' | while IFS=" " read -r REPO_FULL_NAME REPO_CLONE_URL; do
