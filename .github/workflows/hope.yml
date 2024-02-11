@@ -19,7 +19,7 @@ jobs:
 
       - name: Sync Forked Repositories
         env:
-          GITHUB_TOKEN: ${{ secrets.FATPAT }}
+          GITHUB_TOKEN: ${{ secrets.PATTY }}
         run: |
           USERNAME="meefs"
           PAGE=1
