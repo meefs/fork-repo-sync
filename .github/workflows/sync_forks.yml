@@ -25,6 +25,12 @@ jobs:
               exit 1
           fi
 
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "meefs-bot@rackhelp.com"
+          git config --global credential.helper store
+          echo "https://x-access-token:$GITHUB_TOKEN@github.com" > ~/.git-credentials
+
+
           # Fetch list of forked repositories for the user 'meefs'
           REPOS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/users/meefs/repos?type=forks&per_page=100&page=1")
 
@@ -45,7 +51,7 @@ jobs:
             fi
             
             # Clone the forked repository
-            if git clone "$REPO_CLONE_URL" "$REPO_NAME"; then
+            if git clone -v "$REPO_CLONE_URL" "$REPO_NAME"; then
               cd "$REPO_NAME"
               
               # Add upstream repository
