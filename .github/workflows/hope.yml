@@ -32,7 +32,7 @@ jobs:
               break
             fi
             echo "$REPOS" | while read REPO CLONE_URL DEFAULT_BRANCH; do
-              echo "Repo: $REPO, Clone URL: $CLONE_URL, Default Branch: $DEFAULT_BRANCH"
+              echo "Repo: $REPO , Clone URL: $CLONE_URL , Default Branch 🪵: $DEFAULT_BRANCH"
               if [ ! -z "$REPO" ]; then
                 echo "Syncing $REPO"
                 git clone "https://x-access-token:$GITHUB_TOKEN@${CLONE_URL#https://}" repo
