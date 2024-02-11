@@ -5,3 +5,7 @@ This repository contains GitHub actions for keeping https://github.com/meefs for
 ## Current Workflow Status
 
 [![Sync All Forks](https://github.com/meefs/fork-repo-sync/actions/workflows/sync_forks.yml/badge.svg)](https://github.com/meefs/fork-repo-sync/actions/workflows/sync_forks.yml)
+
+
+## Repos of interests
+[REPOS.md](https://github.com/meefs/fork-repo-sync/REPOS.md)
