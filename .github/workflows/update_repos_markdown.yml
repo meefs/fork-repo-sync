@@ -42,6 +42,8 @@ jobs:
             echo "$REPO_LANGUAGE|$REPO_FULL_NAME|$REPO_URL|$REPO_DESCRIPTION" >> "$TEMP_FILE"
           done
 
+          echo "" > REPOS.md ## Clearing out any contents from previous REPOS.md
+
           # Sort and group by language
           sort "$TEMP_FILE" | while IFS="|" read -r LANG NAME URL DESC; do
             # Check if the current language section has changed and if so, start a new section
