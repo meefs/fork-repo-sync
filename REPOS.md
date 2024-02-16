@@ -85,6 +85,7 @@
 - [meefs/dl-colab-notebooks](https://github.com/meefs/dl-colab-notebooks): Try out  deep learning models online on Google Colab
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
 - [meefs/graph-fraud-detection-papers](https://github.com/meefs/graph-fraud-detection-papers): A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
+- [meefs/jepa](https://github.com/meefs/jepa): PyTorch code and models for V-JEPA self-supervised learning from video.
 - [meefs/llm-course](https://github.com/meefs/llm-course): Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [meefs/malady](https://github.com/meefs/malady): maldev obviously
 - [meefs/meefs](https://github.com/meefs/meefs): No description
