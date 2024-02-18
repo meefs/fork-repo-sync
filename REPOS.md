@@ -51,6 +51,7 @@
 - [meefs/deforum-stable-diffusion](https://github.com/meefs/deforum-stable-diffusion): Stable Diffusion Notebooks
 - [meefs/drawdata](https://github.com/meefs/drawdata): Draw datasets from within Jupyter.
 - [meefs/frame-interpolation](https://github.com/meefs/frame-interpolation): FILM: Frame Interpolation for Large Motion, In arXiv 2022.
+- [meefs/jepa](https://github.com/meefs/jepa): PyTorch code and models for V-JEPA self-supervised learning from video.
 - [meefs/llm-attacks](https://github.com/meefs/llm-attacks): Universal and Transferable Attacks on Aligned Language Models
 - [meefs/llm-engine](https://github.com/meefs/llm-engine): Scale LLM Engine public repository
 - [meefs/shell_gpt](https://github.com/meefs/shell_gpt): A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
@@ -77,6 +78,7 @@
 - [meefs/KaliYuga-s-Library-of-Historic-AI-Tools](https://github.com/meefs/KaliYuga-s-Library-of-Historic-AI-Tools): A collection of all the open-source AI tools I can wrest from the jaws of internet oblivion
 - [meefs/LeftoverLocalsRelease](https://github.com/meefs/LeftoverLocalsRelease): The public release of LeftoverLocals code
 - [meefs/ONG-ISAC](https://github.com/meefs/ONG-ISAC): This is the page for my presentation to the ONG-ISAC on July 26, 2023 titled 'Putting AI To Work: The magic wand for digital transformation'
+- [meefs/PhotoMaker](https://github.com/meefs/PhotoMaker): PhotoMaker
 - [meefs/PixelAlchemist](https://github.com/meefs/PixelAlchemist): Semantic image editing in realtime with a multi-parameter interface for StyleCLIP global directions
 - [meefs/Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/meefs/Smart-Contract-Auditor-Tools-and-Techniques): This repo contains a comprehensive list of smart contract auditor tools and techniques that can be utilized by both smart contract auditors and blockchain developers for developing secure smart contracts
 - [meefs/bitcoinphone](https://github.com/meefs/bitcoinphone): Voice over the BitcoinSV protocol (made for CoinGeek 2021)
@@ -85,7 +87,6 @@
 - [meefs/dl-colab-notebooks](https://github.com/meefs/dl-colab-notebooks): Try out  deep learning models online on Google Colab
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
 - [meefs/graph-fraud-detection-papers](https://github.com/meefs/graph-fraud-detection-papers): A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
-- [meefs/jepa](https://github.com/meefs/jepa): PyTorch code and models for V-JEPA self-supervised learning from video.
 - [meefs/llm-course](https://github.com/meefs/llm-course): Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [meefs/malady](https://github.com/meefs/malady): maldev obviously
 - [meefs/meefs](https://github.com/meefs/meefs): No description
