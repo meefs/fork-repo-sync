@@ -92,7 +92,9 @@
 - [meefs/malady](https://github.com/meefs/malady): maldev obviously
 - [meefs/meefs](https://github.com/meefs/meefs): No description
 - [meefs/octofomo](https://github.com/meefs/octofomo): No description
+- [meefs/portal-network-specs](https://github.com/meefs/portal-network-specs): Official repository for specifications for the Portal Network
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
+- [meefs/revoke.cash](https://github.com/meefs/revoke.cash): ❌ Revoke or update your token approvals
 - [meefs/rust-stealer](https://github.com/meefs/rust-stealer): Simple Rust Stealer
 - [meefs/salmonella](https://github.com/meefs/salmonella): Wrecking sandwich traders for fun and profit
 - [meefs/slither](https://github.com/meefs/slither): Static Analyzer for Solidity
