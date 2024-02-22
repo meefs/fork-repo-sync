@@ -23,6 +23,7 @@
 - [meefs/ARF-svox2](https://github.com/meefs/ARF-svox2): Artistic Radiance Fields (Colab)
 - [meefs/FrontRunMe](https://github.com/meefs/FrontRunMe): No description
 - [meefs/MusicGen-colab](https://github.com/meefs/MusicGen-colab): No description
+- [meefs/PhotoMaker](https://github.com/meefs/PhotoMaker): PhotoMaker
 - [meefs/RecursiveSummarizer](https://github.com/meefs/RecursiveSummarizer): RecursiveSummarizer script shown in https://www.youtube.com/watch?v=es8e4SEuvV0&t=263s
 - [meefs/art](https://github.com/meefs/art): No description
 - [meefs/collection-of-notebooks](https://github.com/meefs/collection-of-notebooks): Сollection of various notebooks
@@ -75,17 +76,18 @@
 - [meefs/ChaosNLI](https://github.com/meefs/ChaosNLI): [EMNLP 2020] Collective HumAn OpinionS on Natural Language Inference Data
 - [meefs/ComfyUI-PhotoMaker-Plus](https://github.com/meefs/ComfyUI-PhotoMaker-Plus): PhotoMaker for ComfyUI
 - [meefs/FaceSynthetics](https://github.com/meefs/FaceSynthetics): No description
+- [meefs/GFPGAN](https://github.com/meefs/GFPGAN): GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [meefs/IllusionDiffusion-colab](https://github.com/meefs/IllusionDiffusion-colab): No description
 - [meefs/KaliYuga-s-Library-of-Historic-AI-Tools](https://github.com/meefs/KaliYuga-s-Library-of-Historic-AI-Tools): A collection of all the open-source AI tools I can wrest from the jaws of internet oblivion
 - [meefs/LeftoverLocalsRelease](https://github.com/meefs/LeftoverLocalsRelease): The public release of LeftoverLocals code
 - [meefs/ONG-ISAC](https://github.com/meefs/ONG-ISAC): This is the page for my presentation to the ONG-ISAC on July 26, 2023 titled 'Putting AI To Work: The magic wand for digital transformation'
-- [meefs/PhotoMaker](https://github.com/meefs/PhotoMaker): PhotoMaker
 - [meefs/PixelAlchemist](https://github.com/meefs/PixelAlchemist): Semantic image editing in realtime with a multi-parameter interface for StyleCLIP global directions
 - [meefs/Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/meefs/Smart-Contract-Auditor-Tools-and-Techniques): This repo contains a comprehensive list of smart contract auditor tools and techniques that can be utilized by both smart contract auditors and blockchain developers for developing secure smart contracts
 - [meefs/bitcoinphone](https://github.com/meefs/bitcoinphone): Voice over the BitcoinSV protocol (made for CoinGeek 2021)
 - [meefs/bsv-explorer](https://github.com/meefs/bsv-explorer): Simple, database-free, self-hosted Bitcoin blockchain explorer, via RPC. Built with Node.js, express, bootstrap-v4.
 - [meefs/code-my-crown](https://github.com/meefs/code-my-crown): No description
 - [meefs/dl-colab-notebooks](https://github.com/meefs/dl-colab-notebooks): Try out  deep learning models online on Google Colab
+- [meefs/film](https://github.com/meefs/film): Custom implementation of Google FILM interpolation software
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
 - [meefs/graph-fraud-detection-papers](https://github.com/meefs/graph-fraud-detection-papers): A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
 - [meefs/llm-course](https://github.com/meefs/llm-course): Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
