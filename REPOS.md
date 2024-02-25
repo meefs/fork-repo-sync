@@ -67,6 +67,7 @@
 ## TypeScript
 - [meefs/TypeChain](https://github.com/meefs/TypeChain): 🔌 TypeScript bindings for Ethereum smart contracts
 - [meefs/ai-brainstore](https://github.com/meefs/ai-brainstore): A proof-of-concept of a brain for an AI agent.
+- [meefs/revoke.cash](https://github.com/meefs/revoke.cash): ❌ Revoke or update your token approvals
 
 ## Unknown
 - [meefs/Avionics-talk](https://github.com/meefs/Avionics-talk): No description
@@ -96,7 +97,6 @@
 - [meefs/octofomo](https://github.com/meefs/octofomo): No description
 - [meefs/portal-network-specs](https://github.com/meefs/portal-network-specs): Official repository for specifications for the Portal Network
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
-- [meefs/revoke.cash](https://github.com/meefs/revoke.cash): ❌ Revoke or update your token approvals
 - [meefs/rust-stealer](https://github.com/meefs/rust-stealer): Simple Rust Stealer
 - [meefs/salmonella](https://github.com/meefs/salmonella): Wrecking sandwich traders for fun and profit
 - [meefs/slither](https://github.com/meefs/slither): Static Analyzer for Solidity
