@@ -85,9 +85,11 @@
 - [meefs/PixelAlchemist](https://github.com/meefs/PixelAlchemist): Semantic image editing in realtime with a multi-parameter interface for StyleCLIP global directions
 - [meefs/PyRIT](https://github.com/meefs/PyRIT): The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.
 - [meefs/Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/meefs/Smart-Contract-Auditor-Tools-and-Techniques): This repo contains a comprehensive list of smart contract auditor tools and techniques that can be utilized by both smart contract auditors and blockchain developers for developing secure smart contracts
+- [meefs/VSP-LLM](https://github.com/meefs/VSP-LLM): No description
 - [meefs/bitcoinphone](https://github.com/meefs/bitcoinphone): Voice over the BitcoinSV protocol (made for CoinGeek 2021)
 - [meefs/bsv-explorer](https://github.com/meefs/bsv-explorer): Simple, database-free, self-hosted Bitcoin blockchain explorer, via RPC. Built with Node.js, express, bootstrap-v4.
 - [meefs/code-my-crown](https://github.com/meefs/code-my-crown): No description
+- [meefs/ditherQuest](https://github.com/meefs/ditherQuest): auto dither images in pleasing colors
 - [meefs/dl-colab-notebooks](https://github.com/meefs/dl-colab-notebooks): Try out  deep learning models online on Google Colab
 - [meefs/film](https://github.com/meefs/film): Custom implementation of Google FILM interpolation software
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
