@@ -98,6 +98,7 @@
 - [meefs/malady](https://github.com/meefs/malady): maldev obviously
 - [meefs/meefs](https://github.com/meefs/meefs): No description
 - [meefs/octofomo](https://github.com/meefs/octofomo): No description
+- [meefs/pingora](https://github.com/meefs/pingora): A library for building fast, reliable and evolvable network services.
 - [meefs/portal-network-specs](https://github.com/meefs/portal-network-specs): Official repository for specifications for the Portal Network
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
 - [meefs/rust-stealer](https://github.com/meefs/rust-stealer): Simple Rust Stealer
