@@ -63,6 +63,9 @@
 - [meefs/style-transfer-pytorch](https://github.com/meefs/style-transfer-pytorch): Neural style transfer in PyTorch.
 - [meefs/whisperbymeefs](https://github.com/meefs/whisperbymeefs): Robust Speech Recognition via Large-Scale Weak Supervision
 
+## Rust
+- [meefs/pingora](https://github.com/meefs/pingora): A library for building fast, reliable and evolvable network services.
+
 ## Solidity
 - [meefs/wbtc-aave-demo](https://github.com/meefs/wbtc-aave-demo): No description
 
@@ -101,7 +104,6 @@
 - [meefs/meefs](https://github.com/meefs/meefs): No description
 - [meefs/octofomo](https://github.com/meefs/octofomo): No description
 - [meefs/perf-tools](https://github.com/meefs/perf-tools): Performance analysis tools based on Linux perf_events (aka perf) and ftrace
-- [meefs/pingora](https://github.com/meefs/pingora): A library for building fast, reliable and evolvable network services.
 - [meefs/portal-network-specs](https://github.com/meefs/portal-network-specs): Official repository for specifications for the Portal Network
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
 - [meefs/rust-stealer](https://github.com/meefs/rust-stealer): Simple Rust Stealer
