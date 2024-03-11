@@ -75,6 +75,7 @@
 - [meefs/revoke.cash](https://github.com/meefs/revoke.cash): ❌ Revoke or update your token approvals
 
 ## Unknown
+- [meefs/2024-openai-gpt-hiring-racial-discrimination](https://github.com/meefs/2024-openai-gpt-hiring-racial-discrimination): Data and materials to reproduce Bloomberg's investigation into racial and gender bias in OpenAI's GPT
 - [meefs/Avionics-talk](https://github.com/meefs/Avionics-talk): No description
 - [meefs/Awesome-LLM](https://github.com/meefs/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
 - [meefs/Bash-Wizard](https://github.com/meefs/Bash-Wizard): a bash script generator
