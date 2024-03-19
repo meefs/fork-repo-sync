@@ -8,6 +8,7 @@
 - [meefs/birdsong-as-code](https://github.com/meefs/birdsong-as-code): Exploring the music theory of birdsong
 
 ## C
+- [meefs/bcc](https://github.com/meefs/bcc): BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [meefs/prvhash](https://github.com/meefs/prvhash): PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor. (Codename Gradilac/Градилак)
 - [meefs/whisper.cpp](https://github.com/meefs/whisper.cpp): Port of OpenAI's Whisper model in C/C++
 
@@ -32,6 +33,7 @@
 - [meefs/collection-of-notebooks](https://github.com/meefs/collection-of-notebooks): Сollection of various notebooks
 - [meefs/fastbook](https://github.com/meefs/fastbook): The fastai book, published as Jupyter Notebooks
 - [meefs/illusion-diffusion-stable](https://github.com/meefs/illusion-diffusion-stable): This project works by using Monster Labs QR Control Net. Given a prompt and your pattern, we use a QR code conditioned controlnet to create a stunning illusion! Credit to: MrUgleh & AP123
+- [meefs/llm-course](https://github.com/meefs/llm-course): Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [meefs/prompt-to-prompt](https://github.com/meefs/prompt-to-prompt): No description
 - [meefs/stable-diffusion-webui-colab](https://github.com/meefs/stable-diffusion-webui-colab): Stable Difffusion webui Google Colab Notebooks
 
@@ -94,7 +96,6 @@
 - [meefs/PixelAlchemist](https://github.com/meefs/PixelAlchemist): Semantic image editing in realtime with a multi-parameter interface for StyleCLIP global directions
 - [meefs/Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/meefs/Smart-Contract-Auditor-Tools-and-Techniques): This repo contains a comprehensive list of smart contract auditor tools and techniques that can be utilized by both smart contract auditors and blockchain developers for developing secure smart contracts
 - [meefs/awesome-claude-prompts](https://github.com/meefs/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
-- [meefs/bcc](https://github.com/meefs/bcc): BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [meefs/bitcoinphone](https://github.com/meefs/bitcoinphone): Voice over the BitcoinSV protocol (made for CoinGeek 2021)
 - [meefs/bsv-explorer](https://github.com/meefs/bsv-explorer): Simple, database-free, self-hosted Bitcoin blockchain explorer, via RPC. Built with Node.js, express, bootstrap-v4.
 - [meefs/code-my-crown](https://github.com/meefs/code-my-crown): No description
@@ -103,7 +104,6 @@
 - [meefs/film](https://github.com/meefs/film): Custom implementation of Google FILM interpolation software
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
 - [meefs/graph-fraud-detection-papers](https://github.com/meefs/graph-fraud-detection-papers): A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
-- [meefs/llm-course](https://github.com/meefs/llm-course): Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [meefs/malady](https://github.com/meefs/malady): maldev obviously
 - [meefs/meefs](https://github.com/meefs/meefs): No description
 - [meefs/octofomo](https://github.com/meefs/octofomo): No description
