@@ -94,6 +94,7 @@
 - [meefs/KaliYuga-s-Library-of-Historic-AI-Tools](https://github.com/meefs/KaliYuga-s-Library-of-Historic-AI-Tools): A collection of all the open-source AI tools I can wrest from the jaws of internet oblivion
 - [meefs/LeftoverLocalsRelease](https://github.com/meefs/LeftoverLocalsRelease): The public release of LeftoverLocals code
 - [meefs/MS-DOS](https://github.com/meefs/MS-DOS): The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
+- [meefs/Magic_Words](https://github.com/meefs/Magic_Words): Code for the paper "What's the Magic Word? A Control Theory of LLM Prompting"
 - [meefs/ONG-ISAC](https://github.com/meefs/ONG-ISAC): This is the page for my presentation to the ONG-ISAC on July 26, 2023 titled 'Putting AI To Work: The magic wand for digital transformation'
 - [meefs/Pineapples-Secrets](https://github.com/meefs/Pineapples-Secrets): A writeup on how Pineapple actually works
 - [meefs/PixelAlchemist](https://github.com/meefs/PixelAlchemist): Semantic image editing in realtime with a multi-parameter interface for StyleCLIP global directions
