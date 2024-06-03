@@ -28,6 +28,7 @@
 ## Jupyter Notebook
 - [meefs/ARF-svox2](https://github.com/meefs/ARF-svox2): Artistic Radiance Fields (Colab)
 - [meefs/FrontRunMe](https://github.com/meefs/FrontRunMe): No description
+- [meefs/LooksMaker](https://github.com/meefs/LooksMaker): No description
 - [meefs/Magic_Words](https://github.com/meefs/Magic_Words): Code for the paper "What's the Magic Word? A Control Theory of LLM Prompting"
 - [meefs/MusicGen-colab](https://github.com/meefs/MusicGen-colab): No description
 - [meefs/PhotoMaker](https://github.com/meefs/PhotoMaker): PhotoMaker
