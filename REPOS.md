@@ -111,6 +111,7 @@
 - [meefs/malady](https://github.com/meefs/malady): maldev obviously
 - [meefs/meefs](https://github.com/meefs/meefs): No description
 - [meefs/octofomo](https://github.com/meefs/octofomo): No description
+- [meefs/ohmyzsh](https://github.com/meefs/ohmyzsh): 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [meefs/perf-tools](https://github.com/meefs/perf-tools): Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
 - [meefs/rust-stealer](https://github.com/meefs/rust-stealer): Simple Rust Stealer
