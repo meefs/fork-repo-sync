@@ -90,6 +90,7 @@
 - [meefs/Awesome-LLM](https://github.com/meefs/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
 - [meefs/Bash-Wizard](https://github.com/meefs/Bash-Wizard): a bash script generator
 - [meefs/CLIP-based-NSFW-Detector](https://github.com/meefs/CLIP-based-NSFW-Detector): No description
+- [meefs/CVE-2024-4577](https://github.com/meefs/CVE-2024-4577): CVE-2024-4577 is a critical vulnerability in PHP affecting CGI configurations, allowing attackers to execute arbitrary commands via crafted URL parameters.
 - [meefs/ChaosNLI](https://github.com/meefs/ChaosNLI): [EMNLP 2020] Collective HumAn OpinionS on Natural Language Inference Data
 - [meefs/FaceSynthetics](https://github.com/meefs/FaceSynthetics): No description
 - [meefs/IllusionDiffusion-colab](https://github.com/meefs/IllusionDiffusion-colab): No description
