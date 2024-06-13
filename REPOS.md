@@ -12,6 +12,9 @@
 - [meefs/prvhash](https://github.com/meefs/prvhash): PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor. (Codename Gradilac/Градилак)
 - [meefs/whisper.cpp](https://github.com/meefs/whisper.cpp): Port of OpenAI's Whisper model in C/C++
 
+## Go
+- [meefs/CVE-2024-4577](https://github.com/meefs/CVE-2024-4577): CVE-2024-4577 is a critical vulnerability in PHP affecting CGI configurations, allowing attackers to execute arbitrary commands via crafted URL parameters.
+
 ## HTML
 - [meefs/gigahorse-toolchain](https://github.com/meefs/gigahorse-toolchain): A binary lifter and analysis framework for Ethereum smart contracts
 
@@ -93,7 +96,6 @@
 - [meefs/Awesome-LLM](https://github.com/meefs/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
 - [meefs/Bash-Wizard](https://github.com/meefs/Bash-Wizard): a bash script generator
 - [meefs/CLIP-based-NSFW-Detector](https://github.com/meefs/CLIP-based-NSFW-Detector): No description
-- [meefs/CVE-2024-4577](https://github.com/meefs/CVE-2024-4577): CVE-2024-4577 is a critical vulnerability in PHP affecting CGI configurations, allowing attackers to execute arbitrary commands via crafted URL parameters.
 - [meefs/ChaosNLI](https://github.com/meefs/ChaosNLI): [EMNLP 2020] Collective HumAn OpinionS on Natural Language Inference Data
 - [meefs/FaceSynthetics](https://github.com/meefs/FaceSynthetics): No description
 - [meefs/IllusionDiffusion-colab](https://github.com/meefs/IllusionDiffusion-colab): No description
@@ -115,6 +117,7 @@
 - [meefs/malady](https://github.com/meefs/malady): maldev obviously
 - [meefs/meefs.github.io](https://github.com/meefs/meefs.github.io): No description
 - [meefs/meefs](https://github.com/meefs/meefs): No description
+- [meefs/mlx](https://github.com/meefs/mlx): MLX: An array framework for Apple silicon
 - [meefs/octofomo](https://github.com/meefs/octofomo): No description
 - [meefs/perf-tools](https://github.com/meefs/perf-tools): Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
