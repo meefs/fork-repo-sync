@@ -17,6 +17,7 @@
 - [meefs/CVE-2024-4577](https://github.com/meefs/CVE-2024-4577): CVE-2024-4577 is a critical vulnerability in PHP affecting CGI configurations, allowing attackers to execute arbitrary commands via crafted URL parameters.
 
 ## HTML
+- [meefs/Magic_Words](https://github.com/meefs/Magic_Words): Code for the paper "What's the Magic Word? A Control Theory of LLM Prompting"
 - [meefs/gigahorse-toolchain](https://github.com/meefs/gigahorse-toolchain): A binary lifter and analysis framework for Ethereum smart contracts
 
 ## JavaScript
@@ -33,7 +34,6 @@
 - [meefs/ARF-svox2](https://github.com/meefs/ARF-svox2): Artistic Radiance Fields (Colab)
 - [meefs/FrontRunMe](https://github.com/meefs/FrontRunMe): No description
 - [meefs/LooksMaker](https://github.com/meefs/LooksMaker): No description
-- [meefs/Magic_Words](https://github.com/meefs/Magic_Words): Code for the paper "What's the Magic Word? A Control Theory of LLM Prompting"
 - [meefs/MusicGen-colab](https://github.com/meefs/MusicGen-colab): No description
 - [meefs/PhotoMaker](https://github.com/meefs/PhotoMaker): PhotoMaker
 - [meefs/RecursiveSummarizer](https://github.com/meefs/RecursiveSummarizer): RecursiveSummarizer script shown in https://www.youtube.com/watch?v=es8e4SEuvV0&t=263s
