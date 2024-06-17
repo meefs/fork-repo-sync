@@ -124,3 +124,4 @@
 - [meefs/rust-stealer](https://github.com/meefs/rust-stealer): Simple Rust Stealer
 - [meefs/salmonella](https://github.com/meefs/salmonella): Wrecking sandwich traders for fun and profit
 - [meefs/slither](https://github.com/meefs/slither): Static Analyzer for Solidity
+- [meefs/xss-payload-list](https://github.com/meefs/xss-payload-list): 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
