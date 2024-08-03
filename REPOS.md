@@ -44,6 +44,7 @@
 - [meefs/illusion-diffusion-stable](https://github.com/meefs/illusion-diffusion-stable): This project works by using Monster Labs QR Control Net. Given a prompt and your pattern, we use a QR code conditioned controlnet to create a stunning illusion! Credit to: MrUgleh & AP123
 - [meefs/llm-course](https://github.com/meefs/llm-course): Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [meefs/prompt-to-prompt](https://github.com/meefs/prompt-to-prompt): No description
+- [meefs/segment-anything-2](https://github.com/meefs/segment-anything-2): The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [meefs/stable-diffusion-webui-colab](https://github.com/meefs/stable-diffusion-webui-colab): Stable Difffusion webui Google Colab Notebooks
 
 ## MDX
@@ -128,5 +129,4 @@
 - [meefs/rust-stealer](https://github.com/meefs/rust-stealer): Simple Rust Stealer
 - [meefs/safe-harbor](https://github.com/meefs/safe-harbor): No description
 - [meefs/salmonella](https://github.com/meefs/salmonella): Wrecking sandwich traders for fun and profit
-- [meefs/segment-anything-2](https://github.com/meefs/segment-anything-2): The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [meefs/slither](https://github.com/meefs/slither): Static Analyzer for Solidity
