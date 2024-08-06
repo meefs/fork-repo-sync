@@ -8,10 +8,4 @@ This repository contains GitHub actions for keeping https://github.com/meefs for
 
 
 ## Repos of interests
-<!-- START_SECTION:forked_repos -->
-## Forked Repositories
-
-Last updated: 2024-08-06 14:50:01
-
-
-<!-- END_SECTION:forked_repos -->
+[REPOS.md](https://github.com/meefs/fork-repo-sync/blob/main/REPOS.md) 
