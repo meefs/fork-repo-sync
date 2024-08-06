@@ -26,7 +26,7 @@ jobs:
 
           fetch_repos() {
             local page=1
-            local all_repos=""
+            local all_repos="[]"
             
             while true; do
               echo "Fetching page $page of repositories..."
@@ -45,7 +45,7 @@ jobs:
                 break
               fi
               
-              all_repos+="$response"
+              all_repos=$(echo "$all_repos" "$response" | jq -s 'add')
               
               ((page++))
             done
@@ -61,6 +61,9 @@ jobs:
             exit 1
           fi
 
+          # Debug: Print the number of repositories fetched
+          echo "Number of repositories fetched: $(echo "$REPOS" | jq length)"
+
           # Initialize a temporary file to store intermediate results
           TEMP_FILE=$(mktemp)
 
@@ -71,9 +74,16 @@ jobs:
             REPO_URL=$(echo "$REPO" | jq -r '.html_url')
             REPO_DESCRIPTION=$(echo "$REPO" | jq -r '.description // "No description"')
 
+            # Debug: Print each repository being processed
+            echo "Processing: $REPO_FULL_NAME ($REPO_LANGUAGE)"
+
             # Append repository info to temporary file
             echo "$REPO_LANGUAGE|$REPO_FULL_NAME|$REPO_URL|$REPO_DESCRIPTION" >> "$TEMP_FILE"
           done
+
+          # Debug: Print the contents of the temporary file
+          echo "Contents of temporary file:"
+          cat "$TEMP_FILE"
 
           # Generate repository content
           REPOS_CONTENT="## Forked Repositories\n\n"
@@ -90,6 +100,10 @@ jobs:
 
           # Remove temporary file
           rm "$TEMP_FILE"
+
+          # Debug: Print the generated content
+          echo "Generated content:"
+          echo -e "$REPOS_CONTENT"
 
           # Update README.md
           START_MARKER="<!-- START_SECTION:forked_repos -->"
