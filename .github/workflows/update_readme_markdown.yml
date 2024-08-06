@@ -1,0 +1,124 @@
+name: Update README.md with Forked Repositories
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
+      
+      - name: Update README.md with forked repositories
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }} # Using the specified token for authentication
+        run: |
+          #!/bin/bash
+          set -e
+
+          # Check if jq is installed
+          if ! command -v jq &> /dev/null; then
+              echo "jq could not be found. Please ensure jq is installed in the runner environment."
+              exit 1
+          fi
+
+          # Function to fetch repositories with pagination
+          fetch_repos() {
+            local page=1
+            local all_repos="[]"
+            
+            while true; do
+              echo "Fetching page $page of repositories..."
+              local response=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+                "https://api.github.com/users/meefs/repos?type=forks&per_page=100&page=$page")
+              
+              # Check if the response is empty or if we've reached the end
+              if [ "$(echo "$response" | jq '. | length')" -eq 0 ]; then
+                break
+              fi
+              
+              # Combine the new results with the existing ones
+              all_repos=$(echo "$all_repos" "$response" | jq -s 'add')
+              
+              ((page++))
+            done
+            
+            echo "$all_repos"
+          }
+
+          # Fetch all forked repositories
+          echo "Starting to fetch all forked repositories..."
+          REPOS=$(fetch_repos)
+
+          # Count total repositories
+          REPO_COUNT=$(echo "$REPOS" | jq '. | length')
+          echo "Total repositories fetched: $REPO_COUNT"
+
+          # Initialize a temporary file to store intermediate results
+          TEMP_FILE=$(mktemp)
+
+          # Process each repository
+          echo "$REPOS" | jq -c '.[]' | while read -r REPO; do
+            REPO_FULL_NAME=$(echo "$REPO" | jq -r '.full_name')
+            REPO_LANGUAGE=$(echo "$REPO" | jq -r '.language // "Unknown"')
+            REPO_URL=$(echo "$REPO" | jq -r '.html_url')
+            REPO_DESCRIPTION=$(echo "$REPO" | jq -r '.description // "No description"')
+
+            # Append repository info to temporary file
+            echo "$REPO_LANGUAGE|$REPO_FULL_NAME|$REPO_URL|$REPO_DESCRIPTION" >> "$TEMP_FILE"
+          done
+
+          # Create the content to be inserted into README.md
+          REPOS_CONTENT="## Forked Repositories\n\n"
+          REPOS_CONTENT+="Last updated: $(date '+%Y-%m-%d %H:%M:%S')\n\n"
+          REPOS_CONTENT+="Total repositories: $REPO_COUNT\n\n"
+
+          # Sort and group by language
+          sort "$TEMP_FILE" | while IFS="|" read -r LANG NAME URL DESC; do
+            # Check if the current language section has changed and if so, start a new section
+            if [ "$PREV_LANG" != "$LANG" ]; then
+              if [ -n "$PREV_LANG" ]; then
+                # Add a newline between language sections
+                REPOS_CONTENT+="\n"
+              fi
+              REPOS_CONTENT+="### $LANG\n"
+              PREV_LANG=$LANG
+            fi
+
+            # Append repository info under the current language section
+            REPOS_CONTENT+="- [$NAME]($URL): $DESC\n"
+          done
+
+          # Remove temporary file
+          rm "$TEMP_FILE"
+
+          # Update README.md
+          # Look for markers in README.md to know where to insert the repository list
+          START_MARKER="<!-- START_SECTION:forked_repos -->"
+          END_MARKER="<!-- END_SECTION:forked_repos -->"
+
+          if grep -q "$START_MARKER" README.md && grep -q "$END_MARKER" README.md; then
+            # If markers exist, replace content between them
+            awk -v r="$REPOS_CONTENT" "/$START_MARKER/{print;print r;f=1;next} /$END_MARKER/{f=0}!f" README.md > README.md.tmp && mv README.md.tmp README.md
+          else
+            # If markers don't exist, append content to the end of README.md
+            echo -e "\n$START_MARKER\n$REPOS_CONTENT\n$END_MARKER" >> README.md
+          fi
+
+          # Git configuration
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "meefs-bot@rackhelp.com"
+          git config --global credential.helper store
+          echo "https://x-access-token:$GITHUB_TOKEN@github.com" > ~/.git-credentials
+
+          # Commit and push if there are changes
+          if [ -n "$(git status --porcelain)" ]; then
+            git add README.md
+            git commit -m "Update README.md with forked repositories"
+            git push
+          else
+            echo "No changes to commit."
+          fi
