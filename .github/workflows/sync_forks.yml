@@ -1,4 +1,4 @@
-name: Sync All Forks
+name: Update REPOS.md
 
 on:
   workflow_dispatch:
@@ -6,15 +6,15 @@ on:
     - cron: '0 0 * * *' # Runs every day at midnight
 
 jobs:
-  sync-forks:
+  update-repos-list:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repo
         uses: actions/checkout@v2
       
-      - name: Sync all forks
+      - name: Update REPOS.md with forked repositories
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT }} # Using the specified token for authenting
+          GITHUB_TOKEN: ${{ secrets.PAT }} # Using the specified token for authentication
         run: |
           #!/bin/bash
           set -e
@@ -25,59 +25,71 @@ jobs:
               exit 1
           fi
 
+          # Initialize a temporary file to store intermediate results
+          TEMP_FILE=$(mktemp)
+          PAGE=1
+          PER_PAGE=100
+          TOTAL_REPOS="[]"
+
+          # Fetch list of forked repositories for the user 'meefs' with pagination
+          while true; do
+            REPOS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/users/meefs/repos?type=forks&per_page=$PER_PAGE&page=$PAGE")
+
+            # Break the loop if the response is empty
+            if [ "$(echo "$REPOS" | jq '. | length')" -eq 0 ]; then
+              break
+            fi
+
+            # Append the current page of repos to the total list
+            TOTAL_REPOS=$(echo "$TOTAL_REPOS" "$REPOS" | jq -s 'add')
+
+            # Increment the page counter
+            PAGE=$((PAGE + 1))
+          done
+
+          # Process each repository
+          echo "$TOTAL_REPOS" | jq -c '.[]' | while read -r REPO; do
+            REPO_FULL_NAME=$(echo "$REPO" | jq -r '.full_name')
+            REPO_LANGUAGE=$(echo "$REPO" | jq -r '.language // "Unknown"')
+            REPO_URL=$(echo "$REPO" | jq -r '.html_url')
+            REPO_DESCRIPTION=$(echo "$REPO" | jq -r '.description // "No description"')
+
+            # Append repository info to temporary file
+            echo "$REPO_LANGUAGE|$REPO_FULL_NAME|$REPO_URL|$REPO_DESCRIPTION" >> "$TEMP_FILE"
+          done
+
+          echo "" > REPOS.md ## Clearing out any contents from previous REPOS.md
+
+          # Sort and group by language
+          sort "$TEMP_FILE" | while IFS="|" read -r LANG NAME URL DESC; do
+            # Check if the current language section has changed and if so, start a new section
+            if [ "$PREV_LANG" != "$LANG" ]; then
+              if [ -n "$PREV_LANG" ]; then
+                # Add a newline between language sections
+                echo "" >> REPOS.md
+              fi
+              echo "## $LANG" >> REPOS.md
+              PREV_LANG=$LANG
+            fi
+
+            # Append repository info under the current language section
+            echo "- [$NAME]($URL): $DESC" >> REPOS.md
+          done
+
+          # Remove temporary file
+          rm "$TEMP_FILE"
+
+          # Git configuration
           git config --global user.name "GitHub Actions"
           git config --global user.email "meefs-bot@rackhelp.com"
           git config --global credential.helper store
           echo "https://x-access-token:$GITHUB_TOKEN@github.com" > ~/.git-credentials
 
-
-          # Fetch list of forked repositories for the user 'meefs'
-          REPOS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/users/meefs/repos?type=forks&per_page=200&page=1")
-
-          # Loop through each repository and sync
-          echo "$REPOS" | jq -r '.[] | .full_name + " " + .clone_url' | while IFS=" " read -r REPO_FULL_NAME REPO_CLONE_URL; do
-            echo "Processing $REPO_FULL_NAME"
-            
-            # Extract repository name
-            REPO_NAME=$(basename "$REPO_CLONE_URL" .git)
-
-            # Fetch detailed repository info to attempt retrieving the upstream clone URL
-            REPO_INFO=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/repos/$REPO_FULL_NAME")
-            UPSTREAM_CLONE_URL=$(echo "$REPO_INFO" | jq -r '.parent.clone_url // empty')
-            
-            if [[ -z "$UPSTREAM_CLONE_URL" ]]; then
-              echo "Unable to find upstream repository for $REPO_FULL_NAME. Skipping..."
-              continue
-            fi
-            
-            # Clone the forked repository
-            if git clone -v "$REPO_CLONE_URL" "$REPO_NAME"; then
-              cd "$REPO_NAME"
-              
-              # Add upstream repository
-              git remote add upstream "$UPSTREAM_CLONE_URL"
-
-              # Fetch updates from the upstream repository
-              git fetch upstream
-
-              # Get the default branch name
-              DEFAULT_BRANCH=$(echo "$REPO_INFO" | jq -r '.default_branch')
-
-              # Check if the default branch exists and merge changes from upstream
-              if [ -n "$DEFAULT_BRANCH" ]; then
-                git checkout "$DEFAULT_BRANCH"
-                git merge upstream/"$DEFAULT_BRANCH" --allow-unrelated-histories -m "Merged by GitHub Actions" || echo "Failed to merge from upstream/$DEFAULT_BRANCH"
-                
-                # Push updates back to the fork on GitHub
-                git push origin "$DEFAULT_BRANCH" || echo "Failed to push updates to $REPO_FULL_NAME"
-              else
-                echo "Default branch not found for $REPO_FULL_NAME"
-              fi
-              
-              # Cleanup: Move out and remove the repo directory
-              cd ..
-              rm -rf "$REPO_NAME"
-            else
-              echo "Failed to clone $REPO_CLONE_URL"
-            fi
-          done
+          # Commit and push if there are changes
+          if [ -n "$(git status --porcelain)" ]; then
+            git add REPOS.md
+            git commit -m "Update REPOS.md with forked repositories"
+            git push
+          else
+            echo "No changes to commit."
+          fi
