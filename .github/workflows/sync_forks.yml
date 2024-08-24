@@ -6,24 +6,48 @@ on:
     - cron: '0 0 * * *' # Runs every day at midnight
 
 jobs:
-  update-repos-list:
+  sync-forks:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repo
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0 # Fetch all history for proper git operations
       
-      - name: Update REPOS.md with forked repositories
+      - name: Sync Forked Repositories
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }} # Using the specified token for authentication
         run: |
           #!/bin/bash
           set -e
 
-          # Check if jq is installed
-          if ! command -v jq &> /dev/null; then
-              echo "jq could not be found. Please ensure jq is installed in the runner environment."
-              exit 1
-          fi
+          # Function to sync a single repository
+          sync_repo() {
+            REPO_NAME=$1
+            UPSTREAM_URL=$2
+            echo "Syncing $REPO_NAME with $UPSTREAM_URL"
+
+            # Clone the repository if not already cloned
+            if [ ! -d "$REPO_NAME" ]; then
+              git clone "https://x-access-token:$GITHUB_TOKEN@github.com/$REPO_NAME.git"
+            fi
+
+            cd "$REPO_NAME"
+
+            # Add upstream remote if it doesn't exist
+            git remote add upstream "$UPSTREAM_URL" || true
+
+            # Fetch the latest changes from upstream
+            git fetch upstream
+
+            # Rebase the changes onto the current branch
+            git rebase upstream/main || git rebase upstream/master
+
+            # Push the changes to the fork on GitHub
+            git push origin HEAD --force-with-lease
+
+            cd ..
+          }
 
           # Initialize a temporary file to store intermediate results
           TEMP_FILE=$(mktemp)
@@ -50,11 +74,16 @@ jobs:
           # Process each repository
           echo "$TOTAL_REPOS" | jq -c '.[]' | while read -r REPO; do
             REPO_FULL_NAME=$(echo "$REPO" | jq -r '.full_name')
-            REPO_LANGUAGE=$(echo "$REPO" | jq -r '.language // "Unknown"')
             REPO_URL=$(echo "$REPO" | jq -r '.html_url')
-            REPO_DESCRIPTION=$(echo "$REPO" | jq -r '.description // "No description"')
+            REPO_PARENT_URL=$(echo "$REPO" | jq -r '.parent.html_url // empty')
+
+            if [ -n "$REPO_PARENT_URL" ]; then
+              sync_repo "$REPO_FULL_NAME" "$REPO_PARENT_URL"
+            fi
 
             # Append repository info to temporary file
+            REPO_LANGUAGE=$(echo "$REPO" | jq -r '.language // "Unknown"')
+            REPO_DESCRIPTION=$(echo "$REPO" | jq -r '.description // "No description"')
             echo "$REPO_LANGUAGE|$REPO_FULL_NAME|$REPO_URL|$REPO_DESCRIPTION" >> "$TEMP_FILE"
           done
 
@@ -84,6 +113,9 @@ jobs:
           git config --global user.email "meefs-bot@rackhelp.com"
           git config --global credential.helper store
           echo "https://x-access-token:$GITHUB_TOKEN@github.com" > ~/.git-credentials
+
+          # Pull the latest changes from the remote branch to avoid conflicts
+          git pull origin main --rebase
 
           # Commit and push if there are changes
           if [ -n "$(git status --porcelain)" ]; then
