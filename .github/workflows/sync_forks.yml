@@ -40,11 +40,14 @@ jobs:
             # Fetch the latest changes from upstream
             git fetch upstream
 
-            # Rebase the changes onto the current branch
-            git rebase upstream/main || git rebase upstream/master
+            # Checkout the main branch
+            git checkout main
+
+            # Merge the changes from upstream into your fork
+            git merge upstream/main
 
             # Push the changes to the fork on GitHub
-            git push origin HEAD --force-with-lease
+            git push origin main
 
             cd ..
           }
