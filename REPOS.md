@@ -57,6 +57,7 @@
 - [meefs/ChatDoctor](https://github.com/meefs/ChatDoctor): No description
 - [meefs/CodeFormer](https://github.com/meefs/CodeFormer): [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 - [meefs/ComfyUI-PhotoMaker-Plus](https://github.com/meefs/ComfyUI-PhotoMaker-Plus): PhotoMaker for ComfyUI
+- [meefs/DeepSpeed](https://github.com/meefs/DeepSpeed): DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [meefs/GFPGAN](https://github.com/meefs/GFPGAN): GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [meefs/ImageBind](https://github.com/meefs/ImageBind): ImageBind One Embedding Space to Bind Them All
 - [meefs/MultiDocumentAnswering](https://github.com/meefs/MultiDocumentAnswering): Experiment to answer questions from arbitrary number of sources
@@ -64,7 +65,6 @@
 - [meefs/One-2-3-45](https://github.com/meefs/One-2-3-45): official code of "One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization"
 - [meefs/OpenAI_Agent_Swarm](https://github.com/meefs/OpenAI_Agent_Swarm): Early experiment to create fully autonomous agent swarms
 - [meefs/PyRIT](https://github.com/meefs/PyRIT): The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.
-- [meefs/VSP-LLM](https://github.com/meefs/VSP-LLM): No description
 - [meefs/audiocraft](https://github.com/meefs/audiocraft): Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
 - [meefs/bug-bounty-labs](https://github.com/meefs/bug-bounty-labs): All the labs in this repository simulate real world bugs I found in the wild
 - [meefs/bulk-whois](https://github.com/meefs/bulk-whois): This Python script performs bulk Whois lookups for both hostnames and IP addresses, providing information such as IP address, ASN (Autonomous System Number), AS Name, and associated country
@@ -99,7 +99,6 @@
 - [meefs/Bash-Wizard](https://github.com/meefs/Bash-Wizard): a bash script generator
 - [meefs/CLIP-based-NSFW-Detector](https://github.com/meefs/CLIP-based-NSFW-Detector): No description
 - [meefs/ChaosNLI](https://github.com/meefs/ChaosNLI): [EMNLP 2020] Collective HumAn OpinionS on Natural Language Inference Data
-- [meefs/DeepSpeed](https://github.com/meefs/DeepSpeed): DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [meefs/FaceSynthetics](https://github.com/meefs/FaceSynthetics): No description
 - [meefs/IllusionDiffusion-colab](https://github.com/meefs/IllusionDiffusion-colab): No description
 - [meefs/KaliYuga-s-Library-of-Historic-AI-Tools](https://github.com/meefs/KaliYuga-s-Library-of-Historic-AI-Tools): A collection of all the open-source AI tools I can wrest from the jaws of internet oblivion
@@ -117,10 +116,11 @@
 - [meefs/cve-2024-6387-poc](https://github.com/meefs/cve-2024-6387-poc): a signal handler race condition in OpenSSH's server (sshd)
 - [meefs/dl-colab-notebooks](https://github.com/meefs/dl-colab-notebooks): Try out  deep learning models online on Google Colab
 - [meefs/film](https://github.com/meefs/film): Custom implementation of Google FILM interpolation software
+- [meefs/fork-repo-sync](https://github.com/meefs/fork-repo-sync): Collection of GitHub actions to sync my forks 
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
 - [meefs/graph-fraud-detection-papers](https://github.com/meefs/graph-fraud-detection-papers): A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
 - [meefs/meefs.github.io](https://github.com/meefs/meefs.github.io): No description
-- [meefs/meefs](https://github.com/meefs/meefs): No description
+- [meefs/meefs](https://github.com/meefs/meefs): Forks, Models, and Notebooks
 - [meefs/octofomo](https://github.com/meefs/octofomo): No description
 - [meefs/perf-tools](https://github.com/meefs/perf-tools): Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
