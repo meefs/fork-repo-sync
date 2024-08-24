@@ -1,4 +1,4 @@
-name: Update REPOS.md
+name: Sync Forks
 
 on:
   workflow_dispatch:
