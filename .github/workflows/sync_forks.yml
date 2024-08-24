@@ -43,8 +43,14 @@ jobs:
             # Checkout the main branch
             git checkout main
 
+            # Stash any local changes
+            git stash
+
             # Merge the changes from upstream into your fork
             git merge upstream/main
+
+            # Apply the stashed changes
+            git stash pop || true
 
             # Push the changes to the fork on GitHub
             git push origin main
@@ -118,7 +124,9 @@ jobs:
           echo "https://x-access-token:$GITHUB_TOKEN@github.com" > ~/.git-credentials
 
           # Pull the latest changes from the remote branch to avoid conflicts
+          git stash
           git pull origin main --rebase
+          git stash pop || true
 
           # Commit and push if there are changes
           if [ -n "$(git status --porcelain)" ]; then
