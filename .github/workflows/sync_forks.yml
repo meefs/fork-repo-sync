@@ -14,7 +14,7 @@ jobs:
       
       - name: Sync all forks
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT }} # Using the specified token for authenting
+          GITHUB_TOKEN: ${{ secrets.PAT }} # Using the specified token for authentication
         run: |
           #!/bin/bash
           set -e
@@ -30,54 +30,66 @@ jobs:
           git config --global credential.helper store
           echo "https://x-access-token:$GITHUB_TOKEN@github.com" > ~/.git-credentials
 
+          PAGE=1
+          PER_PAGE=100
+          
+          while true; do
+            # Fetch list of forked repositories for the user 'meefs' with pagination
+            REPOS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/users/meefs/repos?type=forks&per_page=$PER_PAGE&page=$PAGE")
 
-          # Fetch list of forked repositories for the user 'meefs'
-          REPOS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/users/meefs/repos?type=forks&per_page=200&page=1")
-
-          # Loop through each repository and sync
-          echo "$REPOS" | jq -r '.[] | .full_name + " " + .clone_url' | while IFS=" " read -r REPO_FULL_NAME REPO_CLONE_URL; do
-            echo "Processing $REPO_FULL_NAME"
-            
-            # Extract repository name
-            REPO_NAME=$(basename "$REPO_CLONE_URL" .git)
-
-            # Fetch detailed repository info to attempt retrieving the upstream clone URL
-            REPO_INFO=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/repos/$REPO_FULL_NAME")
-            UPSTREAM_CLONE_URL=$(echo "$REPO_INFO" | jq -r '.parent.clone_url // empty')
-            
-            if [[ -z "$UPSTREAM_CLONE_URL" ]]; then
-              echo "Unable to find upstream repository for $REPO_FULL_NAME. Skipping..."
-              continue
+            # Break the loop if the response is empty
+            if [ "$(echo "$REPOS" | jq '. | length')" -eq 0 ]; then
+              break
             fi
-            
-            # Clone the forked repository
-            if git clone -v "$REPO_CLONE_URL" "$REPO_NAME"; then
-              cd "$REPO_NAME"
+
+            # Loop through each repository and sync
+            echo "$REPOS" | jq -r '.[] | .full_name + " " + .clone_url' | while IFS=" " read -r REPO_FULL_NAME REPO_CLONE_URL; do
+              echo "Processing $REPO_FULL_NAME"
               
-              # Add upstream repository
-              git remote add upstream "$UPSTREAM_CLONE_URL"
+              # Extract repository name
+              REPO_NAME=$(basename "$REPO_CLONE_URL" .git)
 
-              # Fetch updates from the upstream repository
-              git fetch upstream
-
-              # Get the default branch name
-              DEFAULT_BRANCH=$(echo "$REPO_INFO" | jq -r '.default_branch')
-
-              # Check if the default branch exists and merge changes from upstream
-              if [ -n "$DEFAULT_BRANCH" ]; then
-                git checkout "$DEFAULT_BRANCH"
-                git merge upstream/"$DEFAULT_BRANCH" --allow-unrelated-histories -m "Merged by GitHub Actions" || echo "Failed to merge from upstream/$DEFAULT_BRANCH"
-                
-                # Push updates back to the fork on GitHub
-                git push origin "$DEFAULT_BRANCH" || echo "Failed to push updates to $REPO_FULL_NAME"
-              else
-                echo "Default branch not found for $REPO_FULL_NAME"
+              # Fetch detailed repository info to attempt retrieving the upstream clone URL
+              REPO_INFO=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/repos/$REPO_FULL_NAME")
+              UPSTREAM_CLONE_URL=$(echo "$REPO_INFO" | jq -r '.parent.clone_url // empty')
+              
+              if [[ -z "$UPSTREAM_CLONE_URL" ]]; then
+                echo "Unable to find upstream repository for $REPO_FULL_NAME. Skipping..."
+                continue
               fi
               
-              # Cleanup: Move out and remove the repo directory
-              cd ..
-              rm -rf "$REPO_NAME"
-            else
-              echo "Failed to clone $REPO_CLONE_URL"
-            fi
+              # Clone the forked repository
+              if git clone -v "$REPO_CLONE_URL" "$REPO_NAME"; then
+                cd "$REPO_NAME"
+                
+                # Add upstream repository
+                git remote add upstream "$UPSTREAM_CLONE_URL"
+
+                # Fetch updates from the upstream repository
+                git fetch upstream
+
+                # Get the default branch name
+                DEFAULT_BRANCH=$(echo "$REPO_INFO" | jq -r '.default_branch')
+
+                # Check if the default branch exists and merge changes from upstream
+                if [ -n "$DEFAULT_BRANCH" ]; then
+                  git checkout "$DEFAULT_BRANCH"
+                  git merge upstream/"$DEFAULT_BRANCH" --allow-unrelated-histories -m "Merged by GitHub Actions" || echo "Failed to merge from upstream/$DEFAULT_BRANCH"
+                  
+                  # Push updates back to the fork on GitHub
+                  git push origin "$DEFAULT_BRANCH" || echo "Failed to push updates to $REPO_FULL_NAME"
+                else
+                  echo "Default branch not found for $REPO_FULL_NAME"
+                fi
+                
+                # Cleanup: Move out and remove the repo directory
+                cd ..
+                rm -rf "$REPO_NAME"
+              else
+                echo "Failed to clone $REPO_CLONE_URL"
+              fi
+            done
+
+            # Increment the page counter
+            PAGE=$((PAGE + 1))
           done
