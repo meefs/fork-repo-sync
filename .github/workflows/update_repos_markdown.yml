@@ -25,14 +25,30 @@ jobs:
               exit 1
           fi
 
-          # Fetch list of forked repositories for the user 'meefs'
-          REPOS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/users/meefs/repos?type=forks&per_page=200&page=1")
-
           # Initialize a temporary file to store intermediate results
           TEMP_FILE=$(mktemp)
+          PAGE=1
+          PER_PAGE=100
+          TOTAL_REPOS="[]"
+
+          # Fetch all pages of forked repositories
+          while true; do
+            REPOS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/users/meefs/repos?type=forks&per_page=$PER_PAGE&page=$PAGE")
+
+            # Break the loop if the response is empty
+            if [ "$(echo "$REPOS" | jq '. | length')" -eq 0 ]; then
+              break
+            fi
+
+            # Append the current page of repos to the total list
+            TOTAL_REPOS=$(echo "$TOTAL_REPOS" "$REPOS" | jq -s 'add')
+
+            # Increment the page counter
+            PAGE=$((PAGE + 1))
+          done
 
           # Process each repository
-          echo "$REPOS" | jq -c '.[]' | while read -r REPO; do
+          echo "$TOTAL_REPOS" | jq -c '.[]' | while read -r REPO; do
             REPO_FULL_NAME=$(echo "$REPO" | jq -r '.full_name')
             REPO_LANGUAGE=$(echo "$REPO" | jq -r '.language // "Unknown"')
             REPO_URL=$(echo "$REPO" | jq -r '.html_url')
