@@ -134,4 +134,5 @@
 - [meefs/safe-harbor](https://github.com/meefs/safe-harbor): No description
 - [meefs/salmonella](https://github.com/meefs/salmonella): Wrecking sandwich traders for fun and profit
 - [meefs/slither](https://github.com/meefs/slither): Static Analyzer for Solidity
+- [meefs/wireshark](https://github.com/meefs/wireshark): Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
 - [meefs/xss-payload-list](https://github.com/meefs/xss-payload-list): 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
