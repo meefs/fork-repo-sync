@@ -9,6 +9,7 @@
 
 ## C
 - [meefs/bcc](https://github.com/meefs/bcc): BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
+- [meefs/gearmulator](https://github.com/meefs/gearmulator): Emulation of classic VA synths of the late 90s/2000s that are based on Motorola 56300 family DSPs
 - [meefs/malady](https://github.com/meefs/malady): maldev obviously
 - [meefs/prvhash](https://github.com/meefs/prvhash): PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor. (Codename Gradilac/Градилак)
 - [meefs/whisper.cpp](https://github.com/meefs/whisper.cpp): Port of OpenAI's Whisper model in C/C++
@@ -127,7 +128,6 @@
 - [meefs/dl-colab-notebooks](https://github.com/meefs/dl-colab-notebooks): Try out  deep learning models online on Google Colab
 - [meefs/film](https://github.com/meefs/film): Custom implementation of Google FILM interpolation software
 - [meefs/fork-repo-sync](https://github.com/meefs/fork-repo-sync): Collection of GitHub actions to sync my forks 
-- [meefs/gearmulator](https://github.com/meefs/gearmulator): Emulation of classic VA synths of the late 90s/2000s that are based on Motorola 56300 family DSPs
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
 - [meefs/graph-fraud-detection-papers](https://github.com/meefs/graph-fraud-detection-papers): A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
 - [meefs/meefs.github.io](https://github.com/meefs/meefs.github.io): No description
