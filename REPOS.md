@@ -124,6 +124,7 @@
 - [meefs/SuperPrompt](https://github.com/meefs/SuperPrompt): No description
 - [meefs/awesome-claude-prompts](https://github.com/meefs/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
 - [meefs/awesome-compose](https://github.com/meefs/awesome-compose): Awesome Docker Compose samples
+- [meefs/awesome-llm-apps](https://github.com/meefs/awesome-llm-apps): Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [meefs/bitcoinphone](https://github.com/meefs/bitcoinphone): Voice over the BitcoinSV protocol (made for CoinGeek 2021)
 - [meefs/bsv-explorer](https://github.com/meefs/bsv-explorer): Simple, database-free, self-hosted Bitcoin blockchain explorer, via RPC. Built with Node.js, express, bootstrap-v4.
 - [meefs/camenduru](https://github.com/meefs/camenduru): No description
@@ -135,6 +136,8 @@
 - [meefs/fork-repo-sync](https://github.com/meefs/fork-repo-sync): Collection of GitHub actions to sync my forks 
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
 - [meefs/graph-fraud-detection-papers](https://github.com/meefs/graph-fraud-detection-papers): A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
+- [meefs/llama-recipes](https://github.com/meefs/llama-recipes): Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger.
+- [meefs/llama-stack](https://github.com/meefs/llama-stack): Model components of the Llama Stack APIs
 - [meefs/meefs.github.io](https://github.com/meefs/meefs.github.io): No description
 - [meefs/meefs](https://github.com/meefs/meefs): Forks, Models, and Notebooks
 - [meefs/octofomo](https://github.com/meefs/octofomo): No description
@@ -142,4 +145,5 @@
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
 - [meefs/rust-stealer](https://github.com/meefs/rust-stealer): Simple Rust Stealer
 - [meefs/salmonella](https://github.com/meefs/salmonella): Wrecking sandwich traders for fun and profit
+- [meefs/unsloth](https://github.com/meefs/unsloth): Finetune Llama 3.2, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
 - [meefs/xss-payload-list](https://github.com/meefs/xss-payload-list): 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
