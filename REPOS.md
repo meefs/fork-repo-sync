@@ -1,5 +1,6 @@
 
 ## C++
+- [meefs/llama.cpp](https://github.com/meefs/llama.cpp): LLM inference in C/C++
 - [meefs/mlx](https://github.com/meefs/mlx): MLX: An array framework for Apple silicon
 - [meefs/quiche](https://github.com/meefs/quiche): No description
 - [meefs/stable-diffusion.cpp](https://github.com/meefs/stable-diffusion.cpp): Stable Diffusion in pure C/C++
@@ -138,7 +139,6 @@
 - [meefs/graph-fraud-detection-papers](https://github.com/meefs/graph-fraud-detection-papers): A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
 - [meefs/llama-recipes](https://github.com/meefs/llama-recipes): Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger.
 - [meefs/llama-stack](https://github.com/meefs/llama-stack): Model components of the Llama Stack APIs
-- [meefs/llama.cpp](https://github.com/meefs/llama.cpp): LLM inference in C/C++
 - [meefs/meefs.github.io](https://github.com/meefs/meefs.github.io): No description
 - [meefs/meefs](https://github.com/meefs/meefs): Forks, Models, and Notebooks
 - [meefs/octofomo](https://github.com/meefs/octofomo): No description
