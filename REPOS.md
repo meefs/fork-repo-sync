@@ -4,6 +4,7 @@
 - [meefs/mlx](https://github.com/meefs/mlx): MLX: An array framework for Apple silicon
 - [meefs/quiche](https://github.com/meefs/quiche): No description
 - [meefs/stable-diffusion.cpp](https://github.com/meefs/stable-diffusion.cpp): Stable Diffusion in pure C/C++
+- [meefs/whisper.cpp](https://github.com/meefs/whisper.cpp): Port of OpenAI's Whisper model in C/C++
 
 ## Clojure
 - [meefs/birdsong-as-code](https://github.com/meefs/birdsong-as-code): Exploring the music theory of birdsong
@@ -13,7 +14,6 @@
 - [meefs/gearmulator](https://github.com/meefs/gearmulator): Emulation of classic VA synths of the late 90s/2000s that are based on Motorola 56300 family DSPs
 - [meefs/malady](https://github.com/meefs/malady): maldev obviously
 - [meefs/prvhash](https://github.com/meefs/prvhash): PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor. (Codename Gradilac/Градилак)
-- [meefs/whisper.cpp](https://github.com/meefs/whisper.cpp): Port of OpenAI's Whisper model in C/C++
 - [meefs/wireshark](https://github.com/meefs/wireshark): Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
 
 ## Go
@@ -94,6 +94,7 @@
 
 ## Rust
 - [meefs/pingora](https://github.com/meefs/pingora): A library for building fast, reliable and evolvable network services.
+- [meefs/steel](https://github.com/meefs/steel): Solana smart contract framework.
 
 ## Shell
 - [meefs/ipranges](https://github.com/meefs/ipranges): 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
@@ -128,6 +129,7 @@
 - [meefs/Prompt-Engineering-Guide](https://github.com/meefs/Prompt-Engineering-Guide): 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [meefs/Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/meefs/Smart-Contract-Auditor-Tools-and-Techniques): This repo contains a comprehensive list of smart contract auditor tools and techniques that can be utilized by both smart contract auditors and blockchain developers for developing secure smart contracts
 - [meefs/SuperPrompt](https://github.com/meefs/SuperPrompt): No description
+- [meefs/UniversalBackrooms](https://github.com/meefs/UniversalBackrooms): A replication of Andy Ayrey's "Backrooms" (https://dreams-of-an-electric-mind.webflow.io/), but runnable with Opus 3, Sonnet 3.5, GPT 4o, and o1-preview 
 - [meefs/awesome-claude-prompts](https://github.com/meefs/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
 - [meefs/awesome-compose](https://github.com/meefs/awesome-compose): Awesome Docker Compose samples
 - [meefs/bitcoinphone](https://github.com/meefs/bitcoinphone): Voice over the BitcoinSV protocol (made for CoinGeek 2021)
@@ -148,5 +150,4 @@
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
 - [meefs/rust-stealer](https://github.com/meefs/rust-stealer): Simple Rust Stealer
 - [meefs/salmonella](https://github.com/meefs/salmonella): Wrecking sandwich traders for fun and profit
-- [meefs/steel](https://github.com/meefs/steel): Solana smart contract framework.
 - [meefs/xss-payload-list](https://github.com/meefs/xss-payload-list): 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
