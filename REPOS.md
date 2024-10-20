@@ -71,6 +71,7 @@
 - [meefs/OpenAI_Agent_Swarm](https://github.com/meefs/OpenAI_Agent_Swarm): Early experiment to create fully autonomous agent swarms
 - [meefs/PyRIT](https://github.com/meefs/PyRIT): The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.
 - [meefs/TeleVision](https://github.com/meefs/TeleVision): Open-TeleVision: Teleoperation with Immersive Active Visual Feedback
+- [meefs/UniversalBackrooms](https://github.com/meefs/UniversalBackrooms): A replication of Andy Ayrey's "Backrooms" (https://dreams-of-an-electric-mind.webflow.io/), but runnable with Opus 3, Sonnet 3.5, GPT 4o, and o1-preview 
 - [meefs/VSP-LLM](https://github.com/meefs/VSP-LLM): No description
 - [meefs/audiocraft](https://github.com/meefs/audiocraft): Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
 - [meefs/awesome-llm-apps](https://github.com/meefs/awesome-llm-apps): Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
@@ -129,7 +130,6 @@
 - [meefs/Prompt-Engineering-Guide](https://github.com/meefs/Prompt-Engineering-Guide): 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [meefs/Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/meefs/Smart-Contract-Auditor-Tools-and-Techniques): This repo contains a comprehensive list of smart contract auditor tools and techniques that can be utilized by both smart contract auditors and blockchain developers for developing secure smart contracts
 - [meefs/SuperPrompt](https://github.com/meefs/SuperPrompt): No description
-- [meefs/UniversalBackrooms](https://github.com/meefs/UniversalBackrooms): A replication of Andy Ayrey's "Backrooms" (https://dreams-of-an-electric-mind.webflow.io/), but runnable with Opus 3, Sonnet 3.5, GPT 4o, and o1-preview 
 - [meefs/awesome-claude-prompts](https://github.com/meefs/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
 - [meefs/awesome-compose](https://github.com/meefs/awesome-compose): Awesome Docker Compose samples
 - [meefs/bitcoinphone](https://github.com/meefs/bitcoinphone): Voice over the BitcoinSV protocol (made for CoinGeek 2021)
