@@ -41,6 +41,7 @@
 - [meefs/MusicGen-colab](https://github.com/meefs/MusicGen-colab): No description
 - [meefs/PhotoMaker](https://github.com/meefs/PhotoMaker): PhotoMaker
 - [meefs/RecursiveSummarizer](https://github.com/meefs/RecursiveSummarizer): RecursiveSummarizer script shown in https://www.youtube.com/watch?v=es8e4SEuvV0&t=263s
+- [meefs/ag2](https://github.com/meefs/ag2): AG2 (formerly AutoGen) is a programming framework for agentic AI. Join the community at: https://discord.gg/pAbnFJrkgZ
 - [meefs/art](https://github.com/meefs/art): No description
 - [meefs/collection-of-notebooks](https://github.com/meefs/collection-of-notebooks): Сollection of various notebooks
 - [meefs/fastbook](https://github.com/meefs/fastbook): The fastai book, published as Jupyter Notebooks
@@ -133,7 +134,6 @@
 - [meefs/PixelAlchemist](https://github.com/meefs/PixelAlchemist): Semantic image editing in realtime with a multi-parameter interface for StyleCLIP global directions
 - [meefs/Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/meefs/Smart-Contract-Auditor-Tools-and-Techniques): This repo contains a comprehensive list of smart contract auditor tools and techniques that can be utilized by both smart contract auditors and blockchain developers for developing secure smart contracts
 - [meefs/SuperPrompt](https://github.com/meefs/SuperPrompt): No description
-- [meefs/ag2](https://github.com/meefs/ag2): AG2 (formerly AutoGen) is a programming framework for agentic AI. Join the community at: https://discord.gg/pAbnFJrkgZ
 - [meefs/auto-md](https://github.com/meefs/auto-md): Convert Files /  Folders / GitHub Repos Into AI / LLM-ready Files
 - [meefs/awesome-claude-prompts](https://github.com/meefs/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
 - [meefs/awesome-compose](https://github.com/meefs/awesome-compose): Awesome Docker Compose samples
