@@ -157,4 +157,5 @@
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
 - [meefs/rust-stealer](https://github.com/meefs/rust-stealer): Simple Rust Stealer
 - [meefs/salmonella](https://github.com/meefs/salmonella): Wrecking sandwich traders for fun and profit
+- [meefs/the-bread-code](https://github.com/meefs/the-bread-code): Learn how to master the art of baking the programmer way.
 - [meefs/xss-payload-list](https://github.com/meefs/xss-payload-list): 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
