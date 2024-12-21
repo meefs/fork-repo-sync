@@ -3,6 +3,7 @@
 - [meefs/llama.cpp](https://github.com/meefs/llama.cpp): LLM inference in C/C++
 - [meefs/mlx](https://github.com/meefs/mlx): MLX: An array framework for Apple silicon
 - [meefs/quiche](https://github.com/meefs/quiche): No description
+- [meefs/shadPS4](https://github.com/meefs/shadPS4): PS4 emulator for Windows,Linux,MacOS
 - [meefs/stable-diffusion.cpp](https://github.com/meefs/stable-diffusion.cpp): Stable Diffusion in pure C/C++
 - [meefs/whisper.cpp](https://github.com/meefs/whisper.cpp): Port of OpenAI's Whisper model in C/C++
 
@@ -170,6 +171,5 @@
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
 - [meefs/rust-stealer](https://github.com/meefs/rust-stealer): Simple Rust Stealer
 - [meefs/salmonella](https://github.com/meefs/salmonella): Wrecking sandwich traders for fun and profit
-- [meefs/shadPS4](https://github.com/meefs/shadPS4): PS4 emulator for Windows,Linux,MacOS
 - [meefs/the-bread-code](https://github.com/meefs/the-bread-code): Learn how to master the art of baking the programmer way.
 - [meefs/xss-payload-list](https://github.com/meefs/xss-payload-list): 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
