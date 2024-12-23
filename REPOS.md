@@ -146,6 +146,7 @@
 - [meefs/Raydium-Bundler-Extra-Bot-V4-Avoid-Bubblemaps](https://github.com/meefs/Raydium-Bundler-Extra-Bot-V4-Avoid-Bubblemaps): This is the extra bot of Raydium bundler to avoid detecting from bubble maps with JITO
 - [meefs/Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/meefs/Smart-Contract-Auditor-Tools-and-Techniques): This repo contains a comprehensive list of smart contract auditor tools and techniques that can be utilized by both smart contract auditors and blockchain developers for developing secure smart contracts
 - [meefs/SuperPrompt](https://github.com/meefs/SuperPrompt): No description
+- [meefs/TouchOSC](https://github.com/meefs/TouchOSC): A collection of examples and modules for TouchOSC MK2
 - [meefs/ai-agent-cognitivedriftt](https://github.com/meefs/ai-agent-cognitivedriftt): Cognitive Drift AI Agent
 - [meefs/auto-md](https://github.com/meefs/auto-md): Convert Files /  Folders / GitHub Repos Into AI / LLM-ready Files
 - [meefs/awesome-claude-prompts](https://github.com/meefs/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
