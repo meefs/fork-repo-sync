@@ -148,6 +148,7 @@
 - [meefs/SuperPrompt](https://github.com/meefs/SuperPrompt): No description
 - [meefs/TouchOSC](https://github.com/meefs/TouchOSC): A collection of examples and modules for TouchOSC MK2
 - [meefs/ai-agent-cognitivedriftt](https://github.com/meefs/ai-agent-cognitivedriftt): Cognitive Drift AI Agent
+- [meefs/algorithms](https://github.com/meefs/algorithms): Bug-tracking for Jeff's algorithms book, notes, etc.
 - [meefs/auto-md](https://github.com/meefs/auto-md): Convert Files /  Folders / GitHub Repos Into AI / LLM-ready Files
 - [meefs/awesome-claude-prompts](https://github.com/meefs/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
 - [meefs/awesome-compose](https://github.com/meefs/awesome-compose): Awesome Docker Compose samples
