@@ -159,6 +159,7 @@
 - [meefs/code-my-crown](https://github.com/meefs/code-my-crown): No description
 - [meefs/cve-2024-6387-poc](https://github.com/meefs/cve-2024-6387-poc): a signal handler race condition in OpenSSH's server (sshd)
 - [meefs/dl-colab-notebooks](https://github.com/meefs/dl-colab-notebooks): Try out  deep learning models online on Google Colab
+- [meefs/dmp_midi](https://github.com/meefs/dmp_midi): MIDI files for the patterns in the books "200 Drum Machine Patterns" & "260 Drum Machine Patterns"
 - [meefs/film](https://github.com/meefs/film): Custom implementation of Google FILM interpolation software
 - [meefs/fork-repo-sync](https://github.com/meefs/fork-repo-sync): Collection of GitHub actions to sync my forks 
 - [meefs/gitaudio](https://github.com/meefs/gitaudio): No description
@@ -170,8 +171,10 @@
 - [meefs/meefs](https://github.com/meefs/meefs): Forks, Models, and Notebooks
 - [meefs/octofomo](https://github.com/meefs/octofomo): No description
 - [meefs/perf-tools](https://github.com/meefs/perf-tools): Performance analysis tools based on Linux perf_events (aka perf) and ftrace
+- [meefs/portal](https://github.com/meefs/portal): 🔵🟠 Portal Explorer — web visualization of mind-blowing portals using ray-tracing.
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
 - [meefs/rust-stealer](https://github.com/meefs/rust-stealer): Simple Rust Stealer
 - [meefs/salmonella](https://github.com/meefs/salmonella): Wrecking sandwich traders for fun and profit
 - [meefs/the-bread-code](https://github.com/meefs/the-bread-code): Learn how to master the art of baking the programmer way.
+- [meefs/wormhole](https://github.com/meefs/wormhole): A wormhole simulation.
 - [meefs/xss-payload-list](https://github.com/meefs/xss-payload-list): 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
