@@ -175,6 +175,7 @@
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
 - [meefs/rust-stealer](https://github.com/meefs/rust-stealer): Simple Rust Stealer
 - [meefs/salmonella](https://github.com/meefs/salmonella): Wrecking sandwich traders for fun and profit
+- [meefs/solsec](https://github.com/meefs/solsec): A collection of resources to study Solana smart contract security, auditing, and exploits.
 - [meefs/the-bread-code](https://github.com/meefs/the-bread-code): Learn how to master the art of baking the programmer way.
 - [meefs/wormhole](https://github.com/meefs/wormhole): A wormhole simulation.
 - [meefs/xss-payload-list](https://github.com/meefs/xss-payload-list): 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
