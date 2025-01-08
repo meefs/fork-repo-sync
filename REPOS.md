@@ -129,6 +129,7 @@
 - [meefs/Bash-Wizard](https://github.com/meefs/Bash-Wizard): a bash script generator
 - [meefs/CLIP-based-NSFW-Detector](https://github.com/meefs/CLIP-based-NSFW-Detector): No description
 - [meefs/ChaosNLI](https://github.com/meefs/ChaosNLI): [EMNLP 2020] Collective HumAn OpinionS on Natural Language Inference Data
+- [meefs/Cosmos](https://github.com/meefs/Cosmos): Cosmos is a world model development platform that consists of world foundation models, tokenizers and video processing pipeline to accelerate the development of Physical AI at Robotics & AV labs.  Cosmos is purpose built for physical AI. The Cosmos repository will enable end users to run the Cosmos models, run inference scripts and generate videos.
 - [meefs/Crypto-OpSec-SelfGuard-RoadMap](https://github.com/meefs/Crypto-OpSec-SelfGuard-RoadMap): Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
 - [meefs/FaceSynthetics](https://github.com/meefs/FaceSynthetics): No description
 - [meefs/GhostStrike](https://github.com/meefs/GhostStrike): Deploy stealthy reverse shells using advanced process hollowing with GhostStrike – a C++ tool for ethical hacking and Red Team operations.
