@@ -2,6 +2,7 @@
 ## C++
 - [meefs/llama.cpp](https://github.com/meefs/llama.cpp): LLM inference in C/C++
 - [meefs/mlx](https://github.com/meefs/mlx): MLX: An array framework for Apple silicon
+- [meefs/openvino](https://github.com/meefs/openvino): OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference
 - [meefs/quiche](https://github.com/meefs/quiche): No description
 - [meefs/shadPS4](https://github.com/meefs/shadPS4): PS4 emulator for Windows,Linux,MacOS
 - [meefs/stable-diffusion.cpp](https://github.com/meefs/stable-diffusion.cpp): Stable Diffusion in pure C/C++
@@ -146,6 +147,7 @@
 - [meefs/PixelAlchemist](https://github.com/meefs/PixelAlchemist): Semantic image editing in realtime with a multi-parameter interface for StyleCLIP global directions
 - [meefs/Pride-flag](https://github.com/meefs/Pride-flag): Pride flag featuring 74 individual LGBTQIA+ flags
 - [meefs/Raydium-Bundler-Extra-Bot-V4-Avoid-Bubblemaps](https://github.com/meefs/Raydium-Bundler-Extra-Bot-V4-Avoid-Bubblemaps): This is the extra bot of Raydium bundler to avoid detecting from bubble maps with JITO
+- [meefs/Sana](https://github.com/meefs/Sana): SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
 - [meefs/Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/meefs/Smart-Contract-Auditor-Tools-and-Techniques): This repo contains a comprehensive list of smart contract auditor tools and techniques that can be utilized by both smart contract auditors and blockchain developers for developing secure smart contracts
 - [meefs/SuperPrompt](https://github.com/meefs/SuperPrompt): No description
 - [meefs/TouchOSC](https://github.com/meefs/TouchOSC): A collection of examples and modules for TouchOSC MK2
@@ -156,6 +158,7 @@
 - [meefs/bitcoinphone](https://github.com/meefs/bitcoinphone): Voice over the BitcoinSV protocol (made for CoinGeek 2021)
 - [meefs/bsv-explorer](https://github.com/meefs/bsv-explorer): Simple, database-free, self-hosted Bitcoin blockchain explorer, via RPC. Built with Node.js, express, bootstrap-v4.
 - [meefs/camenduru](https://github.com/meefs/camenduru): No description
+- [meefs/cdp-agentkit](https://github.com/meefs/cdp-agentkit): No description
 - [meefs/cinematic-gaussians](https://github.com/meefs/cinematic-gaussians): Code for our paper "Application of 3D Gaussian Splatting for Cinematic Anatomy on Consumer Class Devices"
 - [meefs/code-my-crown](https://github.com/meefs/code-my-crown): No description
 - [meefs/cve-2024-6387-poc](https://github.com/meefs/cve-2024-6387-poc): a signal handler race condition in OpenSSH's server (sshd)
@@ -173,7 +176,6 @@
 - [meefs/meefs](https://github.com/meefs/meefs): Forks, Models, and Notebooks
 - [meefs/octofomo](https://github.com/meefs/octofomo): No description
 - [meefs/openvino-plugins-ai-audacity](https://github.com/meefs/openvino-plugins-ai-audacity): A set of AI-enabled effects, generators, and analyzers for Audacity®.
-- [meefs/openvino](https://github.com/meefs/openvino): OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference
 - [meefs/perf-tools](https://github.com/meefs/perf-tools): Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [meefs/portal](https://github.com/meefs/portal): 🔵🟠 Portal Explorer — web visualization of mind-blowing portals using ray-tracing.
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
@@ -183,3 +185,4 @@
 - [meefs/the-bread-code](https://github.com/meefs/the-bread-code): Learn how to master the art of baking the programmer way.
 - [meefs/wormhole](https://github.com/meefs/wormhole): A wormhole simulation.
 - [meefs/xss-payload-list](https://github.com/meefs/xss-payload-list): 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
+- [meefs/zkDocAttestation](https://github.com/meefs/zkDocAttestation): Zero Knowledge Proof (ZKP) dapp for attestation and verification of documents
