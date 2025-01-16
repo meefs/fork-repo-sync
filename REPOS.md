@@ -143,6 +143,7 @@
 - [meefs/LeftoverLocalsRelease](https://github.com/meefs/LeftoverLocalsRelease): The public release of LeftoverLocals code
 - [meefs/MIDI2.0Workbench](https://github.com/meefs/MIDI2.0Workbench): MIDI 2.0 Testing Tool
 - [meefs/MS-DOS](https://github.com/meefs/MS-DOS): The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
+- [meefs/MiniMax-01](https://github.com/meefs/MiniMax-01): No description
 - [meefs/ONG-ISAC](https://github.com/meefs/ONG-ISAC): This is the page for my presentation to the ONG-ISAC on July 26, 2023 titled 'Putting AI To Work: The magic wand for digital transformation'
 - [meefs/Pineapples-Secrets](https://github.com/meefs/Pineapples-Secrets): A writeup on how Pineapple actually works
 - [meefs/PixelAlchemist](https://github.com/meefs/PixelAlchemist): Semantic image editing in realtime with a multi-parameter interface for StyleCLIP global directions
@@ -171,6 +172,7 @@
 - [meefs/goat](https://github.com/meefs/goat): Render ASCII art as SVG diagrams
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
 - [meefs/graph-fraud-detection-papers](https://github.com/meefs/graph-fraud-detection-papers): A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
+- [meefs/homographic_spoofing](https://github.com/meefs/homographic_spoofing): Toolkit to both detect and sanitize homographic spoofing attacks in URLs and Email addresses
 - [meefs/iTerm2-Color-Schemes](https://github.com/meefs/iTerm2-Color-Schemes): Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
 - [meefs/m4l-connection-kit](https://github.com/meefs/m4l-connection-kit): Max for Live Connection Kit
 - [meefs/meefs.github.io](https://github.com/meefs/meefs.github.io): No description
