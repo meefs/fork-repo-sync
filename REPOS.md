@@ -23,6 +23,7 @@
 - [meefs/assets](https://github.com/meefs/assets): A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 
 ## HTML
+- [meefs/cdp-agentkit](https://github.com/meefs/cdp-agentkit): No description
 - [meefs/gigahorse-toolchain](https://github.com/meefs/gigahorse-toolchain): A binary lifter and analysis framework for Ethereum smart contracts
 
 ## JavaScript
@@ -48,6 +49,7 @@
 - [meefs/RecursiveSummarizer](https://github.com/meefs/RecursiveSummarizer): RecursiveSummarizer script shown in https://www.youtube.com/watch?v=es8e4SEuvV0&t=263s
 - [meefs/ag2](https://github.com/meefs/ag2): AG2 (formerly AutoGen) is a programming framework for agentic AI. Join the community at: https://discord.gg/pAbnFJrkgZ
 - [meefs/art](https://github.com/meefs/art): No description
+- [meefs/audiocraft](https://github.com/meefs/audiocraft): Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
 - [meefs/collection-of-notebooks](https://github.com/meefs/collection-of-notebooks): Сollection of various notebooks
 - [meefs/fastbook](https://github.com/meefs/fastbook): The fastai book, published as Jupyter Notebooks
 - [meefs/illusion-diffusion-stable](https://github.com/meefs/illusion-diffusion-stable): This project works by using Monster Labs QR Control Net. Given a prompt and your pattern, we use a QR code conditioned controlnet to create a stunning illusion! Credit to: MrUgleh & AP123
@@ -81,12 +83,10 @@
 - [meefs/TeleVision](https://github.com/meefs/TeleVision): Open-TeleVision: Teleoperation with Immersive Active Visual Feedback
 - [meefs/UniversalBackrooms](https://github.com/meefs/UniversalBackrooms): A replication of Andy Ayrey's "Backrooms" (https://dreams-of-an-electric-mind.webflow.io/), but runnable with Opus 3, Sonnet 3.5, GPT 4o, and o1-preview 
 - [meefs/VSP-LLM](https://github.com/meefs/VSP-LLM): No description
-- [meefs/audiocraft](https://github.com/meefs/audiocraft): Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
 - [meefs/auto-md](https://github.com/meefs/auto-md): Convert Files /  Folders / GitHub Repos Into AI / LLM-ready Files
 - [meefs/awesome-llm-apps](https://github.com/meefs/awesome-llm-apps): Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [meefs/bug-bounty-labs](https://github.com/meefs/bug-bounty-labs): All the labs in this repository simulate real world bugs I found in the wild
 - [meefs/bulk-whois](https://github.com/meefs/bulk-whois): This Python script performs bulk Whois lookups for both hostnames and IP addresses, providing information such as IP address, ASN (Autonomous System Number), AS Name, and associated country
-- [meefs/cdp-agentkit](https://github.com/meefs/cdp-agentkit): No description
 - [meefs/claimbuster-spotter](https://github.com/meefs/claimbuster-spotter): Adversarial Training on Transformer Networks to discover check-worthy factual claims
 - [meefs/deforum-stable-diffusion](https://github.com/meefs/deforum-stable-diffusion): Stable Diffusion Notebooks
 - [meefs/dstack](https://github.com/meefs/dstack): dstack is a lightweight, open-source alternative to Kubernetes & Slurm, simplifying AI container orchestration with multi-cloud & on-prem support. It natively supports NVIDIA, AMD, & TPU.
@@ -140,6 +140,7 @@
 - [meefs/IllusionDiffusion-colab](https://github.com/meefs/IllusionDiffusion-colab): No description
 - [meefs/KaliYuga-s-Library-of-Historic-AI-Tools](https://github.com/meefs/KaliYuga-s-Library-of-Historic-AI-Tools): A collection of all the open-source AI tools I can wrest from the jaws of internet oblivion
 - [meefs/LLM-Prompt-Library](https://github.com/meefs/LLM-Prompt-Library): Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
+- [meefs/Learn-Prompt-Hacking](https://github.com/meefs/Learn-Prompt-Hacking): This is The most comprehensive prompt hacking course available, which record our progress on a prompt engineering and prompt hacking course.
 - [meefs/LeftoverLocalsRelease](https://github.com/meefs/LeftoverLocalsRelease): The public release of LeftoverLocals code
 - [meefs/MIDI2.0Workbench](https://github.com/meefs/MIDI2.0Workbench): MIDI 2.0 Testing Tool
 - [meefs/MS-DOS](https://github.com/meefs/MS-DOS): The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
@@ -169,6 +170,7 @@
 - [meefs/film](https://github.com/meefs/film): Custom implementation of Google FILM interpolation software
 - [meefs/fork-repo-sync](https://github.com/meefs/fork-repo-sync): Collection of GitHub actions to sync my forks 
 - [meefs/gitaudio](https://github.com/meefs/gitaudio): No description
+- [meefs/gitingest](https://github.com/meefs/gitingest): Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
 - [meefs/goat](https://github.com/meefs/goat): Render ASCII art as SVG diagrams
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
 - [meefs/graph-fraud-detection-papers](https://github.com/meefs/graph-fraud-detection-papers): A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
@@ -177,7 +179,9 @@
 - [meefs/m4l-connection-kit](https://github.com/meefs/m4l-connection-kit): Max for Live Connection Kit
 - [meefs/meefs.github.io](https://github.com/meefs/meefs.github.io): No description
 - [meefs/meefs](https://github.com/meefs/meefs): Forks, Models, and Notebooks
+- [meefs/meemaw](https://github.com/meefs/meemaw): Trustless and Grandma-friendly Wallet as a Service
 - [meefs/octofomo](https://github.com/meefs/octofomo): No description
+- [meefs/onchainkit](https://github.com/meefs/onchainkit): React components and TypeScript utilities to help you build top-tier onchain apps.
 - [meefs/openvino-plugins-ai-audacity](https://github.com/meefs/openvino-plugins-ai-audacity): A set of AI-enabled effects, generators, and analyzers for Audacity®.
 - [meefs/perf-tools](https://github.com/meefs/perf-tools): Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [meefs/portal](https://github.com/meefs/portal): 🔵🟠 Portal Explorer — web visualization of mind-blowing portals using ray-tracing.
