@@ -42,6 +42,7 @@
 - [meefs/ARF-svox2](https://github.com/meefs/ARF-svox2): Artistic Radiance Fields (Colab)
 - [meefs/FrontRunMe](https://github.com/meefs/FrontRunMe): No description
 - [meefs/HunyuanDiT](https://github.com/meefs/HunyuanDiT): Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding
+- [meefs/Learn-Prompt-Hacking](https://github.com/meefs/Learn-Prompt-Hacking): This is The most comprehensive prompt hacking course available, which record our progress on a prompt engineering and prompt hacking course.
 - [meefs/LooksMaker](https://github.com/meefs/LooksMaker): No description
 - [meefs/Magic_Words](https://github.com/meefs/Magic_Words): Code for the paper "What's the Magic Word? A Control Theory of LLM Prompting"
 - [meefs/MusicGen-colab](https://github.com/meefs/MusicGen-colab): No description
@@ -75,11 +76,13 @@
 - [meefs/DeepSpeed](https://github.com/meefs/DeepSpeed): DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [meefs/GFPGAN](https://github.com/meefs/GFPGAN): GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [meefs/ImageBind](https://github.com/meefs/ImageBind): ImageBind One Embedding Space to Bind Them All
+- [meefs/MiniMax-01](https://github.com/meefs/MiniMax-01): No description
 - [meefs/MultiDocumentAnswering](https://github.com/meefs/MultiDocumentAnswering): Experiment to answer questions from arbitrary number of sources
 - [meefs/NeMo](https://github.com/meefs/NeMo): NeMo: a toolkit for conversational AI
 - [meefs/One-2-3-45](https://github.com/meefs/One-2-3-45): official code of "One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization"
 - [meefs/OpenAI_Agent_Swarm](https://github.com/meefs/OpenAI_Agent_Swarm): Early experiment to create fully autonomous agent swarms
 - [meefs/PyRIT](https://github.com/meefs/PyRIT): The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.
+- [meefs/Sana](https://github.com/meefs/Sana): SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
 - [meefs/TeleVision](https://github.com/meefs/TeleVision): Open-TeleVision: Teleoperation with Immersive Active Visual Feedback
 - [meefs/UniversalBackrooms](https://github.com/meefs/UniversalBackrooms): A replication of Andy Ayrey's "Backrooms" (https://dreams-of-an-electric-mind.webflow.io/), but runnable with Opus 3, Sonnet 3.5, GPT 4o, and o1-preview 
 - [meefs/VSP-LLM](https://github.com/meefs/VSP-LLM): No description
@@ -92,6 +95,7 @@
 - [meefs/dstack](https://github.com/meefs/dstack): dstack is a lightweight, open-source alternative to Kubernetes & Slurm, simplifying AI container orchestration with multi-cloud & on-prem support. It natively supports NVIDIA, AMD, & TPU.
 - [meefs/entseeker](https://github.com/meefs/entseeker): entseeker is a command-line tool for Named Entity Recognition (NER) and web entity searches in text files. It uses spaCy's NLP capabilities for standard named entities and custom rules for web-related entities.
 - [meefs/frame-interpolation](https://github.com/meefs/frame-interpolation): FILM: Frame Interpolation for Large Motion, In arXiv 2022.
+- [meefs/gitingest](https://github.com/meefs/gitingest): Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
 - [meefs/jepa](https://github.com/meefs/jepa): PyTorch code and models for V-JEPA self-supervised learning from video.
 - [meefs/large_concept_model](https://github.com/meefs/large_concept_model): Large Concept Models: Language modeling in a sentence representation space
 - [meefs/llama-stack](https://github.com/meefs/llama-stack): Model components of the Llama Stack APIs
@@ -125,6 +129,7 @@
 - [meefs/TypeChain](https://github.com/meefs/TypeChain): 🔌 TypeScript bindings for Ethereum smart contracts
 - [meefs/ai-brainstore](https://github.com/meefs/ai-brainstore): A proof-of-concept of a brain for an AI agent.
 - [meefs/jupyter](https://github.com/meefs/jupyter): A Waldiez JupyterLab extension.
+- [meefs/onchainkit](https://github.com/meefs/onchainkit): React components and TypeScript utilities to help you build top-tier onchain apps.
 - [meefs/revoke.cash](https://github.com/meefs/revoke.cash): ❌ Revoke or update your token approvals
 
 ## Unknown
@@ -140,17 +145,14 @@
 - [meefs/IllusionDiffusion-colab](https://github.com/meefs/IllusionDiffusion-colab): No description
 - [meefs/KaliYuga-s-Library-of-Historic-AI-Tools](https://github.com/meefs/KaliYuga-s-Library-of-Historic-AI-Tools): A collection of all the open-source AI tools I can wrest from the jaws of internet oblivion
 - [meefs/LLM-Prompt-Library](https://github.com/meefs/LLM-Prompt-Library): Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
-- [meefs/Learn-Prompt-Hacking](https://github.com/meefs/Learn-Prompt-Hacking): This is The most comprehensive prompt hacking course available, which record our progress on a prompt engineering and prompt hacking course.
 - [meefs/LeftoverLocalsRelease](https://github.com/meefs/LeftoverLocalsRelease): The public release of LeftoverLocals code
 - [meefs/MIDI2.0Workbench](https://github.com/meefs/MIDI2.0Workbench): MIDI 2.0 Testing Tool
 - [meefs/MS-DOS](https://github.com/meefs/MS-DOS): The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
-- [meefs/MiniMax-01](https://github.com/meefs/MiniMax-01): No description
 - [meefs/ONG-ISAC](https://github.com/meefs/ONG-ISAC): This is the page for my presentation to the ONG-ISAC on July 26, 2023 titled 'Putting AI To Work: The magic wand for digital transformation'
 - [meefs/Pineapples-Secrets](https://github.com/meefs/Pineapples-Secrets): A writeup on how Pineapple actually works
 - [meefs/PixelAlchemist](https://github.com/meefs/PixelAlchemist): Semantic image editing in realtime with a multi-parameter interface for StyleCLIP global directions
 - [meefs/Pride-flag](https://github.com/meefs/Pride-flag): Pride flag featuring 74 individual LGBTQIA+ flags
 - [meefs/Raydium-Bundler-Extra-Bot-V4-Avoid-Bubblemaps](https://github.com/meefs/Raydium-Bundler-Extra-Bot-V4-Avoid-Bubblemaps): This is the extra bot of Raydium bundler to avoid detecting from bubble maps with JITO
-- [meefs/Sana](https://github.com/meefs/Sana): SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
 - [meefs/Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/meefs/Smart-Contract-Auditor-Tools-and-Techniques): This repo contains a comprehensive list of smart contract auditor tools and techniques that can be utilized by both smart contract auditors and blockchain developers for developing secure smart contracts
 - [meefs/SuperPrompt](https://github.com/meefs/SuperPrompt): No description
 - [meefs/TouchOSC](https://github.com/meefs/TouchOSC): A collection of examples and modules for TouchOSC MK2
@@ -170,7 +172,6 @@
 - [meefs/film](https://github.com/meefs/film): Custom implementation of Google FILM interpolation software
 - [meefs/fork-repo-sync](https://github.com/meefs/fork-repo-sync): Collection of GitHub actions to sync my forks 
 - [meefs/gitaudio](https://github.com/meefs/gitaudio): No description
-- [meefs/gitingest](https://github.com/meefs/gitingest): Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
 - [meefs/goat](https://github.com/meefs/goat): Render ASCII art as SVG diagrams
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
 - [meefs/graph-fraud-detection-papers](https://github.com/meefs/graph-fraud-detection-papers): A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
@@ -181,7 +182,6 @@
 - [meefs/meefs](https://github.com/meefs/meefs): Forks, Models, and Notebooks
 - [meefs/meemaw](https://github.com/meefs/meemaw): Trustless and Grandma-friendly Wallet as a Service
 - [meefs/octofomo](https://github.com/meefs/octofomo): No description
-- [meefs/onchainkit](https://github.com/meefs/onchainkit): React components and TypeScript utilities to help you build top-tier onchain apps.
 - [meefs/openvino-plugins-ai-audacity](https://github.com/meefs/openvino-plugins-ai-audacity): A set of AI-enabled effects, generators, and analyzers for Audacity®.
 - [meefs/perf-tools](https://github.com/meefs/perf-tools): Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [meefs/portal](https://github.com/meefs/portal): 🔵🟠 Portal Explorer — web visualization of mind-blowing portals using ray-tracing.
