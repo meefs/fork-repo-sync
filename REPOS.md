@@ -76,6 +76,7 @@
 - [meefs/DeepSpeed](https://github.com/meefs/DeepSpeed): DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [meefs/GFPGAN](https://github.com/meefs/GFPGAN): GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [meefs/ImageBind](https://github.com/meefs/ImageBind): ImageBind One Embedding Space to Bind Them All
+- [meefs/MMAudio](https://github.com/meefs/MMAudio): [arXiv 2024] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
 - [meefs/MiniMax-01](https://github.com/meefs/MiniMax-01): No description
 - [meefs/MultiDocumentAnswering](https://github.com/meefs/MultiDocumentAnswering): Experiment to answer questions from arbitrary number of sources
 - [meefs/NeMo](https://github.com/meefs/NeMo): NeMo: a toolkit for conversational AI
@@ -150,7 +151,6 @@
 - [meefs/LLM-Prompt-Library](https://github.com/meefs/LLM-Prompt-Library): Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [meefs/LeftoverLocalsRelease](https://github.com/meefs/LeftoverLocalsRelease): The public release of LeftoverLocals code
 - [meefs/MIDI2.0Workbench](https://github.com/meefs/MIDI2.0Workbench): MIDI 2.0 Testing Tool
-- [meefs/MMAudio](https://github.com/meefs/MMAudio): [arXiv 2024] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
 - [meefs/MS-DOS](https://github.com/meefs/MS-DOS): The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [meefs/ONG-ISAC](https://github.com/meefs/ONG-ISAC): This is the page for my presentation to the ONG-ISAC on July 26, 2023 titled 'Putting AI To Work: The magic wand for digital transformation'
 - [meefs/Pineapples-Secrets](https://github.com/meefs/Pineapples-Secrets): A writeup on how Pineapple actually works
@@ -164,6 +164,7 @@
 - [meefs/algorithms](https://github.com/meefs/algorithms): Bug-tracking for Jeff's algorithms book, notes, etc.
 - [meefs/awesome-claude-prompts](https://github.com/meefs/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
 - [meefs/awesome-compose](https://github.com/meefs/awesome-compose): Awesome Docker Compose samples
+- [meefs/awesome-deepseek-integration](https://github.com/meefs/awesome-deepseek-integration): No description
 - [meefs/bitcoinphone](https://github.com/meefs/bitcoinphone): Voice over the BitcoinSV protocol (made for CoinGeek 2021)
 - [meefs/bsv-explorer](https://github.com/meefs/bsv-explorer): Simple, database-free, self-hosted Bitcoin blockchain explorer, via RPC. Built with Node.js, express, bootstrap-v4.
 - [meefs/camenduru](https://github.com/meefs/camenduru): No description
