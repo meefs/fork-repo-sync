@@ -188,6 +188,7 @@
 - [meefs/openvino-plugins-ai-audacity](https://github.com/meefs/openvino-plugins-ai-audacity): A set of AI-enabled effects, generators, and analyzers for Audacity®.
 - [meefs/perf-tools](https://github.com/meefs/perf-tools): Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
+- [meefs/promptlikeanegyptian](https://github.com/meefs/promptlikeanegyptian): prompt like an egyptiaaaaannnnn
 - [meefs/rust-stealer](https://github.com/meefs/rust-stealer): Simple Rust Stealer
 - [meefs/salmonella](https://github.com/meefs/salmonella): Wrecking sandwich traders for fun and profit
 - [meefs/solsec](https://github.com/meefs/solsec): A collection of resources to study Solana smart contract security, auditing, and exploits.
