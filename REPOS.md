@@ -107,6 +107,7 @@
 - [meefs/stable-diffusion-webui](https://github.com/meefs/stable-diffusion-webui): Stable Diffusion web UI
 - [meefs/stablediffusion](https://github.com/meefs/stablediffusion): High-Resolution Image Synthesis with Latent Diffusion Models
 - [meefs/style-transfer-pytorch](https://github.com/meefs/style-transfer-pytorch): Neural style transfer in PyTorch.
+- [meefs/tinygrad](https://github.com/meefs/tinygrad): You like pytorch? You like micrograd? You love tinygrad! ❤️ 
 - [meefs/unsloth](https://github.com/meefs/unsloth): Finetune Llama 3.2, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
 - [meefs/whisperbymeefs](https://github.com/meefs/whisperbymeefs): Robust Speech Recognition via Large-Scale Weak Supervision
 
@@ -194,7 +195,6 @@
 - [meefs/salmonella](https://github.com/meefs/salmonella): Wrecking sandwich traders for fun and profit
 - [meefs/solsec](https://github.com/meefs/solsec): A collection of resources to study Solana smart contract security, auditing, and exploits.
 - [meefs/the-bread-code](https://github.com/meefs/the-bread-code): Learn how to master the art of baking the programmer way.
-- [meefs/tinygrad](https://github.com/meefs/tinygrad): You like pytorch? You like micrograd? You love tinygrad! ❤️ 
 - [meefs/wormhole](https://github.com/meefs/wormhole): A wormhole simulation.
 - [meefs/xss-payload-list](https://github.com/meefs/xss-payload-list): 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 - [meefs/zkDocAttestation](https://github.com/meefs/zkDocAttestation): Zero Knowledge Proof (ZKP) dapp for attestation and verification of documents
