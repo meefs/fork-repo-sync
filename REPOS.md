@@ -179,6 +179,7 @@
 - [meefs/film](https://github.com/meefs/film): Custom implementation of Google FILM interpolation software
 - [meefs/fork-repo-sync](https://github.com/meefs/fork-repo-sync): Collection of GitHub actions to sync my forks 
 - [meefs/gitaudio](https://github.com/meefs/gitaudio): No description
+- [meefs/go-compression.github.io](https://github.com/meefs/go-compression.github.io): The Hitchhiker's Guide to Compression
 - [meefs/goat](https://github.com/meefs/goat): Render ASCII art as SVG diagrams
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
 - [meefs/graph-fraud-detection-papers](https://github.com/meefs/graph-fraud-detection-papers): A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
