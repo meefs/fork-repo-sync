@@ -148,6 +148,7 @@
 - [meefs/ChaosNLI](https://github.com/meefs/ChaosNLI): [EMNLP 2020] Collective HumAn OpinionS on Natural Language Inference Data
 - [meefs/Crypto-OpSec-SelfGuard-RoadMap](https://github.com/meefs/Crypto-OpSec-SelfGuard-RoadMap): Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
 - [meefs/FaceSynthetics](https://github.com/meefs/FaceSynthetics): No description
+- [meefs/GAI-is-going-well](https://github.com/meefs/GAI-is-going-well): This is a  curated collection of articles and  research  papers related to  the unexpected  or unwanted outcomes , security & privacy  risks associated with using LLMs/GAI. 
 - [meefs/GhostStrike](https://github.com/meefs/GhostStrike): Deploy stealthy reverse shells using advanced process hollowing with GhostStrike – a C++ tool for ethical hacking and Red Team operations.
 - [meefs/IllusionDiffusion-colab](https://github.com/meefs/IllusionDiffusion-colab): No description
 - [meefs/KaliYuga-s-Library-of-Historic-AI-Tools](https://github.com/meefs/KaliYuga-s-Library-of-Historic-AI-Tools): A collection of all the open-source AI tools I can wrest from the jaws of internet oblivion
@@ -165,6 +166,8 @@
 - [meefs/TouchOSC](https://github.com/meefs/TouchOSC): A collection of examples and modules for TouchOSC MK2
 - [meefs/ai-agent-cognitivedriftt](https://github.com/meefs/ai-agent-cognitivedriftt): Cognitive Drift AI Agent
 - [meefs/algorithms](https://github.com/meefs/algorithms): Bug-tracking for Jeff's algorithms book, notes, etc.
+- [meefs/anthropic-cookbook](https://github.com/meefs/anthropic-cookbook): A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+- [meefs/anthropic-quickstarts](https://github.com/meefs/anthropic-quickstarts): A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
 - [meefs/awesome-claude-prompts](https://github.com/meefs/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
 - [meefs/awesome-compose](https://github.com/meefs/awesome-compose): Awesome Docker Compose samples
 - [meefs/awesome-deepseek-integration](https://github.com/meefs/awesome-deepseek-integration): No description
@@ -174,6 +177,7 @@
 - [meefs/cinematic-gaussians](https://github.com/meefs/cinematic-gaussians): Code for our paper "Application of 3D Gaussian Splatting for Cinematic Anatomy on Consumer Class Devices"
 - [meefs/cobalt](https://github.com/meefs/cobalt): best way to save what you love
 - [meefs/code-my-crown](https://github.com/meefs/code-my-crown): No description
+- [meefs/courses](https://github.com/meefs/courses): Anthropic's educational courses
 - [meefs/cve-2024-6387-poc](https://github.com/meefs/cve-2024-6387-poc): a signal handler race condition in OpenSSH's server (sshd)
 - [meefs/dl-colab-notebooks](https://github.com/meefs/dl-colab-notebooks): Try out  deep learning models online on Google Colab
 - [meefs/dmp_midi](https://github.com/meefs/dmp_midi): MIDI files for the patterns in the books "200 Drum Machine Patterns" & "260 Drum Machine Patterns"
@@ -193,6 +197,7 @@
 - [meefs/openvino-plugins-ai-audacity](https://github.com/meefs/openvino-plugins-ai-audacity): A set of AI-enabled effects, generators, and analyzers for Audacity®.
 - [meefs/perf-tools](https://github.com/meefs/perf-tools): Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
+- [meefs/prompt-eng-interactive-tutorial](https://github.com/meefs/prompt-eng-interactive-tutorial): Anthropic's Interactive Prompt Engineering Tutorial
 - [meefs/rust-stealer](https://github.com/meefs/rust-stealer): Simple Rust Stealer
 - [meefs/salmonella](https://github.com/meefs/salmonella): Wrecking sandwich traders for fun and profit
 - [meefs/solsec](https://github.com/meefs/solsec): A collection of resources to study Solana smart contract security, auditing, and exploits.
