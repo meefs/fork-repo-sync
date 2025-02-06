@@ -3,7 +3,7 @@ name: Update REPOS.md
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight
+    - cron: '0 */4 * * *' # Runs every four hours
 
 jobs:
   update-repos-list:
