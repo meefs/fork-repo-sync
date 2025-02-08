@@ -191,6 +191,8 @@
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
 - [meefs/graph-fraud-detection-papers](https://github.com/meefs/graph-fraud-detection-papers): A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
 - [meefs/homographic_spoofing](https://github.com/meefs/homographic_spoofing): Toolkit to both detect and sanitize homographic spoofing attacks in URLs and Email addresses
+- [meefs/iroh](https://github.com/meefs/iroh): peer-2-peer that just works
+- [meefs/jitsi-meet](https://github.com/meefs/jitsi-meet): Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [meefs/m4l-connection-kit](https://github.com/meefs/m4l-connection-kit): Max for Live Connection Kit
 - [meefs/meefs.github.io](https://github.com/meefs/meefs.github.io): No description
 - [meefs/meefs](https://github.com/meefs/meefs): Forks, Models, and Notebooks
@@ -198,10 +200,12 @@
 - [meefs/octofomo](https://github.com/meefs/octofomo): No description
 - [meefs/openvino-plugins-ai-audacity](https://github.com/meefs/openvino-plugins-ai-audacity): A set of AI-enabled effects, generators, and analyzers for Audacity®.
 - [meefs/perf-tools](https://github.com/meefs/perf-tools): Performance analysis tools based on Linux perf_events (aka perf) and ftrace
+- [meefs/pkarr](https://github.com/meefs/pkarr): Public Key Addressable Resource Records (sovereign TLDs)
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
 - [meefs/prompt-eng-interactive-tutorial](https://github.com/meefs/prompt-eng-interactive-tutorial): Anthropic's Interactive Prompt Engineering Tutorial
 - [meefs/rust-stealer](https://github.com/meefs/rust-stealer): Simple Rust Stealer
 - [meefs/salmonella](https://github.com/meefs/salmonella): Wrecking sandwich traders for fun and profit
+- [meefs/sendme](https://github.com/meefs/sendme): A tool to send files and directories, based on iroh
 - [meefs/solsec](https://github.com/meefs/solsec): A collection of resources to study Solana smart contract security, auditing, and exploits.
 - [meefs/the-bread-code](https://github.com/meefs/the-bread-code): Learn how to master the art of baking the programmer way.
 - [meefs/wormhole](https://github.com/meefs/wormhole): A wormhole simulation.
