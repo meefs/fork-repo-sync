@@ -117,6 +117,7 @@
 ## Rust
 - [meefs/halo2](https://github.com/meefs/halo2): The Halo2 zero-knowledge proving system
 - [meefs/pingora](https://github.com/meefs/pingora): A library for building fast, reliable and evolvable network services.
+- [meefs/pkarr](https://github.com/meefs/pkarr): Public Key Addressable Resource Records (sovereign TLDs)
 - [meefs/portal](https://github.com/meefs/portal): 🔵🟠 Portal Explorer — web visualization of mind-blowing portals using ray-tracing.
 - [meefs/steel](https://github.com/meefs/steel): Solana smart contract framework.
 
@@ -202,7 +203,6 @@
 - [meefs/octofomo](https://github.com/meefs/octofomo): No description
 - [meefs/openvino-plugins-ai-audacity](https://github.com/meefs/openvino-plugins-ai-audacity): A set of AI-enabled effects, generators, and analyzers for Audacity®.
 - [meefs/perf-tools](https://github.com/meefs/perf-tools): Performance analysis tools based on Linux perf_events (aka perf) and ftrace
-- [meefs/pkarr](https://github.com/meefs/pkarr): Public Key Addressable Resource Records (sovereign TLDs)
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
 - [meefs/prompt-eng-interactive-tutorial](https://github.com/meefs/prompt-eng-interactive-tutorial): Anthropic's Interactive Prompt Engineering Tutorial
 - [meefs/rust-stealer](https://github.com/meefs/rust-stealer): Simple Rust Stealer
