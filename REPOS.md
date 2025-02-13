@@ -93,6 +93,7 @@
 - [meefs/awesome-llm-apps](https://github.com/meefs/awesome-llm-apps): Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [meefs/bug-bounty-labs](https://github.com/meefs/bug-bounty-labs): All the labs in this repository simulate real world bugs I found in the wild
 - [meefs/bulk-whois](https://github.com/meefs/bulk-whois): This Python script performs bulk Whois lookups for both hostnames and IP addresses, providing information such as IP address, ASN (Autonomous System Number), AS Name, and associated country
+- [meefs/cdp-agentkit](https://github.com/meefs/cdp-agentkit): No description
 - [meefs/claimbuster-spotter](https://github.com/meefs/claimbuster-spotter): Adversarial Training on Transformer Networks to discover check-worthy factual claims
 - [meefs/deforum-stable-diffusion](https://github.com/meefs/deforum-stable-diffusion): Stable Diffusion Notebooks
 - [meefs/dstack](https://github.com/meefs/dstack): dstack is a lightweight, open-source alternative to Kubernetes & Slurm, simplifying AI container orchestration with multi-cloud & on-prem support. It natively supports NVIDIA, AMD, & TPU.
@@ -142,7 +143,6 @@
 ## TypeScript
 - [meefs/TypeChain](https://github.com/meefs/TypeChain): 🔌 TypeScript bindings for Ethereum smart contracts
 - [meefs/ai-brainstore](https://github.com/meefs/ai-brainstore): A proof-of-concept of a brain for an AI agent.
-- [meefs/cdp-agentkit](https://github.com/meefs/cdp-agentkit): No description
 - [meefs/jitsi-meet](https://github.com/meefs/jitsi-meet): Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [meefs/jupyter](https://github.com/meefs/jupyter): A Waldiez JupyterLab extension.
 - [meefs/onchainkit](https://github.com/meefs/onchainkit): React components and TypeScript utilities to help you build top-tier onchain apps.
