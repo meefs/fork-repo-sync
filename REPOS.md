@@ -114,6 +114,9 @@
 - [meefs/unsloth](https://github.com/meefs/unsloth): Finetune Llama 3.2, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
 - [meefs/whisperbymeefs](https://github.com/meefs/whisperbymeefs): Robust Speech Recognition via Large-Scale Weak Supervision
 
+## Ruby
+- [meefs/homographic_spoofing](https://github.com/meefs/homographic_spoofing): Toolkit to both detect and sanitize homographic spoofing attacks in URLs and Email addresses
+
 ## Rust
 - [meefs/halo2](https://github.com/meefs/halo2): The Halo2 zero-knowledge proving system
 - [meefs/pingora](https://github.com/meefs/pingora): A library for building fast, reliable and evolvable network services.
@@ -194,7 +197,6 @@
 - [meefs/goat](https://github.com/meefs/goat): Render ASCII art as SVG diagrams
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
 - [meefs/graph-fraud-detection-papers](https://github.com/meefs/graph-fraud-detection-papers): A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
-- [meefs/homographic_spoofing](https://github.com/meefs/homographic_spoofing): Toolkit to both detect and sanitize homographic spoofing attacks in URLs and Email addresses
 - [meefs/iroh](https://github.com/meefs/iroh): peer-2-peer that just works
 - [meefs/m4l-connection-kit](https://github.com/meefs/m4l-connection-kit): Max for Live Connection Kit
 - [meefs/meefs.github.io](https://github.com/meefs/meefs.github.io): No description
