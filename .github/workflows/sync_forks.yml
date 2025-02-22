@@ -168,7 +168,7 @@ jobs:
 
       # 5) Upload artifacts: the .cast (raw recording) and the .gif (animated)
       - name: Upload artifacts
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: sync-forks-recording
           path: |
