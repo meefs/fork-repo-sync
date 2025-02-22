@@ -3,7 +3,7 @@ name: Sync All Forks
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */4 * * *' # Runs every four hours
+    - cron: '0 */4 * * *'
 
 jobs:
   sync-forks:
@@ -17,7 +17,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PAT }}
         run: |
           #!/usr/bin/env bash
-          set -e  # Fail-fast on unexpected errors
+          # Notice: We do NOT set -e
 
           RED="\033[1;31m"
           GREEN="\033[1;32m"
@@ -43,19 +43,16 @@ jobs:
           FAIL_COUNT=0
 
           while true; do
-            # Fetch JSON for this page of forks
             REPOS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
                      "https://api.github.com/users/meefs/repos?type=forks&per_page=$PER_PAGE&page=$PAGE")
 
-            # If no results, break
             if [ "$(echo "$REPOS" | jq '. | length')" -eq 0 ]; then
+              # No more repos
               break
             fi
 
-            # Convert JSON to lines of "full_name clone_url"
             REPOS_LIST="$(echo "$REPOS" | jq -r '.[] | .full_name + " " + .clone_url')"
 
-            # Loop over the lines in REPOS_LIST
             IFS=$'\n'
             for LINE in $REPOS_LIST; do
               IFS=' ' read -r REPO_FULL_NAME REPO_CLONE_URL <<< "$LINE"
@@ -63,7 +60,6 @@ jobs:
 
               REPO_NAME=$(basename "$REPO_CLONE_URL" .git)
 
-              # Check if the fork repo is accessible
               HTTP_STATUS=$(curl -o /dev/null -s -w "%{http_code}" \
                 -H "Authorization: token $GITHUB_TOKEN" \
                 "https://api.github.com/repos/$REPO_FULL_NAME")
@@ -86,55 +82,89 @@ jobs:
                 "https://api.github.com/repos/$REPO_FULL_NAME")
 
               UPSTREAM_CLONE_URL=$(echo "$REPO_INFO" | jq -r '.parent.clone_url // empty')
-
               if [[ -z "$UPSTREAM_CLONE_URL" ]]; then
                 echo -e "${YELLOW}No upstream found for ${REPO_FULL_NAME}. Skipping...${RESET}"
                 SKIP_COUNT=$((SKIP_COUNT+1))
                 continue
               fi
 
-              # Clone (handle failures gracefully via 'if')
+              # 1) Clone
               if git clone -v "$REPO_CLONE_URL" "$REPO_NAME"; then
                 cd "$REPO_NAME"
-                git remote add upstream "$UPSTREAM_CLONE_URL"
-                git fetch upstream
-
-                DEFAULT_BRANCH=$(echo "$REPO_INFO" | jq -r '.default_branch // empty')
-                if [ -n "$DEFAULT_BRANCH" ] && [ "$DEFAULT_BRANCH" != "null" ]; then
-                  git checkout "$DEFAULT_BRANCH"
-
-                  if git merge upstream/"$DEFAULT_BRANCH" --allow-unrelated-histories -m "Merged by GitHub Actions"; then
-                    if git push origin "$DEFAULT_BRANCH"; then
-                      echo -e "${GREEN}Successfully merged/pushed ${REPO_FULL_NAME}.${RESET}"
-                      SUCCESS_COUNT=$((SUCCESS_COUNT+1))
-                    else
-                      echo -e "${RED}Failed to push changes to ${REPO_FULL_NAME}.${RESET}"
-                      FAIL_COUNT=$((FAIL_COUNT+1))
-                    fi
-                  else
-                    echo -e "${RED}Merge conflict or error merging ${REPO_FULL_NAME}.${RESET}"
-                    FAIL_COUNT=$((FAIL_COUNT+1))
-                  fi
-                else
-                  echo -e "${YELLOW}No valid default branch for ${REPO_FULL_NAME}. Skipping...${RESET}"
-                  SKIP_COUNT=$((SKIP_COUNT+1))
-                fi
-
-                cd ..
-                rm -rf "$REPO_NAME"
               else
-                # If clone fails (e.g., remote not found), increment FAIL and continue
                 echo -e "${RED}Failed to clone ${REPO_CLONE_URL}. Skipping...${RESET}"
                 FAIL_COUNT=$((FAIL_COUNT+1))
                 continue
               fi
+
+              # 2) Add upstream
+              if ! git remote add upstream "$UPSTREAM_CLONE_URL"; then
+                echo -e "${RED}Failed to add upstream remote for ${REPO_FULL_NAME}. Skipping...${RESET}"
+                cd ..
+                rm -rf "$REPO_NAME"
+                FAIL_COUNT=$((FAIL_COUNT+1))
+                continue
+              fi
+
+              # 3) Fetch
+              if ! git fetch upstream; then
+                echo -e "${RED}Failed to fetch upstream for ${REPO_FULL_NAME}. Skipping...${RESET}"
+                cd ..
+                rm -rf "$REPO_NAME"
+                FAIL_COUNT=$((FAIL_COUNT+1))
+                continue
+              fi
+
+              # 4) Get default branch
+              DEFAULT_BRANCH=$(echo "$REPO_INFO" | jq -r '.default_branch // empty')
+              if [ -z "$DEFAULT_BRANCH" ] || [ "$DEFAULT_BRANCH" = "null" ]; then
+                echo -e "${YELLOW}No valid default branch for ${REPO_FULL_NAME}. Skipping...${RESET}"
+                cd ..
+                rm -rf "$REPO_NAME"
+                SKIP_COUNT=$((SKIP_COUNT+1))
+                continue
+              fi
+
+              # 5) Checkout
+              if ! git checkout "$DEFAULT_BRANCH"; then
+                echo -e "${RED}Failed to checkout ${DEFAULT_BRANCH} for ${REPO_FULL_NAME}. Skipping...${RESET}"
+                cd ..
+                rm -rf "$REPO_NAME"
+                FAIL_COUNT=$((FAIL_COUNT+1))
+                continue
+              fi
+
+              # 6) Merge
+              if ! git merge upstream/"$DEFAULT_BRANCH" --allow-unrelated-histories -m "Merged by GitHub Actions"; then
+                echo -e "${RED}Merge conflict or error merging ${REPO_FULL_NAME}.${RESET}"
+                cd ..
+                rm -rf "$REPO_NAME"
+                FAIL_COUNT=$((FAIL_COUNT+1))
+                continue
+              fi
+
+              # 7) Push
+              if ! git push origin "$DEFAULT_BRANCH"; then
+                echo -e "${RED}Failed to push changes to ${REPO_FULL_NAME}.${RESET}"
+                cd ..
+                rm -rf "$REPO_NAME"
+                FAIL_COUNT=$((FAIL_COUNT+1))
+                continue
+              fi
+
+              # If we got here, success
+              echo -e "${GREEN}Successfully merged/pushed ${REPO_FULL_NAME}.${RESET}"
+              SUCCESS_COUNT=$((SUCCESS_COUNT+1))
+
+              # Cleanup
+              cd ..
+              rm -rf "$REPO_NAME"
             done
             IFS=' '
 
             PAGE=$((PAGE+1))
           done
 
-          # Final summary
           echo -e "${GREEN}Summary:${RESET}"
           echo "  Success: $SUCCESS_COUNT"
           echo "  Skipped: $SKIP_COUNT"
