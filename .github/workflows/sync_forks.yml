@@ -29,7 +29,7 @@ jobs:
         run: |
           cat << 'EOF' > sync_forks.sh
           #!/bin/bash
-          set -e
+          set -e  # Keep 'set -e' for fail-fast on truly unexpected errors
 
           RED="\033[1;31m"
           GREEN="\033[1;32m"
@@ -56,9 +56,11 @@ jobs:
           FAIL_COUNT=0
 
           while true; do
+            # Fetch the list of forked repos
             REPOS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
               "https://api.github.com/users/meefs/repos?type=forks&per_page=$PER_PAGE&page=$PAGE")
 
+            # Break if no more repos
             if [ "$(echo "$REPOS" | jq '. | length')" -eq 0 ]; then
               break
             fi
@@ -101,6 +103,7 @@ jobs:
               fi
 
               # 4) Clone and merge
+              # -- This is wrapped in an 'if' block to gracefully handle clone failures.
               if git clone -v "$REPO_CLONE_URL" "$REPO_NAME"; then
                 cd "$REPO_NAME"
                 git remote add upstream "$UPSTREAM_CLONE_URL"
@@ -130,8 +133,11 @@ jobs:
                 cd ..
                 rm -rf "$REPO_NAME"
               else
-                echo -e "${RED}Failed to clone ${REPO_CLONE_URL}.${RESET}"
+                # If clone fails (e.g., remote not found), we don't exit the script;
+                # we just increment FAIL and continue.
+                echo -e "${RED}Failed to clone ${REPO_CLONE_URL}. Skipping...${RESET}"
                 FAIL_COUNT=$((FAIL_COUNT+1))
+                continue
               fi
             done
 
