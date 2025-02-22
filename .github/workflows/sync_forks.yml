@@ -12,24 +12,12 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v2
 
-      # 1) Install dependencies: rust/cargo, asciinema, and then agg
-      - name: Install Rust Toolchain
-        uses: dtolnay/rust-toolchain@stable
-        with:
-          profile: minimal
-      
-      - name: Install asciinema and agg
+      - name: Sync All Forks
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
         run: |
-          sudo apt-get update
-          sudo apt-get install -y asciinema
-          cargo install --git https://github.com/asciinema/agg
-
-      # 2) Create the sync script (with improved error checks & summary counters)
-      - name: Prepare sync script
-        run: |
-          cat << 'EOF' > sync_forks.sh
-          #!/bin/bash
-          set -e  # Keep 'set -e' for fail-fast on truly unexpected errors
+          #!/usr/bin/env bash
+          set -e  # Fail-fast on unexpected errors
 
           RED="\033[1;31m"
           GREEN="\033[1;32m"
@@ -42,7 +30,6 @@ jobs:
             exit 1
           fi
 
-          # Configure git
           git config --global user.name "GitHub Actions"
           git config --global user.email "meefs-bot@rackhelp.com"
           git config --global credential.helper store
@@ -56,26 +43,24 @@ jobs:
           FAIL_COUNT=0
 
           while true; do
-            # Fetch the list of forked repos
             REPOS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
-              "https://api.github.com/users/meefs/repos?type=forks&per_page=$PER_PAGE&page=$PAGE")
+                     "https://api.github.com/users/meefs/repos?type=forks&per_page=$PER_PAGE&page=$PAGE")
 
-            # Break if no more repos
+            # Break if the response is empty
             if [ "$(echo "$REPOS" | jq '. | length')" -eq 0 ]; then
               break
             fi
 
-            # Loop through each repo
+            # Loop over each fork
             echo "$REPOS" | jq -r '.[] | .full_name + " " + .clone_url' | while IFS=" " read -r REPO_FULL_NAME REPO_CLONE_URL; do
               echo -e "${BLUE}Processing ${REPO_FULL_NAME}...${RESET}"
               REPO_NAME=$(basename "$REPO_CLONE_URL" .git)
 
-              # 1) Check HTTP status to see if the fork repo is accessible
+              # Check if the fork repo is accessible
               HTTP_STATUS=$(curl -o /dev/null -s -w "%{http_code}" \
                 -H "Authorization: token $GITHUB_TOKEN" \
                 "https://api.github.com/repos/$REPO_FULL_NAME")
 
-              # 2) Handle HTTP statuses
               if [ "$HTTP_STATUS" = "404" ]; then
                 echo -e "${YELLOW}Repo ${REPO_FULL_NAME} not found (404). Skipping...${RESET}"
                 SKIP_COUNT=$((SKIP_COUNT+1))
@@ -90,20 +75,17 @@ jobs:
                 continue
               fi
 
-              # 3) Retrieve the repo info and find upstream
               REPO_INFO=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
                 "https://api.github.com/repos/$REPO_FULL_NAME")
 
               UPSTREAM_CLONE_URL=$(echo "$REPO_INFO" | jq -r '.parent.clone_url // empty')
-
               if [[ -z "$UPSTREAM_CLONE_URL" ]]; then
                 echo -e "${YELLOW}No upstream found for ${REPO_FULL_NAME}. Skipping...${RESET}"
                 SKIP_COUNT=$((SKIP_COUNT+1))
                 continue
               fi
 
-              # 4) Clone and merge
-              # -- This is wrapped in an 'if' block to gracefully handle clone failures.
+              # Clone (handle failures gracefully via 'if')
               if git clone -v "$REPO_CLONE_URL" "$REPO_NAME"; then
                 cd "$REPO_NAME"
                 git remote add upstream "$UPSTREAM_CLONE_URL"
@@ -133,8 +115,6 @@ jobs:
                 cd ..
                 rm -rf "$REPO_NAME"
               else
-                # If clone fails (e.g., remote not found), we don't exit the script;
-                # we just increment FAIL and continue.
                 echo -e "${RED}Failed to clone ${REPO_CLONE_URL}. Skipping...${RESET}"
                 FAIL_COUNT=$((FAIL_COUNT+1))
                 continue
@@ -144,33 +124,8 @@ jobs:
             PAGE=$((PAGE+1))
           done
 
-          # Final summary to stdout
+          # Final summary
           echo -e "${GREEN}Summary:${RESET}"
           echo "  Success: $SUCCESS_COUNT"
           echo "  Skipped: $SKIP_COUNT"
           echo "  Failed:  $FAIL_COUNT"
-          EOF
-
-          chmod +x sync_forks.sh
-
-      # 3) Record the script execution with asciinema, producing sync_forks.cast
-      - name: Record Sync All Forks
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
-        run: |
-          # Run the script inside asciinema to record output
-          asciinema rec -q -c "./sync_forks.sh" sync_forks.cast
-
-      # 4) Generate a GIF from the .cast file using agg
-      - name: Generate GIF from Asciinema cast
-        run: |
-          agg sync_forks.cast sync_forks.gif
-
-      # 5) Upload artifacts: the .cast (raw recording) and the .gif (animated)
-      - name: Upload artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: sync-forks-recording
-          path: |
-            sync_forks.cast
-            sync_forks.gif
