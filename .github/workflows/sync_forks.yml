@@ -17,7 +17,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PAT }}
         run: |
           #!/usr/bin/env bash
-          # Notice: We do NOT set -e
+          # NOTICE: No `set -e`, so we can handle errors manually.
 
           RED="\033[1;31m"
           GREEN="\033[1;32m"
@@ -42,12 +42,14 @@ jobs:
           SKIP_COUNT=0
           FAIL_COUNT=0
 
+          # Arrays to store names of failed repos (optional: you could do similarly for skipped)
+          FAILED_REPOS=()
+
           while true; do
             REPOS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
                      "https://api.github.com/users/meefs/repos?type=forks&per_page=$PER_PAGE&page=$PAGE")
 
             if [ "$(echo "$REPOS" | jq '. | length')" -eq 0 ]; then
-              # No more repos
               break
             fi
 
@@ -88,34 +90,37 @@ jobs:
                 continue
               fi
 
-              # 1) Clone
+              # Clone
               if git clone -v "$REPO_CLONE_URL" "$REPO_NAME"; then
                 cd "$REPO_NAME"
               else
                 echo -e "${RED}Failed to clone ${REPO_CLONE_URL}. Skipping...${RESET}"
                 FAIL_COUNT=$((FAIL_COUNT+1))
+                FAILED_REPOS+=("$REPO_FULL_NAME")
                 continue
               fi
 
-              # 2) Add upstream
+              # Add upstream
               if ! git remote add upstream "$UPSTREAM_CLONE_URL"; then
-                echo -e "${RED}Failed to add upstream remote for ${REPO_FULL_NAME}. Skipping...${RESET}"
+                echo -e "${RED}Failed to add upstream for ${REPO_FULL_NAME}. Skipping...${RESET}"
                 cd ..
                 rm -rf "$REPO_NAME"
                 FAIL_COUNT=$((FAIL_COUNT+1))
+                FAILED_REPOS+=("$REPO_FULL_NAME")
                 continue
               fi
 
-              # 3) Fetch
+              # Fetch
               if ! git fetch upstream; then
                 echo -e "${RED}Failed to fetch upstream for ${REPO_FULL_NAME}. Skipping...${RESET}"
                 cd ..
                 rm -rf "$REPO_NAME"
                 FAIL_COUNT=$((FAIL_COUNT+1))
+                FAILED_REPOS+=("$REPO_FULL_NAME")
                 continue
               fi
 
-              # 4) Get default branch
+              # Check default branch
               DEFAULT_BRANCH=$(echo "$REPO_INFO" | jq -r '.default_branch // empty')
               if [ -z "$DEFAULT_BRANCH" ] || [ "$DEFAULT_BRANCH" = "null" ]; then
                 echo -e "${YELLOW}No valid default branch for ${REPO_FULL_NAME}. Skipping...${RESET}"
@@ -125,34 +130,37 @@ jobs:
                 continue
               fi
 
-              # 5) Checkout
+              # Checkout
               if ! git checkout "$DEFAULT_BRANCH"; then
                 echo -e "${RED}Failed to checkout ${DEFAULT_BRANCH} for ${REPO_FULL_NAME}. Skipping...${RESET}"
                 cd ..
                 rm -rf "$REPO_NAME"
                 FAIL_COUNT=$((FAIL_COUNT+1))
+                FAILED_REPOS+=("$REPO_FULL_NAME")
                 continue
               fi
 
-              # 6) Merge
+              # Merge
               if ! git merge upstream/"$DEFAULT_BRANCH" --allow-unrelated-histories -m "Merged by GitHub Actions"; then
                 echo -e "${RED}Merge conflict or error merging ${REPO_FULL_NAME}.${RESET}"
                 cd ..
                 rm -rf "$REPO_NAME"
                 FAIL_COUNT=$((FAIL_COUNT+1))
+                FAILED_REPOS+=("$REPO_FULL_NAME")
                 continue
               fi
 
-              # 7) Push
+              # Push
               if ! git push origin "$DEFAULT_BRANCH"; then
                 echo -e "${RED}Failed to push changes to ${REPO_FULL_NAME}.${RESET}"
                 cd ..
                 rm -rf "$REPO_NAME"
                 FAIL_COUNT=$((FAIL_COUNT+1))
+                FAILED_REPOS+=("$REPO_FULL_NAME")
                 continue
               fi
 
-              # If we got here, success
+              # Success
               echo -e "${GREEN}Successfully merged/pushed ${REPO_FULL_NAME}.${RESET}"
               SUCCESS_COUNT=$((SUCCESS_COUNT+1))
 
@@ -169,3 +177,11 @@ jobs:
           echo "  Success: $SUCCESS_COUNT"
           echo "  Skipped: $SKIP_COUNT"
           echo "  Failed:  $FAIL_COUNT"
+
+          # If we had failures, list them
+          if [ "$FAIL_COUNT" -gt 0 ]; then
+            echo -e "${RED}Failed Repositories:${RESET}"
+            for FR in "${FAILED_REPOS[@]}"; do
+              echo "  $FR"
+            done
+          fi
