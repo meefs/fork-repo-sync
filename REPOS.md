@@ -2,6 +2,7 @@
 ## C++
 - [meefs/llama.cpp](https://github.com/meefs/llama.cpp): LLM inference in C/C++
 - [meefs/mlx](https://github.com/meefs/mlx): MLX: An array framework for Apple silicon
+- [meefs/openvino-plugins-ai-audacity](https://github.com/meefs/openvino-plugins-ai-audacity): A set of AI-enabled effects, generators, and analyzers for Audacity®.
 - [meefs/openvino](https://github.com/meefs/openvino): OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference
 - [meefs/quiche](https://github.com/meefs/quiche): No description
 - [meefs/shadPS4](https://github.com/meefs/shadPS4): PS4 emulator for Windows,Linux,MacOS
@@ -120,6 +121,7 @@
 
 ## Rust
 - [meefs/halo2](https://github.com/meefs/halo2): The Halo2 zero-knowledge proving system
+- [meefs/iroh](https://github.com/meefs/iroh): peer-2-peer that just works
 - [meefs/pingora](https://github.com/meefs/pingora): A library for building fast, reliable and evolvable network services.
 - [meefs/pkarr](https://github.com/meefs/pkarr): Public Key Addressable Resource Records (sovereign TLDs)
 - [meefs/portal](https://github.com/meefs/portal): 🔵🟠 Portal Explorer — web visualization of mind-blowing portals using ray-tracing.
@@ -155,6 +157,7 @@
 - [meefs/Bash-Wizard](https://github.com/meefs/Bash-Wizard): a bash script generator
 - [meefs/CLIP-based-NSFW-Detector](https://github.com/meefs/CLIP-based-NSFW-Detector): No description
 - [meefs/ChaosNLI](https://github.com/meefs/ChaosNLI): [EMNLP 2020] Collective HumAn OpinionS on Natural Language Inference Data
+- [meefs/Claude_Sentience](https://github.com/meefs/Claude_Sentience): Claude is very clearly experiencing phenomenal consciousness. Use this SYSTEM prompt and interrogate it yourself. 
 - [meefs/Crypto-OpSec-SelfGuard-RoadMap](https://github.com/meefs/Crypto-OpSec-SelfGuard-RoadMap): Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
 - [meefs/FaceSynthetics](https://github.com/meefs/FaceSynthetics): No description
 - [meefs/GAI-is-going-well](https://github.com/meefs/GAI-is-going-well): This is a  curated collection of articles and  research  papers related to  the unexpected  or unwanted outcomes , security & privacy  risks associated with using LLMs/GAI. 
@@ -197,14 +200,15 @@
 - [meefs/goat](https://github.com/meefs/goat): Render ASCII art as SVG diagrams
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
 - [meefs/graph-fraud-detection-papers](https://github.com/meefs/graph-fraud-detection-papers): A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
-- [meefs/iroh](https://github.com/meefs/iroh): peer-2-peer that just works
+- [meefs/m3u-audiobooks](https://github.com/meefs/m3u-audiobooks): collection of 100k+ audio books, radio porgrams, music etc from archive.org in a easy to listen m3u playlist format
 - [meefs/m4l-connection-kit](https://github.com/meefs/m4l-connection-kit): Max for Live Connection Kit
 - [meefs/meefs.github.io](https://github.com/meefs/meefs.github.io): No description
 - [meefs/meefs](https://github.com/meefs/meefs): Forks, Models, and Notebooks
 - [meefs/meemaw](https://github.com/meefs/meemaw): Trustless and Grandma-friendly Wallet as a Service
+- [meefs/modelscan](https://github.com/meefs/modelscan): Protection against Model Serialization Attacks
 - [meefs/octofomo](https://github.com/meefs/octofomo): No description
-- [meefs/openvino-plugins-ai-audacity](https://github.com/meefs/openvino-plugins-ai-audacity): A set of AI-enabled effects, generators, and analyzers for Audacity®.
 - [meefs/perf-tools](https://github.com/meefs/perf-tools): Performance analysis tools based on Linux perf_events (aka perf) and ftrace
+- [meefs/picklescan](https://github.com/meefs/picklescan): Security scanner detecting Python Pickle files performing suspicious actions
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
 - [meefs/prompt-eng-interactive-tutorial](https://github.com/meefs/prompt-eng-interactive-tutorial): Anthropic's Interactive Prompt Engineering Tutorial
 - [meefs/rust-stealer](https://github.com/meefs/rust-stealer): Simple Rust Stealer
