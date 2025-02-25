@@ -52,6 +52,7 @@
 - [meefs/PhotoMaker](https://github.com/meefs/PhotoMaker): PhotoMaker
 - [meefs/RecursiveSummarizer](https://github.com/meefs/RecursiveSummarizer): RecursiveSummarizer script shown in https://www.youtube.com/watch?v=es8e4SEuvV0&t=263s
 - [meefs/ag2](https://github.com/meefs/ag2): AG2 (formerly AutoGen) is a programming framework for agentic AI. Join the community at: https://discord.gg/pAbnFJrkgZ
+- [meefs/anthropic-cookbook](https://github.com/meefs/anthropic-cookbook): A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [meefs/art](https://github.com/meefs/art): No description
 - [meefs/audiocraft](https://github.com/meefs/audiocraft): Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
 - [meefs/collection-of-notebooks](https://github.com/meefs/collection-of-notebooks): Сollection of various notebooks
@@ -146,6 +147,7 @@
 ## TypeScript
 - [meefs/TypeChain](https://github.com/meefs/TypeChain): 🔌 TypeScript bindings for Ethereum smart contracts
 - [meefs/ai-brainstore](https://github.com/meefs/ai-brainstore): A proof-of-concept of a brain for an AI agent.
+- [meefs/anthropic-quickstarts](https://github.com/meefs/anthropic-quickstarts): A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
 - [meefs/jitsi-meet](https://github.com/meefs/jitsi-meet): Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [meefs/jupyter](https://github.com/meefs/jupyter): A Waldiez JupyterLab extension.
 - [meefs/onchainkit](https://github.com/meefs/onchainkit): React components and TypeScript utilities to help you build top-tier onchain apps.
@@ -180,8 +182,6 @@
 - [meefs/TouchOSC](https://github.com/meefs/TouchOSC): A collection of examples and modules for TouchOSC MK2
 - [meefs/ai-agent-cognitivedriftt](https://github.com/meefs/ai-agent-cognitivedriftt): Cognitive Drift AI Agent
 - [meefs/algorithms](https://github.com/meefs/algorithms): Bug-tracking for Jeff's algorithms book, notes, etc.
-- [meefs/anthropic-cookbook](https://github.com/meefs/anthropic-cookbook): A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-- [meefs/anthropic-quickstarts](https://github.com/meefs/anthropic-quickstarts): A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
 - [meefs/awesome-claude-prompts](https://github.com/meefs/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
 - [meefs/awesome-compose](https://github.com/meefs/awesome-compose): Awesome Docker Compose samples
 - [meefs/awesome-deepseek-integration](https://github.com/meefs/awesome-deepseek-integration): No description
