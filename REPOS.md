@@ -51,7 +51,6 @@
 - [meefs/MusicGen-colab](https://github.com/meefs/MusicGen-colab): No description
 - [meefs/PhotoMaker](https://github.com/meefs/PhotoMaker): PhotoMaker
 - [meefs/RecursiveSummarizer](https://github.com/meefs/RecursiveSummarizer): RecursiveSummarizer script shown in https://www.youtube.com/watch?v=es8e4SEuvV0&t=263s
-- [meefs/ag2](https://github.com/meefs/ag2): AG2 (formerly AutoGen) is a programming framework for agentic AI. Join the community at: https://discord.gg/pAbnFJrkgZ
 - [meefs/anthropic-cookbook](https://github.com/meefs/anthropic-cookbook): A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [meefs/art](https://github.com/meefs/art): No description
 - [meefs/audiocraft](https://github.com/meefs/audiocraft): Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
@@ -91,6 +90,7 @@
 - [meefs/TeleVision](https://github.com/meefs/TeleVision): Open-TeleVision: Teleoperation with Immersive Active Visual Feedback
 - [meefs/UniversalBackrooms](https://github.com/meefs/UniversalBackrooms): A replication of Andy Ayrey's "Backrooms" (https://dreams-of-an-electric-mind.webflow.io/), but runnable with Opus 3, Sonnet 3.5, GPT 4o, and o1-preview 
 - [meefs/VSP-LLM](https://github.com/meefs/VSP-LLM): No description
+- [meefs/ag2](https://github.com/meefs/ag2): AG2 (formerly AutoGen) is a programming framework for agentic AI. Join the community at: https://discord.gg/pAbnFJrkgZ
 - [meefs/auto-md](https://github.com/meefs/auto-md): Convert Files /  Folders / GitHub Repos Into AI / LLM-ready Files
 - [meefs/awesome-llm-apps](https://github.com/meefs/awesome-llm-apps): Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [meefs/bug-bounty-labs](https://github.com/meefs/bug-bounty-labs): All the labs in this repository simulate real world bugs I found in the wild
