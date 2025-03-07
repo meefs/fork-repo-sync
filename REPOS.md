@@ -43,6 +43,7 @@
 
 ## Jupyter Notebook
 - [meefs/ARF-svox2](https://github.com/meefs/ARF-svox2): Artistic Radiance Fields (Colab)
+- [meefs/Cosmos](https://github.com/meefs/Cosmos): Cosmos is a world model development platform that consists of world foundation models, tokenizers and video processing pipeline to accelerate the development of Physical AI at Robotics & AV labs.  Cosmos is purpose built for physical AI. The Cosmos repository will enable end users to run the Cosmos models, run inference scripts and generate videos.
 - [meefs/FrontRunMe](https://github.com/meefs/FrontRunMe): No description
 - [meefs/HunyuanDiT](https://github.com/meefs/HunyuanDiT): Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding
 - [meefs/Learn-Prompt-Hacking](https://github.com/meefs/Learn-Prompt-Hacking): This is The most comprehensive prompt hacking course available, which record our progress on a prompt engineering and prompt hacking course.
@@ -75,7 +76,6 @@
 - [meefs/ChatDoctor](https://github.com/meefs/ChatDoctor): No description
 - [meefs/CodeFormer](https://github.com/meefs/CodeFormer): [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 - [meefs/ComfyUI-PhotoMaker-Plus](https://github.com/meefs/ComfyUI-PhotoMaker-Plus): PhotoMaker for ComfyUI
-- [meefs/Cosmos](https://github.com/meefs/Cosmos): Cosmos is a world model development platform that consists of world foundation models, tokenizers and video processing pipeline to accelerate the development of Physical AI at Robotics & AV labs.  Cosmos is purpose built for physical AI. The Cosmos repository will enable end users to run the Cosmos models, run inference scripts and generate videos.
 - [meefs/DeepSpeed](https://github.com/meefs/DeepSpeed): DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [meefs/GFPGAN](https://github.com/meefs/GFPGAN): GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [meefs/ImageBind](https://github.com/meefs/ImageBind): ImageBind One Embedding Space to Bind Them All
