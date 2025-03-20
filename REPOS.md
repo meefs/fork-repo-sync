@@ -135,6 +135,7 @@
 ## Shell
 - [meefs/iTerm2-Color-Schemes](https://github.com/meefs/iTerm2-Color-Schemes): Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
 - [meefs/ipranges](https://github.com/meefs/ipranges): 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
+- [meefs/m3u-audiobooks](https://github.com/meefs/m3u-audiobooks): collection of 100k+ audio books, radio porgrams, music etc from archive.org in a easy to listen m3u playlist format
 - [meefs/ohmyzsh](https://github.com/meefs/ohmyzsh): 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 
 ## Solidity
@@ -205,7 +206,6 @@
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
 - [meefs/graph-fraud-detection-papers](https://github.com/meefs/graph-fraud-detection-papers): A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
 - [meefs/hex.dance](https://github.com/meefs/hex.dance): simple client-side in-browser binary analysis and hex dump
-- [meefs/m3u-audiobooks](https://github.com/meefs/m3u-audiobooks): collection of 100k+ audio books, radio porgrams, music etc from archive.org in a easy to listen m3u playlist format
 - [meefs/m4l-connection-kit](https://github.com/meefs/m4l-connection-kit): Max for Live Connection Kit
 - [meefs/meefs.github.io](https://github.com/meefs/meefs.github.io): No description
 - [meefs/meefs](https://github.com/meefs/meefs): Forks, Models, and Notebooks
