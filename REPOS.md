@@ -221,4 +221,5 @@
 - [meefs/the-bread-code](https://github.com/meefs/the-bread-code): Learn how to master the art of baking the programmer way.
 - [meefs/wormhole](https://github.com/meefs/wormhole): A wormhole simulation.
 - [meefs/xss-payload-list](https://github.com/meefs/xss-payload-list): 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
+- [meefs/zk-learning-group](https://github.com/meefs/zk-learning-group): No description
 - [meefs/zkDocAttestation](https://github.com/meefs/zkDocAttestation): Zero Knowledge Proof (ZKP) dapp for attestation and verification of documents
