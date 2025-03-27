@@ -196,6 +196,7 @@
 - [meefs/code-my-crown](https://github.com/meefs/code-my-crown): No description
 - [meefs/courses](https://github.com/meefs/courses): Anthropic's educational courses
 - [meefs/cve-2024-6387-poc](https://github.com/meefs/cve-2024-6387-poc): a signal handler race condition in OpenSSH's server (sshd)
+- [meefs/data](https://github.com/meefs/data): Data and code behind the articles and graphics at FiveThirtyEight
 - [meefs/dl-colab-notebooks](https://github.com/meefs/dl-colab-notebooks): Try out  deep learning models online on Google Colab
 - [meefs/dmp_midi](https://github.com/meefs/dmp_midi): MIDI files for the patterns in the books "200 Drum Machine Patterns" & "260 Drum Machine Patterns"
 - [meefs/dronesploit](https://github.com/meefs/dronesploit): Drone pentesting framework console
