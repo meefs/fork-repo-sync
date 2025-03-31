@@ -29,6 +29,7 @@
 - [meefs/promptlikeanegyptian](https://github.com/meefs/promptlikeanegyptian): prompt like an egyptiaaaaannnnn
 
 ## JavaScript
+- [meefs/WireMCP](https://github.com/meefs/WireMCP): An MCP for WireShark (tshark). Empower LLM's with realtime network traffic analysis capability
 - [meefs/ditherQuest](https://github.com/meefs/ditherQuest): auto dither images in pleasing colors
 - [meefs/dockertacos](https://github.com/meefs/dockertacos): Sample project involving docker and tacos 🌮
 - [meefs/drawdata](https://github.com/meefs/drawdata): Draw datasets from within Jupyter.
@@ -184,7 +185,6 @@
 - [meefs/Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/meefs/Smart-Contract-Auditor-Tools-and-Techniques): This repo contains a comprehensive list of smart contract auditor tools and techniques that can be utilized by both smart contract auditors and blockchain developers for developing secure smart contracts
 - [meefs/SuperPrompt](https://github.com/meefs/SuperPrompt): No description
 - [meefs/TouchOSC](https://github.com/meefs/TouchOSC): A collection of examples and modules for TouchOSC MK2
-- [meefs/WireMCP](https://github.com/meefs/WireMCP): An MCP for WireShark (tshark). Empower LLM's with realtime network traffic analysis capability
 - [meefs/ai-agent-cognitivedriftt](https://github.com/meefs/ai-agent-cognitivedriftt): Cognitive Drift AI Agent
 - [meefs/algorithms](https://github.com/meefs/algorithms): Bug-tracking for Jeff's algorithms book, notes, etc.
 - [meefs/awesome-claude-prompts](https://github.com/meefs/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
