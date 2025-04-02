@@ -204,6 +204,7 @@
 - [meefs/film](https://github.com/meefs/film): Custom implementation of Google FILM interpolation software
 - [meefs/fork-repo-sync](https://github.com/meefs/fork-repo-sync): Collection of GitHub actions to sync my forks 
 - [meefs/gitaudio](https://github.com/meefs/gitaudio): No description
+- [meefs/glance](https://github.com/meefs/glance): A self-hosted dashboard that puts all your feeds in one place
 - [meefs/go-compression.github.io](https://github.com/meefs/go-compression.github.io): The Hitchhiker's Guide to Compression
 - [meefs/goat](https://github.com/meefs/goat): Render ASCII art as SVG diagrams
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
