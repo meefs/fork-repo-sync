@@ -224,6 +224,7 @@
 - [meefs/scale-workshop](https://github.com/meefs/scale-workshop): Design and visualize microtonal scales and play them in your web browser. Export your scales for use with VST instruments. Convert Scala files to various tuning formats.
 - [meefs/solsec](https://github.com/meefs/solsec): A collection of resources to study Solana smart contract security, auditing, and exploits.
 - [meefs/the-bread-code](https://github.com/meefs/the-bread-code): Learn how to master the art of baking the programmer way.
+- [meefs/wonder](https://github.com/meefs/wonder): metaprogramming for LLMs and other humans
 - [meefs/wormhole](https://github.com/meefs/wormhole): A wormhole simulation.
 - [meefs/xss-payload-list](https://github.com/meefs/xss-payload-list): 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 - [meefs/zk-learning-group](https://github.com/meefs/zk-learning-group): No description
