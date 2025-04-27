@@ -188,6 +188,7 @@
 - [meefs/PixelAlchemist](https://github.com/meefs/PixelAlchemist): Semantic image editing in realtime with a multi-parameter interface for StyleCLIP global directions
 - [meefs/Pride-flag](https://github.com/meefs/Pride-flag): Pride flag featuring 74 individual LGBTQIA+ flags
 - [meefs/Raydium-Bundler-Extra-Bot-V4-Avoid-Bubblemaps](https://github.com/meefs/Raydium-Bundler-Extra-Bot-V4-Avoid-Bubblemaps): This is the extra bot of Raydium bundler to avoid detecting from bubble maps with JITO
+- [meefs/SP_2025_Notes](https://github.com/meefs/SP_2025_Notes): No description
 - [meefs/Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/meefs/Smart-Contract-Auditor-Tools-and-Techniques): This repo contains a comprehensive list of smart contract auditor tools and techniques that can be utilized by both smart contract auditors and blockchain developers for developing secure smart contracts
 - [meefs/SuperPrompt](https://github.com/meefs/SuperPrompt): No description
 - [meefs/TouchOSC](https://github.com/meefs/TouchOSC): A collection of examples and modules for TouchOSC MK2
