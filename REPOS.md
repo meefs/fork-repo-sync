@@ -197,6 +197,7 @@
 - [meefs/awesome-claude-prompts](https://github.com/meefs/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
 - [meefs/awesome-compose](https://github.com/meefs/awesome-compose): Awesome Docker Compose samples
 - [meefs/awesome-deepseek-integration](https://github.com/meefs/awesome-deepseek-integration): No description
+- [meefs/awesome-foundation-agents](https://github.com/meefs/awesome-foundation-agents): About Awesome things towards foundation agents. Papers / Repos / Blogs / ...
 - [meefs/bitcoinphone](https://github.com/meefs/bitcoinphone): Voice over the BitcoinSV protocol (made for CoinGeek 2021)
 - [meefs/bsv-explorer](https://github.com/meefs/bsv-explorer): Simple, database-free, self-hosted Bitcoin blockchain explorer, via RPC. Built with Node.js, express, bootstrap-v4.
 - [meefs/camenduru](https://github.com/meefs/camenduru): No description
