@@ -202,6 +202,7 @@
 - [meefs/bsv-explorer](https://github.com/meefs/bsv-explorer): Simple, database-free, self-hosted Bitcoin blockchain explorer, via RPC. Built with Node.js, express, bootstrap-v4.
 - [meefs/camenduru](https://github.com/meefs/camenduru): No description
 - [meefs/cinematic-gaussians](https://github.com/meefs/cinematic-gaussians): Code for our paper "Application of 3D Gaussian Splatting for Cinematic Anatomy on Consumer Class Devices"
+- [meefs/cobold](https://github.com/meefs/cobold): telegram bot for downloading media, powered by cobalt
 - [meefs/code-my-crown](https://github.com/meefs/code-my-crown): No description
 - [meefs/courses](https://github.com/meefs/courses): Anthropic's educational courses
 - [meefs/cve-2024-6387-poc](https://github.com/meefs/cve-2024-6387-poc): a signal handler race condition in OpenSSH's server (sshd)
