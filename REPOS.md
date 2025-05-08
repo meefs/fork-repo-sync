@@ -116,6 +116,7 @@
 - [meefs/modelscan](https://github.com/meefs/modelscan): Protection against Model Serialization Attacks
 - [meefs/picklescan](https://github.com/meefs/picklescan): Security scanner detecting Python Pickle files performing suspicious actions
 - [meefs/shell_gpt](https://github.com/meefs/shell_gpt): A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
+- [meefs/skypilot](https://github.com/meefs/skypilot): SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
 - [meefs/slither](https://github.com/meefs/slither): Static Analyzer for Solidity
 - [meefs/stable-diffusion-webui](https://github.com/meefs/stable-diffusion-webui): Stable Diffusion web UI
 - [meefs/stablediffusion](https://github.com/meefs/stablediffusion): High-Resolution Image Synthesis with Latent Diffusion Models
@@ -234,7 +235,6 @@
 - [meefs/salmonella](https://github.com/meefs/salmonella): Wrecking sandwich traders for fun and profit
 - [meefs/sam2-studio](https://github.com/meefs/sam2-studio): No description
 - [meefs/scale-workshop](https://github.com/meefs/scale-workshop): Design and visualize microtonal scales and play them in your web browser. Export your scales for use with VST instruments. Convert Scala files to various tuning formats.
-- [meefs/skypilot](https://github.com/meefs/skypilot): SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
 - [meefs/solsec](https://github.com/meefs/solsec): A collection of resources to study Solana smart contract security, auditing, and exploits.
 - [meefs/the-bread-code](https://github.com/meefs/the-bread-code): Learn how to master the art of baking the programmer way.
 - [meefs/wormhole](https://github.com/meefs/wormhole): A wormhole simulation.
