@@ -200,6 +200,7 @@
 - [meefs/TouchOSC](https://github.com/meefs/TouchOSC): A collection of examples and modules for TouchOSC MK2
 - [meefs/ai-agent-cognitivedriftt](https://github.com/meefs/ai-agent-cognitivedriftt): Cognitive Drift AI Agent
 - [meefs/algorithms](https://github.com/meefs/algorithms): Bug-tracking for Jeff's algorithms book, notes, etc.
+- [meefs/awesome--sora-prompts](https://github.com/meefs/awesome--sora-prompts): A reference containing Visual Style Prompt and Editing Style Prompt that you can use with Sora AI. 
 - [meefs/awesome-claude-prompts](https://github.com/meefs/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
 - [meefs/awesome-compose](https://github.com/meefs/awesome-compose): Awesome Docker Compose samples
 - [meefs/awesome-deepseek-integration](https://github.com/meefs/awesome-deepseek-integration): No description
