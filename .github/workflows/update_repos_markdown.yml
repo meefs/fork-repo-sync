@@ -4,6 +4,11 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 */4 * * *' # Runs every four hours
+  
+# Add concurrency to prevent multiple runs interfering with each other
+concurrency:
+  group: update-repos
+  cancel-in-progress: true
 
 jobs:
   update-repos-list:
@@ -11,6 +16,8 @@ jobs:
     steps:
       - name: Check out repo
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0  # Get full history to avoid git issues
       
       - name: Update REPOS.md with forked repositories
         env:
@@ -24,26 +31,6 @@ jobs:
             echo "jq could not be found. Please ensure jq is installed in the runner environment."
             exit 1
           fi
-
-          # Function to check API rate limit status
-          check_rate_limit() {
-            RATE_LIMIT=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/rate_limit")
-            REMAINING=$(echo "$RATE_LIMIT" | jq '.rate.remaining')
-            LIMIT=$(echo "$RATE_LIMIT" | jq '.rate.limit')
-            RESET_TIME=$(echo "$RATE_LIMIT" | jq '.rate.reset')
-            RESET_TIME_HUMAN=$(date -d @"$RESET_TIME" '+%H:%M:%S')
-            
-            echo "GitHub API Rate Limit: $REMAINING/$LIMIT remaining, resets at $RESET_TIME_HUMAN"
-            
-            # Alert if running low on requests
-            if [ "$REMAINING" -lt 100 ]; then
-              echo "WARNING: Running low on API requests!"
-            fi
-          }
-
-          # Check initial rate limit
-          echo "Checking initial API rate limit status..."
-          check_rate_limit
 
           # Initialize a temporary file to store intermediate results
           TEMP_FILE=$(mktemp)
@@ -62,21 +49,6 @@ jobs:
               break
             fi
             
-            # Check for API errors - fixed to handle array responses
-            if echo "$REPOS" | jq -e 'type == "object" and has("message")' > /dev/null; then
-              ERROR_MSG=$(echo "$REPOS" | jq -r '.message')
-              echo "ERROR: GitHub API returned an error: $ERROR_MSG"
-              if [[ "$ERROR_MSG" == *"rate limit"* ]]; then
-                check_rate_limit
-                echo "Rate limit exceeded, exiting."
-                exit 1
-              fi
-              # For other errors, try to continue with the next page
-              PAGE=$((PAGE + 1))
-              sleep 1
-              continue
-            fi
-            
             REPOS_COUNT=$(echo "$REPOS" | jq '. | length')
             echo "Fetched page $PAGE with $REPOS_COUNT repositories"
             
@@ -93,9 +65,6 @@ jobs:
           TOTAL_COUNT=$(echo "$TOTAL_REPOS" | jq '. | length')
           echo "Total repositories fetched: $TOTAL_COUNT"
 
-          # Check rate limit before processing repositories
-          check_rate_limit
-
           # Process each repository
           echo "Processing repositories and determining languages..."
           echo "$TOTAL_REPOS" | jq -c '.[]' | while read -r REPO; do
@@ -104,34 +73,15 @@ jobs:
             REPO_URL=$(echo "$REPO" | jq -r '.html_url')
             REPO_DESCRIPTION=$(echo "$REPO" | jq -r '.description // "No description"')
             
-            echo "Processing: $REPO_FULL_NAME (Initial language: $REPO_LANGUAGE)"
-            
             # If the language is Unknown, try to determine it from the languages endpoint
             if [ "$REPO_LANGUAGE" = "Unknown" ]; then
               # Extract owner and repo name
               REPO_OWNER=$(echo "$REPO_FULL_NAME" | cut -d'/' -f1)
               REPO_NAME=$(echo "$REPO_FULL_NAME" | cut -d'/' -f2)
               
-              echo "  Attempting to determine language for $REPO_FULL_NAME..."
-              
               # Get languages data
               LANGUAGES_DATA=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/repos/$REPO_OWNER/$REPO_NAME/languages")
-              
-              # Add a small delay after API call
               sleep 1
-              
-              # Check for API errors - fixed to handle array responses
-              if echo "$LANGUAGES_DATA" | jq -e 'type == "object" and has("message")' > /dev/null; then
-                ERROR_MSG=$(echo "$LANGUAGES_DATA" | jq -r '.message')
-                echo "  ERROR: GitHub API returned an error: $ERROR_MSG"
-                if [[ "$ERROR_MSG" == *"rate limit"* ]]; then
-                  check_rate_limit
-                  echo "Rate limit exceeded, exiting."
-                  exit 1
-                fi
-                # For other errors, skip language detection and keep as Unknown
-                continue
-              fi
               
               # Check if any languages were found
               LANGUAGES_COUNT=$(echo "$LANGUAGES_DATA" | jq 'length')
@@ -140,23 +90,14 @@ jobs:
                 PRIMARY_LANG=$(echo "$LANGUAGES_DATA" | jq -r 'to_entries | max_by(.value) | .key')
                 
                 if [ -n "$PRIMARY_LANG" ] && [ "$PRIMARY_LANG" != "null" ]; then
-                  echo "  Found primary language: $PRIMARY_LANG"
                   REPO_LANGUAGE=$PRIMARY_LANG
-                else
-                  echo "  No valid primary language found, keeping as Unknown"
                 fi
-              else
-                echo "  No languages found, keeping as Unknown"
               fi
             fi
             
             # Append repository info to temporary file
             echo "$REPO_LANGUAGE|$REPO_FULL_NAME|$REPO_URL|$REPO_DESCRIPTION" >> "$TEMP_FILE"
           done
-
-          # Final rate limit check
-          echo "Final API rate limit status:"
-          check_rate_limit
 
           echo "Creating REPOS.md file..."
           echo "" > REPOS.md ## Clearing out any contents from previous REPOS.md
@@ -189,6 +130,11 @@ jobs:
           git config --global user.email "meefs-bot@rackhelp.com"
           git config --global credential.helper store
           echo "https://x-access-token:$GITHUB_TOKEN@github.com" > ~/.git-credentials
+
+          # Fetch latest changes before committing
+          echo "Fetching latest changes from remote..."
+          git fetch origin
+          git pull origin main --no-rebase
 
           # Commit and push if there are changes
           if [ -n "$(git status --porcelain)" ]; then
