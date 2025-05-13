@@ -62,8 +62,8 @@ jobs:
               break
             fi
             
-            # Check for API errors
-            if echo "$REPOS" | jq -e 'has("message")' > /dev/null; then
+            # Check for API errors - fixed to handle array responses
+            if echo "$REPOS" | jq -e 'type == "object" and has("message")' > /dev/null; then
               ERROR_MSG=$(echo "$REPOS" | jq -r '.message')
               echo "ERROR: GitHub API returned an error: $ERROR_MSG"
               if [[ "$ERROR_MSG" == *"rate limit"* ]]; then
@@ -71,6 +71,10 @@ jobs:
                 echo "Rate limit exceeded, exiting."
                 exit 1
               fi
+              # For other errors, try to continue with the next page
+              PAGE=$((PAGE + 1))
+              sleep 1
+              continue
             fi
             
             REPOS_COUNT=$(echo "$REPOS" | jq '. | length')
@@ -116,8 +120,8 @@ jobs:
               # Add a small delay after API call
               sleep 1
               
-              # Check for API errors
-              if echo "$LANGUAGES_DATA" | jq -e 'has("message")' > /dev/null; then
+              # Check for API errors - fixed to handle array responses
+              if echo "$LANGUAGES_DATA" | jq -e 'type == "object" and has("message")' > /dev/null; then
                 ERROR_MSG=$(echo "$LANGUAGES_DATA" | jq -r '.message')
                 echo "  ERROR: GitHub API returned an error: $ERROR_MSG"
                 if [[ "$ERROR_MSG" == *"rate limit"* ]]; then
@@ -125,6 +129,8 @@ jobs:
                   echo "Rate limit exceeded, exiting."
                   exit 1
                 fi
+                # For other errors, skip language detection and keep as Unknown
+                continue
               fi
               
               # Check if any languages were found
