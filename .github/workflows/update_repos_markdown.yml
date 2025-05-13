@@ -21,7 +21,7 @@ jobs:
 
           # Check if jq is installed
           if ! command -v jq &> /dev/null; then
-            echo "jq could not be found. Please ensure jq is installed in the runner environment."
+            echo "Apologies, jq could not be found. Please ensure jq is installed in the runner environment."
             exit 1
           fi
 
