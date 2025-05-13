@@ -184,6 +184,10 @@ jobs:
           git config --global credential.helper store
           echo "https://x-access-token:$GITHUB_TOKEN@github.com" > ~/.git-credentials
 
+          # Pull latest changes from remote to avoid rejection
+          echo "Pulling latest changes from remote repository..."
+          git pull --rebase origin main
+
           # Commit and push if there are changes
           if [ -n "$(git status --porcelain)" ]; then
             echo "Changes detected, committing and pushing..."
