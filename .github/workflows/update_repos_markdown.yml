@@ -1,30 +1,27 @@
 name: Update REPOS.md
-
 on:
   workflow_dispatch:
   schedule:
     - cron: '0 */4 * * *' # Runs every four hours
-
 jobs:
   update-repos-list:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repo
         uses: actions/checkout@v2
-      
       - name: Update REPOS.md with forked repositories
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }} # Using the specified token for authentication
         run: |
           #!/bin/bash
           set -e
-
+          
           # Check if jq is installed
           if ! command -v jq &> /dev/null; then
             echo "jq could not be found. Please ensure jq is installed in the runner environment."
             exit 1
           fi
-
+          
           # Function to check API rate limit status
           check_rate_limit() {
             RATE_LIMIT=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/rate_limit")
@@ -34,25 +31,18 @@ jobs:
             RESET_TIME_HUMAN=$(date -d @"$RESET_TIME" '+%H:%M:%S')
             
             echo "GitHub API Rate Limit: $REMAINING/$LIMIT remaining, resets at $RESET_TIME_HUMAN"
-            
-            # Alert if running low on requests
-            if [ "$REMAINING" -lt 100 ]; then
-              echo "WARNING: Running low on API requests!"
-            fi
           }
-
+          
           # Check initial rate limit
-          echo "Checking initial API rate limit status..."
+          echo "Checking API rate limit status..."
           check_rate_limit
-
+          
           # Initialize a temporary file to store intermediate results
           TEMP_FILE=$(mktemp)
           PAGE=1
           PER_PAGE=100
           TOTAL_REPOS="[]"
-
-          echo "Fetching repositories for user meefs..."
-
+          
           # Fetch all pages of forked repositories
           while true; do
             REPOS=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/users/meefs/repos?type=forks&per_page=$PER_PAGE&page=$PAGE")
@@ -61,20 +51,6 @@ jobs:
             if [ "$(echo "$REPOS" | jq '. | length')" -eq 0 ]; then
               break
             fi
-            
-            # Check for API errors
-            if echo "$REPOS" | jq -e 'has("message")' > /dev/null; then
-              ERROR_MSG=$(echo "$REPOS" | jq -r '.message')
-              echo "ERROR: GitHub API returned an error: $ERROR_MSG"
-              if [[ "$ERROR_MSG" == *"rate limit"* ]]; then
-                check_rate_limit
-                echo "Rate limit exceeded, exiting."
-                exit 1
-              fi
-            fi
-            
-            REPOS_COUNT=$(echo "$REPOS" | jq '. | length')
-            echo "Fetched page $PAGE with $REPOS_COUNT repositories"
             
             # Append the current page of repos to the total list
             TOTAL_REPOS=$(echo "$TOTAL_REPOS" "$REPOS" | jq -s 'add')
@@ -85,22 +61,13 @@ jobs:
             # Add a small delay to avoid hitting rate limits
             sleep 1
           done
-
-          TOTAL_COUNT=$(echo "$TOTAL_REPOS" | jq '. | length')
-          echo "Total repositories fetched: $TOTAL_COUNT"
-
-          # Check rate limit before processing repositories
-          check_rate_limit
-
+          
           # Process each repository
-          echo "Processing repositories and determining languages..."
           echo "$TOTAL_REPOS" | jq -c '.[]' | while read -r REPO; do
             REPO_FULL_NAME=$(echo "$REPO" | jq -r '.full_name')
             REPO_LANGUAGE=$(echo "$REPO" | jq -r '.language // "Unknown"')
             REPO_URL=$(echo "$REPO" | jq -r '.html_url')
             REPO_DESCRIPTION=$(echo "$REPO" | jq -r '.description // "No description"')
-            
-            echo "Processing: $REPO_FULL_NAME (Initial language: $REPO_LANGUAGE)"
             
             # If the language is Unknown, try to determine it from the languages endpoint
             if [ "$REPO_LANGUAGE" = "Unknown" ]; then
@@ -108,24 +75,11 @@ jobs:
               REPO_OWNER=$(echo "$REPO_FULL_NAME" | cut -d'/' -f1)
               REPO_NAME=$(echo "$REPO_FULL_NAME" | cut -d'/' -f2)
               
-              echo "  Attempting to determine language for $REPO_FULL_NAME..."
-              
               # Get languages data
               LANGUAGES_DATA=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/repos/$REPO_OWNER/$REPO_NAME/languages")
               
               # Add a small delay after API call
               sleep 1
-              
-              # Check for API errors
-              if echo "$LANGUAGES_DATA" | jq -e 'has("message")' > /dev/null; then
-                ERROR_MSG=$(echo "$LANGUAGES_DATA" | jq -r '.message')
-                echo "  ERROR: GitHub API returned an error: $ERROR_MSG"
-                if [[ "$ERROR_MSG" == *"rate limit"* ]]; then
-                  check_rate_limit
-                  echo "Rate limit exceeded, exiting."
-                  exit 1
-                fi
-              fi
               
               # Check if any languages were found
               LANGUAGES_COUNT=$(echo "$LANGUAGES_DATA" | jq 'length')
@@ -134,27 +88,17 @@ jobs:
                 PRIMARY_LANG=$(echo "$LANGUAGES_DATA" | jq -r 'to_entries | max_by(.value) | .key')
                 
                 if [ -n "$PRIMARY_LANG" ] && [ "$PRIMARY_LANG" != "null" ]; then
-                  echo "  Found primary language: $PRIMARY_LANG"
                   REPO_LANGUAGE=$PRIMARY_LANG
-                else
-                  echo "  No valid primary language found, keeping as Unknown"
                 fi
-              else
-                echo "  No languages found, keeping as Unknown"
               fi
             fi
             
             # Append repository info to temporary file
             echo "$REPO_LANGUAGE|$REPO_FULL_NAME|$REPO_URL|$REPO_DESCRIPTION" >> "$TEMP_FILE"
           done
-
-          # Final rate limit check
-          echo "Final API rate limit status:"
-          check_rate_limit
-
-          echo "Creating REPOS.md file..."
+          
           echo "" > REPOS.md ## Clearing out any contents from previous REPOS.md
-
+          
           # Sort and group by language
           PREV_LANG=""
           sort "$TEMP_FILE" | while IFS="|" read -r LANG NAME URL DESC; do
@@ -171,32 +115,22 @@ jobs:
             # Append repository info under the current language section
             echo "- [$NAME]($URL): $DESC" >> REPOS.md
           done
-
-          echo "REPOS.md generation complete."
-
+          
           # Remove temporary file
           rm "$TEMP_FILE"
-
+          
           # Git configuration
-          echo "Configuring Git..."
           git config --global user.name "GitHub Actions"
           git config --global user.email "meefs-bot@rackhelp.com"
           git config --global credential.helper store
           echo "https://x-access-token:$GITHUB_TOKEN@github.com" > ~/.git-credentials
-
-          # Pull latest changes from remote to avoid rejection
-          echo "Pulling latest changes from remote repository..."
-          git pull --rebase origin main
-
+          
           # Commit and push if there are changes
           if [ -n "$(git status --porcelain)" ]; then
-            echo "Changes detected, committing and pushing..."
             git add REPOS.md
             git commit -m "Update REPOS.md with forked repositories"
             git push
-            echo "REPOS.md has been updated and pushed."
           else
             echo "No changes to commit."
           fi
-
-          echo "Script completed successfully."
+          
