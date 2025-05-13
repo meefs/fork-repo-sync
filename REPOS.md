@@ -174,6 +174,7 @@
 - [meefs/2025-youtube-podcast-men-for-trump](https://github.com/meefs/2025-youtube-podcast-men-for-trump): Data from the Bloomberg News analysis on streamers and podcasters on YouTube
 - [meefs/Avionics-talk](https://github.com/meefs/Avionics-talk): No description
 - [meefs/Awesome-LLM](https://github.com/meefs/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
+- [meefs/Awesome-Multimodal-Prompts](https://github.com/meefs/Awesome-Multimodal-Prompts):  Prompts of GPT-4V & DALL-E3 to full utilize the multi-modal ability. GPT4V Prompts, DALL-E3 Prompts.
 - [meefs/Bash-Wizard](https://github.com/meefs/Bash-Wizard): a bash script generator
 - [meefs/CLIP-based-NSFW-Detector](https://github.com/meefs/CLIP-based-NSFW-Detector): No description
 - [meefs/CVE-2023-22047](https://github.com/meefs/CVE-2023-22047): Leveraging arbitrary file read to RCE on Oracle PeopleSoft
