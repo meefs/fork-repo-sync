@@ -5,6 +5,11 @@ on:
   schedule:
     - cron: '0 */4 * * *'
 
+# Add concurrency to prevent multiple runs interfering with each other
+concurrency:
+  group: sync-forks
+  cancel-in-progress: true
+
 jobs:
   sync-forks:
     runs-on: ubuntu-latest
