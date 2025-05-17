@@ -6,6 +6,7 @@
 - [meefs/Bash-Wizard](https://github.com/meefs/Bash-Wizard): a bash script generator
 
 ## C++
+- [meefs/BitNet](https://github.com/meefs/BitNet): Official inference framework for 1-bit LLMs
 - [meefs/GhostStrike](https://github.com/meefs/GhostStrike): Deploy stealthy reverse shells using advanced process hollowing with GhostStrike – a C++ tool for ethical hacking and Red Team operations.
 - [meefs/LeftoverLocalsRelease](https://github.com/meefs/LeftoverLocalsRelease): The public release of LeftoverLocals code
 - [meefs/llama.cpp](https://github.com/meefs/llama.cpp): LLM inference in C/C++
@@ -208,6 +209,7 @@
 - [meefs/jupyter](https://github.com/meefs/jupyter): A Waldiez JupyterLab extension.
 - [meefs/onchainkit](https://github.com/meefs/onchainkit): React components and TypeScript utilities to help you build top-tier onchain apps.
 - [meefs/revoke.cash](https://github.com/meefs/revoke.cash): ❌ Revoke or update your token approvals
+- [meefs/solana-web3.js](https://github.com/meefs/solana-web3.js): Solana JavaScript SDK
 - [meefs/wormhole](https://github.com/meefs/wormhole): A wormhole simulation.
 - [meefs/x402](https://github.com/meefs/x402): A payments protocol for the internet. Built on HTTP.
 - [meefs/zkDocAttestation](https://github.com/meefs/zkDocAttestation): Zero Knowledge Proof (ZKP) dapp for attestation and verification of documents
