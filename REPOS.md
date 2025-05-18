@@ -169,6 +169,7 @@
 - [meefs/bitcoinphone](https://github.com/meefs/bitcoinphone): Voice over the BitcoinSV protocol (made for CoinGeek 2021)
 - [meefs/halo2](https://github.com/meefs/halo2): The Halo2 zero-knowledge proving system
 - [meefs/iroh](https://github.com/meefs/iroh): peer-2-peer that just works
+- [meefs/ja4](https://github.com/meefs/ja4): JA4+ is a suite of network fingerprinting standards
 - [meefs/pingora](https://github.com/meefs/pingora): A library for building fast, reliable and evolvable network services.
 - [meefs/pkarr](https://github.com/meefs/pkarr): Public Key Addressable Resource Records (sovereign TLDs)
 - [meefs/portal](https://github.com/meefs/portal): 🔵🟠 Portal Explorer — web visualization of mind-blowing portals using ray-tracing.
