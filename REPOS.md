@@ -249,6 +249,7 @@
 - [meefs/octofomo](https://github.com/meefs/octofomo): No description
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
 - [meefs/salmonella](https://github.com/meefs/salmonella): Wrecking sandwich traders for fun and profit
+- [meefs/skills-github-pages](https://github.com/meefs/skills-github-pages): My clone repository
 - [meefs/solsec](https://github.com/meefs/solsec): A collection of resources to study Solana smart contract security, auditing, and exploits.
 - [meefs/xss-payload-list](https://github.com/meefs/xss-payload-list): 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 - [meefs/zk-learning-group](https://github.com/meefs/zk-learning-group): No description
