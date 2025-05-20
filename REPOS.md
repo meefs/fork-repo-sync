@@ -19,6 +19,7 @@
 - [meefs/whisper.cpp](https://github.com/meefs/whisper.cpp): Port of OpenAI's Whisper model in C/C++
 
 ## CSS
+- [meefs/SocialFish](https://github.com/meefs/SocialFish): Phishing Tool & Information Collector 
 - [meefs/skills-github-pages](https://github.com/meefs/skills-github-pages): My clone repository
 
 ## Clojure
@@ -141,6 +142,7 @@
 - [meefs/claimbuster-spotter](https://github.com/meefs/claimbuster-spotter): Adversarial Training on Transformer Networks to discover check-worthy factual claims
 - [meefs/deforum-stable-diffusion](https://github.com/meefs/deforum-stable-diffusion): Stable Diffusion Notebooks
 - [meefs/dmp_midi](https://github.com/meefs/dmp_midi): MIDI files for the patterns in the books "200 Drum Machine Patterns" & "260 Drum Machine Patterns"
+- [meefs/dnstwist](https://github.com/meefs/dnstwist): Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
 - [meefs/dronesploit](https://github.com/meefs/dronesploit): Drone pentesting framework console
 - [meefs/dstack](https://github.com/meefs/dstack): dstack is a lightweight, open-source alternative to Kubernetes & Slurm, simplifying AI container orchestration with multi-cloud & on-prem support. It natively supports NVIDIA, AMD, & TPU.
 - [meefs/entseeker](https://github.com/meefs/entseeker): entseeker is a command-line tool for Named Entity Recognition (NER) and web entity searches in text files. It uses spaCy's NLP capabilities for standard named entities and custom rules for web-related entities.
@@ -157,9 +159,11 @@
 - [meefs/shell_gpt](https://github.com/meefs/shell_gpt): A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
 - [meefs/skypilot](https://github.com/meefs/skypilot): SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
 - [meefs/slither](https://github.com/meefs/slither): Static Analyzer for Solidity
+- [meefs/splunk-dnstwist-cmd](https://github.com/meefs/splunk-dnstwist-cmd): Splunk add-on providing a custom command to generate lookalike domain permutations
 - [meefs/stable-diffusion-webui](https://github.com/meefs/stable-diffusion-webui): Stable Diffusion web UI
 - [meefs/stablediffusion](https://github.com/meefs/stablediffusion): High-Resolution Image Synthesis with Latent Diffusion Models
 - [meefs/style-transfer-pytorch](https://github.com/meefs/style-transfer-pytorch): Neural style transfer in PyTorch.
+- [meefs/subzuf](https://github.com/meefs/subzuf): a smart DNS response-guided subdomain fuzzer
 - [meefs/tinygrad](https://github.com/meefs/tinygrad): You like pytorch? You like micrograd? You love tinygrad! ❤️ 
 - [meefs/ultralytics](https://github.com/meefs/ultralytics): Ultralytics YOLO11 🚀
 - [meefs/unsloth](https://github.com/meefs/unsloth): Finetune Llama 3.2, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
