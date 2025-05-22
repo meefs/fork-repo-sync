@@ -268,6 +268,7 @@
 - [meefs/graph-fraud-detection-papers](https://github.com/meefs/graph-fraud-detection-papers): A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
 - [meefs/meefs.github.io](https://github.com/meefs/meefs.github.io): No description
 - [meefs/meefs](https://github.com/meefs/meefs): Forks, Models, and Notebooks
+- [meefs/moviepy](https://github.com/meefs/moviepy): Experiments with moviepy
 - [meefs/o1assist](https://github.com/meefs/o1assist): Early days with chatgpt Operator service
 - [meefs/octofomo](https://github.com/meefs/octofomo): No description
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
