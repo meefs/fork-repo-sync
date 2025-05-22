@@ -165,6 +165,7 @@
 - [meefs/llm-attacks](https://github.com/meefs/llm-attacks): Universal and Transferable Attacks on Aligned Language Models
 - [meefs/llm-engine](https://github.com/meefs/llm-engine): Scale LLM Engine public repository
 - [meefs/modelscan](https://github.com/meefs/modelscan): Protection against Model Serialization Attacks
+- [meefs/moviepy](https://github.com/meefs/moviepy): Experiments with moviepy
 - [meefs/picklescan](https://github.com/meefs/picklescan): Security scanner detecting Python Pickle files performing suspicious actions
 - [meefs/shell_gpt](https://github.com/meefs/shell_gpt): A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
 - [meefs/sherlock](https://github.com/meefs/sherlock): Hunt down social media accounts by username across social networks
@@ -268,7 +269,6 @@
 - [meefs/graph-fraud-detection-papers](https://github.com/meefs/graph-fraud-detection-papers): A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
 - [meefs/meefs.github.io](https://github.com/meefs/meefs.github.io): No description
 - [meefs/meefs](https://github.com/meefs/meefs): Forks, Models, and Notebooks
-- [meefs/moviepy](https://github.com/meefs/moviepy): Experiments with moviepy
 - [meefs/o1assist](https://github.com/meefs/o1assist): Early days with chatgpt Operator service
 - [meefs/octofomo](https://github.com/meefs/octofomo): No description
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
