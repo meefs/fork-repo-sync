@@ -69,6 +69,7 @@
 - [meefs/skills-getting-started-with-github-copilot](https://github.com/meefs/skills-getting-started-with-github-copilot): Exercise: Get started using GitHub Copilot
 - [meefs/splat](https://github.com/meefs/splat): WebGL 3D Gaussian Splat Viewer
 - [meefs/tt-research](https://github.com/meefs/tt-research): Motivated by recent success of the truth_terminal meta this is created as an open research repository of keen finds
+- [meefs/zk-learning-group](https://github.com/meefs/zk-learning-group): No description
 
 ## Java
 - [meefs/eureka](https://github.com/meefs/eureka): AWS Service registry for resilient mid-tier load balancing and failover.
@@ -281,7 +282,6 @@
 - [meefs/salmonella](https://github.com/meefs/salmonella): Wrecking sandwich traders for fun and profit
 - [meefs/solsec](https://github.com/meefs/solsec): A collection of resources to study Solana smart contract security, auditing, and exploits.
 - [meefs/xss-payload-list](https://github.com/meefs/xss-payload-list): 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
-- [meefs/zk-learning-group](https://github.com/meefs/zk-learning-group): No description
 
 ## Vim Script
 - [meefs/llama.vim](https://github.com/meefs/llama.vim): Vim plugin for LLM-assisted code/text completion
