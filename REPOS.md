@@ -159,6 +159,7 @@
 - [meefs/exo](https://github.com/meefs/exo): Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [meefs/frame-interpolation](https://github.com/meefs/frame-interpolation): FILM: Frame Interpolation for Large Motion, In arXiv 2022.
 - [meefs/gitingest](https://github.com/meefs/gitingest): Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
+- [meefs/harlequin](https://github.com/meefs/harlequin): The SQL IDE for Your Terminal.
 - [meefs/jepa](https://github.com/meefs/jepa): PyTorch code and models for V-JEPA self-supervised learning from video.
 - [meefs/large_concept_model](https://github.com/meefs/large_concept_model): Large Concept Models: Language modeling in a sentence representation space
 - [meefs/llama-stack](https://github.com/meefs/llama-stack): Model components of the Llama Stack APIs
@@ -177,6 +178,7 @@
 - [meefs/stablediffusion](https://github.com/meefs/stablediffusion): High-Resolution Image Synthesis with Latent Diffusion Models
 - [meefs/style-transfer-pytorch](https://github.com/meefs/style-transfer-pytorch): Neural style transfer in PyTorch.
 - [meefs/subzuf](https://github.com/meefs/subzuf): a smart DNS response-guided subdomain fuzzer
+- [meefs/textual](https://github.com/meefs/textual): The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [meefs/tinygrad](https://github.com/meefs/tinygrad): You like pytorch? You like micrograd? You love tinygrad! ❤️ 
 - [meefs/ultralytics](https://github.com/meefs/ultralytics): Ultralytics YOLO11 🚀
 - [meefs/unsloth](https://github.com/meefs/unsloth): Finetune Llama 3.2, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
@@ -194,6 +196,7 @@
 - [meefs/pingora](https://github.com/meefs/pingora): A library for building fast, reliable and evolvable network services.
 - [meefs/pkarr](https://github.com/meefs/pkarr): Public Key Addressable Resource Records (sovereign TLDs)
 - [meefs/portal](https://github.com/meefs/portal): 🔵🟠 Portal Explorer — web visualization of mind-blowing portals using ray-tracing.
+- [meefs/pyxel](https://github.com/meefs/pyxel): A retro game engine for Python
 - [meefs/sendme](https://github.com/meefs/sendme): A tool to send files and directories, based on iroh
 - [meefs/steel](https://github.com/meefs/steel): Solana smart contract framework.
 
