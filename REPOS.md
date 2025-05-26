@@ -270,7 +270,7 @@
 - [meefs/camenduru](https://github.com/meefs/camenduru): No description
 - [meefs/code-my-crown](https://github.com/meefs/code-my-crown): No description
 - [meefs/film](https://github.com/meefs/film): Custom implementation of Google FILM interpolation software
-- [meefs/fork-repo-sync](https://github.com/meefs/fork-repo-sync): Collection of GitHub actions to sync my forks 
+- [meefs/fork-repo-sync](https://github.com/meefs/fork-repo-sync): A collection of GitHub Actions to automate the management of 100+ repositories
 - [meefs/gitaudio](https://github.com/meefs/gitaudio): No description
 - [meefs/github-pages](https://github.com/meefs/github-pages): My clone repository
 - [meefs/graph-fraud-detection-papers](https://github.com/meefs/graph-fraud-detection-papers): A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
