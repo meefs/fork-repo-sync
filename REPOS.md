@@ -6,6 +6,7 @@
 - [meefs/Bash-Wizard](https://github.com/meefs/Bash-Wizard): a bash script generator
 
 ## C++
+- [meefs/CnC_Generals_Zero_Hour](https://github.com/meefs/CnC_Generals_Zero_Hour): Command and Conquer: Generals - Zero Hour
 - [meefs/GhostStrike](https://github.com/meefs/GhostStrike): Deploy stealthy reverse shells using advanced process hollowing with GhostStrike – a C++ tool for ethical hacking and Red Team operations.
 - [meefs/LeftoverLocalsRelease](https://github.com/meefs/LeftoverLocalsRelease): The public release of LeftoverLocals code
 - [meefs/chromium](https://github.com/meefs/chromium): The official GitHub mirror of the Chromium source
