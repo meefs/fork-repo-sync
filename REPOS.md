@@ -280,6 +280,7 @@
 - [meefs/o1assist](https://github.com/meefs/o1assist): Early days with chatgpt Operator service
 - [meefs/octofomo](https://github.com/meefs/octofomo): No description
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
+- [meefs/pravda-network-dissemination-data](https://github.com/meefs/pravda-network-dissemination-data): This repository contains data used for the Pravda Network dissemination investigation. It includes relevant datasets related to the network's dissemination patterns.
 - [meefs/resolvers](https://github.com/meefs/resolvers): The most exhaustive list of reliable DNS resolvers.
 - [meefs/salmonella](https://github.com/meefs/salmonella): Wrecking sandwich traders for fun and profit
 - [meefs/solsec](https://github.com/meefs/solsec): A collection of resources to study Solana smart contract security, auditing, and exploits.
