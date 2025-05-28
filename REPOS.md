@@ -207,6 +207,7 @@
 - [meefs/Curated_Data](https://github.com/meefs/Curated_Data): Set of runstreams to read in and clean up lots of various data
 
 ## Shell
+- [meefs/claude-code](https://github.com/meefs/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
 - [meefs/iTerm2-Color-Schemes](https://github.com/meefs/iTerm2-Color-Schemes): Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
 - [meefs/ipranges](https://github.com/meefs/ipranges): 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
