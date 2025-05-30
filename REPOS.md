@@ -23,6 +23,7 @@
 
 ## CSS
 - [meefs/SocialFish](https://github.com/meefs/SocialFish): Phishing Tool & Information Collector 
+- [meefs/packgod](https://github.com/meefs/packgod): Repository for a packgod roast generator im developing
 - [meefs/skills-github-pages](https://github.com/meefs/skills-github-pages): My clone repository
 
 ## Clojure
@@ -120,6 +121,7 @@
 
 ## Python
 - [meefs/3d-guided-genai-rtx](https://github.com/meefs/3d-guided-genai-rtx): No description
+- [meefs/ACE-Step](https://github.com/meefs/ACE-Step): ACE-Step: A Step Towards Music Generation Foundation Model
 - [meefs/BitNet](https://github.com/meefs/BitNet): Official inference framework for 1-bit LLMs
 - [meefs/CLIP-based-NSFW-Detector](https://github.com/meefs/CLIP-based-NSFW-Detector): No description
 - [meefs/ChaosNLI](https://github.com/meefs/ChaosNLI): [EMNLP 2020] Collective HumAn OpinionS on Natural Language Inference Data
