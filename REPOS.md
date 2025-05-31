@@ -235,6 +235,7 @@
 
 ## TypeScript
 - [meefs/Raydium-Bundler-Extra-Bot-V4-Avoid-Bubblemaps](https://github.com/meefs/Raydium-Bundler-Extra-Bot-V4-Avoid-Bubblemaps): This is the extra bot of Raydium bundler to avoid detecting from bubble maps with JITO
+- [meefs/SnitchBench](https://github.com/meefs/SnitchBench): No description
 - [meefs/TypeChain](https://github.com/meefs/TypeChain): 🔌 TypeScript bindings for Ethereum smart contracts
 - [meefs/ai-agent-cognitivedriftt](https://github.com/meefs/ai-agent-cognitivedriftt): Cognitive Drift AI Agent
 - [meefs/ai-brainstore](https://github.com/meefs/ai-brainstore): A proof-of-concept of a brain for an AI agent.
