@@ -102,7 +102,6 @@
 - [meefs/fastbook](https://github.com/meefs/fastbook): The fastai book, published as Jupyter Notebooks
 - [meefs/illusion-diffusion-stable](https://github.com/meefs/illusion-diffusion-stable): This project works by using Monster Labs QR Control Net. Given a prompt and your pattern, we use a QR code conditioned controlnet to create a stunning illusion! Credit to: MrUgleh & AP123
 - [meefs/llama-recipes](https://github.com/meefs/llama-recipes): Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger.
-- [meefs/llm-course](https://github.com/meefs/llm-course): Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [meefs/mujoco](https://github.com/meefs/mujoco): Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [meefs/prompt-eng-interactive-tutorial](https://github.com/meefs/prompt-eng-interactive-tutorial): Anthropic's Interactive Prompt Engineering Tutorial
 - [meefs/prompt-to-prompt](https://github.com/meefs/prompt-to-prompt): No description
@@ -281,6 +280,7 @@
 - [meefs/gitaudio](https://github.com/meefs/gitaudio): No description
 - [meefs/github-pages](https://github.com/meefs/github-pages): My clone repository
 - [meefs/graph-fraud-detection-papers](https://github.com/meefs/graph-fraud-detection-papers): A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
+- [meefs/llm-course](https://github.com/meefs/llm-course): Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [meefs/meefs.github.io](https://github.com/meefs/meefs.github.io): No description
 - [meefs/meefs](https://github.com/meefs/meefs): Forks, Models, and Notebooks
 - [meefs/o1assist](https://github.com/meefs/o1assist): Early days with chatgpt Operator service
