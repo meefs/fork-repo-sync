@@ -20,6 +20,7 @@
 - [meefs/shadPS4](https://github.com/meefs/shadPS4): PS4 emulator for Windows,Linux,MacOS
 - [meefs/stable-diffusion.cpp](https://github.com/meefs/stable-diffusion.cpp): Stable Diffusion in pure C/C++
 - [meefs/whisper.cpp](https://github.com/meefs/whisper.cpp): Port of OpenAI's Whisper model in C/C++
+- [meefs/zeek](https://github.com/meefs/zeek): Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 
 ## CSS
 - [meefs/SocialFish](https://github.com/meefs/SocialFish): Phishing Tool & Information Collector 
