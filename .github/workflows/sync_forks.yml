@@ -47,7 +47,8 @@ jobs:
           SKIP_COUNT=0
           FAIL_COUNT=0
 
-          # Arrays to store names of failed repos (optional: you could do similarly for skipped)
+          # Arrays to store names of skipped and failed repos
+          SKIPPED_REPOS=()
           FAILED_REPOS=()
 
           while true; do
@@ -74,14 +75,17 @@ jobs:
               if [ "$HTTP_STATUS" = "404" ]; then
                 echo -e "${YELLOW}Repo ${REPO_FULL_NAME} not found (404). Skipping...${RESET}"
                 SKIP_COUNT=$((SKIP_COUNT+1))
+                SKIPPED_REPOS+=("$REPO_FULL_NAME")
                 continue
               elif [ "$HTTP_STATUS" = "401" ]; then
                 echo -e "${RED}401 Unauthorized for ${REPO_FULL_NAME}. Skipping...${RESET}"
                 SKIP_COUNT=$((SKIP_COUNT+1))
+                SKIPPED_REPOS+=("$REPO_FULL_NAME")
                 continue
               elif [ "$HTTP_STATUS" = "403" ]; then
                 echo -e "${RED}403 Forbidden for ${REPO_FULL_NAME}. Possibly rate-limited. Skipping...${RESET}"
                 SKIP_COUNT=$((SKIP_COUNT+1))
+                SKIPPED_REPOS+=("$REPO_FULL_NAME")
                 continue
               fi
 
@@ -92,6 +96,7 @@ jobs:
               if [[ -z "$UPSTREAM_CLONE_URL" ]]; then
                 echo -e "${YELLOW}No upstream found for ${REPO_FULL_NAME}. Skipping...${RESET}"
                 SKIP_COUNT=$((SKIP_COUNT+1))
+                SKIPPED_REPOS+=("$REPO_FULL_NAME")
                 continue
               fi
 
@@ -132,6 +137,7 @@ jobs:
                 cd ..
                 rm -rf "$REPO_NAME"
                 SKIP_COUNT=$((SKIP_COUNT+1))
+                SKIPPED_REPOS+=("$REPO_FULL_NAME")
                 continue
               fi
 
@@ -182,6 +188,14 @@ jobs:
           echo "  Success: $SUCCESS_COUNT"
           echo "  Skipped: $SKIP_COUNT"
           echo "  Failed:  $FAIL_COUNT"
+
+          # If we had skipped repos, list them
+          if [ "$SKIP_COUNT" -gt 0 ]; then
+            echo -e "${YELLOW}Skipped Repositories:${RESET}"
+            for SR in "${SKIPPED_REPOS[@]}"; do
+              echo "  $SR"
+            done
+          fi
 
           # If we had failures, list them
           if [ "$FAIL_COUNT" -gt 0 ]; then
