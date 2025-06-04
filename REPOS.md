@@ -75,6 +75,7 @@
 - [meefs/zk-learning-group](https://github.com/meefs/zk-learning-group): No description
 
 ## Java
+- [meefs/cbomkit](https://github.com/meefs/cbomkit): A toolset for dealing with Cryptography Bill of Materials (CBOM)
 - [meefs/eureka](https://github.com/meefs/eureka): AWS Service registry for resilient mid-tier load balancing and failover.
 
 ## Jupyter Notebook
@@ -269,12 +270,14 @@
 - [meefs/Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/meefs/Smart-Contract-Auditor-Tools-and-Techniques): This repo contains a comprehensive list of smart contract auditor tools and techniques that can be utilized by both smart contract auditors and blockchain developers for developing secure smart contracts
 - [meefs/SuperPrompt](https://github.com/meefs/SuperPrompt): No description
 - [meefs/TouchOSC](https://github.com/meefs/TouchOSC): A collection of examples and modules for TouchOSC MK2
+- [meefs/advisory-database](https://github.com/meefs/advisory-database): Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 - [meefs/algorithms](https://github.com/meefs/algorithms): Bug-tracking for Jeff's algorithms book, notes, etc.
 - [meefs/at-command-set](https://github.com/meefs/at-command-set): ESP8266 AT+ Command Set
 - [meefs/awesome--sora-prompts](https://github.com/meefs/awesome--sora-prompts): A reference containing Visual Style Prompt and Editing Style Prompt that you can use with Sora AI. 
 - [meefs/awesome-claude-prompts](https://github.com/meefs/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
 - [meefs/awesome-deepseek-integration](https://github.com/meefs/awesome-deepseek-integration): No description
 - [meefs/awesome-foundation-agents](https://github.com/meefs/awesome-foundation-agents): About Awesome things towards foundation agents. Papers / Repos / Blogs / ...
+- [meefs/awesome-nodejs](https://github.com/meefs/awesome-nodejs): :zap: Delightful Node.js packages and resources
 - [meefs/camenduru](https://github.com/meefs/camenduru): No description
 - [meefs/code-my-crown](https://github.com/meefs/code-my-crown): No description
 - [meefs/film](https://github.com/meefs/film): Custom implementation of Google FILM interpolation software
@@ -299,6 +302,9 @@
 
 ## Vue
 - [meefs/scale-workshop](https://github.com/meefs/scale-workshop): Design and visualize microtonal scales and play them in your web browser. Export your scales for use with VST instruments. Convert Scala files to various tuning formats.
+
+## Wikitext
+- [meefs/bips](https://github.com/meefs/bips): Bitcoin Improvement Proposals
 
 ## block
 - [meefs/rust-stealer](https://github.com/meefs/rust-stealer): Simple Rust Stealer
