@@ -50,6 +50,7 @@
 - [meefs/meemaw](https://github.com/meefs/meemaw): Trustless and Grandma-friendly Wallet as a Service
 
 ## HTML
+- [meefs/NSA-Playset](https://github.com/meefs/NSA-Playset): Mirror of the NSA Playset Project
 - [meefs/TheBigPromptLibrary](https://github.com/meefs/TheBigPromptLibrary): A collection of prompts, system prompts and LLM instructions
 - [meefs/awesome-compose](https://github.com/meefs/awesome-compose): Awesome Docker Compose samples
 - [meefs/cve](https://github.com/meefs/cve): Gather and update all available and newest CVEs with their PoC.
