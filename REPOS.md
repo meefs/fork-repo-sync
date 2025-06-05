@@ -10,6 +10,7 @@
 - [meefs/GhostStrike](https://github.com/meefs/GhostStrike): Deploy stealthy reverse shells using advanced process hollowing with GhostStrike – a C++ tool for ethical hacking and Red Team operations.
 - [meefs/LeftoverLocalsRelease](https://github.com/meefs/LeftoverLocalsRelease): The public release of LeftoverLocals code
 - [meefs/chromium](https://github.com/meefs/chromium): The official GitHub mirror of the Chromium source
+- [meefs/dawn](https://github.com/meefs/dawn): Native WebGPU implementation. Mirror of https://dawn.googlesource.com/dawn. File bugs here: https://crbug.com/dawn/new
 - [meefs/ggml](https://github.com/meefs/ggml): Tensor library for machine learning
 - [meefs/llama.cpp](https://github.com/meefs/llama.cpp): LLM inference in C/C++
 - [meefs/m4l-connection-kit](https://github.com/meefs/m4l-connection-kit): Max for Live Connection Kit
