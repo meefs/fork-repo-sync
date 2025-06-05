@@ -75,6 +75,7 @@
 - [meefs/zk-learning-group](https://github.com/meefs/zk-learning-group): No description
 
 ## Java
+- [meefs/cbomkit-action](https://github.com/meefs/cbomkit-action): GitHub Action to generate Cryptography Bill of Materials (CBOM)
 - [meefs/cbomkit](https://github.com/meefs/cbomkit): A toolset for dealing with Cryptography Bill of Materials (CBOM)
 - [meefs/eureka](https://github.com/meefs/eureka): AWS Service registry for resilient mid-tier load balancing and failover.
 
