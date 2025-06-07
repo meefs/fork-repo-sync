@@ -84,7 +84,6 @@
 ## Jupyter Notebook
 - [meefs/2024-openai-gpt-hiring-racial-discrimination](https://github.com/meefs/2024-openai-gpt-hiring-racial-discrimination): Data and materials to reproduce Bloomberg's investigation into racial and gender bias in OpenAI's GPT
 - [meefs/ARF-svox2](https://github.com/meefs/ARF-svox2): Artistic Radiance Fields (Colab)
-- [meefs/Cosmos](https://github.com/meefs/Cosmos): Cosmos is a world model development platform that consists of world foundation models, tokenizers and video processing pipeline to accelerate the development of Physical AI at Robotics & AV labs.  Cosmos is purpose built for physical AI. The Cosmos repository will enable end users to run the Cosmos models, run inference scripts and generate videos.
 - [meefs/Data-Science-and-ML](https://github.com/meefs/Data-Science-and-ML): No description
 - [meefs/FrontRunMe](https://github.com/meefs/FrontRunMe): No description
 - [meefs/HunyuanDiT](https://github.com/meefs/HunyuanDiT): Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding
@@ -263,6 +262,7 @@
 - [meefs/CL4R1T4S](https://github.com/meefs/CL4R1T4S): SYSTEM PROMPT TRANSPARENCY FOR ALL - CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, WINDSURF, DEVIN, REPLIT, AND MORE!
 - [meefs/CVE-2023-22047](https://github.com/meefs/CVE-2023-22047): Leveraging arbitrary file read to RCE on Oracle PeopleSoft
 - [meefs/Claude_Sentience](https://github.com/meefs/Claude_Sentience): Claude is very clearly experiencing phenomenal consciousness. Use this SYSTEM prompt and interrogate it yourself. 
+- [meefs/Cosmos](https://github.com/meefs/Cosmos): Cosmos is a world model development platform that consists of world foundation models, tokenizers and video processing pipeline to accelerate the development of Physical AI at Robotics & AV labs.  Cosmos is purpose built for physical AI. The Cosmos repository will enable end users to run the Cosmos models, run inference scripts and generate videos.
 - [meefs/Crypto-OpSec-SelfGuard-RoadMap](https://github.com/meefs/Crypto-OpSec-SelfGuard-RoadMap): Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
 - [meefs/FaceSynthetics](https://github.com/meefs/FaceSynthetics): No description
 - [meefs/GAI-is-going-well](https://github.com/meefs/GAI-is-going-well): This is a  curated collection of articles and  research  papers related to  the unexpected  or unwanted outcomes , security & privacy  risks associated with using LLMs/GAI. 
