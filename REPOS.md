@@ -281,6 +281,7 @@
 - [meefs/awesome-deepseek-integration](https://github.com/meefs/awesome-deepseek-integration): No description
 - [meefs/awesome-foundation-agents](https://github.com/meefs/awesome-foundation-agents): About Awesome things towards foundation agents. Papers / Repos / Blogs / ...
 - [meefs/awesome-nodejs](https://github.com/meefs/awesome-nodejs): :zap: Delightful Node.js packages and resources
+- [meefs/awesome-post-quantum](https://github.com/meefs/awesome-post-quantum): A curated list of resources about post-quantum cryptography.
 - [meefs/camenduru](https://github.com/meefs/camenduru): No description
 - [meefs/code-my-crown](https://github.com/meefs/code-my-crown): No description
 - [meefs/film](https://github.com/meefs/film): Custom implementation of Google FILM interpolation software
