@@ -52,6 +52,7 @@
 ## HTML
 - [meefs/NSA-Playset](https://github.com/meefs/NSA-Playset): Mirror of the NSA Playset Project
 - [meefs/TheBigPromptLibrary](https://github.com/meefs/TheBigPromptLibrary): A collection of prompts, system prompts and LLM instructions
+- [meefs/agentic-book](https://github.com/meefs/agentic-book): An AI-generated book exploring how artificial intelligence development reveals hidden patterns in human cognition and communication
 - [meefs/awesome-compose](https://github.com/meefs/awesome-compose): Awesome Docker Compose samples
 - [meefs/cve](https://github.com/meefs/cve): Gather and update all available and newest CVEs with their PoC.
 - [meefs/docs](https://github.com/meefs/docs): documentation for content creation
