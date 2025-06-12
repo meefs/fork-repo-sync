@@ -194,6 +194,7 @@
 - [meefs/sherlock](https://github.com/meefs/sherlock): Hunt down social media accounts by username across social networks
 - [meefs/skypilot](https://github.com/meefs/skypilot): SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
 - [meefs/slither](https://github.com/meefs/slither): Static Analyzer for Solidity
+- [meefs/sparc](https://github.com/meefs/sparc): No description
 - [meefs/splunk-dnstwist-cmd](https://github.com/meefs/splunk-dnstwist-cmd): Splunk add-on providing a custom command to generate lookalike domain permutations
 - [meefs/stable-diffusion-webui](https://github.com/meefs/stable-diffusion-webui): Stable Diffusion web UI
 - [meefs/stablediffusion](https://github.com/meefs/stablediffusion): High-Resolution Image Synthesis with Latent Diffusion Models
@@ -229,6 +230,7 @@
 
 ## Shell
 - [meefs/claude-code](https://github.com/meefs/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+- [meefs/claude-sparc](https://github.com/meefs/claude-sparc): No description
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
 - [meefs/iTerm2-Color-Schemes](https://github.com/meefs/iTerm2-Color-Schemes): Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
 - [meefs/ipranges](https://github.com/meefs/ipranges): 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
@@ -246,6 +248,7 @@
 
 ## Swift
 - [meefs/alt-tab-macos](https://github.com/meefs/alt-tab-macos): Windows alt-tab on macOS 
+- [meefs/container](https://github.com/meefs/container): A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon. 
 - [meefs/sam2-studio](https://github.com/meefs/sam2-studio): No description
 
 ## Text
@@ -258,6 +261,7 @@
 - [meefs/ai-agent-cognitivedriftt](https://github.com/meefs/ai-agent-cognitivedriftt): Cognitive Drift AI Agent
 - [meefs/ai-brainstore](https://github.com/meefs/ai-brainstore): A proof-of-concept of a brain for an AI agent.
 - [meefs/anthropic-quickstarts](https://github.com/meefs/anthropic-quickstarts): A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
+- [meefs/claude-code-flow](https://github.com/meefs/claude-code-flow): This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
 - [meefs/cobold](https://github.com/meefs/cobold): telegram bot for downloading media, powered by cobalt
 - [meefs/eth-phishing-detect](https://github.com/meefs/eth-phishing-detect): Utility for detecting phishing domains targeting Web3 users
 - [meefs/jitsi-meet](https://github.com/meefs/jitsi-meet): Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
@@ -300,12 +304,14 @@
 - [meefs/awesome-nodejs](https://github.com/meefs/awesome-nodejs): :zap: Delightful Node.js packages and resources
 - [meefs/awesome-post-quantum](https://github.com/meefs/awesome-post-quantum): A curated list of resources about post-quantum cryptography.
 - [meefs/camenduru](https://github.com/meefs/camenduru): No description
+- [meefs/claude-deep-research](https://github.com/meefs/claude-deep-research): Claude Deep Research config for Claude Code.
 - [meefs/code-my-crown](https://github.com/meefs/code-my-crown): No description
 - [meefs/film](https://github.com/meefs/film): Custom implementation of Google FILM interpolation software
 - [meefs/fork-repo-sync](https://github.com/meefs/fork-repo-sync): A collection of GitHub Actions to automate the management of 100+ repositories
 - [meefs/gitaudio](https://github.com/meefs/gitaudio): No description
 - [meefs/github-pages](https://github.com/meefs/github-pages): My clone repository
 - [meefs/graph-fraud-detection-papers](https://github.com/meefs/graph-fraud-detection-papers): A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
+- [meefs/leaked-system-prompts](https://github.com/meefs/leaked-system-prompts): Collection of leaked system prompts
 - [meefs/llm-course](https://github.com/meefs/llm-course): Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [meefs/meefs.github.io](https://github.com/meefs/meefs.github.io): No description
 - [meefs/meefs](https://github.com/meefs/meefs): Forks, Models, and Notebooks
