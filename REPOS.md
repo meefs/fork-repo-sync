@@ -1,6 +1,7 @@
 
 ## Assembly
 - [meefs/MS-DOS](https://github.com/meefs/MS-DOS): The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
+- [meefs/gb-asm-tutorial](https://github.com/meefs/gb-asm-tutorial): Learn to create games for the Game Boy using Assembly
 
 ## C#
 - [meefs/Bash-Wizard](https://github.com/meefs/Bash-Wizard): a bash script generator
