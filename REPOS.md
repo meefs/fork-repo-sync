@@ -320,6 +320,7 @@
 - [meefs/gitaudio](https://github.com/meefs/gitaudio): No description
 - [meefs/github-pages](https://github.com/meefs/github-pages): My clone repository
 - [meefs/graph-fraud-detection-papers](https://github.com/meefs/graph-fraud-detection-papers): A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
+- [meefs/indicators](https://github.com/meefs/indicators): Indicators of Compromise (IOCs) from malware or suspicious network traffic
 - [meefs/leaked-system-prompts](https://github.com/meefs/leaked-system-prompts): Collection of leaked system prompts
 - [meefs/llm-course](https://github.com/meefs/llm-course): Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [meefs/meefs.github.io](https://github.com/meefs/meefs.github.io): No description
