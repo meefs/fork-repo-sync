@@ -57,6 +57,7 @@
 - [meefs/meemaw](https://github.com/meefs/meemaw): Trustless and Grandma-friendly Wallet as a Service
 
 ## HTML
+- [meefs/GTFOBins.github.io](https://github.com/meefs/GTFOBins.github.io): GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [meefs/NSA-Playset](https://github.com/meefs/NSA-Playset): Mirror of the NSA Playset Project
 - [meefs/TheBigPromptLibrary](https://github.com/meefs/TheBigPromptLibrary): A collection of prompts, system prompts and LLM instructions
 - [meefs/Top10](https://github.com/meefs/Top10): Official OWASP Top 10 Document Repository
