@@ -94,6 +94,9 @@
 - [meefs/cbomkit](https://github.com/meefs/cbomkit): A toolset for dealing with Cryptography Bill of Materials (CBOM)
 - [meefs/eureka](https://github.com/meefs/eureka): AWS Service registry for resilient mid-tier load balancing and failover.
 
+## Jinja
+- [meefs/LLM-Prompt-Library](https://github.com/meefs/LLM-Prompt-Library): Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
+
 ## Jupyter Notebook
 - [meefs/2024-openai-gpt-hiring-racial-discrimination](https://github.com/meefs/2024-openai-gpt-hiring-racial-discrimination): Data and materials to reproduce Bloomberg's investigation into racial and gender bias in OpenAI's GPT
 - [meefs/ARF-svox2](https://github.com/meefs/ARF-svox2): Artistic Radiance Fields (Colab)
@@ -148,7 +151,6 @@
 - [meefs/GFPGAN](https://github.com/meefs/GFPGAN): GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [meefs/Hunyuan3D-2.1](https://github.com/meefs/Hunyuan3D-2.1): From Images to High-Fidelity 3D Assets with Production-Ready PBR Material
 - [meefs/ImageBind](https://github.com/meefs/ImageBind): ImageBind One Embedding Space to Bind Them All
-- [meefs/LLM-Prompt-Library](https://github.com/meefs/LLM-Prompt-Library): Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 - [meefs/MMAudio](https://github.com/meefs/MMAudio): [arXiv 2024] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
 - [meefs/MiniMax-01](https://github.com/meefs/MiniMax-01): No description
 - [meefs/MultiDocumentAnswering](https://github.com/meefs/MultiDocumentAnswering): Experiment to answer questions from arbitrary number of sources
