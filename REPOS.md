@@ -176,7 +176,6 @@
 - [meefs/bandit](https://github.com/meefs/bandit): Bandit is a tool designed to find common security issues in Python code.
 - [meefs/bug-bounty-labs](https://github.com/meefs/bug-bounty-labs): All the labs in this repository simulate real world bugs I found in the wild
 - [meefs/bulk-whois](https://github.com/meefs/bulk-whois): This Python script performs bulk Whois lookups for both hostnames and IP addresses, providing information such as IP address, ASN (Autonomous System Number), AS Name, and associated country
-- [meefs/cdp-agentkit](https://github.com/meefs/cdp-agentkit): No description
 - [meefs/cinematic-gaussians](https://github.com/meefs/cinematic-gaussians): Code for our paper "Application of 3D Gaussian Splatting for Cinematic Anatomy on Consumer Class Devices"
 - [meefs/claimbuster-spotter](https://github.com/meefs/claimbuster-spotter): Adversarial Training on Transformer Networks to discover check-worthy factual claims
 - [meefs/deforum-stable-diffusion](https://github.com/meefs/deforum-stable-diffusion): Stable Diffusion Notebooks
@@ -213,6 +212,7 @@
 - [meefs/style-transfer-pytorch](https://github.com/meefs/style-transfer-pytorch): Neural style transfer in PyTorch.
 - [meefs/subzuf](https://github.com/meefs/subzuf): a smart DNS response-guided subdomain fuzzer
 - [meefs/textual](https://github.com/meefs/textual): The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
+- [meefs/theHarvester](https://github.com/meefs/theHarvester): E-mails, subdomains and names Harvester - OSINT 
 - [meefs/thinkchain](https://github.com/meefs/thinkchain): 🧠 Advanced Claude streaming interface with interleaved thinking, dynamic tool discovery, and MCP integration. Watch Claude think through problems in real-time while executing tools with live progress updates.
 - [meefs/tinygrad](https://github.com/meefs/tinygrad): You like pytorch? You like micrograd? You love tinygrad! ❤️ 
 - [meefs/ultralytics](https://github.com/meefs/ultralytics): Ultralytics YOLO11 🚀
@@ -274,6 +274,7 @@
 - [meefs/ai-agent-cognitivedriftt](https://github.com/meefs/ai-agent-cognitivedriftt): Cognitive Drift AI Agent
 - [meefs/ai-brainstore](https://github.com/meefs/ai-brainstore): A proof-of-concept of a brain for an AI agent.
 - [meefs/anthropic-quickstarts](https://github.com/meefs/anthropic-quickstarts): A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
+- [meefs/cdp-agentkit](https://github.com/meefs/cdp-agentkit): No description
 - [meefs/claude-code-flow](https://github.com/meefs/claude-code-flow): This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
 - [meefs/cobold](https://github.com/meefs/cobold): telegram bot for downloading media, powered by cobalt
 - [meefs/eth-phishing-detect](https://github.com/meefs/eth-phishing-detect): Utility for detecting phishing domains targeting Web3 users
@@ -286,6 +287,7 @@
 - [meefs/revoke.cash](https://github.com/meefs/revoke.cash): ❌ Revoke or update your token approvals
 - [meefs/solana-web3.js](https://github.com/meefs/solana-web3.js): Solana JavaScript SDK
 - [meefs/stack-chan](https://github.com/meefs/stack-chan): A JavaScript-driven M5Stack-embedded super-kawaii robot.
+- [meefs/ui2](https://github.com/meefs/ui2): The Unified Intent Interface: The easiest way to build intent-powered UIs
 - [meefs/wormhole](https://github.com/meefs/wormhole): A wormhole simulation.
 - [meefs/x402](https://github.com/meefs/x402): A payments protocol for the internet. Built on HTTP.
 - [meefs/zkDocAttestation](https://github.com/meefs/zkDocAttestation): Zero Knowledge Proof (ZKP) dapp for attestation and verification of documents
@@ -312,6 +314,8 @@
 - [meefs/TouchOSC](https://github.com/meefs/TouchOSC): A collection of examples and modules for TouchOSC MK2
 - [meefs/advisory-database](https://github.com/meefs/advisory-database): Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 - [meefs/algorithms](https://github.com/meefs/algorithms): Bug-tracking for Jeff's algorithms book, notes, etc.
+- [meefs/asn-info](https://github.com/meefs/asn-info): Download autonomous system list organized by ASN
+- [meefs/asn-ip](https://github.com/meefs/asn-ip): Download IP address lists grouped by network provider (ASN)
 - [meefs/at-command-set](https://github.com/meefs/at-command-set): ESP8266 AT+ Command Set
 - [meefs/awesome--sora-prompts](https://github.com/meefs/awesome--sora-prompts): A reference containing Visual Style Prompt and Editing Style Prompt that you can use with Sora AI. 
 - [meefs/awesome-claude-prompts](https://github.com/meefs/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
