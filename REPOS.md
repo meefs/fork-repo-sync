@@ -277,11 +277,13 @@
 - [meefs/cdp-agentkit](https://github.com/meefs/cdp-agentkit): No description
 - [meefs/claude-code-flow](https://github.com/meefs/claude-code-flow): This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
 - [meefs/cobold](https://github.com/meefs/cobold): telegram bot for downloading media, powered by cobalt
+- [meefs/conviction](https://github.com/meefs/conviction): No description
 - [meefs/eth-phishing-detect](https://github.com/meefs/eth-phishing-detect): Utility for detecting phishing domains targeting Web3 users
 - [meefs/hash](https://github.com/meefs/hash): 🚀  The open-source, multi-tenant, self-building knowledge graph
 - [meefs/jitsi-meet](https://github.com/meefs/jitsi-meet): Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [meefs/jupyter](https://github.com/meefs/jupyter): A Waldiez JupyterLab extension.
 - [meefs/kit](https://github.com/meefs/kit): Script Kit. Automate Anything.
+- [meefs/monorepo](https://github.com/meefs/monorepo): No description
 - [meefs/onchainkit](https://github.com/meefs/onchainkit): React components and TypeScript utilities to help you build top-tier onchain apps.
 - [meefs/repomix](https://github.com/meefs/repomix): 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 - [meefs/revoke.cash](https://github.com/meefs/revoke.cash): ❌ Revoke or update your token approvals
