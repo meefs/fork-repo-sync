@@ -56,6 +56,7 @@
 - [meefs/glance](https://github.com/meefs/glance): A self-hosted dashboard that puts all your feeds in one place
 - [meefs/goat](https://github.com/meefs/goat): Render ASCII art as SVG diagrams
 - [meefs/meemaw](https://github.com/meefs/meemaw): Trustless and Grandma-friendly Wallet as a Service
+- [meefs/oui](https://github.com/meefs/oui): MAC Address CLI Toolkit
 
 ## HTML
 - [meefs/GTFOBins.github.io](https://github.com/meefs/GTFOBins.github.io): GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
