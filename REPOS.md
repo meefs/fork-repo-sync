@@ -361,5 +361,8 @@
 ## Wikitext
 - [meefs/bips](https://github.com/meefs/bips): Bitcoin Improvement Proposals
 
+## Zeek
+- [meefs/zeek-docs](https://github.com/meefs/zeek-docs): Documentation for Zeek
+
 ## block
 - [meefs/rust-stealer](https://github.com/meefs/rust-stealer): Simple Rust Stealer
