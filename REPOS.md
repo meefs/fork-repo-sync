@@ -109,6 +109,7 @@
 - [meefs/HunyuanDiT](https://github.com/meefs/HunyuanDiT): Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding
 - [meefs/IllusionDiffusion-colab](https://github.com/meefs/IllusionDiffusion-colab): No description
 - [meefs/KaliYuga-s-Library-of-Historic-AI-Tools](https://github.com/meefs/KaliYuga-s-Library-of-Historic-AI-Tools): A collection of all the open-source AI tools I can wrest from the jaws of internet oblivion
+- [meefs/LLMs-from-scratch](https://github.com/meefs/LLMs-from-scratch): Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [meefs/Learn-Prompt-Hacking](https://github.com/meefs/Learn-Prompt-Hacking): This is The most comprehensive prompt hacking course available, which record our progress on a prompt engineering and prompt hacking course.
 - [meefs/LooksMaker](https://github.com/meefs/LooksMaker): No description
 - [meefs/Magic_Words](https://github.com/meefs/Magic_Words): Code for the paper "What's the Magic Word? A Control Theory of LLM Prompting"
@@ -255,6 +256,7 @@
 - [meefs/ipranges](https://github.com/meefs/ipranges): 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
 - [meefs/m3u-audiobooks](https://github.com/meefs/m3u-audiobooks): collection of 100k+ audio books, radio porgrams, music etc from archive.org in a easy to listen m3u playlist format
 - [meefs/ohmyzsh](https://github.com/meefs/ohmyzsh): 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [meefs/papers-we-love](https://github.com/meefs/papers-we-love): Papers from the computer science community to read and discuss.
 - [meefs/perf-tools](https://github.com/meefs/perf-tools): Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - [meefs/the-bread-code](https://github.com/meefs/the-bread-code): Learn how to master the art of baking the programmer way.
 
