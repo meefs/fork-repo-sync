@@ -87,7 +87,6 @@
 - [meefs/hex.dance](https://github.com/meefs/hex.dance): simple client-side in-browser binary analysis and hex dump
 - [meefs/portal-network-specs](https://github.com/meefs/portal-network-specs): Official repository for specifications for the Portal Network
 - [meefs/puter](https://github.com/meefs/puter): 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
-- [meefs/servers](https://github.com/meefs/servers): Model Context Protocol Servers
 - [meefs/skills-getting-started-with-github-copilot](https://github.com/meefs/skills-getting-started-with-github-copilot): Exercise: Get started using GitHub Copilot
 - [meefs/splat](https://github.com/meefs/splat): WebGL 3D Gaussian Splat Viewer
 - [meefs/tt-research](https://github.com/meefs/tt-research): Motivated by recent success of the truth_terminal meta this is created as an open research repository of keen finds
@@ -207,6 +206,7 @@
 - [meefs/playscii](https://github.com/meefs/playscii): Fork of playscii
 - [meefs/pocket-pick](https://github.com/meefs/pocket-pick): What if the exact code snippet or idea you were looking for was one prompt away?
 - [meefs/practical-inverse-rendering-of-textured-and-translucent-appearance](https://github.com/meefs/practical-inverse-rendering-of-textured-and-translucent-appearance): SIGGRAPH 2025 "Practical Inverse Rendering Of Textured And Translucent Appearance"
+- [meefs/servers](https://github.com/meefs/servers): Model Context Protocol Servers
 - [meefs/shell_gpt](https://github.com/meefs/shell_gpt): A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
 - [meefs/sherlock](https://github.com/meefs/sherlock): Hunt down social media accounts by username across social networks
 - [meefs/skypilot](https://github.com/meefs/skypilot): SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
