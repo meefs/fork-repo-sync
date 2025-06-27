@@ -137,6 +137,9 @@
 - [meefs/Prompt-Engineering-Guide](https://github.com/meefs/Prompt-Engineering-Guide): 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [meefs/openai-cookbook](https://github.com/meefs/openai-cookbook): Examples and guides for using the OpenAI API
 
+## Markdown
+- [meefs/build-your-own-x](https://github.com/meefs/build-your-own-x): Master programming by recreating your favorite technologies from scratch.
+
 ## Objective-C
 - [meefs/Kronos](https://github.com/meefs/Kronos): No description
 
@@ -206,6 +209,7 @@
 - [meefs/playscii](https://github.com/meefs/playscii): Fork of playscii
 - [meefs/pocket-pick](https://github.com/meefs/pocket-pick): What if the exact code snippet or idea you were looking for was one prompt away?
 - [meefs/practical-inverse-rendering-of-textured-and-translucent-appearance](https://github.com/meefs/practical-inverse-rendering-of-textured-and-translucent-appearance): SIGGRAPH 2025 "Practical Inverse Rendering Of Textured And Translucent Appearance"
+- [meefs/public-apis](https://github.com/meefs/public-apis): A collective list of free APIs
 - [meefs/servers](https://github.com/meefs/servers): Model Context Protocol Servers
 - [meefs/shell_gpt](https://github.com/meefs/shell_gpt): A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
 - [meefs/sherlock](https://github.com/meefs/sherlock): Hunt down social media accounts by username across social networks
@@ -351,6 +355,7 @@
 - [meefs/o1assist](https://github.com/meefs/o1assist): Early days with chatgpt Operator service
 - [meefs/o3_finds_cve-2025-37899](https://github.com/meefs/o3_finds_cve-2025-37899): Artefacts for blog post on finding CVE-2025-37899 with o3
 - [meefs/octofomo](https://github.com/meefs/octofomo): No description
+- [meefs/open-source-alternatives](https://github.com/meefs/open-source-alternatives): List of open-source alternatives to everyday SaaS products.
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
 - [meefs/pravda-network-dissemination-data](https://github.com/meefs/pravda-network-dissemination-data): This repository contains data used for the Pravda Network dissemination investigation. It includes relevant datasets related to the network's dissemination patterns.
 - [meefs/resolvers](https://github.com/meefs/resolvers): The most exhaustive list of reliable DNS resolvers.
