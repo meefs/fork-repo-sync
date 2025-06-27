@@ -221,6 +221,7 @@
 - [meefs/stablediffusion](https://github.com/meefs/stablediffusion): High-Resolution Image Synthesis with Latent Diffusion Models
 - [meefs/style-transfer-pytorch](https://github.com/meefs/style-transfer-pytorch): Neural style transfer in PyTorch.
 - [meefs/subzuf](https://github.com/meefs/subzuf): a smart DNS response-guided subdomain fuzzer
+- [meefs/telegram_link_sanitizer](https://github.com/meefs/telegram_link_sanitizer): Gets rid of those garbage share params in URLs
 - [meefs/textual](https://github.com/meefs/textual): The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [meefs/theHarvester](https://github.com/meefs/theHarvester): E-mails, subdomains and names Harvester - OSINT 
 - [meefs/thinkchain](https://github.com/meefs/thinkchain): 🧠 Advanced Claude streaming interface with interleaved thinking, dynamic tool discovery, and MCP integration. Watch Claude think through problems in real-time while executing tools with live progress updates.
