@@ -278,6 +278,9 @@
 - [meefs/container](https://github.com/meefs/container): A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon. 
 - [meefs/sam2-studio](https://github.com/meefs/sam2-studio): No description
 
+## TeX
+- [meefs/scrolls](https://github.com/meefs/scrolls): No description
+
 ## Text
 - [meefs/dns-blocklists](https://github.com/meefs/dns-blocklists): DNS-Blocklists: For a better internet - keep the internet clean!
 
