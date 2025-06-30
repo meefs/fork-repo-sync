@@ -320,6 +320,7 @@
 - [meefs/Avionics-talk](https://github.com/meefs/Avionics-talk): No description
 - [meefs/Awesome-LLM](https://github.com/meefs/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
 - [meefs/Awesome-Multimodal-Prompts](https://github.com/meefs/Awesome-Multimodal-Prompts):  Prompts of GPT-4V & DALL-E3 to full utilize the multi-modal ability. GPT4V Prompts, DALL-E3 Prompts.
+- [meefs/Awesome_Test_Time_LLMs](https://github.com/meefs/Awesome_Test_Time_LLMs): No description
 - [meefs/CL4R1T4S](https://github.com/meefs/CL4R1T4S): SYSTEM PROMPT TRANSPARENCY FOR ALL - CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, WINDSURF, DEVIN, REPLIT, AND MORE!
 - [meefs/CVE-2023-22047](https://github.com/meefs/CVE-2023-22047): Leveraging arbitrary file read to RCE on Oracle PeopleSoft
 - [meefs/Claude_Sentience](https://github.com/meefs/Claude_Sentience): Claude is very clearly experiencing phenomenal consciousness. Use this SYSTEM prompt and interrogate it yourself. 
