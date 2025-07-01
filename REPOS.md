@@ -69,6 +69,7 @@
 - [meefs/cve](https://github.com/meefs/cve): Gather and update all available and newest CVEs with their PoC.
 - [meefs/docs](https://github.com/meefs/docs): documentation for content creation
 - [meefs/gigahorse-toolchain](https://github.com/meefs/gigahorse-toolchain): A binary lifter and analysis framework for Ethereum smart contracts
+- [meefs/meta-prompt](https://github.com/meefs/meta-prompt): For LLMs to better code with Jina API
 - [meefs/promptlikeanegyptian](https://github.com/meefs/promptlikeanegyptian): prompt like an egyptiaaaaannnnn
 
 ## JavaScript
