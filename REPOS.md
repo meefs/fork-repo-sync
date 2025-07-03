@@ -55,6 +55,7 @@
 - [meefs/evilginx2](https://github.com/meefs/evilginx2): Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [meefs/glance](https://github.com/meefs/glance): A self-hosted dashboard that puts all your feeds in one place
 - [meefs/goat](https://github.com/meefs/goat): Render ASCII art as SVG diagrams
+- [meefs/image-spec](https://github.com/meefs/image-spec): OCI Image Format
 - [meefs/meemaw](https://github.com/meefs/meemaw): Trustless and Grandma-friendly Wallet as a Service
 - [meefs/oui](https://github.com/meefs/oui): MAC Address CLI Toolkit
 - [meefs/pinentry-touchid](https://github.com/meefs/pinentry-touchid): Custom GPG pinentry program for macOS that allows using Touch ID for fetching the password from the macOS keychain.
