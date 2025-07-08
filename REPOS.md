@@ -23,6 +23,7 @@
 - [meefs/shadPS4](https://github.com/meefs/shadPS4): PS4 emulator for Windows,Linux,MacOS
 - [meefs/stable-diffusion.cpp](https://github.com/meefs/stable-diffusion.cpp): Stable Diffusion in pure C/C++
 - [meefs/whisper.cpp](https://github.com/meefs/whisper.cpp): Port of OpenAI's Whisper model in C/C++
+- [meefs/workerd](https://github.com/meefs/workerd): The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [meefs/zeek](https://github.com/meefs/zeek): Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 
 ## CSS
@@ -137,6 +138,7 @@
 
 ## MDX
 - [meefs/Prompt-Engineering-Guide](https://github.com/meefs/Prompt-Engineering-Guide): 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+- [meefs/cloudflare-docs](https://github.com/meefs/cloudflare-docs): Cloudflare’s documentation
 - [meefs/openai-cookbook](https://github.com/meefs/openai-cookbook): Examples and guides for using the OpenAI API
 
 ## Markdown
