@@ -376,6 +376,7 @@
 - [meefs/pravda-network-dissemination-data](https://github.com/meefs/pravda-network-dissemination-data): This repository contains data used for the Pravda Network dissemination investigation. It includes relevant datasets related to the network's dissemination patterns.
 - [meefs/resolvers](https://github.com/meefs/resolvers): The most exhaustive list of reliable DNS resolvers.
 - [meefs/salmonella](https://github.com/meefs/salmonella): Wrecking sandwich traders for fun and profit
+- [meefs/solidity-gas-optimization](https://github.com/meefs/solidity-gas-optimization): A extensive list of solidity gas optimization tricks
 - [meefs/solsec](https://github.com/meefs/solsec): A collection of resources to study Solana smart contract security, auditing, and exploits.
 - [meefs/windows-api-function-cheatsheets](https://github.com/meefs/windows-api-function-cheatsheets): A reference of Windows API function calls, including functions for file operations, process management, memory management, thread management, dynamic-link library (DLL) management, synchronization, interprocess communication, Unicode string manipulation, error handling, Winsock networking operations, and registry operations.
 - [meefs/xss-payload-list](https://github.com/meefs/xss-payload-list): 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
