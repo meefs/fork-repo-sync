@@ -274,7 +274,6 @@
 - [meefs/the-bread-code](https://github.com/meefs/the-bread-code): Learn how to master the art of baking the programmer way.
 
 ## Solidity
-- [meefs/safe-harbor](https://github.com/meefs/safe-harbor): No description
 - [meefs/wbtc-aave-demo](https://github.com/meefs/wbtc-aave-demo): No description
 
 ## Svelte
@@ -286,6 +285,7 @@
 - [meefs/sam2-studio](https://github.com/meefs/sam2-studio): No description
 
 ## TeX
+- [meefs/safe-harbor](https://github.com/meefs/safe-harbor): No description
 - [meefs/scrolls](https://github.com/meefs/scrolls): No description
 
 ## Text
