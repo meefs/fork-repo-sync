@@ -304,6 +304,7 @@
 - [meefs/conviction](https://github.com/meefs/conviction): No description
 - [meefs/eth-phishing-detect](https://github.com/meefs/eth-phishing-detect): Utility for detecting phishing domains targeting Web3 users
 - [meefs/gemini-cli](https://github.com/meefs/gemini-cli): An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [meefs/geolocation-hello-world](https://github.com/meefs/geolocation-hello-world): No description
 - [meefs/hash](https://github.com/meefs/hash): 🚀  The open-source, multi-tenant, self-building knowledge graph
 - [meefs/jitsi-meet](https://github.com/meefs/jitsi-meet): Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [meefs/jupyter](https://github.com/meefs/jupyter): A Waldiez JupyterLab extension.
