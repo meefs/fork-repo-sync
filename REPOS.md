@@ -292,6 +292,7 @@
 - [meefs/dns-blocklists](https://github.com/meefs/dns-blocklists): DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## TypeScript
+- [meefs/FluidFramework](https://github.com/meefs/FluidFramework): Library for building distributed, real-time collaborative web  applications
 - [meefs/Raydium-Bundler-Extra-Bot-V4-Avoid-Bubblemaps](https://github.com/meefs/Raydium-Bundler-Extra-Bot-V4-Avoid-Bubblemaps): This is the extra bot of Raydium bundler to avoid detecting from bubble maps with JITO
 - [meefs/SnitchBench](https://github.com/meefs/SnitchBench): No description
 - [meefs/TypeChain](https://github.com/meefs/TypeChain): 🔌 TypeScript bindings for Ethereum smart contracts
