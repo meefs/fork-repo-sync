@@ -22,6 +22,7 @@
 - [meefs/quiche](https://github.com/meefs/quiche): No description
 - [meefs/shadPS4](https://github.com/meefs/shadPS4): PS4 emulator for Windows,Linux,MacOS
 - [meefs/stable-diffusion.cpp](https://github.com/meefs/stable-diffusion.cpp): Stable Diffusion in pure C/C++
+- [meefs/stellarium](https://github.com/meefs/stellarium): Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 - [meefs/whisper.cpp](https://github.com/meefs/whisper.cpp): Port of OpenAI's Whisper model in C/C++
 - [meefs/workerd](https://github.com/meefs/workerd): The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [meefs/zeek](https://github.com/meefs/zeek): Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
