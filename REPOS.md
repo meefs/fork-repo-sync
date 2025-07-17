@@ -72,6 +72,7 @@
 - [meefs/cve](https://github.com/meefs/cve): Gather and update all available and newest CVEs with their PoC.
 - [meefs/docs](https://github.com/meefs/docs): documentation for content creation
 - [meefs/gigahorse-toolchain](https://github.com/meefs/gigahorse-toolchain): A binary lifter and analysis framework for Ethereum smart contracts
+- [meefs/lemmy](https://github.com/meefs/lemmy): Wrapper around tool using LLMs for agentic workflows
 - [meefs/meta-prompt](https://github.com/meefs/meta-prompt): For LLMs to better code with Jina API
 - [meefs/promptlikeanegyptian](https://github.com/meefs/promptlikeanegyptian): prompt like an egyptiaaaaannnnn
 
@@ -311,7 +312,6 @@
 - [meefs/jitsi-meet](https://github.com/meefs/jitsi-meet): Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [meefs/jupyter](https://github.com/meefs/jupyter): A Waldiez JupyterLab extension.
 - [meefs/kit](https://github.com/meefs/kit): Script Kit. Automate Anything.
-- [meefs/lemmy](https://github.com/meefs/lemmy): Wrapper around tool using LLMs for agentic workflows
 - [meefs/mcp-boilerplate](https://github.com/meefs/mcp-boilerplate): A remote Cloudflare MCP server boilerplate with user authentication and Stripe for paid tools.
 - [meefs/monorepo](https://github.com/meefs/monorepo): No description
 - [meefs/onchainkit](https://github.com/meefs/onchainkit): React components and TypeScript utilities to help you build top-tier onchain apps.
