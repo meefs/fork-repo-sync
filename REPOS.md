@@ -371,6 +371,7 @@
 - [meefs/llm-course](https://github.com/meefs/llm-course): Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [meefs/meefs.github.io](https://github.com/meefs/meefs.github.io): No description
 - [meefs/meefs](https://github.com/meefs/meefs): Forks, Models, and Notebooks
+- [meefs/nord-background](https://github.com/meefs/nord-background): Collection of Nord Backgrounds
 - [meefs/o1assist](https://github.com/meefs/o1assist): Early days with chatgpt Operator service
 - [meefs/o3_finds_cve-2025-37899](https://github.com/meefs/o3_finds_cve-2025-37899): Artefacts for blog post on finding CVE-2025-37899 with o3
 - [meefs/octofomo](https://github.com/meefs/octofomo): No description
