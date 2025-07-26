@@ -208,6 +208,7 @@
 - [meefs/frame-interpolation](https://github.com/meefs/frame-interpolation): FILM: Frame Interpolation for Large Motion, In arXiv 2022.
 - [meefs/gitingest](https://github.com/meefs/gitingest): Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
 - [meefs/harlequin](https://github.com/meefs/harlequin): The SQL IDE for Your Terminal.
+- [meefs/innertube](https://github.com/meefs/innertube): Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more!
 - [meefs/jepa](https://github.com/meefs/jepa): PyTorch code and models for V-JEPA self-supervised learning from video.
 - [meefs/large_concept_model](https://github.com/meefs/large_concept_model): Large Concept Models: Language modeling in a sentence representation space
 - [meefs/llama-stack](https://github.com/meefs/llama-stack): Model components of the Llama Stack APIs
