@@ -198,6 +198,7 @@
 - [meefs/cinematic-gaussians](https://github.com/meefs/cinematic-gaussians): Code for our paper "Application of 3D Gaussian Splatting for Cinematic Anatomy on Consumer Class Devices"
 - [meefs/claimbuster-spotter](https://github.com/meefs/claimbuster-spotter): Adversarial Training on Transformer Networks to discover check-worthy factual claims
 - [meefs/clip-as-service](https://github.com/meefs/clip-as-service): 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP
+- [meefs/copyparty](https://github.com/meefs/copyparty): Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [meefs/deforum-stable-diffusion](https://github.com/meefs/deforum-stable-diffusion): Stable Diffusion Notebooks
 - [meefs/dmp_midi](https://github.com/meefs/dmp_midi): MIDI files for the patterns in the books "200 Drum Machine Patterns" & "260 Drum Machine Patterns"
 - [meefs/dnstwist](https://github.com/meefs/dnstwist): Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
