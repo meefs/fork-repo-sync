@@ -363,6 +363,7 @@
 - [meefs/awesome-nodejs](https://github.com/meefs/awesome-nodejs): :zap: Delightful Node.js packages and resources
 - [meefs/awesome-post-quantum](https://github.com/meefs/awesome-post-quantum): A curated list of resources about post-quantum cryptography.
 - [meefs/camenduru](https://github.com/meefs/camenduru): No description
+- [meefs/ccbuildcrumb](https://github.com/meefs/ccbuildcrumb): No description
 - [meefs/claude-deep-research](https://github.com/meefs/claude-deep-research): Claude Deep Research config for Claude Code.
 - [meefs/code-my-crown](https://github.com/meefs/code-my-crown): No description
 - [meefs/film](https://github.com/meefs/film): Custom implementation of Google FILM interpolation software
