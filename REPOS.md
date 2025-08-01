@@ -219,6 +219,7 @@
 - [meefs/moviepy](https://github.com/meefs/moviepy): Experiments with moviepy
 - [meefs/mqtt](https://github.com/meefs/mqtt): Mythic C2 Profile using mqtt
 - [meefs/owasp-mastg](https://github.com/meefs/owasp-mastg): The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
+- [meefs/pajaMAS](https://github.com/meefs/pajaMAS): Multi-agent system (MAS) hijacking demos
 - [meefs/picklescan](https://github.com/meefs/picklescan): Security scanner detecting Python Pickle files performing suspicious actions
 - [meefs/playscii](https://github.com/meefs/playscii): Fork of playscii
 - [meefs/pocket-pick](https://github.com/meefs/pocket-pick): What if the exact code snippet or idea you were looking for was one prompt away?
@@ -260,6 +261,7 @@
 - [meefs/sendme](https://github.com/meefs/sendme): A tool to send files and directories, based on iroh
 - [meefs/solana-stream](https://github.com/meefs/solana-stream): Solana Stream SDK
 - [meefs/steel](https://github.com/meefs/steel): Solana smart contract framework.
+- [meefs/thorium](https://github.com/meefs/thorium): A scalable file analysis and data generation platform that allows users to easily orchestrate arbitrary docker/vm/shell tools at scale.
 - [meefs/wreq](https://github.com/meefs/wreq): An ergonomic Rust HTTP Client with TLS fingerprint
 
 ## R
@@ -319,6 +321,7 @@
 - [meefs/mcp-boilerplate](https://github.com/meefs/mcp-boilerplate): A remote Cloudflare MCP server boilerplate with user authentication and Stripe for paid tools.
 - [meefs/monorepo](https://github.com/meefs/monorepo): No description
 - [meefs/onchainkit](https://github.com/meefs/onchainkit): React components and TypeScript utilities to help you build top-tier onchain apps.
+- [meefs/playwright-mcp](https://github.com/meefs/playwright-mcp): Playwright MCP server
 - [meefs/repomix](https://github.com/meefs/repomix): 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 - [meefs/revoke.cash](https://github.com/meefs/revoke.cash): ❌ Revoke or update your token approvals
 - [meefs/servers](https://github.com/meefs/servers): Model Context Protocol Servers
