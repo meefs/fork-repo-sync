@@ -132,6 +132,7 @@
 - [meefs/llama-recipes](https://github.com/meefs/llama-recipes): Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger.
 - [meefs/llms-txt](https://github.com/meefs/llms-txt): The /llms.txt file, helping language models use your website
 - [meefs/mujoco](https://github.com/meefs/mujoco): Multi-Joint dynamics with Contact. A general purpose physics simulator.
+- [meefs/openai-cookbook](https://github.com/meefs/openai-cookbook): Examples and guides for using the OpenAI API
 - [meefs/prompt-eng-interactive-tutorial](https://github.com/meefs/prompt-eng-interactive-tutorial): Anthropic's Interactive Prompt Engineering Tutorial
 - [meefs/prompt-to-prompt](https://github.com/meefs/prompt-to-prompt): No description
 - [meefs/segment-anything-2](https://github.com/meefs/segment-anything-2): The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
@@ -140,7 +141,6 @@
 ## MDX
 - [meefs/Prompt-Engineering-Guide](https://github.com/meefs/Prompt-Engineering-Guide): 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [meefs/cloudflare-docs](https://github.com/meefs/cloudflare-docs): Cloudflare’s documentation
-- [meefs/openai-cookbook](https://github.com/meefs/openai-cookbook): Examples and guides for using the OpenAI API
 
 ## Markdown
 - [meefs/build-your-own-x](https://github.com/meefs/build-your-own-x): Master programming by recreating your favorite technologies from scratch.
