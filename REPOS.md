@@ -151,9 +151,6 @@
 ## PHP
 - [meefs/DVWA](https://github.com/meefs/DVWA): Damn Vulnerable Web Application (DVWA)
 
-## PowerShell
-- [meefs/claude-code](https://github.com/meefs/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-
 ## Python
 - [meefs/3d-guided-genai-rtx](https://github.com/meefs/3d-guided-genai-rtx): No description
 - [meefs/ACE-Step](https://github.com/meefs/ACE-Step): ACE-Step: A Step Towards Music Generation Foundation Model
@@ -175,6 +172,7 @@
 - [meefs/Nettacker](https://github.com/meefs/Nettacker): Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 - [meefs/One-2-3-45](https://github.com/meefs/One-2-3-45): official code of "One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization"
 - [meefs/OpenAI_Agent_Swarm](https://github.com/meefs/OpenAI_Agent_Swarm): Early experiment to create fully autonomous agent swarms
+- [meefs/OpenBB](https://github.com/meefs/OpenBB): Investment Research for Everyone, Everywhere.
 - [meefs/Parade-State-Bot](https://github.com/meefs/Parade-State-Bot): Automating my Admin NS job Task: Send out parade state attendance for 24 perm staff members daily  Format output: Structured Telegram message 
 - [meefs/Pineapples-Secrets](https://github.com/meefs/Pineapples-Secrets): A writeup on how Pineapple actually works
 - [meefs/PotemkinBenchmark](https://github.com/meefs/PotemkinBenchmark): No description
@@ -307,6 +305,7 @@
 - [meefs/anthropic-quickstarts](https://github.com/meefs/anthropic-quickstarts): A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
 - [meefs/cdp-agentkit](https://github.com/meefs/cdp-agentkit): No description
 - [meefs/claude-code-flow](https://github.com/meefs/claude-code-flow): This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
+- [meefs/claude-code](https://github.com/meefs/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [meefs/cobold](https://github.com/meefs/cobold): telegram bot for downloading media, powered by cobalt
 - [meefs/conviction](https://github.com/meefs/conviction): No description
 - [meefs/defillama-server](https://github.com/meefs/defillama-server): Server for defillama
