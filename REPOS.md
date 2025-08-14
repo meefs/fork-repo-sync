@@ -216,6 +216,7 @@
 - [meefs/modelscan](https://github.com/meefs/modelscan): Protection against Model Serialization Attacks
 - [meefs/moviepy](https://github.com/meefs/moviepy): Experiments with moviepy
 - [meefs/mqtt](https://github.com/meefs/mqtt): Mythic C2 Profile using mqtt
+- [meefs/mxfp4-llm](https://github.com/meefs/mxfp4-llm): Official implementation for Training LLMs with MXFP4
 - [meefs/owasp-mastg](https://github.com/meefs/owasp-mastg): The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
 - [meefs/pajaMAS](https://github.com/meefs/pajaMAS): Multi-agent system (MAS) hijacking demos
 - [meefs/picklescan](https://github.com/meefs/picklescan): Security scanner detecting Python Pickle files performing suspicious actions
