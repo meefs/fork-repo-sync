@@ -156,6 +156,7 @@
 - [meefs/ACE-Step](https://github.com/meefs/ACE-Step): ACE-Step: A Step Towards Music Generation Foundation Model
 - [meefs/BitNet](https://github.com/meefs/BitNet): Official inference framework for 1-bit LLMs
 - [meefs/CLIP-based-NSFW-Detector](https://github.com/meefs/CLIP-based-NSFW-Detector): No description
+- [meefs/CVE-2025-31324](https://github.com/meefs/CVE-2025-31324): CVE-2025-31324, SAP Exploit
 - [meefs/ChaosNLI](https://github.com/meefs/ChaosNLI): [EMNLP 2020] Collective HumAn OpinionS on Natural Language Inference Data
 - [meefs/ChatDoctor](https://github.com/meefs/ChatDoctor): No description
 - [meefs/CodeFormer](https://github.com/meefs/CodeFormer): [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
