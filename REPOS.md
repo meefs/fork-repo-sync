@@ -45,6 +45,7 @@
 - [meefs/nginx](https://github.com/meefs/nginx): The official NGINX Open Source repository.
 - [meefs/prvhash](https://github.com/meefs/prvhash): PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor. (Codename Gradilac/Градилак)
 - [meefs/suricata](https://github.com/meefs/suricata): Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
+- [meefs/ta-lib](https://github.com/meefs/ta-lib): TA-Lib (Core C Library)
 - [meefs/wireshark](https://github.com/meefs/wireshark): Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
 
 ## Dockerfile
@@ -367,6 +368,7 @@
 - [meefs/awesome-foundation-agents](https://github.com/meefs/awesome-foundation-agents): About Awesome things towards foundation agents. Papers / Repos / Blogs / ...
 - [meefs/awesome-nodejs](https://github.com/meefs/awesome-nodejs): :zap: Delightful Node.js packages and resources
 - [meefs/awesome-post-quantum](https://github.com/meefs/awesome-post-quantum): A curated list of resources about post-quantum cryptography.
+- [meefs/awesome-tradingview](https://github.com/meefs/awesome-tradingview): 🎉 A curated list of awesome things related to TradingView (widgets, charting library, lightweight-charts, etc)
 - [meefs/camenduru](https://github.com/meefs/camenduru): No description
 - [meefs/ccbuildcrumb](https://github.com/meefs/ccbuildcrumb): No description
 - [meefs/claude-deep-research](https://github.com/meefs/claude-deep-research): Claude Deep Research config for Claude Code.
@@ -399,6 +401,7 @@
 - [meefs/llama.vim](https://github.com/meefs/llama.vim): Vim plugin for LLM-assisted code/text completion
 
 ## Vue
+- [meefs/aggr](https://github.com/meefs/aggr): Cryptocurrency trades aggregator
 - [meefs/scale-workshop](https://github.com/meefs/scale-workshop): Design and visualize microtonal scales and play them in your web browser. Export your scales for use with VST instruments. Convert Scala files to various tuning formats.
 
 ## Wikitext
