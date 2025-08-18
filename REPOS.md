@@ -66,6 +66,7 @@
 - [meefs/meemaw](https://github.com/meefs/meemaw): Trustless and Grandma-friendly Wallet as a Service
 - [meefs/oui](https://github.com/meefs/oui): MAC Address CLI Toolkit
 - [meefs/pinentry-touchid](https://github.com/meefs/pinentry-touchid): Custom GPG pinentry program for macOS that allows using Touch ID for fetching the password from the macOS keychain.
+- [meefs/ticker](https://github.com/meefs/ticker): Track stocks, crypto, and derivatives prices and positions in real time from your terminal
 
 ## HTML
 - [meefs/GTFOBins.github.io](https://github.com/meefs/GTFOBins.github.io): GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
