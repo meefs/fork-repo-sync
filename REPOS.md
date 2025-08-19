@@ -307,6 +307,7 @@
 
 ## TypeScript
 - [meefs/FluidFramework](https://github.com/meefs/FluidFramework): Library for building distributed, real-time collaborative web  applications
+- [meefs/FxEmbed](https://github.com/meefs/FxEmbed): Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
 - [meefs/Raydium-Bundler-Extra-Bot-V4-Avoid-Bubblemaps](https://github.com/meefs/Raydium-Bundler-Extra-Bot-V4-Avoid-Bubblemaps): This is the extra bot of Raydium bundler to avoid detecting from bubble maps with JITO
 - [meefs/SnitchBench](https://github.com/meefs/SnitchBench): No description
 - [meefs/TypeChain](https://github.com/meefs/TypeChain): 🔌 TypeScript bindings for Ethereum smart contracts
