@@ -197,6 +197,7 @@
 - [meefs/automated-prompt-engineering-from-scratch](https://github.com/meefs/automated-prompt-engineering-from-scratch): A repo with an automated prompt engineering workflow from scratch. It leverages the OPRO technique.
 - [meefs/awesome-llm-apps](https://github.com/meefs/awesome-llm-apps): Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [meefs/bandit](https://github.com/meefs/bandit): Bandit is a tool designed to find common security issues in Python code.
+- [meefs/bitstamp-btcusd-minute-data](https://github.com/meefs/bitstamp-btcusd-minute-data): Daily updates of Bitstamp BTC/USD 1-minute OHLC data, with historical data since 2012
 - [meefs/bro-clickhouse](https://github.com/meefs/bro-clickhouse): No description
 - [meefs/bug-bounty-labs](https://github.com/meefs/bug-bounty-labs): All the labs in this repository simulate real world bugs I found in the wild
 - [meefs/bulk-whois](https://github.com/meefs/bulk-whois): This Python script performs bulk Whois lookups for both hostnames and IP addresses, providing information such as IP address, ASN (Autonomous System Number), AS Name, and associated country
