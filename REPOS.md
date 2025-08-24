@@ -381,6 +381,7 @@
 - [meefs/awesome-nodejs](https://github.com/meefs/awesome-nodejs): :zap: Delightful Node.js packages and resources
 - [meefs/awesome-post-quantum](https://github.com/meefs/awesome-post-quantum): A curated list of resources about post-quantum cryptography.
 - [meefs/awesome-tradingview](https://github.com/meefs/awesome-tradingview): 🎉 A curated list of awesome things related to TradingView (widgets, charting library, lightweight-charts, etc)
+- [meefs/awesome-tuis](https://github.com/meefs/awesome-tuis): List of projects that provide terminal user interfaces
 - [meefs/camenduru](https://github.com/meefs/camenduru): No description
 - [meefs/ccbuildcrumb](https://github.com/meefs/ccbuildcrumb): No description
 - [meefs/claude-deep-research](https://github.com/meefs/claude-deep-research): Claude Deep Research config for Claude Code.
