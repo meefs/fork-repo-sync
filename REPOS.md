@@ -323,6 +323,7 @@
 - [meefs/cobold](https://github.com/meefs/cobold): telegram bot for downloading media, powered by cobalt
 - [meefs/conviction](https://github.com/meefs/conviction): No description
 - [meefs/defillama-server](https://github.com/meefs/defillama-server): Server for defillama
+- [meefs/emoji-encoder](https://github.com/meefs/emoji-encoder): No description
 - [meefs/eth-phishing-detect](https://github.com/meefs/eth-phishing-detect): Utility for detecting phishing domains targeting Web3 users
 - [meefs/gemini-cli](https://github.com/meefs/gemini-cli): An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [meefs/geolocation-hello-world](https://github.com/meefs/geolocation-hello-world): No description
