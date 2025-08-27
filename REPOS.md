@@ -60,6 +60,7 @@
 - [meefs/ai-context](https://github.com/meefs/ai-context): CLI tool to produce MD context files from many sources, to help interact with LLMs (ChatGPT, Llama3, Claude, etc.).
 - [meefs/assets](https://github.com/meefs/assets): A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 - [meefs/cilium](https://github.com/meefs/cilium): eBPF-based Networking, Security, and Observability
+- [meefs/cloudflared](https://github.com/meefs/cloudflared): Cloudflare Tunnel client (formerly Argo Tunnel)
 - [meefs/evilginx2](https://github.com/meefs/evilginx2): Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [meefs/glance](https://github.com/meefs/glance): A self-hosted dashboard that puts all your feeds in one place
 - [meefs/goat](https://github.com/meefs/goat): Render ASCII art as SVG diagrams
