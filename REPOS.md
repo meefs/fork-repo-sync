@@ -102,6 +102,7 @@
 - [meefs/puter](https://github.com/meefs/puter): 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [meefs/skills-getting-started-with-github-copilot](https://github.com/meefs/skills-getting-started-with-github-copilot): Exercise: Get started using GitHub Copilot
 - [meefs/splat](https://github.com/meefs/splat): WebGL 3D Gaussian Splat Viewer
+- [meefs/telegram-inline-calendar](https://github.com/meefs/telegram-inline-calendar): Date and time picker and Inline calendar for Node.js telegram bots
 - [meefs/tt-research](https://github.com/meefs/tt-research): Motivated by recent success of the truth_terminal meta this is created as an open research repository of keen finds
 - [meefs/zk-learning-group](https://github.com/meefs/zk-learning-group): No description
 
