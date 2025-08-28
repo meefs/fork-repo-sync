@@ -16,6 +16,7 @@
 - [meefs/ggml](https://github.com/meefs/ggml): Tensor library for machine learning
 - [meefs/ggwave](https://github.com/meefs/ggwave): Tiny data-over-sound library
 - [meefs/llama.cpp](https://github.com/meefs/llama.cpp): LLM inference in C/C++
+- [meefs/longfellow-zk](https://github.com/meefs/longfellow-zk): Implementation of the Google Zero-Knowledge library for Identity Protocols.
 - [meefs/m4l-connection-kit](https://github.com/meefs/m4l-connection-kit): Max for Live Connection Kit
 - [meefs/mlx](https://github.com/meefs/mlx): MLX: An array framework for Apple silicon
 - [meefs/mujoco](https://github.com/meefs/mujoco): Multi-Joint dynamics with Contact. A general purpose physics simulator.
