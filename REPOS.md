@@ -322,6 +322,7 @@
 - [meefs/ai-brainstore](https://github.com/meefs/ai-brainstore): A proof-of-concept of a brain for an AI agent.
 - [meefs/ai](https://github.com/meefs/ai): No description
 - [meefs/anthropic-quickstarts](https://github.com/meefs/anthropic-quickstarts): A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
+- [meefs/basedocs](https://github.com/meefs/basedocs): Documentation for building on Base
 - [meefs/cdp-agentkit](https://github.com/meefs/cdp-agentkit): No description
 - [meefs/claude-code-flow](https://github.com/meefs/claude-code-flow): This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
 - [meefs/claude-code](https://github.com/meefs/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
