@@ -319,6 +319,7 @@
 - [meefs/Raydium-Bundler-Extra-Bot-V4-Avoid-Bubblemaps](https://github.com/meefs/Raydium-Bundler-Extra-Bot-V4-Avoid-Bubblemaps): This is the extra bot of Raydium bundler to avoid detecting from bubble maps with JITO
 - [meefs/SnitchBench](https://github.com/meefs/SnitchBench): No description
 - [meefs/TypeChain](https://github.com/meefs/TypeChain): 🔌 TypeScript bindings for Ethereum smart contracts
+- [meefs/a2a-js](https://github.com/meefs/a2a-js): Official JavaScript SDK for the Agent2Agent (A2A) Protocol
 - [meefs/ai-agent-cognitivedriftt](https://github.com/meefs/ai-agent-cognitivedriftt): Cognitive Drift AI Agent
 - [meefs/ai-brainstore](https://github.com/meefs/ai-brainstore): A proof-of-concept of a brain for an AI agent.
 - [meefs/ai](https://github.com/meefs/ai): No description
@@ -337,8 +338,9 @@
 - [meefs/hash](https://github.com/meefs/hash): 🚀  The open-source, multi-tenant, self-building knowledge graph
 - [meefs/jitsi-meet](https://github.com/meefs/jitsi-meet): Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [meefs/jupyter](https://github.com/meefs/jupyter): A Waldiez JupyterLab extension.
-- [meefs/kit](https://github.com/meefs/kit): Script Kit. Automate Anything.
+- [meefs/kit](https://github.com/meefs/kit): Solana JavaScript SDK
 - [meefs/lemmy](https://github.com/meefs/lemmy): Wrapper around tool using LLMs for agentic workflows
+- [meefs/magicblock-engine-examples](https://github.com/meefs/magicblock-engine-examples): Ephemeral Rollups - Integration Examples
 - [meefs/mcp-boilerplate](https://github.com/meefs/mcp-boilerplate): A remote Cloudflare MCP server boilerplate with user authentication and Stripe for paid tools.
 - [meefs/monorepo](https://github.com/meefs/monorepo): No description
 - [meefs/onchainkit](https://github.com/meefs/onchainkit): React components and TypeScript utilities to help you build top-tier onchain apps.
