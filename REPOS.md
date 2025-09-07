@@ -47,6 +47,7 @@
 - [meefs/nginx](https://github.com/meefs/nginx): The official NGINX Open Source repository.
 - [meefs/prvhash](https://github.com/meefs/prvhash): PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor. (Codename Gradilac/Градилак)
 - [meefs/suricata](https://github.com/meefs/suricata): Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
+- [meefs/swisseph](https://github.com/meefs/swisseph): Swiss Ephemeris source code, official release by Astrodienst. For reporting issues or problems, please use the public mailing list https://groups.io/g/swisseph
 - [meefs/ta-lib](https://github.com/meefs/ta-lib): TA-Lib (Core C Library)
 - [meefs/wireshark](https://github.com/meefs/wireshark): Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
 
