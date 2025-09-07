@@ -399,6 +399,7 @@
 - [meefs/ccbuildcrumb](https://github.com/meefs/ccbuildcrumb): No description
 - [meefs/claude-deep-research](https://github.com/meefs/claude-deep-research): Claude Deep Research config for Claude Code.
 - [meefs/code-my-crown](https://github.com/meefs/code-my-crown): No description
+- [meefs/ephemeris](https://github.com/meefs/ephemeris): A personal ephemeris
 - [meefs/film](https://github.com/meefs/film): Custom implementation of Google FILM interpolation software
 - [meefs/fork-repo-sync](https://github.com/meefs/fork-repo-sync): A collection of GitHub Actions to automate the management of 100+ repositories
 - [meefs/gitaudio](https://github.com/meefs/gitaudio): No description
