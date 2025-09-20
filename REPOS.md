@@ -163,6 +163,9 @@
 ## PHP
 - [meefs/DVWA](https://github.com/meefs/DVWA): Damn Vulnerable Web Application (DVWA)
 
+## PowerShell
+- [meefs/claude-code](https://github.com/meefs/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+
 ## Python
 - [meefs/3d-guided-genai-rtx](https://github.com/meefs/3d-guided-genai-rtx): No description
 - [meefs/ACE-Step](https://github.com/meefs/ACE-Step): ACE-Step: A Step Towards Music Generation Foundation Model
@@ -329,7 +332,6 @@
 - [meefs/basedocs](https://github.com/meefs/basedocs): Documentation for building on Base
 - [meefs/cdp-agentkit](https://github.com/meefs/cdp-agentkit): No description
 - [meefs/claude-code-flow](https://github.com/meefs/claude-code-flow): This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
-- [meefs/claude-code](https://github.com/meefs/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [meefs/cobold](https://github.com/meefs/cobold): telegram bot for downloading media, powered by cobalt
 - [meefs/conviction](https://github.com/meefs/conviction): No description
 - [meefs/defillama-server](https://github.com/meefs/defillama-server): Server for defillama
