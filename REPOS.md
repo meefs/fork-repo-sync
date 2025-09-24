@@ -46,6 +46,7 @@
 - [meefs/malady](https://github.com/meefs/malady): maldev obviously
 - [meefs/nginx](https://github.com/meefs/nginx): The official NGINX Open Source repository.
 - [meefs/prvhash](https://github.com/meefs/prvhash): PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor. (Codename Gradilac/Градилак)
+- [meefs/rsk-powhsm](https://github.com/meefs/rsk-powhsm): Special purpose PowHSM firmware for the RSK PowPeg.
 - [meefs/suricata](https://github.com/meefs/suricata): Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
 - [meefs/swisseph](https://github.com/meefs/swisseph): Swiss Ephemeris source code, official release by Astrodienst. For reporting issues or problems, please use the public mailing list https://groups.io/g/swisseph
 - [meefs/ta-lib](https://github.com/meefs/ta-lib): TA-Lib (Core C Library)
@@ -346,6 +347,7 @@
 - [meefs/kit](https://github.com/meefs/kit): Solana JavaScript SDK
 - [meefs/lemmy](https://github.com/meefs/lemmy): Wrapper around tool using LLMs for agentic workflows
 - [meefs/magicblock-engine-examples](https://github.com/meefs/magicblock-engine-examples): Ephemeral Rollups - Integration Examples
+- [meefs/make-it-so](https://github.com/meefs/make-it-so): No description
 - [meefs/mcp-boilerplate](https://github.com/meefs/mcp-boilerplate): A remote Cloudflare MCP server boilerplate with user authentication and Stripe for paid tools.
 - [meefs/mockoon](https://github.com/meefs/mockoon): Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [meefs/monorepo](https://github.com/meefs/monorepo): No description
