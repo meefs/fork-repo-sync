@@ -325,6 +325,7 @@
 - [meefs/SnitchBench](https://github.com/meefs/SnitchBench): No description
 - [meefs/TypeChain](https://github.com/meefs/TypeChain): 🔌 TypeScript bindings for Ethereum smart contracts
 - [meefs/a2a-js](https://github.com/meefs/a2a-js): Official JavaScript SDK for the Agent2Agent (A2A) Protocol
+- [meefs/agents-starter](https://github.com/meefs/agents-starter): A starter kit for building ai agents on Cloudflare
 - [meefs/ai-agent-cognitivedriftt](https://github.com/meefs/ai-agent-cognitivedriftt): Cognitive Drift AI Agent
 - [meefs/ai-brainstore](https://github.com/meefs/ai-brainstore): A proof-of-concept of a brain for an AI agent.
 - [meefs/ai](https://github.com/meefs/ai): No description
@@ -350,6 +351,7 @@
 - [meefs/mcp-boilerplate](https://github.com/meefs/mcp-boilerplate): A remote Cloudflare MCP server boilerplate with user authentication and Stripe for paid tools.
 - [meefs/mockoon](https://github.com/meefs/mockoon): Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [meefs/monorepo](https://github.com/meefs/monorepo): No description
+- [meefs/my-chat-agent](https://github.com/meefs/my-chat-agent): No description
 - [meefs/onchainkit](https://github.com/meefs/onchainkit): React components and TypeScript utilities to help you build top-tier onchain apps.
 - [meefs/playwright-mcp](https://github.com/meefs/playwright-mcp): Playwright MCP server
 - [meefs/repomix](https://github.com/meefs/repomix): 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
