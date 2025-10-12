@@ -204,6 +204,7 @@
 - [meefs/VSP-LLM](https://github.com/meefs/VSP-LLM): No description
 - [meefs/ag2](https://github.com/meefs/ag2): AG2 (formerly AutoGen) is a programming framework for agentic AI. Join the community at: https://discord.gg/pAbnFJrkgZ
 - [meefs/aixcc-afc-archive](https://github.com/meefs/aixcc-afc-archive): Public Source code Release of Theori's AIxCC AFC Submission
+- [meefs/anamorpher](https://github.com/meefs/anamorpher): image scaling attacks for multi-modal prompt injection
 - [meefs/auto-md](https://github.com/meefs/auto-md): Convert Files /  Folders / GitHub Repos Into AI / LLM-ready Files
 - [meefs/automated-prompt-engineering-from-scratch](https://github.com/meefs/automated-prompt-engineering-from-scratch): A repo with an automated prompt engineering workflow from scratch. It leverages the OPRO technique.
 - [meefs/awesome-llm-apps](https://github.com/meefs/awesome-llm-apps): Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
