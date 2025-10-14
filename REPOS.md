@@ -273,6 +273,7 @@
 - [meefs/homographic_spoofing](https://github.com/meefs/homographic_spoofing): Toolkit to both detect and sanitize homographic spoofing attacks in URLs and Email addresses
 
 ## Rust
+- [meefs/baml](https://github.com/meefs/baml): The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [meefs/bitcoinphone](https://github.com/meefs/bitcoinphone): Voice over the BitcoinSV protocol (made for CoinGeek 2021)
 - [meefs/halo2](https://github.com/meefs/halo2): The Halo2 zero-knowledge proving system
 - [meefs/iroh](https://github.com/meefs/iroh): peer-2-peer that just works
