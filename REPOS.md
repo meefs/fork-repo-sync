@@ -251,6 +251,7 @@
 - [meefs/public-apis](https://github.com/meefs/public-apis): A collective list of free APIs
 - [meefs/shell_gpt](https://github.com/meefs/shell_gpt): A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
 - [meefs/sherlock](https://github.com/meefs/sherlock): Hunt down social media accounts by username across social networks
+- [meefs/skills](https://github.com/meefs/skills): Public repository for Skills
 - [meefs/skypilot](https://github.com/meefs/skypilot): SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
 - [meefs/slither](https://github.com/meefs/slither): Static Analyzer for Solidity
 - [meefs/sparc](https://github.com/meefs/sparc): No description
