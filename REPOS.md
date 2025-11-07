@@ -275,6 +275,7 @@
 - [meefs/www-project-artificial-intelligence-vulnerability-scoring-system](https://github.com/meefs/www-project-artificial-intelligence-vulnerability-scoring-system): OWASP Foundation web repository
 
 ## Ruby
+- [meefs/homebrew-cask](https://github.com/meefs/homebrew-cask): 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [meefs/homographic_spoofing](https://github.com/meefs/homographic_spoofing): Toolkit to both detect and sanitize homographic spoofing attacks in URLs and Email addresses
 
 ## Rust
