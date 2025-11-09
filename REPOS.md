@@ -270,6 +270,7 @@
 - [meefs/tinygrad](https://github.com/meefs/tinygrad): You like pytorch? You like micrograd? You love tinygrad! ❤️ 
 - [meefs/ultralytics](https://github.com/meefs/ultralytics): Ultralytics YOLO11 🚀
 - [meefs/unsloth](https://github.com/meefs/unsloth): Finetune Llama 3.2, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
+- [meefs/whisper_leak](https://github.com/meefs/whisper_leak): No description
 - [meefs/whisperbymeefs](https://github.com/meefs/whisperbymeefs): Robust Speech Recognition via Large-Scale Weak Supervision
 - [meefs/wonder](https://github.com/meefs/wonder): metaprogramming for LLMs and other humans
 - [meefs/www-project-artificial-intelligence-vulnerability-scoring-system](https://github.com/meefs/www-project-artificial-intelligence-vulnerability-scoring-system): OWASP Foundation web repository
