@@ -381,6 +381,7 @@
 ## Unknown
 - [meefs/2025-youtube-podcast-men-for-trump](https://github.com/meefs/2025-youtube-podcast-men-for-trump): Data from the Bloomberg News analysis on streamers and podcasters on YouTube
 - [meefs/Avionics-talk](https://github.com/meefs/Avionics-talk): No description
+- [meefs/Awesome-AI-Security](https://github.com/meefs/Awesome-AI-Security): Curated resources, research, and tools for securing AI systems
 - [meefs/Awesome-LLM](https://github.com/meefs/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
 - [meefs/Awesome-Multimodal-Prompts](https://github.com/meefs/Awesome-Multimodal-Prompts):  Prompts of GPT-4V & DALL-E3 to full utilize the multi-modal ability. GPT4V Prompts, DALL-E3 Prompts.
 - [meefs/Awesome_Test_Time_LLMs](https://github.com/meefs/Awesome_Test_Time_LLMs): No description
