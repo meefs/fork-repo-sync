@@ -207,6 +207,7 @@
 - [meefs/UniversalBackrooms](https://github.com/meefs/UniversalBackrooms): A replication of Andy Ayrey's "Backrooms" (https://dreams-of-an-electric-mind.webflow.io/), but runnable with Opus 3, Sonnet 3.5, GPT 4o, and o1-preview 
 - [meefs/VSP-LLM](https://github.com/meefs/VSP-LLM): No description
 - [meefs/ag2](https://github.com/meefs/ag2): AG2 (formerly AutoGen) is a programming framework for agentic AI. Join the community at: https://discord.gg/pAbnFJrkgZ
+- [meefs/agents-for-openbb](https://github.com/meefs/agents-for-openbb): Custom agents for OpenBB Workspace
 - [meefs/aixcc-afc-archive](https://github.com/meefs/aixcc-afc-archive): Public Source code Release of Theori's AIxCC AFC Submission
 - [meefs/anamorpher](https://github.com/meefs/anamorpher): image scaling attacks for multi-modal prompt injection
 - [meefs/auto-md](https://github.com/meefs/auto-md): Convert Files /  Folders / GitHub Repos Into AI / LLM-ready Files
