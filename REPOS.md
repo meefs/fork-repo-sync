@@ -121,6 +121,7 @@
 
 ## Jinja
 - [meefs/LLM-Prompt-Library](https://github.com/meefs/LLM-Prompt-Library): Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
+- [meefs/linkml-project-copier](https://github.com/meefs/linkml-project-copier): A copier template for your next LinkML project
 
 ## Jupyter Notebook
 - [meefs/2024-openai-gpt-hiring-racial-discrimination](https://github.com/meefs/2024-openai-gpt-hiring-racial-discrimination): Data and materials to reproduce Bloomberg's investigation into racial and gender bias in OpenAI's GPT
