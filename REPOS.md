@@ -185,6 +185,7 @@
 - [meefs/GFPGAN](https://github.com/meefs/GFPGAN): GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [meefs/Hunyuan3D-2.1](https://github.com/meefs/Hunyuan3D-2.1): From Images to High-Fidelity 3D Assets with Production-Ready PBR Material
 - [meefs/ImageBind](https://github.com/meefs/ImageBind): ImageBind One Embedding Space to Bind Them All
+- [meefs/LLMs4OL](https://github.com/meefs/LLMs4OL): LLMs4OL:‌ Large Language Models for Ontology Learning
 - [meefs/MMAudio](https://github.com/meefs/MMAudio): [arXiv 2024] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
 - [meefs/MiniMax-01](https://github.com/meefs/MiniMax-01): No description
 - [meefs/Mulberry](https://github.com/meefs/Mulberry): Mulberry, an o1-like Reasoning and Reflection MLLM Implemented via Collective MCTS
