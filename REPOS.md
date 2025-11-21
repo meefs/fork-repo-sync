@@ -400,6 +400,7 @@
 - [meefs/KG4SE](https://github.com/meefs/KG4SE): No description
 - [meefs/ONG-ISAC](https://github.com/meefs/ONG-ISAC): This is the page for my presentation to the ONG-ISAC on July 26, 2023 titled 'Putting AI To Work: The magic wand for digital transformation'
 - [meefs/Pride-flag](https://github.com/meefs/Pride-flag): Pride flag featuring 74 individual LGBTQIA+ flags
+- [meefs/Quantum-Consciousness_Microtubules_Orch-OR](https://github.com/meefs/Quantum-Consciousness_Microtubules_Orch-OR): Consciousness and Quantum Theory: Stuart Hameroff, Roger Penrose
 - [meefs/SP_2025_Notes](https://github.com/meefs/SP_2025_Notes): No description
 - [meefs/Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/meefs/Smart-Contract-Auditor-Tools-and-Techniques): This repo contains a comprehensive list of smart contract auditor tools and techniques that can be utilized by both smart contract auditors and blockchain developers for developing secure smart contracts
 - [meefs/SuperPrompt](https://github.com/meefs/SuperPrompt): No description
