@@ -101,7 +101,6 @@
 - [meefs/ditherQuest](https://github.com/meefs/ditherQuest): auto dither images in pleasing colors
 - [meefs/dockertacos](https://github.com/meefs/dockertacos): Sample project involving docker and tacos 🌮
 - [meefs/drawdata](https://github.com/meefs/drawdata): Draw datasets from within Jupyter.
-- [meefs/ethereumbook](https://github.com/meefs/ethereumbook): Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
 - [meefs/go-compression.github.io](https://github.com/meefs/go-compression.github.io): The Hitchhiker's Guide to Compression
 - [meefs/helloworlds](https://github.com/meefs/helloworlds): first attempt at git
 - [meefs/hex.dance](https://github.com/meefs/hex.dance): simple client-side in-browser binary analysis and hex dump
@@ -379,6 +378,7 @@
 - [meefs/ui2](https://github.com/meefs/ui2): The Unified Intent Interface: The easiest way to build intent-powered UIs
 - [meefs/vscode-copilot-chat](https://github.com/meefs/vscode-copilot-chat): Copilot Chat extension for VS Code
 - [meefs/wormhole](https://github.com/meefs/wormhole): A wormhole simulation.
+- [meefs/x402-starter-kit](https://github.com/meefs/x402-starter-kit): No description
 - [meefs/x402](https://github.com/meefs/x402): A payments protocol for the internet. Built on HTTP.
 - [meefs/zkDocAttestation](https://github.com/meefs/zkDocAttestation): Zero Knowledge Proof (ZKP) dapp for attestation and verification of documents
 
@@ -425,6 +425,7 @@
 - [meefs/claude-deep-research](https://github.com/meefs/claude-deep-research): Claude Deep Research config for Claude Code.
 - [meefs/code-my-crown](https://github.com/meefs/code-my-crown): No description
 - [meefs/ephemeris](https://github.com/meefs/ephemeris): A personal ephemeris
+- [meefs/ethereumbook](https://github.com/meefs/ethereumbook): Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
 - [meefs/film](https://github.com/meefs/film): Custom implementation of Google FILM interpolation software
 - [meefs/fork-repo-sync](https://github.com/meefs/fork-repo-sync): A collection of GitHub Actions to automate the management of 100+ repositories
 - [meefs/gitaudio](https://github.com/meefs/gitaudio): No description
