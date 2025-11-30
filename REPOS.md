@@ -174,6 +174,7 @@
 - [meefs/3d-guided-genai-rtx](https://github.com/meefs/3d-guided-genai-rtx): No description
 - [meefs/ACE-Step](https://github.com/meefs/ACE-Step): ACE-Step: A Step Towards Music Generation Foundation Model
 - [meefs/AMT](https://github.com/meefs/AMT): Official code for "AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation" (CVPR2023)
+- [meefs/AbletonOSC](https://github.com/meefs/AbletonOSC): Control Ableton Live via Open Sound Control (OSC)
 - [meefs/BitNet](https://github.com/meefs/BitNet): Official inference framework for 1-bit LLMs
 - [meefs/CLIP-based-NSFW-Detector](https://github.com/meefs/CLIP-based-NSFW-Detector): No description
 - [meefs/CVE-2025-31324](https://github.com/meefs/CVE-2025-31324): CVE-2025-31324, SAP Exploit
