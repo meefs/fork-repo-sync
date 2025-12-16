@@ -401,6 +401,7 @@
 - [meefs/FaceSynthetics](https://github.com/meefs/FaceSynthetics): No description
 - [meefs/GAI-is-going-well](https://github.com/meefs/GAI-is-going-well): This is a  curated collection of articles and  research  papers related to  the unexpected  or unwanted outcomes , security & privacy  risks associated with using LLMs/GAI. 
 - [meefs/HouSecCon](https://github.com/meefs/HouSecCon): a collection of information from HOU.SEC.CON
+- [meefs/Immunefi-bug-bounty-writeups-list](https://github.com/meefs/Immunefi-bug-bounty-writeups-list): curation of all(most) immunefi bug bounty writeups I could find(till now)
 - [meefs/KG4SE](https://github.com/meefs/KG4SE): No description
 - [meefs/ONG-ISAC](https://github.com/meefs/ONG-ISAC): This is the page for my presentation to the ONG-ISAC on July 26, 2023 titled 'Putting AI To Work: The magic wand for digital transformation'
 - [meefs/Pride-flag](https://github.com/meefs/Pride-flag): Pride flag featuring 74 individual LGBTQIA+ flags
