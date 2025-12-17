@@ -233,7 +233,6 @@
 - [meefs/dronesploit](https://github.com/meefs/dronesploit): Drone pentesting framework console
 - [meefs/dstack](https://github.com/meefs/dstack): dstack is a lightweight, open-source alternative to Kubernetes & Slurm, simplifying AI container orchestration with multi-cloud & on-prem support. It natively supports NVIDIA, AMD, & TPU.
 - [meefs/entseeker](https://github.com/meefs/entseeker): entseeker is a command-line tool for Named Entity Recognition (NER) and web entity searches in text files. It uses spaCy's NLP capabilities for standard named entities and custom rules for web-related entities.
-- [meefs/exo](https://github.com/meefs/exo): Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [meefs/frame-interpolation](https://github.com/meefs/frame-interpolation): FILM: Frame Interpolation for Large Motion, In arXiv 2022.
 - [meefs/freqtrade](https://github.com/meefs/freqtrade): Free, open source crypto trading bot
 - [meefs/garak](https://github.com/meefs/garak): the LLM vulnerability scanner
@@ -431,6 +430,7 @@
 - [meefs/code-my-crown](https://github.com/meefs/code-my-crown): No description
 - [meefs/ephemeris](https://github.com/meefs/ephemeris): A personal ephemeris
 - [meefs/ethereumbook](https://github.com/meefs/ethereumbook): Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
+- [meefs/exo](https://github.com/meefs/exo): Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [meefs/film](https://github.com/meefs/film): Custom implementation of Google FILM interpolation software
 - [meefs/fork-repo-sync](https://github.com/meefs/fork-repo-sync): A collection of GitHub Actions to automate the management of 100+ repositories
 - [meefs/gitaudio](https://github.com/meefs/gitaudio): No description
