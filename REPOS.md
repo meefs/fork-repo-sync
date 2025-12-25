@@ -291,7 +291,6 @@
 - [meefs/bitcoinphone](https://github.com/meefs/bitcoinphone): Voice over the BitcoinSV protocol (made for CoinGeek 2021)
 - [meefs/gambit](https://github.com/meefs/gambit): Using mutations to improve specs and test suites
 - [meefs/halo2](https://github.com/meefs/halo2): The Halo2 zero-knowledge proving system
-- [meefs/hash](https://github.com/meefs/hash): 🚀  The open-source, multi-tenant, self-building knowledge graph
 - [meefs/iroh](https://github.com/meefs/iroh): peer-2-peer that just works
 - [meefs/ja4](https://github.com/meefs/ja4): JA4+ is a suite of network fingerprinting standards
 - [meefs/pingora](https://github.com/meefs/pingora): A library for building fast, reliable and evolvable network services.
@@ -360,6 +359,7 @@
 - [meefs/eth-phishing-detect](https://github.com/meefs/eth-phishing-detect): Utility for detecting phishing domains targeting Web3 users
 - [meefs/gemini-cli](https://github.com/meefs/gemini-cli): An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [meefs/geolocation-hello-world](https://github.com/meefs/geolocation-hello-world): No description
+- [meefs/hash](https://github.com/meefs/hash): 🚀  The open-source, multi-tenant, self-building knowledge graph
 - [meefs/humanlayer](https://github.com/meefs/humanlayer): HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more.  Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling
 - [meefs/jitsi-meet](https://github.com/meefs/jitsi-meet): Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [meefs/jupyter](https://github.com/meefs/jupyter): A Waldiez JupyterLab extension.
