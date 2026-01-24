@@ -88,8 +88,10 @@
 - [meefs/cve](https://github.com/meefs/cve): Gather and update all available and newest CVEs with their PoC.
 - [meefs/docs](https://github.com/meefs/docs): documentation for content creation
 - [meefs/gigahorse-toolchain](https://github.com/meefs/gigahorse-toolchain): A binary lifter and analysis framework for Ethereum smart contracts
+- [meefs/m3u-audiobooks](https://github.com/meefs/m3u-audiobooks): collection of 100k+ audio books, radio porgrams, music etc from archive.org in a easy to listen m3u playlist format
 - [meefs/meta-prompt](https://github.com/meefs/meta-prompt): For LLMs to better code with Jina API
 - [meefs/promptlikeanegyptian](https://github.com/meefs/promptlikeanegyptian): prompt like an egyptiaaaaannnnn
+- [meefs/www-project-artificial-intelligence-vulnerability-scoring-system](https://github.com/meefs/www-project-artificial-intelligence-vulnerability-scoring-system): OWASP Foundation web repository
 
 ## JavaScript
 - [meefs/MIDI2.0Workbench](https://github.com/meefs/MIDI2.0Workbench): MIDI 2.0 Testing Tool
@@ -109,6 +111,7 @@
 - [meefs/go-compression.github.io](https://github.com/meefs/go-compression.github.io): The Hitchhiker's Guide to Compression
 - [meefs/helloworlds](https://github.com/meefs/helloworlds): first attempt at git
 - [meefs/hex.dance](https://github.com/meefs/hex.dance): simple client-side in-browser binary analysis and hex dump
+- [meefs/owasp-mastg](https://github.com/meefs/owasp-mastg): The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
 - [meefs/portal-network-specs](https://github.com/meefs/portal-network-specs): Official repository for specifications for the Portal Network
 - [meefs/puter](https://github.com/meefs/puter): 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [meefs/skills-getting-started-with-github-copilot](https://github.com/meefs/skills-getting-started-with-github-copilot): Exercise: Get started using GitHub Copilot
@@ -261,7 +264,6 @@
 - [meefs/mqtt](https://github.com/meefs/mqtt): Mythic C2 Profile using mqtt
 - [meefs/mxfp4-llm](https://github.com/meefs/mxfp4-llm): Official implementation for Training LLMs with MXFP4
 - [meefs/ollm](https://github.com/meefs/ollm): No description
-- [meefs/owasp-mastg](https://github.com/meefs/owasp-mastg): The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
 - [meefs/pajaMAS](https://github.com/meefs/pajaMAS): Multi-agent system (MAS) hijacking demos
 - [meefs/perplexity-ai](https://github.com/meefs/perplexity-ai): Unofficial API Wrapper for Perplexity.ai + Account Generator with Web Interface
 - [meefs/picklescan](https://github.com/meefs/picklescan): Security scanner detecting Python Pickle files performing suspicious actions
@@ -294,7 +296,6 @@
 - [meefs/whisperbymeefs](https://github.com/meefs/whisperbymeefs): Robust Speech Recognition via Large-Scale Weak Supervision
 - [meefs/wintermute-hyperliquid-analysis](https://github.com/meefs/wintermute-hyperliquid-analysis): Wintermute Hyperliquid quoting strategy analysis
 - [meefs/wonder](https://github.com/meefs/wonder): metaprogramming for LLMs and other humans
-- [meefs/www-project-artificial-intelligence-vulnerability-scoring-system](https://github.com/meefs/www-project-artificial-intelligence-vulnerability-scoring-system): OWASP Foundation web repository
 
 ## Ruby
 - [meefs/homebrew-cask](https://github.com/meefs/homebrew-cask): 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
@@ -332,7 +333,6 @@
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
 - [meefs/iTerm2-Color-Schemes](https://github.com/meefs/iTerm2-Color-Schemes): Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
 - [meefs/ipranges](https://github.com/meefs/ipranges): 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
-- [meefs/m3u-audiobooks](https://github.com/meefs/m3u-audiobooks): collection of 100k+ audio books, radio porgrams, music etc from archive.org in a easy to listen m3u playlist format
 - [meefs/ohmyzsh](https://github.com/meefs/ohmyzsh): 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [meefs/papers-we-love](https://github.com/meefs/papers-we-love): Papers from the computer science community to read and discuss.
 - [meefs/perf-tools](https://github.com/meefs/perf-tools): Performance analysis tools based on Linux perf_events (aka perf) and ftrace
