@@ -23,6 +23,7 @@
 - [meefs/openvino-plugins-ai-audacity](https://github.com/meefs/openvino-plugins-ai-audacity): A set of AI-enabled effects, generators, and analyzers for Audacity®.
 - [meefs/openvino](https://github.com/meefs/openvino): OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference
 - [meefs/paulxstretch](https://github.com/meefs/paulxstretch): PaulXStretch - Extreme Timestretching application and plugin
+- [meefs/powertabeditor](https://github.com/meefs/powertabeditor): View and edit guitar tablature.
 - [meefs/quiche](https://github.com/meefs/quiche): No description
 - [meefs/shadPS4](https://github.com/meefs/shadPS4): PS4 emulator for Windows,Linux,MacOS
 - [meefs/stable-diffusion.cpp](https://github.com/meefs/stable-diffusion.cpp): Stable Diffusion in pure C/C++
@@ -154,6 +155,7 @@
 - [meefs/data](https://github.com/meefs/data): Data and code behind the articles and graphics at FiveThirtyEight
 - [meefs/dl-colab-notebooks](https://github.com/meefs/dl-colab-notebooks): Try out  deep learning models online on Google Colab
 - [meefs/fastbook](https://github.com/meefs/fastbook): The fastai book, published as Jupyter Notebooks
+- [meefs/ga](https://github.com/meefs/ga): No description
 - [meefs/gpt-oss-alignment](https://github.com/meefs/gpt-oss-alignment): No description
 - [meefs/illusion-diffusion-stable](https://github.com/meefs/illusion-diffusion-stable): This project works by using Monster Labs QR Control Net. Given a prompt and your pattern, we use a QR code conditioned controlnet to create a stunning illusion! Credit to: MrUgleh & AP123
 - [meefs/llama-recipes](https://github.com/meefs/llama-recipes): Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger.
