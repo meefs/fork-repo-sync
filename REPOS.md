@@ -112,7 +112,6 @@
 - [meefs/go-compression.github.io](https://github.com/meefs/go-compression.github.io): The Hitchhiker's Guide to Compression
 - [meefs/helloworlds](https://github.com/meefs/helloworlds): first attempt at git
 - [meefs/hex.dance](https://github.com/meefs/hex.dance): simple client-side in-browser binary analysis and hex dump
-- [meefs/owasp-mastg](https://github.com/meefs/owasp-mastg): The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
 - [meefs/portal-network-specs](https://github.com/meefs/portal-network-specs): Official repository for specifications for the Portal Network
 - [meefs/puter](https://github.com/meefs/puter): 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [meefs/skills-getting-started-with-github-copilot](https://github.com/meefs/skills-getting-started-with-github-copilot): Exercise: Get started using GitHub Copilot
@@ -267,6 +266,7 @@
 - [meefs/mqtt](https://github.com/meefs/mqtt): Mythic C2 Profile using mqtt
 - [meefs/mxfp4-llm](https://github.com/meefs/mxfp4-llm): Official implementation for Training LLMs with MXFP4
 - [meefs/ollm](https://github.com/meefs/ollm): No description
+- [meefs/owasp-mastg](https://github.com/meefs/owasp-mastg): The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
 - [meefs/pajaMAS](https://github.com/meefs/pajaMAS): Multi-agent system (MAS) hijacking demos
 - [meefs/perplexity-ai](https://github.com/meefs/perplexity-ai): Unofficial API Wrapper for Perplexity.ai + Account Generator with Web Interface
 - [meefs/picklescan](https://github.com/meefs/picklescan): Security scanner detecting Python Pickle files performing suspicious actions
