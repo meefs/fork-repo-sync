@@ -106,7 +106,6 @@
 - [meefs/ditherQuest](https://github.com/meefs/ditherQuest): auto dither images in pleasing colors
 - [meefs/dockertacos](https://github.com/meefs/dockertacos): Sample project involving docker and tacos 🌮
 - [meefs/drawdata](https://github.com/meefs/drawdata): Draw datasets from within Jupyter.
-- [meefs/get-shit-done](https://github.com/meefs/get-shit-done): A light-weight but powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [meefs/go-compression.github.io](https://github.com/meefs/go-compression.github.io): The Hitchhiker's Guide to Compression
 - [meefs/helloworlds](https://github.com/meefs/helloworlds): first attempt at git
 - [meefs/hex.dance](https://github.com/meefs/hex.dance): simple client-side in-browser binary analysis and hex dump
@@ -383,6 +382,7 @@
 - [meefs/fretboard.js](https://github.com/meefs/fretboard.js): Fretboard diagram generator
 - [meefs/gemini-cli](https://github.com/meefs/gemini-cli): An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [meefs/geolocation-hello-world](https://github.com/meefs/geolocation-hello-world): No description
+- [meefs/get-shit-done](https://github.com/meefs/get-shit-done): A light-weight but powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [meefs/humanlayer](https://github.com/meefs/humanlayer): HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more.  Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling
 - [meefs/jitsi-meet](https://github.com/meefs/jitsi-meet): Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [meefs/jupyter](https://github.com/meefs/jupyter): A Waldiez JupyterLab extension.
