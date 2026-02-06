@@ -399,6 +399,7 @@
 - [meefs/repomix](https://github.com/meefs/repomix): 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 - [meefs/revoke.cash](https://github.com/meefs/revoke.cash): ❌ Revoke or update your token approvals
 - [meefs/servers](https://github.com/meefs/servers): Model Context Protocol Servers
+- [meefs/shannon](https://github.com/meefs/shannon): Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 - [meefs/solana-app-kit](https://github.com/meefs/solana-app-kit): build solana apps under 15 mins
 - [meefs/solana-web3.js](https://github.com/meefs/solana-web3.js): Solana JavaScript SDK
 - [meefs/stack-chan](https://github.com/meefs/stack-chan): A JavaScript-driven M5Stack-embedded super-kawaii robot.
