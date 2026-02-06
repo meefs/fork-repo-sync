@@ -194,6 +194,7 @@
 - [meefs/ComfyUI-PhotoMaker-Plus](https://github.com/meefs/ComfyUI-PhotoMaker-Plus): PhotoMaker for ComfyUI
 - [meefs/DeepSpeed](https://github.com/meefs/DeepSpeed): DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [meefs/Engram](https://github.com/meefs/Engram): Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models
+- [meefs/EpsteIn](https://github.com/meefs/EpsteIn): See which of your LinkedIn connections appear in the Epstein files.
 - [meefs/GFPGAN](https://github.com/meefs/GFPGAN): GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [meefs/Hunyuan3D-2.1](https://github.com/meefs/Hunyuan3D-2.1): From Images to High-Fidelity 3D Assets with Production-Ready PBR Material
 - [meefs/ImageBind](https://github.com/meefs/ImageBind): ImageBind One Embedding Space to Bind Them All
