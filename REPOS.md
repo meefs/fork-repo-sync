@@ -210,6 +210,7 @@
 - [meefs/One-2-3-45](https://github.com/meefs/One-2-3-45): official code of "One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization"
 - [meefs/OpenAI_Agent_Swarm](https://github.com/meefs/OpenAI_Agent_Swarm): Early experiment to create fully autonomous agent swarms
 - [meefs/OpenBB](https://github.com/meefs/OpenBB): Investment Research for Everyone, Everywhere.
+- [meefs/OpenResearcher](https://github.com/meefs/OpenResearcher): No description
 - [meefs/OpenVoice](https://github.com/meefs/OpenVoice): Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [meefs/Parade-State-Bot](https://github.com/meefs/Parade-State-Bot): Automating my Admin NS job Task: Send out parade state attendance for 24 perm staff members daily  Format output: Structured Telegram message 
 - [meefs/Pineapples-Secrets](https://github.com/meefs/Pineapples-Secrets): A writeup on how Pineapple actually works
