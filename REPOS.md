@@ -308,9 +308,11 @@
 - [meefs/homographic_spoofing](https://github.com/meefs/homographic_spoofing): Toolkit to both detect and sanitize homographic spoofing attacks in URLs and Email addresses
 
 ## Rust
+- [meefs/ZeroOS](https://github.com/meefs/ZeroOS): ZeroOS: A Universal Modular Library OS for zkVMs
 - [meefs/baml](https://github.com/meefs/baml): The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [meefs/bitcoinphone](https://github.com/meefs/bitcoinphone): Voice over the BitcoinSV protocol (made for CoinGeek 2021)
 - [meefs/gambit](https://github.com/meefs/gambit): Using mutations to improve specs and test suites
+- [meefs/gpu-acceleration](https://github.com/meefs/gpu-acceleration): Explorations on mobile-first GPU acceleration, currently support MSM.
 - [meefs/halo2](https://github.com/meefs/halo2): The Halo2 zero-knowledge proving system
 - [meefs/hash](https://github.com/meefs/hash): 🚀  The open-source, multi-tenant, self-building knowledge graph
 - [meefs/iroh](https://github.com/meefs/iroh): peer-2-peer that just works
@@ -383,6 +385,7 @@
 - [meefs/conviction](https://github.com/meefs/conviction): No description
 - [meefs/daydreams](https://github.com/meefs/daydreams): Daydreams is a set of tools for building agents for commerce
 - [meefs/defillama-server](https://github.com/meefs/defillama-server): Server for defillama
+- [meefs/devtools](https://github.com/meefs/devtools): LayerZero Endpoint V2 Examples and Developer Tooling
 - [meefs/eigent](https://github.com/meefs/eigent): Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
 - [meefs/emoji-encoder](https://github.com/meefs/emoji-encoder): No description
 - [meefs/eth-phishing-detect](https://github.com/meefs/eth-phishing-detect): Utility for detecting phishing domains targeting Web3 users
