@@ -347,6 +347,7 @@
 - [meefs/the-bread-code](https://github.com/meefs/the-bread-code): Learn how to master the art of baking the programmer way.
 
 ## Solidity
+- [meefs/LayerZero-v1](https://github.com/meefs/LayerZero-v1): An Omnichain Interoperability Protocol
 - [meefs/learn-evm-attacks](https://github.com/meefs/learn-evm-attacks): Learn and contribute by exploring blockchain attacks in detail. Maintained by Coinspect smart contract audit team, renowned for their top-tier smart contract audit services.
 - [meefs/wbtc-aave-demo](https://github.com/meefs/wbtc-aave-demo): No description
 
