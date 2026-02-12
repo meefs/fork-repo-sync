@@ -410,6 +410,7 @@
 - [meefs/solana-app-kit](https://github.com/meefs/solana-app-kit): build solana apps under 15 mins
 - [meefs/solana-web3.js](https://github.com/meefs/solana-web3.js): Solana JavaScript SDK
 - [meefs/stack-chan](https://github.com/meefs/stack-chan): A JavaScript-driven M5Stack-embedded super-kawaii robot.
+- [meefs/trpc](https://github.com/meefs/trpc): 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [meefs/ui2](https://github.com/meefs/ui2): The Unified Intent Interface: The easiest way to build intent-powered UIs
 - [meefs/vscode-copilot-chat](https://github.com/meefs/vscode-copilot-chat): Copilot Chat extension for VS Code
 - [meefs/wormhole](https://github.com/meefs/wormhole): A wormhole simulation.
