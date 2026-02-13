@@ -194,6 +194,7 @@
 - [meefs/ChatDoctor](https://github.com/meefs/ChatDoctor): No description
 - [meefs/CodeFormer](https://github.com/meefs/CodeFormer): [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 - [meefs/ComfyUI-PhotoMaker-Plus](https://github.com/meefs/ComfyUI-PhotoMaker-Plus): PhotoMaker for ComfyUI
+- [meefs/DeepCAD](https://github.com/meefs/DeepCAD): code for our ICCV 2021 paper "DeepCAD: A Deep Generative Network for Computer-Aided Design Models"
 - [meefs/DeepSpeed](https://github.com/meefs/DeepSpeed): DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [meefs/Engram](https://github.com/meefs/Engram): Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models
 - [meefs/EpsteIn](https://github.com/meefs/EpsteIn): See which of your LinkedIn connections appear in the Epstein files.
@@ -468,6 +469,7 @@
 - [meefs/claude-deep-research](https://github.com/meefs/claude-deep-research): Claude Deep Research config for Claude Code.
 - [meefs/code-my-crown](https://github.com/meefs/code-my-crown): No description
 - [meefs/ephemeris](https://github.com/meefs/ephemeris): A personal ephemeris
+- [meefs/episode-transcripts](https://github.com/meefs/episode-transcripts): No description
 - [meefs/ethereumbook](https://github.com/meefs/ethereumbook): Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
 - [meefs/film](https://github.com/meefs/film): Custom implementation of Google FILM interpolation software
 - [meefs/fork-repo-sync](https://github.com/meefs/fork-repo-sync): A collection of GitHub Actions to automate the management of 100+ repositories
@@ -496,6 +498,7 @@
 - [meefs/wstg](https://github.com/meefs/wstg): The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [meefs/x402-gitbook](https://github.com/meefs/x402-gitbook): No description
 - [meefs/xss-payload-list](https://github.com/meefs/xss-payload-list): 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
+- [meefs/zashi](https://github.com/meefs/zashi): Issue Tracking and common resources for the Zashi Zcash Wallets
 
 ## Vim Script
 - [meefs/llama.vim](https://github.com/meefs/llama.vim): Vim plugin for LLM-assisted code/text completion
