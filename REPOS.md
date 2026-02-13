@@ -319,6 +319,7 @@
 - [meefs/hash](https://github.com/meefs/hash): 🚀  The open-source, multi-tenant, self-building knowledge graph
 - [meefs/iroh](https://github.com/meefs/iroh): peer-2-peer that just works
 - [meefs/ja4](https://github.com/meefs/ja4): JA4+ is a suite of network fingerprinting standards
+- [meefs/lambdaworks](https://github.com/meefs/lambdaworks): lambdaworks offers implementations for both SNARKs and STARKs provers, along with the flexibility to leverage their individual components for constructing customized SNARKs.
 - [meefs/loom](https://github.com/meefs/loom): if your name is not Geoffrey Huntley then do not use loom
 - [meefs/pingora](https://github.com/meefs/pingora): A library for building fast, reliable and evolvable network services.
 - [meefs/pkarr](https://github.com/meefs/pkarr): Public Key Addressable Resource Records (sovereign TLDs)
