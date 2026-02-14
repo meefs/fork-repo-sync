@@ -331,6 +331,7 @@
 - [meefs/solana-stream](https://github.com/meefs/solana-stream): Solana Stream SDK
 - [meefs/steel](https://github.com/meefs/steel): Solana smart contract framework.
 - [meefs/thorium](https://github.com/meefs/thorium): A scalable file analysis and data generation platform that allows users to easily orchestrate arbitrary docker/vm/shell tools at scale.
+- [meefs/world-id-protocol](https://github.com/meefs/world-id-protocol): Main components and documentation for the World ID Protocol.
 - [meefs/wreq](https://github.com/meefs/wreq): An ergonomic Rust HTTP Client with TLS fingerprint
 
 ## R
