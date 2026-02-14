@@ -75,6 +75,7 @@
 - [meefs/goat](https://github.com/meefs/goat): Render ASCII art as SVG diagrams
 - [meefs/image-spec](https://github.com/meefs/image-spec): OCI Image Format
 - [meefs/meemaw](https://github.com/meefs/meemaw): Trustless and Grandma-friendly Wallet as a Service
+- [meefs/nightshift](https://github.com/meefs/nightshift): Nightshift uses your leftover Claude / Codex budget to surprise you with useful PRs. Love them or leave them.
 - [meefs/oui](https://github.com/meefs/oui): MAC Address CLI Toolkit
 - [meefs/pinentry-touchid](https://github.com/meefs/pinentry-touchid): Custom GPG pinentry program for macOS that allows using Touch ID for fetching the password from the macOS keychain.
 - [meefs/ticker](https://github.com/meefs/ticker): Track stocks, crypto, and derivatives prices and positions in real time from your terminal
@@ -400,6 +401,7 @@
 - [meefs/geolocation-hello-world](https://github.com/meefs/geolocation-hello-world): No description
 - [meefs/humanlayer](https://github.com/meefs/humanlayer): HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more.  Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling
 - [meefs/jitsi-meet](https://github.com/meefs/jitsi-meet): Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [meefs/json-render](https://github.com/meefs/json-render): The Generative UI framework
 - [meefs/jupyter](https://github.com/meefs/jupyter): A Waldiez JupyterLab extension.
 - [meefs/kit](https://github.com/meefs/kit): Solana JavaScript SDK
 - [meefs/lemmy](https://github.com/meefs/lemmy): Wrapper around tool using LLMs for agentic workflows
