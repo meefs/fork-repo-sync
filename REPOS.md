@@ -315,6 +315,7 @@
 - [meefs/ZeroOS](https://github.com/meefs/ZeroOS): ZeroOS: A Universal Modular Library OS for zkVMs
 - [meefs/baml](https://github.com/meefs/baml): The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [meefs/bitcoinphone](https://github.com/meefs/bitcoinphone): Voice over the BitcoinSV protocol (made for CoinGeek 2021)
+- [meefs/diamond-io](https://github.com/meefs/diamond-io): Diamond iO implementation https://eprint.iacr.org/2025/236
 - [meefs/gambit](https://github.com/meefs/gambit): Using mutations to improve specs and test suites
 - [meefs/gpu-acceleration](https://github.com/meefs/gpu-acceleration): Explorations on mobile-first GPU acceleration, currently support MSM.
 - [meefs/halo2](https://github.com/meefs/halo2): The Halo2 zero-knowledge proving system
