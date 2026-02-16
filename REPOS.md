@@ -21,6 +21,7 @@
 - [meefs/m4l-connection-kit](https://github.com/meefs/m4l-connection-kit): Max for Live Connection Kit
 - [meefs/mlx](https://github.com/meefs/mlx): MLX: An array framework for Apple silicon
 - [meefs/mujoco](https://github.com/meefs/mujoco): Multi-Joint dynamics with Contact. A general purpose physics simulator.
+- [meefs/onnxruntime](https://github.com/meefs/onnxruntime): ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [meefs/openvino-plugins-ai-audacity](https://github.com/meefs/openvino-plugins-ai-audacity): A set of AI-enabled effects, generators, and analyzers for Audacity®.
 - [meefs/openvino](https://github.com/meefs/openvino): OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference
 - [meefs/paulxstretch](https://github.com/meefs/paulxstretch): PaulXStretch - Extreme Timestretching application and plugin
@@ -237,6 +238,7 @@
 - [meefs/automated-prompt-engineering-from-scratch](https://github.com/meefs/automated-prompt-engineering-from-scratch): A repo with an automated prompt engineering workflow from scratch. It leverages the OPRO technique.
 - [meefs/awesome-llm-apps](https://github.com/meefs/awesome-llm-apps): Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [meefs/bandit](https://github.com/meefs/bandit): Bandit is a tool designed to find common security issues in Python code.
+- [meefs/binance-public-data](https://github.com/meefs/binance-public-data): Details on how to get Binance public data
 - [meefs/bitstamp-btcusd-minute-data](https://github.com/meefs/bitstamp-btcusd-minute-data): Daily updates of Bitstamp BTC/USD 1-minute OHLC data, with historical data since 2012
 - [meefs/bro-clickhouse](https://github.com/meefs/bro-clickhouse): No description
 - [meefs/bug-bounty-labs](https://github.com/meefs/bug-bounty-labs): All the labs in this repository simulate real world bugs I found in the wild
