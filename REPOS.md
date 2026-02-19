@@ -249,6 +249,7 @@
 - [meefs/cinematic-gaussians](https://github.com/meefs/cinematic-gaussians): Code for our paper "Application of 3D Gaussian Splatting for Cinematic Anatomy on Consumer Class Devices"
 - [meefs/claimbuster-spotter](https://github.com/meefs/claimbuster-spotter): Adversarial Training on Transformer Networks to discover check-worthy factual claims
 - [meefs/claude-code-templates](https://github.com/meefs/claude-code-templates): CLI tool for configuring and monitoring Claude Code
+- [meefs/claude-plugins-official](https://github.com/meefs/claude-plugins-official): Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [meefs/clip-as-service](https://github.com/meefs/clip-as-service): 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP
 - [meefs/copyparty](https://github.com/meefs/copyparty): Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [meefs/deepteam](https://github.com/meefs/deepteam): DeepTeam is a framework to red team LLMs and LLM systems.
@@ -347,7 +348,6 @@
 - [meefs/Claude-Command-Suite](https://github.com/meefs/Claude-Command-Suite): Professional slash commands for Claude Code that provide   structured workflows for software development tasks including   code review, feature creation, security auditing, and   architectural analysis.
 - [meefs/cc-trace](https://github.com/meefs/cc-trace): Claude Code CLI skill: Interactive assistant for intercepting, debugging, analyzing and reviewing Claude Code API requests using mitmproxy
 - [meefs/claude-code](https://github.com/meefs/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- [meefs/claude-plugins-official](https://github.com/meefs/claude-plugins-official): Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [meefs/claude-sparc](https://github.com/meefs/claude-sparc): No description
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
 - [meefs/iTerm2-Color-Schemes](https://github.com/meefs/iTerm2-Color-Schemes): Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
