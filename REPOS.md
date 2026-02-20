@@ -185,6 +185,7 @@
 
 ## PHP
 - [meefs/DVWA](https://github.com/meefs/DVWA): Damn Vulnerable Web Application (DVWA)
+- [meefs/kanboard](https://github.com/meefs/kanboard): Kanban project management software
 
 ## Python
 - [meefs/3d-guided-genai-rtx](https://github.com/meefs/3d-guided-genai-rtx): No description
