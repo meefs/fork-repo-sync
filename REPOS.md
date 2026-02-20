@@ -269,6 +269,7 @@
 - [meefs/innertube](https://github.com/meefs/innertube): Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more!
 - [meefs/jepa](https://github.com/meefs/jepa): PyTorch code and models for V-JEPA self-supervised learning from video.
 - [meefs/large_concept_model](https://github.com/meefs/large_concept_model): Large Concept Models: Language modeling in a sentence representation space
+- [meefs/lenu](https://github.com/meefs/lenu): Legal Entity Name Understanding
 - [meefs/llama-stack](https://github.com/meefs/llama-stack): Model components of the Llama Stack APIs
 - [meefs/llm-attacks](https://github.com/meefs/llm-attacks): Universal and Transferable Attacks on Aligned Language Models
 - [meefs/llm-engine](https://github.com/meefs/llm-engine): Scale LLM Engine public repository
