@@ -69,6 +69,7 @@
 - [meefs/ai-context](https://github.com/meefs/ai-context): CLI tool to produce MD context files from many sources, to help interact with LLMs (ChatGPT, Llama3, Claude, etc.).
 - [meefs/assets](https://github.com/meefs/assets): A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 - [meefs/btcvm](https://github.com/meefs/btcvm): BTC virtual machine for Metal Blockchain
+- [meefs/cheat](https://github.com/meefs/cheat): cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - [meefs/cilium](https://github.com/meefs/cilium): eBPF-based Networking, Security, and Observability
 - [meefs/cloudflared](https://github.com/meefs/cloudflared): Cloudflare Tunnel client (formerly Argo Tunnel)
 - [meefs/evilginx2](https://github.com/meefs/evilginx2): Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
@@ -176,6 +177,7 @@
 
 ## Markdown
 - [meefs/build-your-own-x](https://github.com/meefs/build-your-own-x): Master programming by recreating your favorite technologies from scratch.
+- [meefs/tldr](https://github.com/meefs/tldr): 📚 Collaborative cheatsheets for console commands
 
 ## Max
 - [meefs/littlescale-max-patches](https://github.com/meefs/littlescale-max-patches): Max patches by little-scale
