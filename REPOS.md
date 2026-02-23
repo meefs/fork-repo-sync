@@ -359,6 +359,7 @@
 - [meefs/ohmyzsh](https://github.com/meefs/ohmyzsh): 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [meefs/papers-we-love](https://github.com/meefs/papers-we-love): Papers from the computer science community to read and discuss.
 - [meefs/perf-tools](https://github.com/meefs/perf-tools): Performance analysis tools based on Linux perf_events (aka perf) and ftrace
+- [meefs/superpowers](https://github.com/meefs/superpowers): An agentic skills framework & software development methodology that works.
 - [meefs/the-bread-code](https://github.com/meefs/the-bread-code): Learn how to master the art of baking the programmer way.
 
 ## Solidity
