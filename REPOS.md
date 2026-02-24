@@ -198,7 +198,6 @@
 - [meefs/kanboard](https://github.com/meefs/kanboard): Kanban project management software
 
 ## Python
-- [meefs/3d-guided-genai-rtx](https://github.com/meefs/3d-guided-genai-rtx): No description
 - [meefs/ACE-Step](https://github.com/meefs/ACE-Step): ACE-Step: A Step Towards Music Generation Foundation Model
 - [meefs/AMT](https://github.com/meefs/AMT): Official code for "AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation" (CVPR2023)
 - [meefs/AbletonOSC](https://github.com/meefs/AbletonOSC): Control Ableton Live via Open Sound Control (OSC)
@@ -451,6 +450,7 @@
 
 ## Unknown
 - [meefs/2025-youtube-podcast-men-for-trump](https://github.com/meefs/2025-youtube-podcast-men-for-trump): Data from the Bloomberg News analysis on streamers and podcasters on YouTube
+- [meefs/3d-guided-genai-rtx](https://github.com/meefs/3d-guided-genai-rtx): No description
 - [meefs/Avionics-talk](https://github.com/meefs/Avionics-talk): No description
 - [meefs/Awesome-AI-Security](https://github.com/meefs/Awesome-AI-Security): Curated resources, research, and tools for securing AI systems
 - [meefs/Awesome-LLM](https://github.com/meefs/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
