@@ -6,13 +6,17 @@
 ## C#
 - [meefs/Bash-Wizard](https://github.com/meefs/Bash-Wizard): a bash script generator
 - [meefs/EKFiddle](https://github.com/meefs/EKFiddle): Your Swiss Army knife to analyze malicious web traffic based on the popular Fiddler web debugger.
+- [meefs/WaveFunctionCollapse](https://github.com/meefs/WaveFunctionCollapse): Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
+- [meefs/tixl](https://github.com/meefs/tixl): TiXL is an open source software to create realtime motion graphics.
 
 ## C++
 - [meefs/CnC_Generals_Zero_Hour](https://github.com/meefs/CnC_Generals_Zero_Hour): Command and Conquer: Generals - Zero Hour
 - [meefs/GhostStrike](https://github.com/meefs/GhostStrike): Deploy stealthy reverse shells using advanced process hollowing with GhostStrike – a C++ tool for ethical hacking and Red Team operations.
 - [meefs/LeftoverLocalsRelease](https://github.com/meefs/LeftoverLocalsRelease): The public release of LeftoverLocals code
 - [meefs/MIDIsprout](https://github.com/meefs/MIDIsprout): MIDI Sprout is a Biodata Sonification system, capable of reading microfluctuations in conductivity across the surface of a plant's leaf and translating those changes into MIDI notes.
+- [meefs/OperatorGraph](https://github.com/meefs/OperatorGraph): Shape grammar base system and auto-tuner based on the operator graph idea
 - [meefs/chromium](https://github.com/meefs/chromium): The official GitHub mirror of the Chromium source
+- [meefs/context-free](https://github.com/meefs/context-free): Context Free is a program that generates images from written instructions called a grammar. The program follows the instructions in a few seconds to create images that can contain millions of shapes.
 - [meefs/cryptominisat](https://github.com/meefs/cryptominisat): An advanced SAT solver
 - [meefs/dawn](https://github.com/meefs/dawn): Native WebGPU implementation. Mirror of https://dawn.googlesource.com/dawn. File bugs here: https://crbug.com/dawn/new
 - [meefs/ggml](https://github.com/meefs/ggml): Tensor library for machine learning
@@ -29,6 +33,7 @@
 - [meefs/powertabeditor](https://github.com/meefs/powertabeditor): View and edit guitar tablature.
 - [meefs/quiche](https://github.com/meefs/quiche): No description
 - [meefs/shadPS4](https://github.com/meefs/shadPS4): PS4 emulator for Windows,Linux,MacOS
+- [meefs/shapeml](https://github.com/meefs/shapeml): ShapeML is a rule- or grammar-based procedural 3D modeling framework.
 - [meefs/stable-diffusion.cpp](https://github.com/meefs/stable-diffusion.cpp): Stable Diffusion in pure C/C++
 - [meefs/stellarium](https://github.com/meefs/stellarium): Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 - [meefs/td](https://github.com/meefs/td): Cross-platform library for building Telegram clients
@@ -48,6 +53,7 @@
 ## C
 - [meefs/AudioNoise](https://github.com/meefs/AudioNoise): Random digital audio effects
 - [meefs/Cog](https://github.com/meefs/Cog): Cog - A Free and Open Source Audio Player for macOS 10.14+
+- [meefs/KUVA](https://github.com/meefs/KUVA): KUVA: Graphcut textures
 - [meefs/bcc](https://github.com/meefs/bcc): BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [meefs/cve-2024-6387-poc](https://github.com/meefs/cve-2024-6387-poc): a signal handler race condition in OpenSSH's server (sshd)
 - [meefs/gearmulator](https://github.com/meefs/gearmulator): Emulation of classic VA synths of the late 90s/2000s that are based on Motorola 56300 family DSPs
@@ -169,6 +175,7 @@
 - [meefs/openai-cookbook](https://github.com/meefs/openai-cookbook): Examples and guides for using the OpenAI API
 - [meefs/prompt-eng-interactive-tutorial](https://github.com/meefs/prompt-eng-interactive-tutorial): Anthropic's Interactive Prompt Engineering Tutorial
 - [meefs/prompt-to-prompt](https://github.com/meefs/prompt-to-prompt): No description
+- [meefs/psgan](https://github.com/meefs/psgan): Periodic Spatial Generative Adversarial Networks 
 - [meefs/segment-anything-2](https://github.com/meefs/segment-anything-2): The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [meefs/stable-diffusion-webui-colab](https://github.com/meefs/stable-diffusion-webui-colab): Stable Difffusion webui Google Colab Notebooks
 
@@ -268,6 +275,7 @@
 - [meefs/freqtrade](https://github.com/meefs/freqtrade): Free, open source crypto trading bot
 - [meefs/gitingest](https://github.com/meefs/gitingest): Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
 - [meefs/harlequin](https://github.com/meefs/harlequin): The SQL IDE for Your Terminal.
+- [meefs/iGAN](https://github.com/meefs/iGAN): Interactive Image Generation via Generative Adversarial Networks
 - [meefs/ieml](https://github.com/meefs/ieml): IEML semantic language - a meaning-representation system based on semantic primitives and a regular grammar. Basic semantic relationships between concepts are automatically computed from syntactic similarities.
 - [meefs/innertube](https://github.com/meefs/innertube): Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more!
 - [meefs/jepa](https://github.com/meefs/jepa): PyTorch code and models for V-JEPA self-supervised learning from video.
@@ -321,6 +329,7 @@
 - [meefs/homographic_spoofing](https://github.com/meefs/homographic_spoofing): Toolkit to both detect and sanitize homographic spoofing attacks in URLs and Email addresses
 
 ## Rust
+- [meefs/Graphite](https://github.com/meefs/Graphite): Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [meefs/ZeroOS](https://github.com/meefs/ZeroOS): ZeroOS: A Universal Modular Library OS for zkVMs
 - [meefs/baml](https://github.com/meefs/baml): The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [meefs/bitcoinphone](https://github.com/meefs/bitcoinphone): Voice over the BitcoinSV protocol (made for CoinGeek 2021)
