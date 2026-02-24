@@ -13,6 +13,7 @@
 - [meefs/LeftoverLocalsRelease](https://github.com/meefs/LeftoverLocalsRelease): The public release of LeftoverLocals code
 - [meefs/MIDIsprout](https://github.com/meefs/MIDIsprout): MIDI Sprout is a Biodata Sonification system, capable of reading microfluctuations in conductivity across the surface of a plant's leaf and translating those changes into MIDI notes.
 - [meefs/chromium](https://github.com/meefs/chromium): The official GitHub mirror of the Chromium source
+- [meefs/cryptominisat](https://github.com/meefs/cryptominisat): An advanced SAT solver
 - [meefs/dawn](https://github.com/meefs/dawn): Native WebGPU implementation. Mirror of https://dawn.googlesource.com/dawn. File bugs here: https://crbug.com/dawn/new
 - [meefs/ggml](https://github.com/meefs/ggml): Tensor library for machine learning
 - [meefs/ggwave](https://github.com/meefs/ggwave): Tiny data-over-sound library
