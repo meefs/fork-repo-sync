@@ -6,6 +6,7 @@
 ## C#
 - [meefs/Bash-Wizard](https://github.com/meefs/Bash-Wizard): a bash script generator
 - [meefs/EKFiddle](https://github.com/meefs/EKFiddle): Your Swiss Army knife to analyze malicious web traffic based on the popular Fiddler web debugger.
+- [meefs/Open-XML-SDK](https://github.com/meefs/Open-XML-SDK): Open XML SDK by Microsoft
 - [meefs/WaveFunctionCollapse](https://github.com/meefs/WaveFunctionCollapse): Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [meefs/tixl](https://github.com/meefs/tixl): TiXL is an open source software to create realtime motion graphics.
 
