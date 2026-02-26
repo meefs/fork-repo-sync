@@ -107,6 +107,7 @@
 - [meefs/www-project-artificial-intelligence-vulnerability-scoring-system](https://github.com/meefs/www-project-artificial-intelligence-vulnerability-scoring-system): OWASP Foundation web repository
 
 ## JavaScript
+- [meefs/Code-Package-p5.js](https://github.com/meefs/Code-Package-p5.js): Code package of the book: Generative Design – Creative Coding for the Web with JavaScript in p5.js
 - [meefs/MIDI2.0Workbench](https://github.com/meefs/MIDI2.0Workbench): MIDI 2.0 Testing Tool
 - [meefs/SIP-Sentinel](https://github.com/meefs/SIP-Sentinel): No description
 - [meefs/WireMCP](https://github.com/meefs/WireMCP): An MCP for WireShark (tshark). Empower LLM's with realtime network traffic analysis capability
