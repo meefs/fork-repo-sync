@@ -72,6 +72,9 @@
 ## GDScript
 - [meefs/SoundThread](https://github.com/meefs/SoundThread): Node based GUI for The Composers Desktop Project
 
+## GLSL
+- [meefs/thebookofshaders](https://github.com/meefs/thebookofshaders): Step-by-step guide through the abstract and complex universe of Fragment Shaders.
+
 ## Go
 - [meefs/CVE-2024-4577](https://github.com/meefs/CVE-2024-4577): CVE-2024-4577 is a critical vulnerability in PHP affecting CGI configurations, allowing attackers to execute arbitrary commands via crafted URL parameters.
 - [meefs/ai-context](https://github.com/meefs/ai-context): CLI tool to produce MD context files from many sources, to help interact with LLMs (ChatGPT, Llama3, Claude, etc.).
