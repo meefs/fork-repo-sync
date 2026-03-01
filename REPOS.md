@@ -91,6 +91,7 @@
 - [meefs/nightshift](https://github.com/meefs/nightshift): Nightshift uses your leftover Claude / Codex budget to surprise you with useful PRs. Love them or leave them.
 - [meefs/oui](https://github.com/meefs/oui): MAC Address CLI Toolkit
 - [meefs/pinentry-touchid](https://github.com/meefs/pinentry-touchid): Custom GPG pinentry program for macOS that allows using Touch ID for fetching the password from the macOS keychain.
+- [meefs/registry](https://github.com/meefs/registry): A community driven registry service for Model Context Protocol (MCP) servers.
 - [meefs/ticker](https://github.com/meefs/ticker): Track stocks, crypto, and derivatives prices and positions in real time from your terminal
 
 ## HTML
@@ -489,6 +490,7 @@
 - [meefs/awesome-claude-prompts](https://github.com/meefs/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
 - [meefs/awesome-deepseek-integration](https://github.com/meefs/awesome-deepseek-integration): No description
 - [meefs/awesome-foundation-agents](https://github.com/meefs/awesome-foundation-agents): About Awesome things towards foundation agents. Papers / Repos / Blogs / ...
+- [meefs/awesome-mcp-servers](https://github.com/meefs/awesome-mcp-servers): A collection of MCP servers.
 - [meefs/awesome-nodejs](https://github.com/meefs/awesome-nodejs): :zap: Delightful Node.js packages and resources
 - [meefs/awesome-post-quantum](https://github.com/meefs/awesome-post-quantum): A curated list of resources about post-quantum cryptography.
 - [meefs/awesome-tradingview](https://github.com/meefs/awesome-tradingview): 🎉 A curated list of awesome things related to TradingView (widgets, charting library, lightweight-charts, etc)
