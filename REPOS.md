@@ -197,6 +197,7 @@
 - [meefs/littlescale-max-patches](https://github.com/meefs/littlescale-max-patches): Max patches by little-scale
 
 ## Objective-C
+- [meefs/ANE](https://github.com/meefs/ANE): Training neural networks on Apple Neural Engine via reverse-engineered private APIs
 - [meefs/Kronos](https://github.com/meefs/Kronos): No description
 
 ## PHP
