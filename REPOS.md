@@ -171,7 +171,6 @@
 - [meefs/data](https://github.com/meefs/data): Data and code behind the articles and graphics at FiveThirtyEight
 - [meefs/dl-colab-notebooks](https://github.com/meefs/dl-colab-notebooks): Try out  deep learning models online on Google Colab
 - [meefs/fastbook](https://github.com/meefs/fastbook): The fastai book, published as Jupyter Notebooks
-- [meefs/ga](https://github.com/meefs/ga): No description
 - [meefs/gpt-oss-alignment](https://github.com/meefs/gpt-oss-alignment): No description
 - [meefs/illusion-diffusion-stable](https://github.com/meefs/illusion-diffusion-stable): This project works by using Monster Labs QR Control Net. Given a prompt and your pattern, we use a QR code conditioned controlnet to create a stunning illusion! Credit to: MrUgleh & AP123
 - [meefs/llama-recipes](https://github.com/meefs/llama-recipes): Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger.
@@ -261,7 +260,6 @@
 - [meefs/bro-clickhouse](https://github.com/meefs/bro-clickhouse): No description
 - [meefs/bug-bounty-labs](https://github.com/meefs/bug-bounty-labs): All the labs in this repository simulate real world bugs I found in the wild
 - [meefs/bulk-whois](https://github.com/meefs/bulk-whois): This Python script performs bulk Whois lookups for both hostnames and IP addresses, providing information such as IP address, ASN (Autonomous System Number), AS Name, and associated country
-- [meefs/chaoschain](https://github.com/meefs/chaoschain): The accountability protocol for the autonomous AI economy.
 - [meefs/cinematic-gaussians](https://github.com/meefs/cinematic-gaussians): Code for our paper "Application of 3D Gaussian Splatting for Cinematic Anatomy on Consumer Class Devices"
 - [meefs/claimbuster-spotter](https://github.com/meefs/claimbuster-spotter): Adversarial Training on Transformer Networks to discover check-worthy factual claims
 - [meefs/claude-code-templates](https://github.com/meefs/claude-code-templates): CLI tool for configuring and monitoring Claude Code
@@ -329,6 +327,9 @@
 - [meefs/whisperbymeefs](https://github.com/meefs/whisperbymeefs): Robust Speech Recognition via Large-Scale Weak Supervision
 - [meefs/wintermute-hyperliquid-analysis](https://github.com/meefs/wintermute-hyperliquid-analysis): Wintermute Hyperliquid quoting strategy analysis
 - [meefs/wonder](https://github.com/meefs/wonder): metaprogramming for LLMs and other humans
+
+## Rich Text Format
+- [meefs/ga](https://github.com/meefs/ga): No description
 
 ## Ruby
 - [meefs/homebrew-cask](https://github.com/meefs/homebrew-cask): 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
@@ -413,6 +414,7 @@
 - [meefs/ai](https://github.com/meefs/ai): No description
 - [meefs/basedocs](https://github.com/meefs/basedocs): Documentation for building on Base
 - [meefs/cdp-agentkit](https://github.com/meefs/cdp-agentkit): No description
+- [meefs/chaoschain](https://github.com/meefs/chaoschain): The accountability protocol for the autonomous AI economy.
 - [meefs/claude-code-flow](https://github.com/meefs/claude-code-flow): This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
 - [meefs/claude-context-mode](https://github.com/meefs/claude-context-mode): Stop losing context to large outputs.
 - [meefs/cobold](https://github.com/meefs/cobold): telegram bot for downloading media, powered by cobalt
