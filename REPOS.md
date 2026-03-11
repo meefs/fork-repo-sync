@@ -414,6 +414,7 @@
 - [meefs/ai-brainstore](https://github.com/meefs/ai-brainstore): A proof-of-concept of a brain for an AI agent.
 - [meefs/ai](https://github.com/meefs/ai): No description
 - [meefs/basedocs](https://github.com/meefs/basedocs): Documentation for building on Base
+- [meefs/cantrip](https://github.com/meefs/cantrip): agent grimoire starter pack
 - [meefs/cdp-agentkit](https://github.com/meefs/cdp-agentkit): No description
 - [meefs/chaoschain](https://github.com/meefs/chaoschain): The accountability protocol for the autonomous AI economy.
 - [meefs/claude-code-flow](https://github.com/meefs/claude-code-flow): This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
@@ -428,6 +429,7 @@
 - [meefs/fretboard.js](https://github.com/meefs/fretboard.js): Fretboard diagram generator
 - [meefs/gemini-cli](https://github.com/meefs/gemini-cli): An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [meefs/geolocation-hello-world](https://github.com/meefs/geolocation-hello-world): No description
+- [meefs/gitcoin_co_30](https://github.com/meefs/gitcoin_co_30): No description
 - [meefs/humanlayer](https://github.com/meefs/humanlayer): HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more.  Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling
 - [meefs/jitsi-meet](https://github.com/meefs/jitsi-meet): Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [meefs/json-render](https://github.com/meefs/json-render): The Generative UI framework
