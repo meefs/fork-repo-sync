@@ -277,6 +277,7 @@
 - [meefs/exo](https://github.com/meefs/exo): Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [meefs/frame-interpolation](https://github.com/meefs/frame-interpolation): FILM: Frame Interpolation for Large Motion, In arXiv 2022.
 - [meefs/freqtrade](https://github.com/meefs/freqtrade): Free, open source crypto trading bot
+- [meefs/git-fix-finder](https://github.com/meefs/git-fix-finder): No description
 - [meefs/gitingest](https://github.com/meefs/gitingest): Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
 - [meefs/harlequin](https://github.com/meefs/harlequin): The SQL IDE for Your Terminal.
 - [meefs/iGAN](https://github.com/meefs/iGAN): Interactive Image Generation via Generative Adversarial Networks
