@@ -255,6 +255,7 @@
 - [meefs/anthropic-quickstarts](https://github.com/meefs/anthropic-quickstarts): A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
 - [meefs/auto-md](https://github.com/meefs/auto-md): Convert Files /  Folders / GitHub Repos Into AI / LLM-ready Files
 - [meefs/automated-prompt-engineering-from-scratch](https://github.com/meefs/automated-prompt-engineering-from-scratch): A repo with an automated prompt engineering workflow from scratch. It leverages the OPRO technique.
+- [meefs/autoresearch](https://github.com/meefs/autoresearch): AI agents running research on single-GPU nanochat training automatically
 - [meefs/awesome-llm-apps](https://github.com/meefs/awesome-llm-apps): Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [meefs/bandit](https://github.com/meefs/bandit): Bandit is a tool designed to find common security issues in Python code.
 - [meefs/binance-public-data](https://github.com/meefs/binance-public-data): Details on how to get Binance public data
