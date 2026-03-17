@@ -297,6 +297,7 @@
 - [meefs/mqtt](https://github.com/meefs/mqtt): Mythic C2 Profile using mqtt
 - [meefs/mxfp4-llm](https://github.com/meefs/mxfp4-llm): Official implementation for Training LLMs with MXFP4
 - [meefs/ollm](https://github.com/meefs/ollm): No description
+- [meefs/osgameclones](https://github.com/meefs/osgameclones): Open Source Clones of Popular Games
 - [meefs/owasp-mastg](https://github.com/meefs/owasp-mastg): The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
 - [meefs/pajaMAS](https://github.com/meefs/pajaMAS): Multi-agent system (MAS) hijacking demos
 - [meefs/perplexity-ai](https://github.com/meefs/perplexity-ai): Unofficial API Wrapper for Perplexity.ai + Account Generator with Web Interface
