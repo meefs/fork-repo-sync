@@ -224,6 +224,7 @@
 - [meefs/LLMs4OL](https://github.com/meefs/LLMs4OL): LLMs4OL:‌ Large Language Models for Ontology Learning
 - [meefs/MMAudio](https://github.com/meefs/MMAudio): [arXiv 2024] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
 - [meefs/MiniMax-01](https://github.com/meefs/MiniMax-01): No description
+- [meefs/MiroFish](https://github.com/meefs/MiroFish): A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 - [meefs/Mulberry](https://github.com/meefs/Mulberry): Mulberry, an o1-like Reasoning and Reflection MLLM Implemented via Collective MCTS
 - [meefs/MultiDocumentAnswering](https://github.com/meefs/MultiDocumentAnswering): Experiment to answer questions from arbitrary number of sources
 - [meefs/NeMo](https://github.com/meefs/NeMo): NeMo: a toolkit for conversational AI
