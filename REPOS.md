@@ -435,6 +435,7 @@
 - [meefs/gemini-cli](https://github.com/meefs/gemini-cli): An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [meefs/geolocation-hello-world](https://github.com/meefs/geolocation-hello-world): No description
 - [meefs/gitcoin_co_30](https://github.com/meefs/gitcoin_co_30): No description
+- [meefs/hermes-workspace](https://github.com/meefs/hermes-workspace): Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector. Built for the Nous Research hackathon.
 - [meefs/humanlayer](https://github.com/meefs/humanlayer): HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more.  Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling
 - [meefs/jitsi-meet](https://github.com/meefs/jitsi-meet): Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [meefs/json-render](https://github.com/meefs/json-render): The Generative UI framework
