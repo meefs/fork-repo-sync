@@ -14,6 +14,7 @@
 - [meefs/CnC_Generals_Zero_Hour](https://github.com/meefs/CnC_Generals_Zero_Hour): Command and Conquer: Generals - Zero Hour
 - [meefs/GhostStrike](https://github.com/meefs/GhostStrike): Deploy stealthy reverse shells using advanced process hollowing with GhostStrike – a C++ tool for ethical hacking and Red Team operations.
 - [meefs/LeftoverLocalsRelease](https://github.com/meefs/LeftoverLocalsRelease): The public release of LeftoverLocals code
+- [meefs/LiteRT-LM](https://github.com/meefs/LiteRT-LM): No description
 - [meefs/MIDIsprout](https://github.com/meefs/MIDIsprout): MIDI Sprout is a Biodata Sonification system, capable of reading microfluctuations in conductivity across the surface of a plant's leaf and translating those changes into MIDI notes.
 - [meefs/OperatorGraph](https://github.com/meefs/OperatorGraph): Shape grammar base system and auto-tuner based on the operator graph idea
 - [meefs/chromium](https://github.com/meefs/chromium): The official GitHub mirror of the Chromium source
@@ -22,9 +23,11 @@
 - [meefs/dawn](https://github.com/meefs/dawn): Native WebGPU implementation. Mirror of https://dawn.googlesource.com/dawn. File bugs here: https://crbug.com/dawn/new
 - [meefs/ggml](https://github.com/meefs/ggml): Tensor library for machine learning
 - [meefs/ggwave](https://github.com/meefs/ggwave): Tiny data-over-sound library
+- [meefs/highway](https://github.com/meefs/highway): Performance-portable, length-agnostic SIMD with runtime dispatch
 - [meefs/llama.cpp](https://github.com/meefs/llama.cpp): LLM inference in C/C++
 - [meefs/longfellow-zk](https://github.com/meefs/longfellow-zk): Implementation of the Google Zero-Knowledge library for Identity Protocols.
 - [meefs/m4l-connection-kit](https://github.com/meefs/m4l-connection-kit): Max for Live Connection Kit
+- [meefs/mediapipe](https://github.com/meefs/mediapipe): Cross-platform, customizable ML solutions for live and streaming media.
 - [meefs/mlx](https://github.com/meefs/mlx): MLX: An array framework for Apple silicon
 - [meefs/mujoco](https://github.com/meefs/mujoco): Multi-Joint dynamics with Contact. A general purpose physics simulator.
 - [meefs/onnxruntime](https://github.com/meefs/onnxruntime): ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
