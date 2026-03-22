@@ -143,6 +143,7 @@
 - [meefs/zk-learning-group](https://github.com/meefs/zk-learning-group): No description
 
 ## Java
+- [meefs/V3SP3R](https://github.com/meefs/V3SP3R): AI Flipper control
 - [meefs/bindiff](https://github.com/meefs/bindiff): Quickly find differences and similarities in disassembled code
 - [meefs/cbomkit-action](https://github.com/meefs/cbomkit-action): GitHub Action to generate Cryptography Bill of Materials (CBOM)
 - [meefs/cbomkit](https://github.com/meefs/cbomkit): A toolset for dealing with Cryptography Bill of Materials (CBOM)
