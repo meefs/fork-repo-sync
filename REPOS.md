@@ -133,6 +133,7 @@
 - [meefs/helloworlds](https://github.com/meefs/helloworlds): first attempt at git
 - [meefs/hex.dance](https://github.com/meefs/hex.dance): simple client-side in-browser binary analysis and hex dump
 - [meefs/jxl-art](https://github.com/meefs/jxl-art): Web app to make art using JPEG XL.
+- [meefs/node-hls-downloader-tubitv](https://github.com/meefs/node-hls-downloader-tubitv): Command-line utility for downloading an offline copy of TubiTV HLS video streams.
 - [meefs/portal-network-specs](https://github.com/meefs/portal-network-specs): Official repository for specifications for the Portal Network
 - [meefs/puter](https://github.com/meefs/puter): 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [meefs/skills-getting-started-with-github-copilot](https://github.com/meefs/skills-getting-started-with-github-copilot): Exercise: Get started using GitHub Copilot
