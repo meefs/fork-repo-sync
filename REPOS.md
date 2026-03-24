@@ -177,6 +177,7 @@
 - [meefs/data](https://github.com/meefs/data): Data and code behind the articles and graphics at FiveThirtyEight
 - [meefs/dl-colab-notebooks](https://github.com/meefs/dl-colab-notebooks): Try out  deep learning models online on Google Colab
 - [meefs/fastbook](https://github.com/meefs/fastbook): The fastai book, published as Jupyter Notebooks
+- [meefs/fine-tune-llama-function-call](https://github.com/meefs/fine-tune-llama-function-call): Fine tune SLMs for function-calling
 - [meefs/gpt-oss-alignment](https://github.com/meefs/gpt-oss-alignment): No description
 - [meefs/illusion-diffusion-stable](https://github.com/meefs/illusion-diffusion-stable): This project works by using Monster Labs QR Control Net. Given a prompt and your pattern, we use a QR code conditioned controlnet to create a stunning illusion! Credit to: MrUgleh & AP123
 - [meefs/llama-recipes](https://github.com/meefs/llama-recipes): Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger.
@@ -270,6 +271,7 @@
 - [meefs/bulk-whois](https://github.com/meefs/bulk-whois): This Python script performs bulk Whois lookups for both hostnames and IP addresses, providing information such as IP address, ASN (Autonomous System Number), AS Name, and associated country
 - [meefs/cinematic-gaussians](https://github.com/meefs/cinematic-gaussians): Code for our paper "Application of 3D Gaussian Splatting for Cinematic Anatomy on Consumer Class Devices"
 - [meefs/claimbuster-spotter](https://github.com/meefs/claimbuster-spotter): Adversarial Training on Transformer Networks to discover check-worthy factual claims
+- [meefs/claude-bug-bounty](https://github.com/meefs/claude-bug-bounty): Claude Code skill for AI-assisted bug bounty hunting - recon, IDOR, XSS, SSRF, OAuth, GraphQL, LLM injection, and report generation
 - [meefs/claude-code-templates](https://github.com/meefs/claude-code-templates): CLI tool for configuring and monitoring Claude Code
 - [meefs/claude-plugins-official](https://github.com/meefs/claude-plugins-official): Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [meefs/clip-as-service](https://github.com/meefs/clip-as-service): 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP
