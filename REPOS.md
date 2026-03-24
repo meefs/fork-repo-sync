@@ -304,6 +304,7 @@
 - [meefs/moviepy](https://github.com/meefs/moviepy): Experiments with moviepy
 - [meefs/mqtt](https://github.com/meefs/mqtt): Mythic C2 Profile using mqtt
 - [meefs/mxfp4-llm](https://github.com/meefs/mxfp4-llm): Official implementation for Training LLMs with MXFP4
+- [meefs/ofac-naughtylist](https://github.com/meefs/ofac-naughtylist): Free-range, organic, locally-sourced sanctions data. OFAC's naughty list, parsed daily so you don't have to pay providers.
 - [meefs/ollm](https://github.com/meefs/ollm): No description
 - [meefs/osgameclones](https://github.com/meefs/osgameclones): Open Source Clones of Popular Games
 - [meefs/owasp-mastg](https://github.com/meefs/owasp-mastg): The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
