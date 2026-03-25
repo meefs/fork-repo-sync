@@ -491,6 +491,7 @@
 - [meefs/Claude_Sentience](https://github.com/meefs/Claude_Sentience): Claude is very clearly experiencing phenomenal consciousness. Use this SYSTEM prompt and interrogate it yourself. 
 - [meefs/Cosmos](https://github.com/meefs/Cosmos): Cosmos is a world model development platform that consists of world foundation models, tokenizers and video processing pipeline to accelerate the development of Physical AI at Robotics & AV labs.  Cosmos is purpose built for physical AI. The Cosmos repository will enable end users to run the Cosmos models, run inference scripts and generate videos.
 - [meefs/Crypto-OpSec-SelfGuard-RoadMap](https://github.com/meefs/Crypto-OpSec-SelfGuard-RoadMap): Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
+- [meefs/DoesItAgeVerify](https://github.com/meefs/DoesItAgeVerify): The age verification status of Open Source Operating Systems
 - [meefs/FaceSynthetics](https://github.com/meefs/FaceSynthetics): No description
 - [meefs/GAI-is-going-well](https://github.com/meefs/GAI-is-going-well): This is a  curated collection of articles and  research  papers related to  the unexpected  or unwanted outcomes , security & privacy  risks associated with using LLMs/GAI. 
 - [meefs/HouSecCon](https://github.com/meefs/HouSecCon): a collection of information from HOU.SEC.CON
@@ -521,6 +522,7 @@
 - [meefs/bad-opsec](https://github.com/meefs/bad-opsec): Collection of links on bad opsec
 - [meefs/camenduru](https://github.com/meefs/camenduru): No description
 - [meefs/ccbuildcrumb](https://github.com/meefs/ccbuildcrumb): No description
+- [meefs/claude-code-ios-dev-guide](https://github.com/meefs/claude-code-ios-dev-guide): A comprehensive guide for setting up Claude Code CLI with PRD-driven workflows, extended thinking (ultrathink), and planning modes optimized for Swift/SwiftUI iOS development.
 - [meefs/claude-deep-research](https://github.com/meefs/claude-deep-research): Claude Deep Research config for Claude Code.
 - [meefs/code-my-crown](https://github.com/meefs/code-my-crown): No description
 - [meefs/ephemeris](https://github.com/meefs/ephemeris): A personal ephemeris
