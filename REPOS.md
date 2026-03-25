@@ -178,6 +178,7 @@
 - [meefs/dl-colab-notebooks](https://github.com/meefs/dl-colab-notebooks): Try out  deep learning models online on Google Colab
 - [meefs/fastbook](https://github.com/meefs/fastbook): The fastai book, published as Jupyter Notebooks
 - [meefs/fine-tune-llama-function-call](https://github.com/meefs/fine-tune-llama-function-call): Fine tune SLMs for function-calling
+- [meefs/gemma-cookbook](https://github.com/meefs/gemma-cookbook): A collection of guides and examples for the Gemma open models from Google.
 - [meefs/gpt-oss-alignment](https://github.com/meefs/gpt-oss-alignment): No description
 - [meefs/illusion-diffusion-stable](https://github.com/meefs/illusion-diffusion-stable): This project works by using Monster Labs QR Control Net. Given a prompt and your pattern, we use a QR code conditioned controlnet to create a stunning illusion! Credit to: MrUgleh & AP123
 - [meefs/llama-recipes](https://github.com/meefs/llama-recipes): Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger.
