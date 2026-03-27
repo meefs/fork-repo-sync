@@ -257,7 +257,6 @@
 - [meefs/ag2](https://github.com/meefs/ag2): AG2 (formerly AutoGen) is a programming framework for agentic AI. Join the community at: https://discord.gg/pAbnFJrkgZ
 - [meefs/agents-for-openbb](https://github.com/meefs/agents-for-openbb): Custom agents for OpenBB Workspace
 - [meefs/agentskills](https://github.com/meefs/agentskills): Specification and documentation for Agent Skills
-- [meefs/aixcc-afc-archive](https://github.com/meefs/aixcc-afc-archive): Public Source code Release of Theori's AIxCC AFC Submission
 - [meefs/anamorpher](https://github.com/meefs/anamorpher): image scaling attacks for multi-modal prompt injection
 - [meefs/anthropic-quickstarts](https://github.com/meefs/anthropic-quickstarts): A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
 - [meefs/auto-md](https://github.com/meefs/auto-md): Convert Files /  Folders / GitHub Repos Into AI / LLM-ready Files
@@ -575,3 +574,6 @@
 
 ## block
 - [meefs/rust-stealer](https://github.com/meefs/rust-stealer): Simple Rust Stealer
+
+## message
+- [meefs/aixcc-afc-archive](https://github.com/meefs/aixcc-afc-archive): Public Source code Release of Theori's AIxCC AFC Submission
