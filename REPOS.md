@@ -213,6 +213,7 @@
 ## Python
 - [meefs/ACE-Step](https://github.com/meefs/ACE-Step): ACE-Step: A Step Towards Music Generation Foundation Model
 - [meefs/AMT](https://github.com/meefs/AMT): Official code for "AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation" (CVPR2023)
+- [meefs/ATLAS](https://github.com/meefs/ATLAS): Adaptive Test-time Learning and Autonomous Specialization
 - [meefs/AbletonOSC](https://github.com/meefs/AbletonOSC): Control Ableton Live via Open Sound Control (OSC)
 - [meefs/BitNet](https://github.com/meefs/BitNet): Official inference framework for 1-bit LLMs
 - [meefs/CLIP-based-NSFW-Detector](https://github.com/meefs/CLIP-based-NSFW-Detector): No description
