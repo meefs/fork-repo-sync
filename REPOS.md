@@ -316,6 +316,7 @@
 - [meefs/playscii](https://github.com/meefs/playscii): Fork of playscii
 - [meefs/pocket-pick](https://github.com/meefs/pocket-pick): What if the exact code snippet or idea you were looking for was one prompt away?
 - [meefs/practical-inverse-rendering-of-textured-and-translucent-appearance](https://github.com/meefs/practical-inverse-rendering-of-textured-and-translucent-appearance): SIGGRAPH 2025 "Practical Inverse Rendering Of Textured And Translucent Appearance"
+- [meefs/psalm-alignment](https://github.com/meefs/psalm-alignment): Does injecting biblical Psalms into an LLM's system prompt measurably affect ethical alignment? An empirical experiment using the Hendrycks ETHICS benchmark on Claude Sonnet 4 and GPT-4o.
 - [meefs/public-apis](https://github.com/meefs/public-apis): A collective list of free APIs
 - [meefs/raptor](https://github.com/meefs/raptor): Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations.
 - [meefs/sam3](https://github.com/meefs/sam3): The repository provides code for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
@@ -415,7 +416,6 @@
 
 ## TeX
 - [meefs/safe-harbor](https://github.com/meefs/safe-harbor): No description
-- [meefs/scrolls](https://github.com/meefs/scrolls): No description
 
 ## Text
 - [meefs/dns-blocklists](https://github.com/meefs/dns-blocklists): DNS-Blocklists: For a better internet - keep the internet clean!
@@ -466,6 +466,7 @@
 - [meefs/playwright-mcp](https://github.com/meefs/playwright-mcp): Playwright MCP server
 - [meefs/repomix](https://github.com/meefs/repomix): 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 - [meefs/revoke.cash](https://github.com/meefs/revoke.cash): ❌ Revoke or update your token approvals
+- [meefs/scrolls](https://github.com/meefs/scrolls): No description
 - [meefs/servers](https://github.com/meefs/servers): Model Context Protocol Servers
 - [meefs/shannon](https://github.com/meefs/shannon): Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 - [meefs/solana-app-kit](https://github.com/meefs/solana-app-kit): build solana apps under 15 mins
