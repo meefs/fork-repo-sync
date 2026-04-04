@@ -302,6 +302,7 @@
 - [meefs/llm-attacks](https://github.com/meefs/llm-attacks): Universal and Transferable Attacks on Aligned Language Models
 - [meefs/llm-engine](https://github.com/meefs/llm-engine): Scale LLM Engine public repository
 - [meefs/m3-agent](https://github.com/meefs/m3-agent): No description
+- [meefs/mlx-vlm](https://github.com/meefs/mlx-vlm): MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 - [meefs/modelscan](https://github.com/meefs/modelscan): Protection against Model Serialization Attacks
 - [meefs/moviepy](https://github.com/meefs/moviepy): Experiments with moviepy
 - [meefs/mqtt](https://github.com/meefs/mqtt): Mythic C2 Profile using mqtt
