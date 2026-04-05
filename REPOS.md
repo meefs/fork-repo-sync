@@ -128,6 +128,7 @@
 - [meefs/ditherQuest](https://github.com/meefs/ditherQuest): auto dither images in pleasing colors
 - [meefs/dockertacos](https://github.com/meefs/dockertacos): Sample project involving docker and tacos 🌮
 - [meefs/drawdata](https://github.com/meefs/drawdata): Draw datasets from within Jupyter.
+- [meefs/game-creator](https://github.com/meefs/game-creator): Opinionated Claude Plugin to make 2D (Phaser) & 3D (ThreeJS) Games
 - [meefs/get-shit-done](https://github.com/meefs/get-shit-done): A light-weight but powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [meefs/go-compression.github.io](https://github.com/meefs/go-compression.github.io): The Hitchhiker's Guide to Compression
 - [meefs/helloworlds](https://github.com/meefs/helloworlds): first attempt at git
