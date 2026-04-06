@@ -128,6 +128,7 @@
 - [meefs/ditherQuest](https://github.com/meefs/ditherQuest): auto dither images in pleasing colors
 - [meefs/dockertacos](https://github.com/meefs/dockertacos): Sample project involving docker and tacos 🌮
 - [meefs/drawdata](https://github.com/meefs/drawdata): Draw datasets from within Jupyter.
+- [meefs/fal-3d-anything](https://github.com/meefs/fal-3d-anything): No description
 - [meefs/game-creator](https://github.com/meefs/game-creator): Opinionated Claude Plugin to make 2D (Phaser) & 3D (ThreeJS) Games
 - [meefs/get-shit-done](https://github.com/meefs/get-shit-done): A light-weight but powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [meefs/go-compression.github.io](https://github.com/meefs/go-compression.github.io): The Hitchhiker's Guide to Compression
@@ -377,6 +378,7 @@
 - [meefs/pyxel](https://github.com/meefs/pyxel): A retro game engine for Python
 - [meefs/ralph-os](https://github.com/meefs/ralph-os): A vibe-coded toy operating system - x86-64, co-op multitasking, no memory protection, written in Rust
 - [meefs/ripgrep](https://github.com/meefs/ripgrep): ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [meefs/rvm](https://github.com/meefs/rvm): RVM — The Virtual Machine Built for the Agentic Age, in Rust.
 - [meefs/sendme](https://github.com/meefs/sendme): A tool to send files and directories, based on iroh
 - [meefs/solana-stream](https://github.com/meefs/solana-stream): Solana Stream SDK
 - [meefs/steel](https://github.com/meefs/steel): Solana smart contract framework.
@@ -466,6 +468,8 @@
 - [meefs/my-chat-agent](https://github.com/meefs/my-chat-agent): No description
 - [meefs/onchainkit](https://github.com/meefs/onchainkit): React components and TypeScript utilities to help you build top-tier onchain apps.
 - [meefs/playwright-mcp](https://github.com/meefs/playwright-mcp): Playwright MCP server
+- [meefs/pretext](https://github.com/meefs/pretext): Fast, accurate & comprehensive text measurement & layout
+- [meefs/react-native-webgpu](https://github.com/meefs/react-native-webgpu): React Native implementation of WebGPU using Dawn
 - [meefs/repomix](https://github.com/meefs/repomix): 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 - [meefs/revoke.cash](https://github.com/meefs/revoke.cash): ❌ Revoke or update your token approvals
 - [meefs/scrolls](https://github.com/meefs/scrolls): No description
