@@ -310,6 +310,7 @@
 - [meefs/moviepy](https://github.com/meefs/moviepy): Experiments with moviepy
 - [meefs/mqtt](https://github.com/meefs/mqtt): Mythic C2 Profile using mqtt
 - [meefs/mxfp4-llm](https://github.com/meefs/mxfp4-llm): Official implementation for Training LLMs with MXFP4
+- [meefs/nerfstudio](https://github.com/meefs/nerfstudio): A collaboration friendly studio for NeRFs
 - [meefs/ofac-naughtylist](https://github.com/meefs/ofac-naughtylist): Free-range, organic, locally-sourced sanctions data. OFAC's naughty list, parsed daily so you don't have to pay providers.
 - [meefs/ollm](https://github.com/meefs/ollm): No description
 - [meefs/osgameclones](https://github.com/meefs/osgameclones): Open Source Clones of Popular Games
