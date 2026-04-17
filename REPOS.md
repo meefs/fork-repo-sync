@@ -280,6 +280,7 @@
 - [meefs/claude-bug-bounty](https://github.com/meefs/claude-bug-bounty): Claude Code skill for AI-assisted bug bounty hunting - recon, IDOR, XSS, SSRF, OAuth, GraphQL, LLM injection, and report generation
 - [meefs/claude-code-templates](https://github.com/meefs/claude-code-templates): CLI tool for configuring and monitoring Claude Code
 - [meefs/claude-plugins-official](https://github.com/meefs/claude-plugins-official): Official, Anthropic-managed directory of high quality Claude Code Plugins.
+- [meefs/clearwing](https://github.com/meefs/clearwing): No description
 - [meefs/clip-as-service](https://github.com/meefs/clip-as-service): 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP
 - [meefs/copyparty](https://github.com/meefs/copyparty): Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [meefs/datamoshing](https://github.com/meefs/datamoshing): Datamoshing in python
