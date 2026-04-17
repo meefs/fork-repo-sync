@@ -108,6 +108,7 @@
 - [meefs/garak](https://github.com/meefs/garak): the LLM vulnerability scanner
 - [meefs/gigahorse-toolchain](https://github.com/meefs/gigahorse-toolchain): A binary lifter and analysis framework for Ethereum smart contracts
 - [meefs/government-data-fun](https://github.com/meefs/government-data-fun): Various tools to easily access public data from different government departments and services. 
+- [meefs/hyperframes](https://github.com/meefs/hyperframes): Write HTML. Render video. Built for agents.
 - [meefs/m3u-audiobooks](https://github.com/meefs/m3u-audiobooks): collection of 100k+ audio books, radio porgrams, music etc from archive.org in a easy to listen m3u playlist format
 - [meefs/meta-prompt](https://github.com/meefs/meta-prompt): For LLMs to better code with Jina API
 - [meefs/promptlikeanegyptian](https://github.com/meefs/promptlikeanegyptian): prompt like an egyptiaaaaannnnn
@@ -210,6 +211,7 @@
 
 ## PHP
 - [meefs/DVWA](https://github.com/meefs/DVWA): Damn Vulnerable Web Application (DVWA)
+- [meefs/SecLists](https://github.com/meefs/SecLists): SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 - [meefs/kanboard](https://github.com/meefs/kanboard): Kanban project management software
 
 ## Python
@@ -392,6 +394,7 @@
 - [meefs/Curated_Data](https://github.com/meefs/Curated_Data): Set of runstreams to read in and clean up lots of various data
 
 ## Shell
+- [meefs/Bonsai-demo](https://github.com/meefs/Bonsai-demo): Bonsai Demo
 - [meefs/Claude-Command-Suite](https://github.com/meefs/Claude-Command-Suite): Professional slash commands for Claude Code that provide   structured workflows for software development tasks including   code review, feature creation, security auditing, and   architectural analysis.
 - [meefs/cc-trace](https://github.com/meefs/cc-trace): Claude Code CLI skill: Interactive assistant for intercepting, debugging, analyzing and reviewing Claude Code API requests using mitmproxy
 - [meefs/claude-code](https://github.com/meefs/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
