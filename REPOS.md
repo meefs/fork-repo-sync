@@ -129,12 +129,14 @@
 - [meefs/ditherQuest](https://github.com/meefs/ditherQuest): auto dither images in pleasing colors
 - [meefs/dockertacos](https://github.com/meefs/dockertacos): Sample project involving docker and tacos 🌮
 - [meefs/drawdata](https://github.com/meefs/drawdata): Draw datasets from within Jupyter.
+- [meefs/embedProxy](https://github.com/meefs/embedProxy): Proxy service built for CF workers that surfaces page HEAD content
 - [meefs/fal-3d-anything](https://github.com/meefs/fal-3d-anything): No description
 - [meefs/game-creator](https://github.com/meefs/game-creator): Opinionated Claude Plugin to make 2D (Phaser) & 3D (ThreeJS) Games
 - [meefs/get-shit-done](https://github.com/meefs/get-shit-done): A light-weight but powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [meefs/go-compression.github.io](https://github.com/meefs/go-compression.github.io): The Hitchhiker's Guide to Compression
 - [meefs/helloworlds](https://github.com/meefs/helloworlds): first attempt at git
 - [meefs/hex.dance](https://github.com/meefs/hex.dance): simple client-side in-browser binary analysis and hex dump
+- [meefs/iframely](https://github.com/meefs/iframely): oEmbed proxy. Supports over 1800 domains via custom parsers, oEmbed, Twitter Cards and Open Graph
 - [meefs/jxl-art](https://github.com/meefs/jxl-art): Web app to make art using JPEG XL.
 - [meefs/node-hls-downloader-tubitv](https://github.com/meefs/node-hls-downloader-tubitv): Command-line utility for downloading an offline copy of TubiTV HLS video streams.
 - [meefs/portal-network-specs](https://github.com/meefs/portal-network-specs): Official repository for specifications for the Portal Network
