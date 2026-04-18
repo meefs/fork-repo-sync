@@ -109,7 +109,6 @@
 - [meefs/garak](https://github.com/meefs/garak): the LLM vulnerability scanner
 - [meefs/gigahorse-toolchain](https://github.com/meefs/gigahorse-toolchain): A binary lifter and analysis framework for Ethereum smart contracts
 - [meefs/government-data-fun](https://github.com/meefs/government-data-fun): Various tools to easily access public data from different government departments and services. 
-- [meefs/hyperframes](https://github.com/meefs/hyperframes): Write HTML. Render video. Built for agents.
 - [meefs/m3u-audiobooks](https://github.com/meefs/m3u-audiobooks): collection of 100k+ audio books, radio porgrams, music etc from archive.org in a easy to listen m3u playlist format
 - [meefs/meta-prompt](https://github.com/meefs/meta-prompt): For LLMs to better code with Jina API
 - [meefs/promptlikeanegyptian](https://github.com/meefs/promptlikeanegyptian): prompt like an egyptiaaaaannnnn
@@ -463,6 +462,7 @@
 - [meefs/gitcoin_co_30](https://github.com/meefs/gitcoin_co_30): No description
 - [meefs/hermes-workspace](https://github.com/meefs/hermes-workspace): Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector. Built for the Nous Research hackathon.
 - [meefs/humanlayer](https://github.com/meefs/humanlayer): HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more.  Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling
+- [meefs/hyperframes](https://github.com/meefs/hyperframes): Write HTML. Render video. Built for agents.
 - [meefs/jitsi-meet](https://github.com/meefs/jitsi-meet): Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [meefs/json-render](https://github.com/meefs/json-render): The Generative UI framework
 - [meefs/jupyter](https://github.com/meefs/jupyter): A Waldiez JupyterLab extension.
