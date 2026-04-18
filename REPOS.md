@@ -21,6 +21,7 @@
 - [meefs/context-free](https://github.com/meefs/context-free): Context Free is a program that generates images from written instructions called a grammar. The program follows the instructions in a few seconds to create images that can contain millions of shapes.
 - [meefs/cryptominisat](https://github.com/meefs/cryptominisat): An advanced SAT solver
 - [meefs/dawn](https://github.com/meefs/dawn): Native WebGPU implementation. Mirror of https://dawn.googlesource.com/dawn. File bugs here: https://crbug.com/dawn/new
+- [meefs/dusk-audio-plugins](https://github.com/meefs/dusk-audio-plugins): All of my plugins
 - [meefs/gearmulator](https://github.com/meefs/gearmulator): Emulation of classic VA synths of the late 90s/2000s that are based on Motorola 56300 family DSPs
 - [meefs/ggml](https://github.com/meefs/ggml): Tensor library for machine learning
 - [meefs/ggwave](https://github.com/meefs/ggwave): Tiny data-over-sound library
