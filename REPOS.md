@@ -472,6 +472,7 @@
 - [meefs/magicblock-engine-examples](https://github.com/meefs/magicblock-engine-examples): Ephemeral Rollups - Integration Examples
 - [meefs/make-it-so](https://github.com/meefs/make-it-so): No description
 - [meefs/mcp-boilerplate](https://github.com/meefs/mcp-boilerplate): A remote Cloudflare MCP server boilerplate with user authentication and Stripe for paid tools.
+- [meefs/mcp-omnisearch](https://github.com/meefs/mcp-omnisearch): 🔍 A Model Context Protocol (MCP) server providing unified access to multiple search engines (Tavily, Brave, Kagi, Exa), AI tools (Kagi FastGPT, Exa, Linkup), and content extraction services (Firecrawl, Tavily, Kagi). Includes GitHub search. All through a single interface.
 - [meefs/mockoon](https://github.com/meefs/mockoon): Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [meefs/monorepo](https://github.com/meefs/monorepo): No description
 - [meefs/my-chat-agent](https://github.com/meefs/my-chat-agent): No description
