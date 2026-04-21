@@ -375,6 +375,7 @@
 - [meefs/gpu-acceleration](https://github.com/meefs/gpu-acceleration): Explorations on mobile-first GPU acceleration, currently support MSM.
 - [meefs/halo2](https://github.com/meefs/halo2): The Halo2 zero-knowledge proving system
 - [meefs/hash](https://github.com/meefs/hash): 🚀  The open-source, multi-tenant, self-building knowledge graph
+- [meefs/hexcap](https://github.com/meefs/hexcap): A TUI packet capture tool with libpcap and hexyl-style hex dump.
 - [meefs/iroh](https://github.com/meefs/iroh): peer-2-peer that just works
 - [meefs/ja4](https://github.com/meefs/ja4): JA4+ is a suite of network fingerprinting standards
 - [meefs/lambdaworks](https://github.com/meefs/lambdaworks): lambdaworks offers implementations for both SNARKs and STARKs provers, along with the flexibility to leverage their individual components for constructing customized SNARKs.
