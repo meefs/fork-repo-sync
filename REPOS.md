@@ -71,6 +71,7 @@
 - [meefs/swisseph](https://github.com/meefs/swisseph): Swiss Ephemeris source code, official release by Astrodienst. For reporting issues or problems, please use the public mailing list https://groups.io/g/swisseph
 - [meefs/ta-lib](https://github.com/meefs/ta-lib): TA-Lib (Core C Library)
 - [meefs/tkernel_2](https://github.com/meefs/tkernel_2): T-Kernel 2.0
+- [meefs/vss-fr2system](https://github.com/meefs/vss-fr2system): test
 - [meefs/wireshark](https://github.com/meefs/wireshark): Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
 
 ## GDScript
