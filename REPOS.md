@@ -107,7 +107,6 @@
 - [meefs/awesome-compose](https://github.com/meefs/awesome-compose): Awesome Docker Compose samples
 - [meefs/cve](https://github.com/meefs/cve): Gather and update all available and newest CVEs with their PoC.
 - [meefs/docs](https://github.com/meefs/docs): documentation for content creation
-- [meefs/garak](https://github.com/meefs/garak): the LLM vulnerability scanner
 - [meefs/gigahorse-toolchain](https://github.com/meefs/gigahorse-toolchain): A binary lifter and analysis framework for Ethereum smart contracts
 - [meefs/government-data-fun](https://github.com/meefs/government-data-fun): Various tools to easily access public data from different government departments and services. 
 - [meefs/m3u-audiobooks](https://github.com/meefs/m3u-audiobooks): collection of 100k+ audio books, radio porgrams, music etc from archive.org in a easy to listen m3u playlist format
@@ -297,6 +296,7 @@
 - [meefs/exo](https://github.com/meefs/exo): Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [meefs/frame-interpolation](https://github.com/meefs/frame-interpolation): FILM: Frame Interpolation for Large Motion, In arXiv 2022.
 - [meefs/freqtrade](https://github.com/meefs/freqtrade): Free, open source crypto trading bot
+- [meefs/garak](https://github.com/meefs/garak): the LLM vulnerability scanner
 - [meefs/git-fix-finder](https://github.com/meefs/git-fix-finder): No description
 - [meefs/gitingest](https://github.com/meefs/gitingest): Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
 - [meefs/harlequin](https://github.com/meefs/harlequin): The SQL IDE for Your Terminal.
