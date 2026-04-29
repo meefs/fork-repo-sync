@@ -259,6 +259,7 @@
 - [meefs/Skywork](https://github.com/meefs/Skywork): Skywork series models are pre-trained on 3.2TB of high-quality multilingual (mainly Chinese and English) and code data. We have open-sourced the model, training data, evaluation data, evaluation methods, etc.  
 - [meefs/TeleVision](https://github.com/meefs/TeleVision): Open-TeleVision: Teleoperation with Immersive Active Visual Feedback
 - [meefs/TheBigBrother](https://github.com/meefs/TheBigBrother): The Big Brother V3.0 is a weaponized OSINT platform featuring username enumeration (473+ platforms), quad-vector visual intelligence, Sky Radar tracking, crypto wallet analysis, SSL intelligence, digital footprint reconstruction, EXIF extraction, advanced dorking, and network reconnaissance.
+- [meefs/TradingAgents](https://github.com/meefs/TradingAgents): TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [meefs/UniversalBackrooms](https://github.com/meefs/UniversalBackrooms): A replication of Andy Ayrey's "Backrooms" (https://dreams-of-an-electric-mind.webflow.io/), but runnable with Opus 3, Sonnet 3.5, GPT 4o, and o1-preview 
 - [meefs/VSP-LLM](https://github.com/meefs/VSP-LLM): No description
 - [meefs/ag2](https://github.com/meefs/ag2): AG2 (formerly AutoGen) is a programming framework for agentic AI. Join the community at: https://discord.gg/pAbnFJrkgZ
