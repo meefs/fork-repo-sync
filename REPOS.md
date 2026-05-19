@@ -105,6 +105,7 @@
 - [meefs/Top10](https://github.com/meefs/Top10): Official OWASP Top 10 Document Repository
 - [meefs/agentic-book](https://github.com/meefs/agentic-book): An AI-generated book exploring how artificial intelligence development reveals hidden patterns in human cognition and communication
 - [meefs/awesome-compose](https://github.com/meefs/awesome-compose): Awesome Docker Compose samples
+- [meefs/cloud_haiku](https://github.com/meefs/cloud_haiku): Community-made poetry about infrastructure
 - [meefs/cve](https://github.com/meefs/cve): Gather and update all available and newest CVEs with their PoC.
 - [meefs/docs](https://github.com/meefs/docs): documentation for content creation
 - [meefs/gigahorse-toolchain](https://github.com/meefs/gigahorse-toolchain): A binary lifter and analysis framework for Ethereum smart contracts
@@ -144,7 +145,9 @@
 - [meefs/skills-getting-started-with-github-copilot](https://github.com/meefs/skills-getting-started-with-github-copilot): Exercise: Get started using GitHub Copilot
 - [meefs/splat](https://github.com/meefs/splat): WebGL 3D Gaussian Splat Viewer
 - [meefs/telegram-inline-calendar](https://github.com/meefs/telegram-inline-calendar): Date and time picker and Inline calendar for Node.js telegram bots
+- [meefs/tonedesigner-app](https://github.com/meefs/tonedesigner-app): tone.js synth
 - [meefs/tt-research](https://github.com/meefs/tt-research): Motivated by recent success of the truth_terminal meta this is created as an open research repository of keen finds
+- [meefs/unglitch](https://github.com/meefs/unglitch): some of my projects (2018-2025), previously hosted on glitch.com
 - [meefs/www-project-artificial-intelligence-vulnerability-scoring-system](https://github.com/meefs/www-project-artificial-intelligence-vulnerability-scoring-system): OWASP Foundation web repository
 - [meefs/zk-learning-group](https://github.com/meefs/zk-learning-group): No description
 
@@ -196,6 +199,9 @@
 - [meefs/segment-anything-2](https://github.com/meefs/segment-anything-2): The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [meefs/stable-diffusion-webui-colab](https://github.com/meefs/stable-diffusion-webui-colab): Stable Difffusion webui Google Colab Notebooks
 
+## Lean
+- [meefs/sphincsminus](https://github.com/meefs/sphincsminus): Implementations of sphnics minus in python and lean
+
 ## MDX
 - [meefs/Prompt-Engineering-Guide](https://github.com/meefs/Prompt-Engineering-Guide): 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [meefs/cloudflare-docs](https://github.com/meefs/cloudflare-docs): Cloudflare’s documentation
@@ -221,6 +227,7 @@
 - [meefs/AMT](https://github.com/meefs/AMT): Official code for "AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation" (CVPR2023)
 - [meefs/ATLAS](https://github.com/meefs/ATLAS): Adaptive Test-time Learning and Autonomous Specialization
 - [meefs/AbletonOSC](https://github.com/meefs/AbletonOSC): Control Ableton Live via Open Sound Control (OSC)
+- [meefs/Awesome-LLMs-for-Vulnerability-Detection](https://github.com/meefs/Awesome-LLMs-for-Vulnerability-Detection): Awesome Large Language Models for Vulnerability Detection
 - [meefs/BitNet](https://github.com/meefs/BitNet): Official inference framework for 1-bit LLMs
 - [meefs/CLIP-based-NSFW-Detector](https://github.com/meefs/CLIP-based-NSFW-Detector): No description
 - [meefs/CVE-2025-31324](https://github.com/meefs/CVE-2025-31324): CVE-2025-31324, SAP Exploit
@@ -253,10 +260,12 @@
 - [meefs/Pixeltovoxelprojector](https://github.com/meefs/Pixeltovoxelprojector): Projects motion of pixels to a voxel
 - [meefs/PotemkinBenchmark](https://github.com/meefs/PotemkinBenchmark): No description
 - [meefs/PyRIT](https://github.com/meefs/PyRIT): The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.
+- [meefs/RFdiffusion](https://github.com/meefs/RFdiffusion): Code for running RFdiffusion
 - [meefs/SODE](https://github.com/meefs/SODE): No description
 - [meefs/Sana](https://github.com/meefs/Sana): SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
 - [meefs/SkyReels-V2](https://github.com/meefs/SkyReels-V2): SkyReels-V2: Infinite-length Film Generative model
 - [meefs/Skywork](https://github.com/meefs/Skywork): Skywork series models are pre-trained on 3.2TB of high-quality multilingual (mainly Chinese and English) and code data. We have open-sourced the model, training data, evaluation data, evaluation methods, etc.  
+- [meefs/TRELLIS.2](https://github.com/meefs/TRELLIS.2): Native and Compact Structured Latents for 3D Generation
 - [meefs/TeleVision](https://github.com/meefs/TeleVision): Open-TeleVision: Teleoperation with Immersive Active Visual Feedback
 - [meefs/TheBigBrother](https://github.com/meefs/TheBigBrother): The Big Brother V3.0 is a weaponized OSINT platform featuring username enumeration (473+ platforms), quad-vector visual intelligence, Sky Radar tracking, crypto wallet analysis, SSL intelligence, digital footprint reconstruction, EXIF extraction, advanced dorking, and network reconnaissance.
 - [meefs/TradingAgents](https://github.com/meefs/TradingAgents): TradingAgents: Multi-Agents LLM Financial Trading Framework
@@ -298,6 +307,7 @@
 - [meefs/frame-interpolation](https://github.com/meefs/frame-interpolation): FILM: Frame Interpolation for Large Motion, In arXiv 2022.
 - [meefs/freqtrade](https://github.com/meefs/freqtrade): Free, open source crypto trading bot
 - [meefs/garak](https://github.com/meefs/garak): the LLM vulnerability scanner
+- [meefs/ghosttype](https://github.com/meefs/ghosttype): Local forensic scanner that extracts credentials from AI tool conversation history. For authorized red team and DLP use only.
 - [meefs/git-fix-finder](https://github.com/meefs/git-fix-finder): No description
 - [meefs/gitingest](https://github.com/meefs/gitingest): Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
 - [meefs/harlequin](https://github.com/meefs/harlequin): The SQL IDE for Your Terminal.
@@ -358,6 +368,9 @@
 - [meefs/wintermute-hyperliquid-analysis](https://github.com/meefs/wintermute-hyperliquid-analysis): Wintermute Hyperliquid quoting strategy analysis
 - [meefs/wonder](https://github.com/meefs/wonder): metaprogramming for LLMs and other humans
 
+## QML
+- [meefs/musescore4-chord-library-plugin](https://github.com/meefs/musescore4-chord-library-plugin): This is a plugin for MuseScore to make embedded libraries for chord diagrams.
+
 ## Rich Text Format
 - [meefs/ga](https://github.com/meefs/ga): No description
 
@@ -372,6 +385,7 @@
 - [meefs/baml](https://github.com/meefs/baml): The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [meefs/bitcoinphone](https://github.com/meefs/bitcoinphone): Voice over the BitcoinSV protocol (made for CoinGeek 2021)
 - [meefs/claw-code](https://github.com/meefs/claw-code): Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust.
+- [meefs/cuda-oxide](https://github.com/meefs/cuda-oxide): cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.
 - [meefs/diamond-io](https://github.com/meefs/diamond-io): Diamond iO implementation https://eprint.iacr.org/2025/236
 - [meefs/gambit](https://github.com/meefs/gambit): Using mutations to improve specs and test suites
 - [meefs/gpu-acceleration](https://github.com/meefs/gpu-acceleration): Explorations on mobile-first GPU acceleration, currently support MSM.
@@ -395,6 +409,7 @@
 - [meefs/thorium](https://github.com/meefs/thorium): A scalable file analysis and data generation platform that allows users to easily orchestrate arbitrary docker/vm/shell tools at scale.
 - [meefs/world-id-protocol](https://github.com/meefs/world-id-protocol): Main components and documentation for the World ID Protocol.
 - [meefs/wreq](https://github.com/meefs/wreq): An ergonomic Rust HTTP Client with TLS fingerprint
+- [meefs/zinc-plus](https://github.com/meefs/zinc-plus): Zinc+ is a performance-oriented SNARK framework designed to handle computations across multiple mathematical domains without the "witness inflation" overhead typical of traditional arithmetization.
 
 ## R
 - [meefs/Curated_Data](https://github.com/meefs/Curated_Data): Set of runstreams to read in and clean up lots of various data
@@ -436,6 +451,7 @@
 - [meefs/dns-blocklists](https://github.com/meefs/dns-blocklists): DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## TypeScript
+- [meefs/0xCONTROL](https://github.com/meefs/0xCONTROL):  https://zero-control-dapp.me-7fb.workers.dev
 - [meefs/FluidFramework](https://github.com/meefs/FluidFramework): Library for building distributed, real-time collaborative web  applications
 - [meefs/FxEmbed](https://github.com/meefs/FxEmbed): Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
 - [meefs/Raydium-Bundler-Extra-Bot-V4-Avoid-Bubblemaps](https://github.com/meefs/Raydium-Bundler-Extra-Bot-V4-Avoid-Bubblemaps): This is the extra bot of Raydium bundler to avoid detecting from bubble maps with JITO
@@ -483,6 +499,7 @@
 - [meefs/playwright-mcp](https://github.com/meefs/playwright-mcp): Playwright MCP server
 - [meefs/pretext](https://github.com/meefs/pretext): Fast, accurate & comprehensive text measurement & layout
 - [meefs/react-native-webgpu](https://github.com/meefs/react-native-webgpu): React Native implementation of WebGPU using Dawn
+- [meefs/react-video-ascii](https://github.com/meefs/react-video-ascii): Video to ASCII React component.
 - [meefs/repomix](https://github.com/meefs/repomix): 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 - [meefs/revoke.cash](https://github.com/meefs/revoke.cash): ❌ Revoke or update your token approvals
 - [meefs/scrolls](https://github.com/meefs/scrolls): No description
