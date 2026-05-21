@@ -152,8 +152,9 @@ jobs:
               fi
 
               # Merge
-              if ! git merge upstream/"$DEFAULT_BRANCH" --allow-unrelated-histories -m "Merged by GitHub Actions"; then
+              if ! git merge -X theirs upstream/"$DEFAULT_BRANCH" --allow-unrelated-histories -m "Merged by GitHub Actions"; then
                 echo -e "${RED}Merge conflict or error merging ${REPO_FULL_NAME}.${RESET}"
+                git merge --abort 2>/dev/null || true
                 cd ..
                 rm -rf "$REPO_NAME"
                 FAIL_COUNT=$((FAIL_COUNT+1))
