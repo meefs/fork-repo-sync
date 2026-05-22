@@ -224,6 +224,7 @@
 ## Python
 - [meefs/ACE-Step](https://github.com/meefs/ACE-Step): ACE-Step: A Step Towards Music Generation Foundation Model
 - [meefs/AMT](https://github.com/meefs/AMT): Official code for "AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation" (CVPR2023)
+- [meefs/APT_REPORT](https://github.com/meefs/APT_REPORT): Interesting APT Report Collection And Some Special IOCs
 - [meefs/ATLAS](https://github.com/meefs/ATLAS): Adaptive Test-time Learning and Autonomous Specialization
 - [meefs/AbletonOSC](https://github.com/meefs/AbletonOSC): Control Ableton Live via Open Sound Control (OSC)
 - [meefs/Awesome-LLMs-for-Vulnerability-Detection](https://github.com/meefs/Awesome-LLMs-for-Vulnerability-Detection): Awesome Large Language Models for Vulnerability Detection
@@ -325,6 +326,7 @@
 - [meefs/modelscan](https://github.com/meefs/modelscan): Protection against Model Serialization Attacks
 - [meefs/moviepy](https://github.com/meefs/moviepy): Experiments with moviepy
 - [meefs/mqtt](https://github.com/meefs/mqtt): Mythic C2 Profile using mqtt
+- [meefs/musescore4-chord-library-plugin](https://github.com/meefs/musescore4-chord-library-plugin): This is a plugin for MuseScore to make embedded libraries for chord diagrams.
 - [meefs/mxfp4-llm](https://github.com/meefs/mxfp4-llm): Official implementation for Training LLMs with MXFP4
 - [meefs/nerfstudio](https://github.com/meefs/nerfstudio): A collaboration friendly studio for NeRFs
 - [meefs/ofac-naughtylist](https://github.com/meefs/ofac-naughtylist): Free-range, organic, locally-sourced sanctions data. OFAC's naughty list, parsed daily so you don't have to pay providers.
@@ -366,9 +368,6 @@
 - [meefs/whisperbymeefs](https://github.com/meefs/whisperbymeefs): Robust Speech Recognition via Large-Scale Weak Supervision
 - [meefs/wintermute-hyperliquid-analysis](https://github.com/meefs/wintermute-hyperliquid-analysis): Wintermute Hyperliquid quoting strategy analysis
 - [meefs/wonder](https://github.com/meefs/wonder): metaprogramming for LLMs and other humans
-
-## QML
-- [meefs/musescore4-chord-library-plugin](https://github.com/meefs/musescore4-chord-library-plugin): This is a plugin for MuseScore to make embedded libraries for chord diagrams.
 
 ## Rich Text Format
 - [meefs/ga](https://github.com/meefs/ga): No description
@@ -431,6 +430,7 @@
 ## Solidity
 - [meefs/LayerZero-v1](https://github.com/meefs/LayerZero-v1): An Omnichain Interoperability Protocol
 - [meefs/learn-evm-attacks](https://github.com/meefs/learn-evm-attacks): Learn and contribute by exploring blockchain attacks in detail. Maintained by Coinspect smart contract audit team, renowned for their top-tier smart contract audit services.
+- [meefs/safe-harbor](https://github.com/meefs/safe-harbor): No description
 - [meefs/wbtc-aave-demo](https://github.com/meefs/wbtc-aave-demo): No description
 
 ## Svelte
@@ -442,9 +442,6 @@
 - [meefs/bitchat](https://github.com/meefs/bitchat): bluetooth mesh chat, IRC vibes
 - [meefs/container](https://github.com/meefs/container): A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon. 
 - [meefs/sam2-studio](https://github.com/meefs/sam2-studio): No description
-
-## TeX
-- [meefs/safe-harbor](https://github.com/meefs/safe-harbor): No description
 
 ## Text
 - [meefs/dns-blocklists](https://github.com/meefs/dns-blocklists): DNS-Blocklists: For a better internet - keep the internet clean!
