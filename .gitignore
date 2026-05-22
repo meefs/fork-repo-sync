@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Claude Code local config
+.claude/
+
+# Logs
+*.log
+logs/
+
+# Environment / secrets (defense in depth)
+.env
+.env.local
+*.pem
