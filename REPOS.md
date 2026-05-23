@@ -135,6 +135,7 @@
 - [meefs/get-shit-done](https://github.com/meefs/get-shit-done): A light-weight but powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [meefs/go-compression.github.io](https://github.com/meefs/go-compression.github.io): The Hitchhiker's Guide to Compression
 - [meefs/helloworlds](https://github.com/meefs/helloworlds): first attempt at git
+- [meefs/hermes-workspace](https://github.com/meefs/hermes-workspace): Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector. Built for the Nous Research hackathon.
 - [meefs/hex.dance](https://github.com/meefs/hex.dance): simple client-side in-browser binary analysis and hex dump
 - [meefs/iframely](https://github.com/meefs/iframely): oEmbed proxy. Supports over 1800 domains via custom parsers, oEmbed, Twitter Cards and Open Graph
 - [meefs/jxl-art](https://github.com/meefs/jxl-art): Web app to make art using JPEG XL.
@@ -476,7 +477,6 @@
 - [meefs/gemini-cli](https://github.com/meefs/gemini-cli): An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [meefs/geolocation-hello-world](https://github.com/meefs/geolocation-hello-world): No description
 - [meefs/gitcoin_co_30](https://github.com/meefs/gitcoin_co_30): No description
-- [meefs/hermes-workspace](https://github.com/meefs/hermes-workspace): Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector. Built for the Nous Research hackathon.
 - [meefs/humanlayer](https://github.com/meefs/humanlayer): HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more.  Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling
 - [meefs/hyperframes](https://github.com/meefs/hyperframes): Write HTML. Render video. Built for agents.
 - [meefs/jitsi-meet](https://github.com/meefs/jitsi-meet): Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
@@ -544,7 +544,6 @@
 - [meefs/algorithms](https://github.com/meefs/algorithms): Bug-tracking for Jeff's algorithms book, notes, etc.
 - [meefs/arc_pi_taxonomy](https://github.com/meefs/arc_pi_taxonomy): The Arcanum Prompt Injection Taxonomy
 - [meefs/asn-info](https://github.com/meefs/asn-info): Download autonomous system list organized by ASN
-- [meefs/asn-ip](https://github.com/meefs/asn-ip): Download IP address lists grouped by network provider (ASN)
 - [meefs/at-command-set](https://github.com/meefs/at-command-set): ESP8266 AT+ Command Set
 - [meefs/awesome--sora-prompts](https://github.com/meefs/awesome--sora-prompts): A reference containing Visual Style Prompt and Editing Style Prompt that you can use with Sora AI. 
 - [meefs/awesome-claude-prompts](https://github.com/meefs/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
