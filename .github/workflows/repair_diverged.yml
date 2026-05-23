@@ -1,0 +1,197 @@
+name: Repair Diverged Forks
+
+# One-off (manual) workflow that hard-resets a hand-curated allowlist of
+# diverged forks to their upstream HEAD via the git refs API.
+#
+# The allowlist below was built by inspecting the unique commits on each
+# diverged fork: every entry is a fork whose "ahead" commits are merge
+# artifacts from the old git-merge sync workflow or PR pre-squash
+# leftovers (no actual local work). Forks with real local work
+# (e.g. site-scanning-analysis) are deliberately excluded.
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run: report what would be reset without doing it'
+        required: false
+        default: true
+        type: boolean
+
+concurrency:
+  group: repair-diverged
+  cancel-in-progress: false
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Hard-reset diverged forks to upstream HEAD
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+          OWNER: meefs
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          set -u -o pipefail
+
+          if ! command -v jq >/dev/null; then
+            echo "::error::jq is required but not installed"
+            exit 1
+          fi
+
+          API="https://api.github.com"
+          HDR_AUTH="Authorization: token $GITHUB_TOKEN"
+          HDR_ACCEPT="Accept: application/vnd.github+json"
+          HDR_VER="X-GitHub-Api-Version: 2022-11-28"
+
+          # Verified safe-to-reset based on per-fork commit analysis.
+          # See workflow header comment for the inclusion criteria.
+          FORKS=(
+            alt-tab-macos
+            claw-code
+            Graphite
+            hermes-workspace
+            llm-engine
+            mujoco
+            pyxel
+            unsloth
+            vscode-copilot-chat
+            wreq
+          )
+
+          RESET=()
+          SKIPPED_NOT_DIVERGED=()
+          FAILED=()
+          DRY_WOULD_RESET=()
+
+          echo "Repairing ${#FORKS[@]} forks (dry_run=$DRY_RUN)"
+          echo ""
+
+          for FORK_NAME in "${FORKS[@]}"; do
+            FORK_FULL="$OWNER/$FORK_NAME"
+            echo "::group::$FORK_FULL"
+
+            # Fetch fork info: parent + default branch
+            REPO_INFO=$(curl -sS -w "\n%{http_code}" \
+              -H "$HDR_AUTH" -H "$HDR_ACCEPT" -H "$HDR_VER" \
+              "$API/repos/$FORK_FULL")
+            REPO_HTTP=$(echo "$REPO_INFO" | tail -n1)
+            REPO_BODY=$(echo "$REPO_INFO" | sed '$d')
+
+            if [ "$REPO_HTTP" != "200" ]; then
+              echo "  [failed] lookup HTTP $REPO_HTTP"
+              FAILED+=("$FORK_FULL (lookup HTTP $REPO_HTTP)")
+              echo "::endgroup::"
+              continue
+            fi
+
+            FORK_BRANCH=$(echo "$REPO_BODY" | jq -r '.default_branch')
+            PARENT_FULL=$(echo "$REPO_BODY" | jq -r '.parent.full_name // empty')
+            PARENT_BRANCH=$(echo "$REPO_BODY" | jq -r '.parent.default_branch // empty')
+
+            if [ -z "$PARENT_FULL" ] || [ -z "$PARENT_BRANCH" ]; then
+              echo "  [failed] no parent in metadata"
+              FAILED+=("$FORK_FULL (no parent)")
+              echo "::endgroup::"
+              continue
+            fi
+
+            PARENT_OWNER=${PARENT_FULL%%/*}
+            PARENT_NAME=${PARENT_FULL##*/}
+
+            # Verify still diverged before doing anything destructive.
+            COMPARE=$(curl -sS \
+              -H "$HDR_AUTH" -H "$HDR_ACCEPT" -H "$HDR_VER" \
+              "$API/repos/$FORK_FULL/compare/$PARENT_OWNER:$PARENT_NAME:$PARENT_BRANCH...$FORK_BRANCH")
+            STATUS=$(echo "$COMPARE" | jq -r '.status // "error"')
+            AHEAD=$(echo "$COMPARE" | jq -r '.ahead_by // 0')
+            BEHIND=$(echo "$COMPARE" | jq -r '.behind_by // 0')
+
+            if [ "$STATUS" != "diverged" ]; then
+              echo "  [skipped] no longer diverged (status=$STATUS)"
+              SKIPPED_NOT_DIVERGED+=("$FORK_FULL (status now $STATUS)")
+              echo "::endgroup::"
+              continue
+            fi
+
+            echo "  current: diverged ($AHEAD ahead, $BEHIND behind)"
+            echo "  parent:  $PARENT_FULL ($PARENT_BRANCH)"
+
+            UPSTREAM_REF=$(curl -sS \
+              -H "$HDR_AUTH" -H "$HDR_ACCEPT" -H "$HDR_VER" \
+              "$API/repos/$PARENT_FULL/git/ref/heads/$PARENT_BRANCH")
+            UPSTREAM_SHA=$(echo "$UPSTREAM_REF" | jq -r '.object.sha // empty')
+
+            if [ -z "$UPSTREAM_SHA" ]; then
+              echo "  [failed] could not read upstream HEAD SHA"
+              FAILED+=("$FORK_FULL (upstream ref lookup failed)")
+              echo "::endgroup::"
+              continue
+            fi
+
+            echo "  upstream HEAD: $UPSTREAM_SHA"
+
+            if [ "$DRY_RUN" = "true" ]; then
+              echo "  [would-reset] $FORK_FULL/$FORK_BRANCH -> $UPSTREAM_SHA"
+              DRY_WOULD_RESET+=("$FORK_FULL ($AHEAD ahead, $BEHIND behind -> $UPSTREAM_SHA)")
+            else
+              # Force-update the fork's branch ref to upstream's HEAD SHA.
+              # This is the API equivalent of `git reset --hard upstream/<branch> && git push --force`.
+              PATCH_RESP=$(curl -sS -o /tmp/patch_resp.json -w "%{http_code}" \
+                -X PATCH \
+                -H "$HDR_AUTH" -H "$HDR_ACCEPT" -H "$HDR_VER" \
+                -d "{\"sha\":\"$UPSTREAM_SHA\",\"force\":true}" \
+                "$API/repos/$FORK_FULL/git/refs/heads/$FORK_BRANCH")
+
+              if [ "$PATCH_RESP" = "200" ]; then
+                echo "  [reset] $FORK_FULL/$FORK_BRANCH -> $UPSTREAM_SHA"
+                RESET+=("$FORK_FULL -> $UPSTREAM_SHA")
+              else
+                ERR_MSG=$(jq -r '.message // "no message"' /tmp/patch_resp.json 2>/dev/null | head -c 200)
+                echo "  [failed:$PATCH_RESP] $ERR_MSG"
+                FAILED+=("$FORK_FULL (PATCH HTTP $PATCH_RESP: $ERR_MSG)")
+              fi
+            fi
+
+            echo "::endgroup::"
+          done
+
+          {
+            echo "## Repair Summary"
+            echo ""
+            echo "| Outcome | Count |"
+            echo "|---|---|"
+            if [ "$DRY_RUN" = "true" ]; then
+              echo "| Would reset (dry run) | ${#DRY_WOULD_RESET[@]} |"
+            else
+              echo "| Reset | ${#RESET[@]} |"
+            fi
+            echo "| Skipped (no longer diverged) | ${#SKIPPED_NOT_DIVERGED[@]} |"
+            echo "| Failed | ${#FAILED[@]} |"
+            echo ""
+
+            if [ "$DRY_RUN" = "true" ] && [ "${#DRY_WOULD_RESET[@]}" -gt 0 ]; then
+              echo "### Would reset"
+              printf -- '- %s\n' "${DRY_WOULD_RESET[@]}"
+              echo ""
+            fi
+
+            if [ "$DRY_RUN" != "true" ] && [ "${#RESET[@]}" -gt 0 ]; then
+              echo "### Reset"
+              printf -- '- %s\n' "${RESET[@]}"
+              echo ""
+            fi
+
+            if [ "${#SKIPPED_NOT_DIVERGED[@]}" -gt 0 ]; then
+              echo "### Skipped (no longer diverged)"
+              printf -- '- %s\n' "${SKIPPED_NOT_DIVERGED[@]}"
+              echo ""
+            fi
+
+            if [ "${#FAILED[@]}" -gt 0 ]; then
+              echo "### Failed"
+              printf -- '- %s\n' "${FAILED[@]}"
+              echo ""
+            fi
+          } | tee -a "$GITHUB_STEP_SUMMARY"
