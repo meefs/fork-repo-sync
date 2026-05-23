@@ -383,7 +383,6 @@
 - [meefs/ZeroOS](https://github.com/meefs/ZeroOS): ZeroOS: A Universal Modular Library OS for zkVMs
 - [meefs/baml](https://github.com/meefs/baml): The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [meefs/bitcoinphone](https://github.com/meefs/bitcoinphone): Voice over the BitcoinSV protocol (made for CoinGeek 2021)
-- [meefs/claw-code](https://github.com/meefs/claw-code): Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things done. Now rewriting in Rust.
 - [meefs/cuda-oxide](https://github.com/meefs/cuda-oxide): cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.
 - [meefs/diamond-io](https://github.com/meefs/diamond-io): Diamond iO implementation https://eprint.iacr.org/2025/236
 - [meefs/gambit](https://github.com/meefs/gambit): Using mutations to improve specs and test suites
@@ -543,6 +542,7 @@
 - [meefs/advisory-database](https://github.com/meefs/advisory-database): Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 - [meefs/algorithms](https://github.com/meefs/algorithms): Bug-tracking for Jeff's algorithms book, notes, etc.
 - [meefs/arc_pi_taxonomy](https://github.com/meefs/arc_pi_taxonomy): The Arcanum Prompt Injection Taxonomy
+- [meefs/as-ip-blocks](https://github.com/meefs/as-ip-blocks): Download IP block lists by ASN - network provider addresses, updated daily
 - [meefs/asn-info](https://github.com/meefs/asn-info): Download autonomous system list organized by ASN
 - [meefs/at-command-set](https://github.com/meefs/at-command-set): ESP8266 AT+ Command Set
 - [meefs/awesome--sora-prompts](https://github.com/meefs/awesome--sora-prompts): A reference containing Visual Style Prompt and Editing Style Prompt that you can use with Sora AI. 
