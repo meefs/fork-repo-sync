@@ -8,9 +8,8 @@ on:
         required: false
         default: false
         type: boolean
-  # Cron disabled during rewrite validation. Re-enable after a successful manual run.
-  # schedule:
-  #   - cron: '0 */4 * * *'
+  schedule:
+    - cron: '0 * * * *'
 
 concurrency:
   group: sync-forks
