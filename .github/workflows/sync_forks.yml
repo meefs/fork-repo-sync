@@ -98,11 +98,13 @@ jobs:
               fi
 
               # Compare fork's default branch against upstream's default branch.
+              # Order is upstream...fork so ahead/behind/status are reported from
+              # the fork's perspective: status=behind => fork needs sync.
               PARENT_OWNER=${PARENT_FULL%%/*}
               PARENT_NAME=${PARENT_FULL##*/}
               COMPARE=$(curl -sS \
                 -H "$HDR_AUTH" -H "$HDR_ACCEPT" -H "$HDR_VER" \
-                "$API/repos/$FORK_FULL/compare/$FORK_BRANCH...$PARENT_OWNER:$PARENT_NAME:$PARENT_BRANCH")
+                "$API/repos/$FORK_FULL/compare/$PARENT_OWNER:$PARENT_NAME:$PARENT_BRANCH...$FORK_BRANCH")
 
               STATUS=$(echo "$COMPARE" | jq -r '.status // "error"')
               BEHIND=$(echo "$COMPARE" | jq -r '.behind_by // 0')
@@ -148,7 +150,7 @@ jobs:
                   FAILED+=("$FORK_FULL (compare: $ERR_MSG)")
                   ;;
               esac
-            done < <(echo "$REPOS" | jq -r '.[] | @base64')
+            done < <(echo "$REPOS" | jq -r '.[] | select(.fork == true) | @base64')
 
             echo "::endgroup::"
             PAGE=$((PAGE + 1))
@@ -175,25 +177,25 @@ jobs:
 
             if [ "${#DIVERGED[@]}" -gt 0 ]; then
               echo "### Diverged forks (need manual repair)"
-              printf '- %s\n' "${DIVERGED[@]}"
+              printf -- '- %s\n' "${DIVERGED[@]}"
               echo ""
             fi
 
             if [ "${#FAILED[@]}" -gt 0 ]; then
               echo "### Failed forks"
-              printf '- %s\n' "${FAILED[@]}"
+              printf -- '- %s\n' "${FAILED[@]}"
               echo ""
             fi
 
             if [ "${#NO_UPSTREAM[@]}" -gt 0 ]; then
               echo "### Forks with no upstream (parent deleted or inaccessible)"
-              printf '- %s\n' "${NO_UPSTREAM[@]}"
+              printf -- '- %s\n' "${NO_UPSTREAM[@]}"
               echo ""
             fi
 
             if [ "$DRY_RUN" = "true" ] && [ "${#DRY_WOULD_SYNC[@]}" -gt 0 ]; then
               echo "### Would sync"
-              printf '- %s\n' "${DRY_WOULD_SYNC[@]}"
+              printf -- '- %s\n' "${DRY_WOULD_SYNC[@]}"
               echo ""
             fi
           } | tee -a "$GITHUB_STEP_SUMMARY"
