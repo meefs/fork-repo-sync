@@ -1,13 +1,19 @@
 name: Repair Diverged Forks
 
-# One-off (manual) workflow that hard-resets a hand-curated allowlist of
-# diverged forks to their upstream HEAD via the git refs API.
+# Manual workflow that hard-resets a hand-curated allowlist of diverged
+# forks to their upstream HEAD via the git refs API.
 #
-# The allowlist below was built by inspecting the unique commits on each
-# diverged fork: every entry is a fork whose "ahead" commits are merge
-# artifacts from the old git-merge sync workflow or PR pre-squash
-# leftovers (no actual local work). Forks with real local work
-# (e.g. site-scanning-analysis) are deliberately excluded.
+# Inclusion criterion: a fork whose "ahead" commits are entirely
+# automation/bot commits or pre-rewrite upstream commits — i.e. no real
+# local user work to preserve. Common causes:
+#   - merge artifacts from the legacy git-merge sync workflow
+#   - PR pre-squash leftovers
+#   - upstreams that rewrite default-branch history (squash/rebase
+#     merge, linear-history enforcement, bot-driven merge queues)
+#     leaving the fork "ahead" by orphaned SHAs after each rewrite
+#
+# Forks with real local work (e.g. site-scanning-analysis) are
+# deliberately excluded.
 
 on:
   workflow_dispatch:
@@ -49,12 +55,17 @@ jobs:
           # See workflow header comment for the inclusion criteria.
           FORKS=(
             alt-tab-macos
+            claude-code-flow
+            claude-context-mode
             claw-code
+            ga
             Graphite
             hermes-workspace
             llm-engine
             mujoco
             pyxel
+            raptor
+            repomix
             unsloth
             vscode-copilot-chat
             wreq
