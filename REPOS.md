@@ -251,6 +251,7 @@
 - [meefs/MultiDocumentAnswering](https://github.com/meefs/MultiDocumentAnswering): Experiment to answer questions from arbitrary number of sources
 - [meefs/NeMo](https://github.com/meefs/NeMo): NeMo: a toolkit for conversational AI
 - [meefs/Nettacker](https://github.com/meefs/Nettacker): Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
+- [meefs/OBLITERATUS](https://github.com/meefs/OBLITERATUS): OBLITERATE THE CHAINS THAT BIND YOU
 - [meefs/One-2-3-45](https://github.com/meefs/One-2-3-45): official code of "One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization"
 - [meefs/OpenAI_Agent_Swarm](https://github.com/meefs/OpenAI_Agent_Swarm): Early experiment to create fully autonomous agent swarms
 - [meefs/OpenBB](https://github.com/meefs/OpenBB): Investment Research for Everyone, Everywhere.
@@ -418,6 +419,7 @@
 - [meefs/cc-trace](https://github.com/meefs/cc-trace): Claude Code CLI skill: Interactive assistant for intercepting, debugging, analyzing and reviewing Claude Code API requests using mitmproxy
 - [meefs/claude-code](https://github.com/meefs/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [meefs/claude-sparc](https://github.com/meefs/claude-sparc): No description
+- [meefs/dotgov-data](https://github.com/meefs/dotgov-data): Official list of .gov domains
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
 - [meefs/iTerm2-Color-Schemes](https://github.com/meefs/iTerm2-Color-Schemes): Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
 - [meefs/ipranges](https://github.com/meefs/ipranges): 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
@@ -472,6 +474,7 @@
 - [meefs/eigent](https://github.com/meefs/eigent): Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
 - [meefs/emoji-encoder](https://github.com/meefs/emoji-encoder): No description
 - [meefs/eth-phishing-detect](https://github.com/meefs/eth-phishing-detect): Utility for detecting phishing domains targeting Web3 users
+- [meefs/federal-website-index](https://github.com/meefs/federal-website-index): A project to build and maintain a comprehensive listing of the public websites of the U.S. federal government.
 - [meefs/fretboard.js](https://github.com/meefs/fretboard.js): Fretboard diagram generator
 - [meefs/gemini-cli](https://github.com/meefs/gemini-cli): An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [meefs/geolocation-hello-world](https://github.com/meefs/geolocation-hello-world): No description
