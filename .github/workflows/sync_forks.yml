@@ -9,7 +9,9 @@ on:
         default: false
         type: boolean
   schedule:
-    - cron: '*/15 * * * *'
+    # Off-round minutes avoid GitHub's :00/:15/:30/:45 global cron queue
+    # contention, which silently drops scheduled runs under load.
+    - cron: '3,18,33,48 * * * *'
 
 concurrency:
   group: sync-forks
