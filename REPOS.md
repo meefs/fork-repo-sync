@@ -549,6 +549,7 @@
 - [meefs/asn-info](https://github.com/meefs/asn-info): Download autonomous system list organized by ASN
 - [meefs/at-command-set](https://github.com/meefs/at-command-set): ESP8266 AT+ Command Set
 - [meefs/awesome--sora-prompts](https://github.com/meefs/awesome--sora-prompts): A reference containing Visual Style Prompt and Editing Style Prompt that you can use with Sora AI. 
+- [meefs/awesome-ace-step](https://github.com/meefs/awesome-ace-step): No description
 - [meefs/awesome-claude-prompts](https://github.com/meefs/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
 - [meefs/awesome-deepseek-integration](https://github.com/meefs/awesome-deepseek-integration): No description
 - [meefs/awesome-foundation-agents](https://github.com/meefs/awesome-foundation-agents): About Awesome things towards foundation agents. Papers / Repos / Blogs / ...
