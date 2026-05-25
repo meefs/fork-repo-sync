@@ -23,6 +23,12 @@ on:
         required: false
         default: true
         type: boolean
+  schedule:
+    # Runs hourly at :10, after the top-of-hour sync_forks tick. On
+    # schedule triggers, inputs.dry_run is empty so DRY_RUN != "true"
+    # and the workflow performs real resets (allowlist + still-diverged
+    # safety checks still apply).
+    - cron: '10 * * * *'
 
 concurrency:
   group: repair-diverged
