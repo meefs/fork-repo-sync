@@ -368,6 +368,7 @@
 - [meefs/turbovec](https://github.com/meefs/turbovec): A vector index built on TurboQuant, written in Rust with Python bindings
 - [meefs/ultralytics](https://github.com/meefs/ultralytics): Ultralytics YOLO11 🚀
 - [meefs/unsloth](https://github.com/meefs/unsloth): Finetune Llama 3.2, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
+- [meefs/web3-security-resources](https://github.com/meefs/web3-security-resources): Curated Web3 security learning hub for smart contract auditors and protocol teams: roadmaps, audit tools, public reports, fuzzing, formal verification, AI-assisted workflows, offchain security, incident response, and launch checklists.
 - [meefs/whisper_leak](https://github.com/meefs/whisper_leak): No description
 - [meefs/whisperbymeefs](https://github.com/meefs/whisperbymeefs): Robust Speech Recognition via Large-Scale Weak Supervision
 - [meefs/wintermute-hyperliquid-analysis](https://github.com/meefs/wintermute-hyperliquid-analysis): Wintermute Hyperliquid quoting strategy analysis
