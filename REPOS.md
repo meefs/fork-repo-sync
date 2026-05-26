@@ -82,6 +82,7 @@
 
 ## Go
 - [meefs/CVE-2024-4577](https://github.com/meefs/CVE-2024-4577): CVE-2024-4577 is a critical vulnerability in PHP affecting CGI configurations, allowing attackers to execute arbitrary commands via crafted URL parameters.
+- [meefs/agent-sandbox](https://github.com/meefs/agent-sandbox): agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.
 - [meefs/ai-context](https://github.com/meefs/ai-context): CLI tool to produce MD context files from many sources, to help interact with LLMs (ChatGPT, Llama3, Claude, etc.).
 - [meefs/assets](https://github.com/meefs/assets): A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 - [meefs/btcvm](https://github.com/meefs/btcvm): BTC virtual machine for Metal Blockchain
@@ -364,12 +365,14 @@
 - [meefs/tinygrad](https://github.com/meefs/tinygrad): You like pytorch? You like micrograd? You love tinygrad! ❤️ 
 - [meefs/tplmap](https://github.com/meefs/tplmap): Server-Side Template Injection and Code Injection Detection and Exploitation Tool
 - [meefs/trailofbits-skills](https://github.com/meefs/trailofbits-skills): Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
+- [meefs/turbovec](https://github.com/meefs/turbovec): A vector index built on TurboQuant, written in Rust with Python bindings
 - [meefs/ultralytics](https://github.com/meefs/ultralytics): Ultralytics YOLO11 🚀
 - [meefs/unsloth](https://github.com/meefs/unsloth): Finetune Llama 3.2, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
 - [meefs/whisper_leak](https://github.com/meefs/whisper_leak): No description
 - [meefs/whisperbymeefs](https://github.com/meefs/whisperbymeefs): Robust Speech Recognition via Large-Scale Weak Supervision
 - [meefs/wintermute-hyperliquid-analysis](https://github.com/meefs/wintermute-hyperliquid-analysis): Wintermute Hyperliquid quoting strategy analysis
 - [meefs/wonder](https://github.com/meefs/wonder): metaprogramming for LLMs and other humans
+- [meefs/wordwise](https://github.com/meefs/wordwise): N-gram keyword extraction using spaCy and pretrained language models
 
 ## Rich Text Format
 - [meefs/ga](https://github.com/meefs/ga): No description
