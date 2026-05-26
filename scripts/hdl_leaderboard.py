@@ -97,7 +97,9 @@ class Repo:
     full_name: str
     stars: int
     forks: int
+    created_at: str | None
     pushed_at: str | None
+    updated_at: str | None
     description: str | None
     language: str | None
     url: str
@@ -117,7 +119,9 @@ class Repo:
             full_name=item["full_name"],
             stars=item.get("stargazers_count") or 0,
             forks=item.get("forks_count") or 0,
+            created_at=item.get("created_at"),
             pushed_at=item.get("pushed_at"),
+            updated_at=item.get("updated_at"),
             description=item.get("description"),
             language=item.get("language"),
             url=item.get("html_url") or f"https://github.com/{item['full_name']}",
@@ -440,13 +444,16 @@ def write_csv(path: Path, repos: list[Repo]) -> None:
         w = csv.writer(f)
         w.writerow([
             "rank", "full_name", "primary_language", "stars", "forks",
-            "commits", "pushed_at", "url", "description",
+            "commits", "created_at", "pushed_at", "updated_at",
+            "url", "description",
         ])
         for i, r in enumerate(repos, 1):
             w.writerow([
                 i, r.full_name, r.language or "",
                 r.stars, r.forks, r.commits,
+                (r.created_at or "")[:10],
                 (r.pushed_at or "")[:10],
+                (r.updated_at or "")[:10],
                 r.url,
                 (r.description or "").replace("\n", " "),
             ])
@@ -464,15 +471,17 @@ def write_markdown(
         "",
         f"**Total: {len(repos)} repos**",
         "",
-        "| # | Repo | Lang | ★ | ⑂ | Commits | Pushed | Description |",
-        "|--:|------|------|--:|--:|--------:|--------|-------------|",
+        "| # | Repo | Lang | ★ | ⑂ | Commits | Created | Pushed | Updated | Description |",
+        "|--:|------|------|--:|--:|--------:|---------|--------|---------|-------------|",
     ]
     for i, r in enumerate(repos, 1):
         desc = _truncate(r.description, 80).replace("|", "\\|")
         lines.append(
             f"| {i} | [{r.full_name}]({r.url}) | {r.language or ''} "
             f"| {r.stars:,} | {r.forks:,} | {r.commits:,} "
-            f"| {(r.pushed_at or '')[:10]} | {desc} |"
+            f"| {(r.created_at or '')[:10]} "
+            f"| {(r.pushed_at or '')[:10]} "
+            f"| {(r.updated_at or '')[:10]} | {desc} |"
         )
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
@@ -482,7 +491,10 @@ def write_json(path: Path, repos: list[Repo]) -> None:
         {
             "full_name": r.full_name, "primary_language": r.language,
             "stars": r.stars, "forks": r.forks, "commits": r.commits,
-            "pushed_at": r.pushed_at, "url": r.url,
+            "created_at": r.created_at,
+            "pushed_at": r.pushed_at,
+            "updated_at": r.updated_at,
+            "url": r.url,
             "description": r.description,
         }
         for r in repos
