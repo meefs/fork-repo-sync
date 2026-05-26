@@ -294,6 +294,7 @@
 - [meefs/claimbuster-spotter](https://github.com/meefs/claimbuster-spotter): Adversarial Training on Transformer Networks to discover check-worthy factual claims
 - [meefs/claude-bug-bounty](https://github.com/meefs/claude-bug-bounty): Claude Code skill for AI-assisted bug bounty hunting - recon, IDOR, XSS, SSRF, OAuth, GraphQL, LLM injection, and report generation
 - [meefs/claude-code-templates](https://github.com/meefs/claude-code-templates): CLI tool for configuring and monitoring Claude Code
+- [meefs/claude-code](https://github.com/meefs/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [meefs/claude-plugins-official](https://github.com/meefs/claude-plugins-official): Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [meefs/clearwing](https://github.com/meefs/clearwing): No description
 - [meefs/clip-as-service](https://github.com/meefs/clip-as-service): 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP
@@ -421,7 +422,6 @@
 - [meefs/Bonsai-demo](https://github.com/meefs/Bonsai-demo): Bonsai Demo
 - [meefs/Claude-Command-Suite](https://github.com/meefs/Claude-Command-Suite): Professional slash commands for Claude Code that provide   structured workflows for software development tasks including   code review, feature creation, security auditing, and   architectural analysis.
 - [meefs/cc-trace](https://github.com/meefs/cc-trace): Claude Code CLI skill: Interactive assistant for intercepting, debugging, analyzing and reviewing Claude Code API requests using mitmproxy
-- [meefs/claude-code](https://github.com/meefs/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [meefs/claude-sparc](https://github.com/meefs/claude-sparc): No description
 - [meefs/dotgov-data](https://github.com/meefs/dotgov-data): Official list of .gov domains
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
