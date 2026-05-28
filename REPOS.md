@@ -249,6 +249,7 @@
 - [meefs/Hunyuan3D-2.1](https://github.com/meefs/Hunyuan3D-2.1): From Images to High-Fidelity 3D Assets with Production-Ready PBR Material
 - [meefs/ImageBind](https://github.com/meefs/ImageBind): ImageBind One Embedding Space to Bind Them All
 - [meefs/LLMs4OL](https://github.com/meefs/LLMs4OL): LLMs4OL:‌ Large Language Models for Ontology Learning
+- [meefs/Lens](https://github.com/meefs/Lens): Lens is a 3.8B-parameter text-to-image diffusion model that achieves quality competitive with and in several cases surpassing models like FLUX and SD3, while requiring significantly less training compute. Key ideas include maximizing data information density per batch and accelerating convergence. 
 - [meefs/MMAudio](https://github.com/meefs/MMAudio): [arXiv 2024] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
 - [meefs/MiniMax-01](https://github.com/meefs/MiniMax-01): No description
 - [meefs/MiroFish](https://github.com/meefs/MiroFish): A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
