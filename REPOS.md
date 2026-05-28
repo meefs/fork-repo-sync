@@ -240,6 +240,7 @@
 - [meefs/ChatDoctor](https://github.com/meefs/ChatDoctor): No description
 - [meefs/CodeFormer](https://github.com/meefs/CodeFormer): [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 - [meefs/ComfyUI-PhotoMaker-Plus](https://github.com/meefs/ComfyUI-PhotoMaker-Plus): PhotoMaker for ComfyUI
+- [meefs/DEMON](https://github.com/meefs/DEMON): DEMON: Diffusion Engine for Musical Orchestrated Noise
 - [meefs/DeepCAD](https://github.com/meefs/DeepCAD): code for our ICCV 2021 paper "DeepCAD: A Deep Generative Network for Computer-Aided Design Models"
 - [meefs/DeepSpeed](https://github.com/meefs/DeepSpeed): DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [meefs/Engram](https://github.com/meefs/Engram): Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models
@@ -262,6 +263,7 @@
 - [meefs/OpenResearcher](https://github.com/meefs/OpenResearcher): No description
 - [meefs/OpenVoice](https://github.com/meefs/OpenVoice): Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [meefs/Parade-State-Bot](https://github.com/meefs/Parade-State-Bot): Automating my Admin NS job Task: Send out parade state attendance for 24 perm staff members daily  Format output: Structured Telegram message 
+- [meefs/Patter](https://github.com/meefs/Patter): Open-source voice-AI SDK. The Vapi/Retell alternative for builders who want to own the stack. Give your AI agent a phone number in 4 lines — Python and TypeScript, MIT licensed, Twilio + Telnyx.
 - [meefs/Pineapples-Secrets](https://github.com/meefs/Pineapples-Secrets): A writeup on how Pineapple actually works
 - [meefs/Pixeltovoxelprojector](https://github.com/meefs/Pixeltovoxelprojector): Projects motion of pixels to a voxel
 - [meefs/PotemkinBenchmark](https://github.com/meefs/PotemkinBenchmark): No description
@@ -358,6 +360,7 @@
 - [meefs/slither](https://github.com/meefs/slither): Static Analyzer for Solidity
 - [meefs/sparc](https://github.com/meefs/sparc): No description
 - [meefs/splunk-dnstwist-cmd](https://github.com/meefs/splunk-dnstwist-cmd): Splunk add-on providing a custom command to generate lookalike domain permutations
+- [meefs/stable-audio-3](https://github.com/meefs/stable-audio-3): No description
 - [meefs/stable-diffusion-webui](https://github.com/meefs/stable-diffusion-webui): Stable Diffusion web UI
 - [meefs/stablediffusion](https://github.com/meefs/stablediffusion): High-Resolution Image Synthesis with Latent Diffusion Models
 - [meefs/style-transfer-pytorch](https://github.com/meefs/style-transfer-pytorch): Neural style transfer in PyTorch.
