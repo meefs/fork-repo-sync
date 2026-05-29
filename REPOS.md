@@ -77,6 +77,9 @@
 - [meefs/vss-fr2system](https://github.com/meefs/vss-fr2system): test
 - [meefs/wireshark](https://github.com/meefs/wireshark): Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
 
+## Elixir
+- [meefs/cantrip](https://github.com/meefs/cantrip): agent grimoire starter pack
+
 ## Emacs Lisp
 - [meefs/coralnpu](https://github.com/meefs/coralnpu): A machine learning accelerator core designed for energy-efficient AI at the edge.
 
@@ -479,7 +482,6 @@
 - [meefs/ai-brainstore](https://github.com/meefs/ai-brainstore): A proof-of-concept of a brain for an AI agent.
 - [meefs/ai](https://github.com/meefs/ai): No description
 - [meefs/basedocs](https://github.com/meefs/basedocs): Documentation for building on Base
-- [meefs/cantrip](https://github.com/meefs/cantrip): agent grimoire starter pack
 - [meefs/cdp-agentkit](https://github.com/meefs/cdp-agentkit): No description
 - [meefs/chaoschain](https://github.com/meefs/chaoschain): The accountability protocol for the autonomous AI economy.
 - [meefs/claude-code-flow](https://github.com/meefs/claude-code-flow): This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
