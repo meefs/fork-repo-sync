@@ -77,6 +77,9 @@
 - [meefs/vss-fr2system](https://github.com/meefs/vss-fr2system): test
 - [meefs/wireshark](https://github.com/meefs/wireshark): Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
 
+## Emacs Lisp
+- [meefs/coralnpu](https://github.com/meefs/coralnpu): A machine learning accelerator core designed for energy-efficient AI at the edge.
+
 ## GDScript
 - [meefs/SoundThread](https://github.com/meefs/SoundThread): Node based GUI for The Composers Desktop Project
 
@@ -244,6 +247,7 @@
 - [meefs/DEMON](https://github.com/meefs/DEMON): DEMON: Diffusion Engine for Musical Orchestrated Noise
 - [meefs/DeepCAD](https://github.com/meefs/DeepCAD): code for our ICCV 2021 paper "DeepCAD: A Deep Generative Network for Computer-Aided Design Models"
 - [meefs/DeepSpeed](https://github.com/meefs/DeepSpeed): DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+- [meefs/Eagle](https://github.com/meefs/Eagle): Eagle: Frontier Vision-Language Models with Data-Centric Strategies
 - [meefs/Engram](https://github.com/meefs/Engram): Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models
 - [meefs/EpsteIn](https://github.com/meefs/EpsteIn): See which of your LinkedIn connections appear in the Epstein files.
 - [meefs/GFPGAN](https://github.com/meefs/GFPGAN): GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
@@ -295,6 +299,7 @@
 - [meefs/binance-public-data](https://github.com/meefs/binance-public-data): Details on how to get Binance public data
 - [meefs/bitstamp-btcusd-minute-data](https://github.com/meefs/bitstamp-btcusd-minute-data): Daily updates of Bitstamp BTC/USD 1-minute OHLC data, with historical data since 2012
 - [meefs/bro-clickhouse](https://github.com/meefs/bro-clickhouse): No description
+- [meefs/browser-use](https://github.com/meefs/browser-use): 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [meefs/bug-bounty-labs](https://github.com/meefs/bug-bounty-labs): All the labs in this repository simulate real world bugs I found in the wild
 - [meefs/bulk-whois](https://github.com/meefs/bulk-whois): This Python script performs bulk Whois lookups for both hostnames and IP addresses, providing information such as IP address, ASN (Autonomous System Number), AS Name, and associated country
 - [meefs/cinematic-gaussians](https://github.com/meefs/cinematic-gaussians): Code for our paper "Application of 3D Gaussian Splatting for Cinematic Anatomy on Consumer Class Devices"
@@ -509,6 +514,7 @@
 - [meefs/my-chat-agent](https://github.com/meefs/my-chat-agent): No description
 - [meefs/onchainkit](https://github.com/meefs/onchainkit): React components and TypeScript utilities to help you build top-tier onchain apps.
 - [meefs/playwright-mcp](https://github.com/meefs/playwright-mcp): Playwright MCP server
+- [meefs/playwright](https://github.com/meefs/playwright): Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 - [meefs/pretext](https://github.com/meefs/pretext): Fast, accurate & comprehensive text measurement & layout
 - [meefs/react-native-webgpu](https://github.com/meefs/react-native-webgpu): React Native implementation of WebGPU using Dawn
 - [meefs/react-video-ascii](https://github.com/meefs/react-video-ascii): Video to ASCII React component.
