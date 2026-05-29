@@ -38,6 +38,7 @@
 - [meefs/paulxstretch](https://github.com/meefs/paulxstretch): PaulXStretch - Extreme Timestretching application and plugin
 - [meefs/powertabeditor](https://github.com/meefs/powertabeditor): View and edit guitar tablature.
 - [meefs/quiche](https://github.com/meefs/quiche): No description
+- [meefs/sentencepiece](https://github.com/meefs/sentencepiece): Unsupervised text tokenizer for Neural Network-based text generation.
 - [meefs/shadPS4](https://github.com/meefs/shadPS4): PS4 emulator for Windows,Linux,MacOS
 - [meefs/shapeml](https://github.com/meefs/shapeml): ShapeML is a rule- or grammar-based procedural 3D modeling framework.
 - [meefs/stable-diffusion.cpp](https://github.com/meefs/stable-diffusion.cpp): Stable Diffusion in pure C/C++
@@ -321,6 +322,7 @@
 - [meefs/git-fix-finder](https://github.com/meefs/git-fix-finder): No description
 - [meefs/gitingest](https://github.com/meefs/gitingest): Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
 - [meefs/harlequin](https://github.com/meefs/harlequin): The SQL IDE for Your Terminal.
+- [meefs/hermes-agent](https://github.com/meefs/hermes-agent): The agent that grows with you
 - [meefs/iGAN](https://github.com/meefs/iGAN): Interactive Image Generation via Generative Adversarial Networks
 - [meefs/ieml](https://github.com/meefs/ieml): IEML semantic language - a meaning-representation system based on semantic primitives and a regular grammar. Basic semantic relationships between concepts are automatically computed from syntactic similarities.
 - [meefs/innertube](https://github.com/meefs/innertube): Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more!
