@@ -64,6 +64,7 @@
 - [meefs/Cog](https://github.com/meefs/Cog): Cog - A Free and Open Source Audio Player for macOS 10.14+
 - [meefs/KUVA](https://github.com/meefs/KUVA): KUVA: Graphcut textures
 - [meefs/bcc](https://github.com/meefs/bcc): BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
+- [meefs/cntools](https://github.com/meefs/cntools): Incomplete-ish C "libraries"
 - [meefs/cve-2024-6387-poc](https://github.com/meefs/cve-2024-6387-poc): a signal handler race condition in OpenSSH's server (sshd)
 - [meefs/httpd](https://github.com/meefs/httpd): Mirror of Apache HTTP Server. Issues: http://issues.apache.org
 - [meefs/malady](https://github.com/meefs/malady): maldev obviously
