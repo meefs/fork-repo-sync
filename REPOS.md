@@ -309,6 +309,7 @@
 - [meefs/bulk-whois](https://github.com/meefs/bulk-whois): This Python script performs bulk Whois lookups for both hostnames and IP addresses, providing information such as IP address, ASN (Autonomous System Number), AS Name, and associated country
 - [meefs/cinematic-gaussians](https://github.com/meefs/cinematic-gaussians): Code for our paper "Application of 3D Gaussian Splatting for Cinematic Anatomy on Consumer Class Devices"
 - [meefs/claimbuster-spotter](https://github.com/meefs/claimbuster-spotter): Adversarial Training on Transformer Networks to discover check-worthy factual claims
+- [meefs/claude-ads](https://github.com/meefs/claude-ads): Comprehensive paid advertising audit & optimization skill for Claude Code. 250+ checks across Google, Meta, YouTube, LinkedIn, TikTok, Microsoft & Apple Ads with weighted scoring, parallel agents, industry templates, and AI creative generation.
 - [meefs/claude-bug-bounty](https://github.com/meefs/claude-bug-bounty): Claude Code skill for AI-assisted bug bounty hunting - recon, IDOR, XSS, SSRF, OAuth, GraphQL, LLM injection, and report generation
 - [meefs/claude-code-templates](https://github.com/meefs/claude-code-templates): CLI tool for configuring and monitoring Claude Code
 - [meefs/claude-code](https://github.com/meefs/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
@@ -326,6 +327,7 @@
 - [meefs/entseeker](https://github.com/meefs/entseeker): entseeker is a command-line tool for Named Entity Recognition (NER) and web entity searches in text files. It uses spaCy's NLP capabilities for standard named entities and custom rules for web-related entities.
 - [meefs/exo](https://github.com/meefs/exo): Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [meefs/frame-interpolation](https://github.com/meefs/frame-interpolation): FILM: Frame Interpolation for Large Motion, In arXiv 2022.
+- [meefs/free-llm-api-keys](https://github.com/meefs/free-llm-api-keys): Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card needed.
 - [meefs/freqtrade](https://github.com/meefs/freqtrade): Free, open source crypto trading bot
 - [meefs/garak](https://github.com/meefs/garak): the LLM vulnerability scanner
 - [meefs/ghosttype](https://github.com/meefs/ghosttype): Local forensic scanner that extracts credentials from AI tool conversation history. For authorized red team and DLP use only.
@@ -488,6 +490,8 @@
 - [meefs/basedocs](https://github.com/meefs/basedocs): Documentation for building on Base
 - [meefs/cdp-agentkit](https://github.com/meefs/cdp-agentkit): No description
 - [meefs/chaoschain](https://github.com/meefs/chaoschain): The accountability protocol for the autonomous AI economy.
+- [meefs/chipotlai-max](https://github.com/meefs/chipotlai-max): The AI coding agent that runs on stolen Chipotle compute 🌯 Fork of OpenCode with Pepper AI as default model. Community project to add providers from Home Depot, Lowes, Target, Starbucks & more.
+- [meefs/chipotle-llm-provider](https://github.com/meefs/chipotle-llm-provider): OpenAI-compatible LLM proxy backed by Chipotle's Pepper AI (IPsoft Amelia) — free inference via fast food
 - [meefs/claude-code-flow](https://github.com/meefs/claude-code-flow): This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
 - [meefs/claude-context-mode](https://github.com/meefs/claude-context-mode): Stop losing context to large outputs.
 - [meefs/cobold](https://github.com/meefs/cobold): telegram bot for downloading media, powered by cobalt
@@ -499,6 +503,7 @@
 - [meefs/emoji-encoder](https://github.com/meefs/emoji-encoder): No description
 - [meefs/eth-phishing-detect](https://github.com/meefs/eth-phishing-detect): Utility for detecting phishing domains targeting Web3 users
 - [meefs/federal-website-index](https://github.com/meefs/federal-website-index): A project to build and maintain a comprehensive listing of the public websites of the U.S. federal government.
+- [meefs/freellmapi](https://github.com/meefs/freellmapi): OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 - [meefs/fretboard.js](https://github.com/meefs/fretboard.js): Fretboard diagram generator
 - [meefs/gemini-cli](https://github.com/meefs/gemini-cli): An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [meefs/geolocation-hello-world](https://github.com/meefs/geolocation-hello-world): No description
