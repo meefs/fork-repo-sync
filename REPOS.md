@@ -17,7 +17,6 @@
 - [meefs/LiteRT-LM](https://github.com/meefs/LiteRT-LM): No description
 - [meefs/MIDIsprout](https://github.com/meefs/MIDIsprout): MIDI Sprout is a Biodata Sonification system, capable of reading microfluctuations in conductivity across the surface of a plant's leaf and translating those changes into MIDI notes.
 - [meefs/OperatorGraph](https://github.com/meefs/OperatorGraph): Shape grammar base system and auto-tuner based on the operator graph idea
-- [meefs/chromium](https://github.com/meefs/chromium): The official GitHub mirror of the Chromium source
 - [meefs/context-free](https://github.com/meefs/context-free): Context Free is a program that generates images from written instructions called a grammar. The program follows the instructions in a few seconds to create images that can contain millions of shapes.
 - [meefs/cryptominisat](https://github.com/meefs/cryptominisat): An advanced SAT solver
 - [meefs/dawn](https://github.com/meefs/dawn): Native WebGPU implementation. Mirror of https://dawn.googlesource.com/dawn. File bugs here: https://crbug.com/dawn/new
@@ -63,6 +62,7 @@
 - [meefs/AudioNoise](https://github.com/meefs/AudioNoise): Random digital audio effects
 - [meefs/Cog](https://github.com/meefs/Cog): Cog - A Free and Open Source Audio Player for macOS 10.14+
 - [meefs/KUVA](https://github.com/meefs/KUVA): KUVA: Graphcut textures
+- [meefs/PS5_kldload](https://github.com/meefs/PS5_kldload): A PlayStation 5 Kernel module loader inspired on FreeBSD's "kldload"
 - [meefs/bcc](https://github.com/meefs/bcc): BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [meefs/cntools](https://github.com/meefs/cntools): Incomplete-ish C "libraries"
 - [meefs/cve-2024-6387-poc](https://github.com/meefs/cve-2024-6387-poc): a signal handler race condition in OpenSSH's server (sshd)
@@ -593,6 +593,7 @@
 - [meefs/bad-opsec](https://github.com/meefs/bad-opsec): Collection of links on bad opsec
 - [meefs/camenduru](https://github.com/meefs/camenduru): No description
 - [meefs/ccbuildcrumb](https://github.com/meefs/ccbuildcrumb): No description
+- [meefs/chromium](https://github.com/meefs/chromium): The official GitHub mirror of the Chromium source
 - [meefs/claude-code-ios-dev-guide](https://github.com/meefs/claude-code-ios-dev-guide): A comprehensive guide for setting up Claude Code CLI with PRD-driven workflows, extended thinking (ultrathink), and planning modes optimized for Swift/SwiftUI iOS development.
 - [meefs/claude-deep-research](https://github.com/meefs/claude-deep-research): Claude Deep Research config for Claude Code.
 - [meefs/code-my-crown](https://github.com/meefs/code-my-crown): No description
