@@ -154,6 +154,7 @@
 - [meefs/portal-network-specs](https://github.com/meefs/portal-network-specs): Official repository for specifications for the Portal Network
 - [meefs/skills-getting-started-with-github-copilot](https://github.com/meefs/skills-getting-started-with-github-copilot): Exercise: Get started using GitHub Copilot
 - [meefs/splat](https://github.com/meefs/splat): WebGL 3D Gaussian Splat Viewer
+- [meefs/stemdeck](https://github.com/meefs/stemdeck): Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface
 - [meefs/telegram-inline-calendar](https://github.com/meefs/telegram-inline-calendar): Date and time picker and Inline calendar for Node.js telegram bots
 - [meefs/tonedesigner-app](https://github.com/meefs/tonedesigner-app): tone.js synth
 - [meefs/tt-research](https://github.com/meefs/tt-research): Motivated by recent success of the truth_terminal meta this is created as an open research repository of keen finds
