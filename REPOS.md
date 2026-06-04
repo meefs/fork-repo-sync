@@ -153,6 +153,7 @@
 - [meefs/jxl-art](https://github.com/meefs/jxl-art): Web app to make art using JPEG XL.
 - [meefs/node-hls-downloader-tubitv](https://github.com/meefs/node-hls-downloader-tubitv): Command-line utility for downloading an offline copy of TubiTV HLS video streams.
 - [meefs/portal-network-specs](https://github.com/meefs/portal-network-specs): Official repository for specifications for the Portal Network
+- [meefs/puter](https://github.com/meefs/puter): 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [meefs/skills-getting-started-with-github-copilot](https://github.com/meefs/skills-getting-started-with-github-copilot): Exercise: Get started using GitHub Copilot
 - [meefs/splat](https://github.com/meefs/splat): WebGL 3D Gaussian Splat Viewer
 - [meefs/stemdeck](https://github.com/meefs/stemdeck): Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface
@@ -528,7 +529,6 @@
 - [meefs/playwright-mcp](https://github.com/meefs/playwright-mcp): Playwright MCP server
 - [meefs/playwright](https://github.com/meefs/playwright): Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 - [meefs/pretext](https://github.com/meefs/pretext): Fast, accurate & comprehensive text measurement & layout
-- [meefs/puter](https://github.com/meefs/puter): 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [meefs/react-native-webgpu](https://github.com/meefs/react-native-webgpu): React Native implementation of WebGPU using Dawn
 - [meefs/react-video-ascii](https://github.com/meefs/react-video-ascii): Video to ASCII React component.
 - [meefs/repomix](https://github.com/meefs/repomix): 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
