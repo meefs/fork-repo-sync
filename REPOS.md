@@ -12,6 +12,7 @@
 
 ## C++
 - [meefs/CnC_Generals_Zero_Hour](https://github.com/meefs/CnC_Generals_Zero_Hour): Command and Conquer: Generals - Zero Hour
+- [meefs/FinceptTerminal](https://github.com/meefs/FinceptTerminal): FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
 - [meefs/GhostStrike](https://github.com/meefs/GhostStrike): Deploy stealthy reverse shells using advanced process hollowing with GhostStrike – a C++ tool for ethical hacking and Red Team operations.
 - [meefs/LeftoverLocalsRelease](https://github.com/meefs/LeftoverLocalsRelease): The public release of LeftoverLocals code
 - [meefs/LiteRT-LM](https://github.com/meefs/LiteRT-LM): No description
@@ -320,6 +321,7 @@
 - [meefs/copyparty](https://github.com/meefs/copyparty): Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [meefs/datamoshing](https://github.com/meefs/datamoshing): Datamoshing in python
 - [meefs/deepteam](https://github.com/meefs/deepteam): DeepTeam is a framework to red team LLMs and LLM systems.
+- [meefs/defending-code-reference-harness](https://github.com/meefs/defending-code-reference-harness): Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 - [meefs/deforum-stable-diffusion](https://github.com/meefs/deforum-stable-diffusion): Stable Diffusion Notebooks
 - [meefs/dmp_midi](https://github.com/meefs/dmp_midi): MIDI files for the patterns in the books "200 Drum Machine Patterns" & "260 Drum Machine Patterns"
 - [meefs/dnstwist](https://github.com/meefs/dnstwist): Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation
@@ -487,6 +489,7 @@
 - [meefs/agents-starter](https://github.com/meefs/agents-starter): A starter kit for building ai agents on Cloudflare
 - [meefs/ai-agent-cognitivedriftt](https://github.com/meefs/ai-agent-cognitivedriftt): Cognitive Drift AI Agent
 - [meefs/ai-brainstore](https://github.com/meefs/ai-brainstore): A proof-of-concept of a brain for an AI agent.
+- [meefs/ai-job-search](https://github.com/meefs/ai-job-search): AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
 - [meefs/ai](https://github.com/meefs/ai): No description
 - [meefs/basedocs](https://github.com/meefs/basedocs): Documentation for building on Base
 - [meefs/cdp-agentkit](https://github.com/meefs/cdp-agentkit): No description
