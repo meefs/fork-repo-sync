@@ -292,6 +292,7 @@
 - [meefs/TripoSplat](https://github.com/meefs/TripoSplat): TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.
 - [meefs/UniversalBackrooms](https://github.com/meefs/UniversalBackrooms): A replication of Andy Ayrey's "Backrooms" (https://dreams-of-an-electric-mind.webflow.io/), but runnable with Opus 3, Sonnet 3.5, GPT 4o, and o1-preview 
 - [meefs/VSP-LLM](https://github.com/meefs/VSP-LLM): No description
+- [meefs/VibeVoice](https://github.com/meefs/VibeVoice): Open-Source Frontier Voice AI
 - [meefs/ag2](https://github.com/meefs/ag2): AG2 (formerly AutoGen) is a programming framework for agentic AI. Join the community at: https://discord.gg/pAbnFJrkgZ
 - [meefs/agents-for-openbb](https://github.com/meefs/agents-for-openbb): Custom agents for OpenBB Workspace
 - [meefs/agentskills](https://github.com/meefs/agentskills): Specification and documentation for Agent Skills
