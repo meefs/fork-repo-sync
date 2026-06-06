@@ -257,6 +257,7 @@
 - [meefs/Engram](https://github.com/meefs/Engram): Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models
 - [meefs/EpsteIn](https://github.com/meefs/EpsteIn): See which of your LinkedIn connections appear in the Epstein files.
 - [meefs/GFPGAN](https://github.com/meefs/GFPGAN): GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
+- [meefs/HiringAlgorithms](https://github.com/meefs/HiringAlgorithms): Codebase for Algorithmic Monocultures in Hiring (Bommasani, Bana, Creel et al., FAccT 2026)
 - [meefs/Hunyuan3D-2.1](https://github.com/meefs/Hunyuan3D-2.1): From Images to High-Fidelity 3D Assets with Production-Ready PBR Material
 - [meefs/ImageBind](https://github.com/meefs/ImageBind): ImageBind One Embedding Space to Bind Them All
 - [meefs/LLMs4OL](https://github.com/meefs/LLMs4OL): LLMs4OL:‌ Large Language Models for Ontology Learning
