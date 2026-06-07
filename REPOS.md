@@ -68,6 +68,7 @@
 - [meefs/cntools](https://github.com/meefs/cntools): Incomplete-ish C "libraries"
 - [meefs/cve-2024-6387-poc](https://github.com/meefs/cve-2024-6387-poc): a signal handler race condition in OpenSSH's server (sshd)
 - [meefs/httpd](https://github.com/meefs/httpd): Mirror of Apache HTTP Server. Issues: http://issues.apache.org
+- [meefs/jenn3d](https://github.com/meefs/jenn3d): A Toy for Visualizing Coxeter Polytopes
 - [meefs/malady](https://github.com/meefs/malady): maldev obviously
 - [meefs/nginx](https://github.com/meefs/nginx): The official NGINX Open Source repository.
 - [meefs/prvhash](https://github.com/meefs/prvhash): PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor. (Codename Gradilac/Градилак)
