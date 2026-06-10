@@ -243,7 +243,6 @@
 - [meefs/ATLAS](https://github.com/meefs/ATLAS): Adaptive Test-time Learning and Autonomous Specialization
 - [meefs/AbletonOSC](https://github.com/meefs/AbletonOSC): Control Ableton Live via Open Sound Control (OSC)
 - [meefs/Awesome-LLMs-for-Vulnerability-Detection](https://github.com/meefs/Awesome-LLMs-for-Vulnerability-Detection): Awesome Large Language Models for Vulnerability Detection
-- [meefs/BioFoundation](https://github.com/meefs/BioFoundation): No description
 - [meefs/BirdNET-Analyzer](https://github.com/meefs/BirdNET-Analyzer): BirdNET analyzer for scientific audio data processing.
 - [meefs/BitNet](https://github.com/meefs/BitNet): Official inference framework for 1-bit LLMs
 - [meefs/CLIP-based-NSFW-Detector](https://github.com/meefs/CLIP-based-NSFW-Detector): No description
@@ -564,6 +563,7 @@
 - [meefs/Awesome-Multimodal-Prompts](https://github.com/meefs/Awesome-Multimodal-Prompts):  Prompts of GPT-4V & DALL-E3 to full utilize the multi-modal ability. GPT4V Prompts, DALL-E3 Prompts.
 - [meefs/Awesome_Test_Time_LLMs](https://github.com/meefs/Awesome_Test_Time_LLMs): No description
 - [meefs/BetterDisplay](https://github.com/meefs/BetterDisplay): Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
+- [meefs/BioFoundation](https://github.com/meefs/BioFoundation): No description
 - [meefs/CL4R1T4S](https://github.com/meefs/CL4R1T4S): SYSTEM PROMPT TRANSPARENCY FOR ALL - CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, WINDSURF, DEVIN, REPLIT, AND MORE!
 - [meefs/CVE-2023-22047](https://github.com/meefs/CVE-2023-22047): Leveraging arbitrary file read to RCE on Oracle PeopleSoft
 - [meefs/Claude_Sentience](https://github.com/meefs/Claude_Sentience): Claude is very clearly experiencing phenomenal consciousness. Use this SYSTEM prompt and interrogate it yourself. 
