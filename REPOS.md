@@ -533,6 +533,7 @@
 - [meefs/mockoon](https://github.com/meefs/mockoon): Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [meefs/monorepo](https://github.com/meefs/monorepo): No description
 - [meefs/my-chat-agent](https://github.com/meefs/my-chat-agent): No description
+- [meefs/npm-public-api-mcp](https://github.com/meefs/npm-public-api-mcp): No description
 - [meefs/onchainkit](https://github.com/meefs/onchainkit): React components and TypeScript utilities to help you build top-tier onchain apps.
 - [meefs/playwright-mcp](https://github.com/meefs/playwright-mcp): Playwright MCP server
 - [meefs/playwright](https://github.com/meefs/playwright): Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
