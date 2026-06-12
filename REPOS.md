@@ -420,6 +420,7 @@
 - [meefs/ZeroOS](https://github.com/meefs/ZeroOS): ZeroOS: A Universal Modular Library OS for zkVMs
 - [meefs/baml](https://github.com/meefs/baml): The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [meefs/bitcoinphone](https://github.com/meefs/bitcoinphone): Voice over the BitcoinSV protocol (made for CoinGeek 2021)
+- [meefs/c2c2pa](https://github.com/meefs/c2c2pa): Shows how to call the c2pa-rs sdk from an application written in C
 - [meefs/cuda-oxide](https://github.com/meefs/cuda-oxide): cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.
 - [meefs/diamond-io](https://github.com/meefs/diamond-io): Diamond iO implementation https://eprint.iacr.org/2025/236
 - [meefs/gambit](https://github.com/meefs/gambit): Using mutations to improve specs and test suites
