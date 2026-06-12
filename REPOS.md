@@ -391,6 +391,7 @@
 - [meefs/telegram_link_sanitizer](https://github.com/meefs/telegram_link_sanitizer): Gets rid of those garbage share params in URLs
 - [meefs/textual](https://github.com/meefs/textual): The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [meefs/theHarvester](https://github.com/meefs/theHarvester): E-mails, subdomains and names Harvester - OSINT 
+- [meefs/theZoo](https://github.com/meefs/theZoo): A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
 - [meefs/thinkchain](https://github.com/meefs/thinkchain): 🧠 Advanced Claude streaming interface with interleaved thinking, dynamic tool discovery, and MCP integration. Watch Claude think through problems in real-time while executing tools with live progress updates.
 - [meefs/tinygrad](https://github.com/meefs/tinygrad): You like pytorch? You like micrograd? You love tinygrad! ❤️ 
 - [meefs/tplmap](https://github.com/meefs/tplmap): Server-Side Template Injection and Code Injection Detection and Exploitation Tool
