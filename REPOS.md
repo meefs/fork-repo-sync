@@ -160,6 +160,7 @@
 - [meefs/splat](https://github.com/meefs/splat): WebGL 3D Gaussian Splat Viewer
 - [meefs/stemdeck](https://github.com/meefs/stemdeck): Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface
 - [meefs/telegram-inline-calendar](https://github.com/meefs/telegram-inline-calendar): Date and time picker and Inline calendar for Node.js telegram bots
+- [meefs/three.js](https://github.com/meefs/three.js): JavaScript 3D Library.
 - [meefs/tonedesigner-app](https://github.com/meefs/tonedesigner-app): tone.js synth
 - [meefs/tt-research](https://github.com/meefs/tt-research): Motivated by recent success of the truth_terminal meta this is created as an open research repository of keen finds
 - [meefs/unglitch](https://github.com/meefs/unglitch): some of my projects (2018-2025), previously hosted on glitch.com
@@ -532,6 +533,7 @@
 - [meefs/mcp-boilerplate](https://github.com/meefs/mcp-boilerplate): A remote Cloudflare MCP server boilerplate with user authentication and Stripe for paid tools.
 - [meefs/mcp-omnisearch](https://github.com/meefs/mcp-omnisearch): 🔍 A Model Context Protocol (MCP) server providing unified access to multiple search engines (Tavily, Brave, Kagi, Exa), AI tools (Kagi FastGPT, Exa, Linkup), and content extraction services (Firecrawl, Tavily, Kagi). Includes GitHub search. All through a single interface.
 - [meefs/mockoon](https://github.com/meefs/mockoon): Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
+- [meefs/modelcontextprotocol](https://github.com/meefs/modelcontextprotocol): Specification and documentation for the Model Context Protocol
 - [meefs/monorepo](https://github.com/meefs/monorepo): No description
 - [meefs/my-chat-agent](https://github.com/meefs/my-chat-agent): No description
 - [meefs/npm-public-api-mcp](https://github.com/meefs/npm-public-api-mcp): No description
