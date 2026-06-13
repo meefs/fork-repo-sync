@@ -515,6 +515,7 @@
 - [meefs/eigent](https://github.com/meefs/eigent): Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
 - [meefs/emoji-encoder](https://github.com/meefs/emoji-encoder): No description
 - [meefs/eth-phishing-detect](https://github.com/meefs/eth-phishing-detect): Utility for detecting phishing domains targeting Web3 users
+- [meefs/fable5-world-demo](https://github.com/meefs/fable5-world-demo): 3D world built by Claude Fable 5 to test its capabilities using three.js
 - [meefs/federal-website-index](https://github.com/meefs/federal-website-index): A project to build and maintain a comprehensive listing of the public websites of the U.S. federal government.
 - [meefs/freellmapi](https://github.com/meefs/freellmapi): OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 - [meefs/fretboard.js](https://github.com/meefs/fretboard.js): Fretboard diagram generator
@@ -587,6 +588,7 @@
 - [meefs/Quantum-Consciousness_Microtubules_Orch-OR](https://github.com/meefs/Quantum-Consciousness_Microtubules_Orch-OR): Consciousness and Quantum Theory: Stuart Hameroff, Roger Penrose
 - [meefs/SP_2025_Notes](https://github.com/meefs/SP_2025_Notes): No description
 - [meefs/Smart-Contract-Auditor-Tools-and-Techniques](https://github.com/meefs/Smart-Contract-Auditor-Tools-and-Techniques): This repo contains a comprehensive list of smart contract auditor tools and techniques that can be utilized by both smart contract auditors and blockchain developers for developing secure smart contracts
+- [meefs/Step-3.7-Flash](https://github.com/meefs/Step-3.7-Flash): No description
 - [meefs/SuperPrompt](https://github.com/meefs/SuperPrompt): No description
 - [meefs/TouchOSC](https://github.com/meefs/TouchOSC): A collection of examples and modules for TouchOSC MK2
 - [meefs/advisory-database](https://github.com/meefs/advisory-database): Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
