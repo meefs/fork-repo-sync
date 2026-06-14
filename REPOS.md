@@ -157,6 +157,7 @@
 - [meefs/jxl-art](https://github.com/meefs/jxl-art): Web app to make art using JPEG XL.
 - [meefs/node-hls-downloader-tubitv](https://github.com/meefs/node-hls-downloader-tubitv): Command-line utility for downloading an offline copy of TubiTV HLS video streams.
 - [meefs/portal-network-specs](https://github.com/meefs/portal-network-specs): Official repository for specifications for the Portal Network
+- [meefs/simple-icons](https://github.com/meefs/simple-icons): SVG icons for popular brands
 - [meefs/skills-getting-started-with-github-copilot](https://github.com/meefs/skills-getting-started-with-github-copilot): Exercise: Get started using GitHub Copilot
 - [meefs/splat](https://github.com/meefs/splat): WebGL 3D Gaussian Splat Viewer
 - [meefs/stemdeck](https://github.com/meefs/stemdeck): Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface
@@ -372,6 +373,7 @@
 - [meefs/picklescan](https://github.com/meefs/picklescan): Security scanner detecting Python Pickle files performing suspicious actions
 - [meefs/playscii](https://github.com/meefs/playscii): Fork of playscii
 - [meefs/pocket-pick](https://github.com/meefs/pocket-pick): What if the exact code snippet or idea you were looking for was one prompt away?
+- [meefs/polymarket-mcp-server](https://github.com/meefs/polymarket-mcp-server): 🤖 AI-Powered MCP Server for Polymarket - Enable Claude to trade prediction markets with 45 tools, real-time monitoring, and enterprise-grade safety features
 - [meefs/practical-inverse-rendering-of-textured-and-translucent-appearance](https://github.com/meefs/practical-inverse-rendering-of-textured-and-translucent-appearance): SIGGRAPH 2025 "Practical Inverse Rendering Of Textured And Translucent Appearance"
 - [meefs/psalm-alignment](https://github.com/meefs/psalm-alignment): Does injecting biblical Psalms into an LLM's system prompt measurably affect ethical alignment? An empirical experiment using the Hendrycks ETHICS benchmark on Claude Sonnet 4 and GPT-4o.
 - [meefs/public-apis](https://github.com/meefs/public-apis): A collective list of free APIs
