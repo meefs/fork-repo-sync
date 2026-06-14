@@ -555,6 +555,7 @@
 - [meefs/solana-app-kit](https://github.com/meefs/solana-app-kit): build solana apps under 15 mins
 - [meefs/solana-web3.js](https://github.com/meefs/solana-web3.js): Solana JavaScript SDK
 - [meefs/stack-chan](https://github.com/meefs/stack-chan): A JavaScript-driven M5Stack-embedded super-kawaii robot.
+- [meefs/stratos](https://github.com/meefs/stratos): Stratos: Web-based Management UI for Cloud Foundry and Kubernetes
 - [meefs/symm](https://github.com/meefs/symm): No description
 - [meefs/trpc](https://github.com/meefs/trpc): 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [meefs/ui2](https://github.com/meefs/ui2): The Unified Intent Interface: The easiest way to build intent-powered UIs
@@ -636,6 +637,7 @@
 - [meefs/open-source-alternatives](https://github.com/meefs/open-source-alternatives): List of open-source alternatives to everyday SaaS products.
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
 - [meefs/pravda-network-dissemination-data](https://github.com/meefs/pravda-network-dissemination-data): This repository contains data used for the Pravda Network dissemination investigation. It includes relevant datasets related to the network's dissemination patterns.
+- [meefs/pumpfun-apis](https://github.com/meefs/pumpfun-apis): Entire pumpfun api spec
 - [meefs/resolvers](https://github.com/meefs/resolvers): The most exhaustive list of reliable DNS resolvers.
 - [meefs/salmonella](https://github.com/meefs/salmonella): Wrecking sandwich traders for fun and profit
 - [meefs/solidity-gas-optimization](https://github.com/meefs/solidity-gas-optimization): A extensive list of solidity gas optimization tricks
