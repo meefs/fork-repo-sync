@@ -350,6 +350,7 @@
 - [meefs/ieml](https://github.com/meefs/ieml): IEML semantic language - a meaning-representation system based on semantic primitives and a regular grammar. Basic semantic relationships between concepts are automatically computed from syntactic similarities.
 - [meefs/innertube](https://github.com/meefs/innertube): Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more!
 - [meefs/jepa](https://github.com/meefs/jepa): PyTorch code and models for V-JEPA self-supervised learning from video.
+- [meefs/jobassist](https://github.com/meefs/jobassist): Application with Database to help you manage your job search
 - [meefs/large_concept_model](https://github.com/meefs/large_concept_model): Large Concept Models: Language modeling in a sentence representation space
 - [meefs/lenu](https://github.com/meefs/lenu): Legal Entity Name Understanding
 - [meefs/linkml-project-copier](https://github.com/meefs/linkml-project-copier): A copier template for your next LinkML project
@@ -397,6 +398,7 @@
 - [meefs/theHarvester](https://github.com/meefs/theHarvester): E-mails, subdomains and names Harvester - OSINT 
 - [meefs/theZoo](https://github.com/meefs/theZoo): A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
 - [meefs/thinkchain](https://github.com/meefs/thinkchain): 🧠 Advanced Claude streaming interface with interleaved thinking, dynamic tool discovery, and MCP integration. Watch Claude think through problems in real-time while executing tools with live progress updates.
+- [meefs/timesfm](https://github.com/meefs/timesfm): TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
 - [meefs/tinygrad](https://github.com/meefs/tinygrad): You like pytorch? You like micrograd? You love tinygrad! ❤️ 
 - [meefs/tplmap](https://github.com/meefs/tplmap): Server-Side Template Injection and Code Injection Detection and Exploitation Tool
 - [meefs/trailofbits-skills](https://github.com/meefs/trailofbits-skills): Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
@@ -525,6 +527,7 @@
 - [meefs/gemini-cli](https://github.com/meefs/gemini-cli): An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [meefs/geolocation-hello-world](https://github.com/meefs/geolocation-hello-world): No description
 - [meefs/gitcoin_co_30](https://github.com/meefs/gitcoin_co_30): No description
+- [meefs/gorest-2d-animation-spritesheet-generator](https://github.com/meefs/gorest-2d-animation-spritesheet-generator): Codex-assisted local 2D animation spritesheet generator and scene compositing workspace.
 - [meefs/humanlayer](https://github.com/meefs/humanlayer): HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more.  Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling
 - [meefs/hyperframes](https://github.com/meefs/hyperframes): Write HTML. Render video. Built for agents.
 - [meefs/jitsi-meet](https://github.com/meefs/jitsi-meet): Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
