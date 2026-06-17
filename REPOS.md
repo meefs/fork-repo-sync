@@ -672,5 +672,8 @@
 ## Zeek
 - [meefs/zeek-docs](https://github.com/meefs/zeek-docs): Documentation for Zeek
 
+## Zig
+- [meefs/zig-time-sharing-kernel](https://github.com/meefs/zig-time-sharing-kernel): Minimal implementation of a time-sharing kernel on RISC-V, implemented in Zig, on top of OpenSBI
+
 ## block
 - [meefs/rust-stealer](https://github.com/meefs/rust-stealer): Simple Rust Stealer
