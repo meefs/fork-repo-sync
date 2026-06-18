@@ -162,6 +162,7 @@
 - [meefs/skills-getting-started-with-github-copilot](https://github.com/meefs/skills-getting-started-with-github-copilot): Exercise: Get started using GitHub Copilot
 - [meefs/splat](https://github.com/meefs/splat): WebGL 3D Gaussian Splat Viewer
 - [meefs/stemdeck](https://github.com/meefs/stemdeck): Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface
+- [meefs/tactile-js](https://github.com/meefs/tactile-js): A Javascript library for representing, manipulating, and drawing periodic tilings of the plane.
 - [meefs/telegram-inline-calendar](https://github.com/meefs/telegram-inline-calendar): Date and time picker and Inline calendar for Node.js telegram bots
 - [meefs/three.js](https://github.com/meefs/three.js): JavaScript 3D Library.
 - [meefs/tonedesigner-app](https://github.com/meefs/tonedesigner-app): tone.js synth
@@ -450,6 +451,7 @@
 - [meefs/sendme](https://github.com/meefs/sendme): A tool to send files and directories, based on iroh
 - [meefs/solana-stream](https://github.com/meefs/solana-stream): Solana Stream SDK
 - [meefs/steel](https://github.com/meefs/steel): Solana smart contract framework.
+- [meefs/tactile-rs](https://github.com/meefs/tactile-rs): Library for representing, manipulating, and drawing isohedral tilings
 - [meefs/thorium](https://github.com/meefs/thorium): A scalable file analysis and data generation platform that allows users to easily orchestrate arbitrary docker/vm/shell tools at scale.
 - [meefs/world-id-protocol](https://github.com/meefs/world-id-protocol): Main components and documentation for the World ID Protocol.
 - [meefs/wreq](https://github.com/meefs/wreq): An ergonomic Rust HTTP Client with TLS fingerprint
