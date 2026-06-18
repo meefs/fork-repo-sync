@@ -128,6 +128,7 @@
 - [meefs/m3u-audiobooks](https://github.com/meefs/m3u-audiobooks): collection of 100k+ audio books, radio porgrams, music etc from archive.org in a easy to listen m3u playlist format
 - [meefs/meta-prompt](https://github.com/meefs/meta-prompt): For LLMs to better code with Jina API
 - [meefs/promptlikeanegyptian](https://github.com/meefs/promptlikeanegyptian): prompt like an egyptiaaaaannnnn
+- [meefs/terminals](https://github.com/meefs/terminals): Research done by Claude on modern TUI's
 - [meefs/tessellations](https://github.com/meefs/tessellations): Interactive SVGs
 
 ## JavaScript
@@ -216,6 +217,7 @@
 - [meefs/prompt-eng-interactive-tutorial](https://github.com/meefs/prompt-eng-interactive-tutorial): Anthropic's Interactive Prompt Engineering Tutorial
 - [meefs/prompt-to-prompt](https://github.com/meefs/prompt-to-prompt): No description
 - [meefs/psgan](https://github.com/meefs/psgan): Periodic Spatial Generative Adversarial Networks 
+- [meefs/research](https://github.com/meefs/research): Research notes
 - [meefs/segment-anything-2](https://github.com/meefs/segment-anything-2): The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [meefs/stable-diffusion-webui-colab](https://github.com/meefs/stable-diffusion-webui-colab): Stable Difffusion webui Google Colab Notebooks
 
@@ -390,6 +392,7 @@
 - [meefs/skypilot](https://github.com/meefs/skypilot): SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
 - [meefs/slither](https://github.com/meefs/slither): Static Analyzer for Solidity
 - [meefs/sparc](https://github.com/meefs/sparc): No description
+- [meefs/speech-analyser](https://github.com/meefs/speech-analyser): An interactive Streamlit app that analyses your recorded or uploaded speech for vocal fluency, filler words, long pauses, and acoustic clarity — using Montreal Forced Aligner, Praat-Parselmouth, and custom heuristics.
 - [meefs/splunk-dnstwist-cmd](https://github.com/meefs/splunk-dnstwist-cmd): Splunk add-on providing a custom command to generate lookalike domain permutations
 - [meefs/stable-audio-3](https://github.com/meefs/stable-audio-3): No description
 - [meefs/stable-diffusion-webui](https://github.com/meefs/stable-diffusion-webui): Stable Diffusion web UI
@@ -450,6 +453,7 @@
 - [meefs/rvm](https://github.com/meefs/rvm): RVM — The Virtual Machine Built for the Agentic Age, in Rust.
 - [meefs/sendme](https://github.com/meefs/sendme): A tool to send files and directories, based on iroh
 - [meefs/solana-stream](https://github.com/meefs/solana-stream): Solana Stream SDK
+- [meefs/starship](https://github.com/meefs/starship): ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [meefs/steel](https://github.com/meefs/steel): Solana smart contract framework.
 - [meefs/tactile-rs](https://github.com/meefs/tactile-rs): Library for representing, manipulating, and drawing isohedral tilings
 - [meefs/thorium](https://github.com/meefs/thorium): A scalable file analysis and data generation platform that allows users to easily orchestrate arbitrary docker/vm/shell tools at scale.
