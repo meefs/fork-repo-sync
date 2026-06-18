@@ -128,6 +128,7 @@
 - [meefs/m3u-audiobooks](https://github.com/meefs/m3u-audiobooks): collection of 100k+ audio books, radio porgrams, music etc from archive.org in a easy to listen m3u playlist format
 - [meefs/meta-prompt](https://github.com/meefs/meta-prompt): For LLMs to better code with Jina API
 - [meefs/promptlikeanegyptian](https://github.com/meefs/promptlikeanegyptian): prompt like an egyptiaaaaannnnn
+- [meefs/tessellations](https://github.com/meefs/tessellations): Interactive SVGs
 
 ## JavaScript
 - [meefs/Code-Package-p5.js](https://github.com/meefs/Code-Package-p5.js): Code package of the book: Generative Design – Creative Coding for the Web with JavaScript in p5.js
