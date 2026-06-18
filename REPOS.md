@@ -486,6 +486,7 @@
 - [meefs/alt-tab-macos](https://github.com/meefs/alt-tab-macos): Windows alt-tab on macOS 
 - [meefs/bitchat](https://github.com/meefs/bitchat): bluetooth mesh chat, IRC vibes
 - [meefs/container](https://github.com/meefs/container): A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon. 
+- [meefs/palmier-pro](https://github.com/meefs/palmier-pro): macOS video editor built for AI
 - [meefs/sam2-studio](https://github.com/meefs/sam2-studio): No description
 
 ## Text
@@ -561,6 +562,7 @@
 - [meefs/shannon](https://github.com/meefs/shannon): Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 - [meefs/solana-app-kit](https://github.com/meefs/solana-app-kit): build solana apps under 15 mins
 - [meefs/solana-web3.js](https://github.com/meefs/solana-web3.js): Solana JavaScript SDK
+- [meefs/spectrum-ts](https://github.com/meefs/spectrum-ts): Bring agents to any interfaces
 - [meefs/stack-chan](https://github.com/meefs/stack-chan): A JavaScript-driven M5Stack-embedded super-kawaii robot.
 - [meefs/stratos](https://github.com/meefs/stratos): Stratos: Web-based Management UI for Cloud Foundry and Kubernetes
 - [meefs/symm](https://github.com/meefs/symm): No description
