@@ -250,6 +250,7 @@
 - [meefs/APT_REPORT](https://github.com/meefs/APT_REPORT): Interesting APT Report Collection And Some Special IOCs
 - [meefs/ATLAS](https://github.com/meefs/ATLAS): Adaptive Test-time Learning and Autonomous Specialization
 - [meefs/AbletonOSC](https://github.com/meefs/AbletonOSC): Control Ableton Live via Open Sound Control (OSC)
+- [meefs/Agent-Reach](https://github.com/meefs/Agent-Reach): Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [meefs/Awesome-LLMs-for-Vulnerability-Detection](https://github.com/meefs/Awesome-LLMs-for-Vulnerability-Detection): Awesome Large Language Models for Vulnerability Detection
 - [meefs/BioFoundation](https://github.com/meefs/BioFoundation): No description
 - [meefs/BirdNET-Analyzer](https://github.com/meefs/BirdNET-Analyzer): BirdNET analyzer for scientific audio data processing.
@@ -275,6 +276,7 @@
 - [meefs/MMAudio](https://github.com/meefs/MMAudio): [arXiv 2024] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
 - [meefs/MiniMax-01](https://github.com/meefs/MiniMax-01): No description
 - [meefs/MiroFish](https://github.com/meefs/MiroFish): A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+- [meefs/MoneyPrinterTurbo](https://github.com/meefs/MoneyPrinterTurbo): 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [meefs/Mulberry](https://github.com/meefs/Mulberry): Mulberry, an o1-like Reasoning and Reflection MLLM Implemented via Collective MCTS
 - [meefs/MultiDocumentAnswering](https://github.com/meefs/MultiDocumentAnswering): Experiment to answer questions from arbitrary number of sources
 - [meefs/NeMo](https://github.com/meefs/NeMo): NeMo: a toolkit for conversational AI
@@ -495,6 +497,9 @@
 - [meefs/container](https://github.com/meefs/container): A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon. 
 - [meefs/palmier-pro](https://github.com/meefs/palmier-pro): macOS video editor built for AI
 - [meefs/sam2-studio](https://github.com/meefs/sam2-studio): No description
+
+## TeX
+- [meefs/rocq-piler](https://github.com/meefs/rocq-piler): MCP server for Coq LSP
 
 ## Text
 - [meefs/dns-blocklists](https://github.com/meefs/dns-blocklists): DNS-Blocklists: For a better internet - keep the internet clean!
