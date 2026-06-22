@@ -157,6 +157,7 @@
 - [meefs/hex.dance](https://github.com/meefs/hex.dance): simple client-side in-browser binary analysis and hex dump
 - [meefs/iframely](https://github.com/meefs/iframely): oEmbed proxy. Supports over 1800 domains via custom parsers, oEmbed, Twitter Cards and Open Graph
 - [meefs/jxl-art](https://github.com/meefs/jxl-art): Web app to make art using JPEG XL.
+- [meefs/loop-engineer-template](https://github.com/meefs/loop-engineer-template): Join the best AI Builder Community
 - [meefs/node-hls-downloader-tubitv](https://github.com/meefs/node-hls-downloader-tubitv): Command-line utility for downloading an offline copy of TubiTV HLS video streams.
 - [meefs/portal-network-specs](https://github.com/meefs/portal-network-specs): Official repository for specifications for the Portal Network
 - [meefs/simple-icons](https://github.com/meefs/simple-icons): SVG icons for popular brands
