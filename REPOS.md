@@ -245,6 +245,9 @@
 - [meefs/SecLists](https://github.com/meefs/SecLists): SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 - [meefs/kanboard](https://github.com/meefs/kanboard): Kanban project management software
 
+## PowerShell
+- [meefs/reverse-skill](https://github.com/meefs/reverse-skill): Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+
 ## Python
 - [meefs/ACE-Step](https://github.com/meefs/ACE-Step): ACE-Step: A Step Towards Music Generation Foundation Model
 - [meefs/AMT](https://github.com/meefs/AMT): Official code for "AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation" (CVPR2023)
@@ -355,6 +358,7 @@
 - [meefs/harlequin](https://github.com/meefs/harlequin): The SQL IDE for Your Terminal.
 - [meefs/hermes-agent](https://github.com/meefs/hermes-agent): The agent that grows with you
 - [meefs/iGAN](https://github.com/meefs/iGAN): Interactive Image Generation via Generative Adversarial Networks
+- [meefs/ieml](https://github.com/meefs/ieml): IEML semantic language - a meaning-representation system based on semantic primitives and a regular grammar. Basic semantic relationships between concepts are automatically computed from syntactic similarities.
 - [meefs/innertube](https://github.com/meefs/innertube): Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more!
 - [meefs/jepa](https://github.com/meefs/jepa): PyTorch code and models for V-JEPA self-supervised learning from video.
 - [meefs/jobassist](https://github.com/meefs/jobassist): Application with Database to help you manage your job search
@@ -384,6 +388,7 @@
 - [meefs/pocket-pick](https://github.com/meefs/pocket-pick): What if the exact code snippet or idea you were looking for was one prompt away?
 - [meefs/polymarket-mcp-server](https://github.com/meefs/polymarket-mcp-server): 🤖 AI-Powered MCP Server for Polymarket - Enable Claude to trade prediction markets with 45 tools, real-time monitoring, and enterprise-grade safety features
 - [meefs/practical-inverse-rendering-of-textured-and-translucent-appearance](https://github.com/meefs/practical-inverse-rendering-of-textured-and-translucent-appearance): SIGGRAPH 2025 "Practical Inverse Rendering Of Textured And Translucent Appearance"
+- [meefs/prompt-injection-as-role-confusion](https://github.com/meefs/prompt-injection-as-role-confusion): Prompt Injection as Role Confusion
 - [meefs/psalm-alignment](https://github.com/meefs/psalm-alignment): Does injecting biblical Psalms into an LLM's system prompt measurably affect ethical alignment? An empirical experiment using the Hendrycks ETHICS benchmark on Claude Sonnet 4 and GPT-4o.
 - [meefs/public-apis](https://github.com/meefs/public-apis): A collective list of free APIs
 - [meefs/raptor](https://github.com/meefs/raptor): Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations.
@@ -694,6 +699,3 @@
 
 ## block
 - [meefs/rust-stealer](https://github.com/meefs/rust-stealer): Simple Rust Stealer
-
-## documentation_url
-- [meefs/ieml](https://github.com/meefs/ieml): IEML semantic language - a meaning-representation system based on semantic primitives and a regular grammar. Basic semantic relationships between concepts are automatically computed from syntactic similarities.
