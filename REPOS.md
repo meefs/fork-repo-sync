@@ -516,6 +516,7 @@
 - [meefs/SnitchBench](https://github.com/meefs/SnitchBench): No description
 - [meefs/TypeChain](https://github.com/meefs/TypeChain): 🔌 TypeScript bindings for Ethereum smart contracts
 - [meefs/a2a-js](https://github.com/meefs/a2a-js): Official JavaScript SDK for the Agent2Agent (A2A) Protocol
+- [meefs/agent-native](https://github.com/meefs/agent-native): A framework for building agent-native applications.
 - [meefs/agents-starter](https://github.com/meefs/agents-starter): A starter kit for building ai agents on Cloudflare
 - [meefs/ai-agent-cognitivedriftt](https://github.com/meefs/ai-agent-cognitivedriftt): Cognitive Drift AI Agent
 - [meefs/ai-brainstore](https://github.com/meefs/ai-brainstore): A proof-of-concept of a brain for an AI agent.
