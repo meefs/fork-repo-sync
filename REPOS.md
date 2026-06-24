@@ -15,6 +15,7 @@
 - [meefs/FinceptTerminal](https://github.com/meefs/FinceptTerminal): FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
 - [meefs/GhostStrike](https://github.com/meefs/GhostStrike): Deploy stealthy reverse shells using advanced process hollowing with GhostStrike – a C++ tool for ethical hacking and Red Team operations.
 - [meefs/LeftoverLocalsRelease](https://github.com/meefs/LeftoverLocalsRelease): The public release of LeftoverLocals code
+- [meefs/LichtFeld-Studio](https://github.com/meefs/LichtFeld-Studio): Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.
 - [meefs/LiteRT-LM](https://github.com/meefs/LiteRT-LM): No description
 - [meefs/MIDIsprout](https://github.com/meefs/MIDIsprout): MIDI Sprout is a Biodata Sonification system, capable of reading microfluctuations in conductivity across the surface of a plant's leaf and translating those changes into MIDI notes.
 - [meefs/OperatorGraph](https://github.com/meefs/OperatorGraph): Shape grammar base system and auto-tuner based on the operator graph idea
@@ -153,6 +154,7 @@
 - [meefs/get-shit-done](https://github.com/meefs/get-shit-done): A light-weight but powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [meefs/go-compression.github.io](https://github.com/meefs/go-compression.github.io): The Hitchhiker's Guide to Compression
 - [meefs/helloworlds](https://github.com/meefs/helloworlds): first attempt at git
+- [meefs/hermes-browser-extension](https://github.com/meefs/hermes-browser-extension): Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.
 - [meefs/hermes-workspace](https://github.com/meefs/hermes-workspace): Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector. Built for the Nous Research hackathon.
 - [meefs/hex.dance](https://github.com/meefs/hex.dance): simple client-side in-browser binary analysis and hex dump
 - [meefs/iframely](https://github.com/meefs/iframely): oEmbed proxy. Supports over 1800 domains via custom parsers, oEmbed, Twitter Cards and Open Graph
@@ -275,6 +277,7 @@
 - [meefs/HiringAlgorithms](https://github.com/meefs/HiringAlgorithms): Codebase for Algorithmic Monocultures in Hiring (Bommasani, Bana, Creel et al., FAccT 2026)
 - [meefs/Hunyuan3D-2.1](https://github.com/meefs/Hunyuan3D-2.1): From Images to High-Fidelity 3D Assets with Production-Ready PBR Material
 - [meefs/ImageBind](https://github.com/meefs/ImageBind): ImageBind One Embedding Space to Bind Them All
+- [meefs/IsaacLab](https://github.com/meefs/IsaacLab): Unified framework for robot learning built on NVIDIA Isaac Sim
 - [meefs/LLMs4OL](https://github.com/meefs/LLMs4OL): LLMs4OL:‌ Large Language Models for Ontology Learning
 - [meefs/Lens](https://github.com/meefs/Lens): Lens is a 3.8B-parameter text-to-image diffusion model that achieves quality competitive with and in several cases surpassing models like FLUX and SD3, while requiring significantly less training compute. Key ideas include maximizing data information density per batch and accelerating convergence. 
 - [meefs/MMAudio](https://github.com/meefs/MMAudio): [arXiv 2024] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
@@ -355,6 +358,7 @@
 - [meefs/ghosttype](https://github.com/meefs/ghosttype): Local forensic scanner that extracts credentials from AI tool conversation history. For authorized red team and DLP use only.
 - [meefs/git-fix-finder](https://github.com/meefs/git-fix-finder): No description
 - [meefs/gitingest](https://github.com/meefs/gitingest): Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
+- [meefs/gsplat](https://github.com/meefs/gsplat): CUDA accelerated rasterization of gaussian splatting
 - [meefs/harlequin](https://github.com/meefs/harlequin): The SQL IDE for Your Terminal.
 - [meefs/hermes-agent](https://github.com/meefs/hermes-agent): The agent that grows with you
 - [meefs/iGAN](https://github.com/meefs/iGAN): Interactive Image Generation via Generative Adversarial Networks
@@ -387,6 +391,7 @@
 - [meefs/playscii](https://github.com/meefs/playscii): Fork of playscii
 - [meefs/pocket-pick](https://github.com/meefs/pocket-pick): What if the exact code snippet or idea you were looking for was one prompt away?
 - [meefs/polymarket-mcp-server](https://github.com/meefs/polymarket-mcp-server): 🤖 AI-Powered MCP Server for Polymarket - Enable Claude to trade prediction markets with 45 tools, real-time monitoring, and enterprise-grade safety features
+- [meefs/ppisp](https://github.com/meefs/ppisp): Physically-Plausible Image Signal Processing (PPISP) for Radiance Field Reconstruction
 - [meefs/practical-inverse-rendering-of-textured-and-translucent-appearance](https://github.com/meefs/practical-inverse-rendering-of-textured-and-translucent-appearance): SIGGRAPH 2025 "Practical Inverse Rendering Of Textured And Translucent Appearance"
 - [meefs/prompt-injection-as-role-confusion](https://github.com/meefs/prompt-injection-as-role-confusion): Prompt Injection as Role Confusion
 - [meefs/psalm-alignment](https://github.com/meefs/psalm-alignment): Does injecting biblical Psalms into an LLM's system prompt measurably affect ethical alignment? An empirical experiment using the Hendrycks ETHICS benchmark on Claude Sonnet 4 and GPT-4o.
@@ -442,6 +447,7 @@
 - [meefs/ZeroOS](https://github.com/meefs/ZeroOS): ZeroOS: A Universal Modular Library OS for zkVMs
 - [meefs/baml](https://github.com/meefs/baml): The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [meefs/bitcoinphone](https://github.com/meefs/bitcoinphone): Voice over the BitcoinSV protocol (made for CoinGeek 2021)
+- [meefs/brush](https://github.com/meefs/brush): 3D Reconstruction for all
 - [meefs/c2c2pa](https://github.com/meefs/c2c2pa): Shows how to call the c2pa-rs sdk from an application written in C
 - [meefs/cuda-oxide](https://github.com/meefs/cuda-oxide): cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.
 - [meefs/diamond-io](https://github.com/meefs/diamond-io): Diamond iO implementation https://eprint.iacr.org/2025/236
