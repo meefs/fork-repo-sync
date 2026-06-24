@@ -268,6 +268,7 @@
 - [meefs/CodeFormer](https://github.com/meefs/CodeFormer): [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 - [meefs/ComfyUI-PhotoMaker-Plus](https://github.com/meefs/ComfyUI-PhotoMaker-Plus): PhotoMaker for ComfyUI
 - [meefs/DEMON](https://github.com/meefs/DEMON): DEMON: Diffusion Engine for Musical Orchestrated Noise
+- [meefs/Deep-Live-Cam](https://github.com/meefs/Deep-Live-Cam): real time face swap and one-click video deepfake with only a single image
 - [meefs/DeepCAD](https://github.com/meefs/DeepCAD): code for our ICCV 2021 paper "DeepCAD: A Deep Generative Network for Computer-Aided Design Models"
 - [meefs/DeepSpeed](https://github.com/meefs/DeepSpeed): DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [meefs/Eagle](https://github.com/meefs/Eagle): Eagle: Frontier Vision-Language Models with Data-Centric Strategies
