@@ -552,6 +552,7 @@
 - [meefs/evm-mirror](https://github.com/meefs/evm-mirror): No description
 - [meefs/fable5-world-demo](https://github.com/meefs/fable5-world-demo): 3D world built by Claude Fable 5 to test its capabilities using three.js
 - [meefs/federal-website-index](https://github.com/meefs/federal-website-index): A project to build and maintain a comprehensive listing of the public websites of the U.S. federal government.
+- [meefs/flounder](https://github.com/meefs/flounder): Autonomous white-hat security auditor
 - [meefs/freellmapi](https://github.com/meefs/freellmapi): OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 - [meefs/fretboard.js](https://github.com/meefs/fretboard.js): Fretboard diagram generator
 - [meefs/gemini-cli](https://github.com/meefs/gemini-cli): An open-source AI agent that brings the power of Gemini directly into your terminal.
