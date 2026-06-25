@@ -130,6 +130,7 @@
 - [meefs/m3u-audiobooks](https://github.com/meefs/m3u-audiobooks): collection of 100k+ audio books, radio porgrams, music etc from archive.org in a easy to listen m3u playlist format
 - [meefs/meta-prompt](https://github.com/meefs/meta-prompt): For LLMs to better code with Jina API
 - [meefs/promptlikeanegyptian](https://github.com/meefs/promptlikeanegyptian): prompt like an egyptiaaaaannnnn
+- [meefs/superdesign-site](https://github.com/meefs/superdesign-site): Superdesign — AI design agent for founders building AI products (landing page)
 - [meefs/terminals](https://github.com/meefs/terminals): Research done by Claude on modern TUI's
 - [meefs/tessellations](https://github.com/meefs/tessellations): Interactive SVGs
 
@@ -161,6 +162,7 @@
 - [meefs/iframely](https://github.com/meefs/iframely): oEmbed proxy. Supports over 1800 domains via custom parsers, oEmbed, Twitter Cards and Open Graph
 - [meefs/jxl-art](https://github.com/meefs/jxl-art): Web app to make art using JPEG XL.
 - [meefs/loop-engineer-template](https://github.com/meefs/loop-engineer-template): Join the best AI Builder Community
+- [meefs/minimaps](https://github.com/meefs/minimaps): Create 3D minimap pucks of areas up to 30km wide from the world map 
 - [meefs/node-hls-downloader-tubitv](https://github.com/meefs/node-hls-downloader-tubitv): Command-line utility for downloading an offline copy of TubiTV HLS video streams.
 - [meefs/portal-network-specs](https://github.com/meefs/portal-network-specs): Official repository for specifications for the Portal Network
 - [meefs/simple-icons](https://github.com/meefs/simple-icons): SVG icons for popular brands
@@ -353,6 +355,7 @@
 - [meefs/dstack](https://github.com/meefs/dstack): dstack is a lightweight, open-source alternative to Kubernetes & Slurm, simplifying AI container orchestration with multi-cloud & on-prem support. It natively supports NVIDIA, AMD, & TPU.
 - [meefs/entseeker](https://github.com/meefs/entseeker): entseeker is a command-line tool for Named Entity Recognition (NER) and web entity searches in text files. It uses spaCy's NLP capabilities for standard named entities and custom rules for web-related entities.
 - [meefs/exo](https://github.com/meefs/exo): Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- [meefs/fractal](https://github.com/meefs/fractal): the recursive language model (RLM) CLI agent
 - [meefs/frame-interpolation](https://github.com/meefs/frame-interpolation): FILM: Frame Interpolation for Large Motion, In arXiv 2022.
 - [meefs/free-llm-api-keys](https://github.com/meefs/free-llm-api-keys): Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card needed.
 - [meefs/freqtrade](https://github.com/meefs/freqtrade): Free, open source crypto trading bot
@@ -656,6 +659,7 @@
 - [meefs/claude-code-ios-dev-guide](https://github.com/meefs/claude-code-ios-dev-guide): A comprehensive guide for setting up Claude Code CLI with PRD-driven workflows, extended thinking (ultrathink), and planning modes optimized for Swift/SwiftUI iOS development.
 - [meefs/claude-deep-research](https://github.com/meefs/claude-deep-research): Claude Deep Research config for Claude Code.
 - [meefs/code-my-crown](https://github.com/meefs/code-my-crown): No description
+- [meefs/developer-docs-framework](https://github.com/meefs/developer-docs-framework): AI agent skill for technical docs — Diataxis + 27 rules, 6 style guides (Google, Good Docs). Works with Claude Code, Cursor, Codex, Windsurf.
 - [meefs/ephemeris](https://github.com/meefs/ephemeris): A personal ephemeris
 - [meefs/episode-transcripts](https://github.com/meefs/episode-transcripts): No description
 - [meefs/ethereumbook](https://github.com/meefs/ethereumbook): Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
