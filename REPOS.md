@@ -107,6 +107,7 @@
 - [meefs/evilginx2](https://github.com/meefs/evilginx2): Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [meefs/glance](https://github.com/meefs/glance): A self-hosted dashboard that puts all your feeds in one place
 - [meefs/goat](https://github.com/meefs/goat): Render ASCII art as SVG diagrams
+- [meefs/how-to-build-a-coding-agent](https://github.com/meefs/how-to-build-a-coding-agent): A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
 - [meefs/image-spec](https://github.com/meefs/image-spec): OCI Image Format
 - [meefs/meemaw](https://github.com/meefs/meemaw): Trustless and Grandma-friendly Wallet as a Service
 - [meefs/nightshift](https://github.com/meefs/nightshift): Nightshift uses your leftover Claude / Codex budget to surprise you with useful PRs. Love them or leave them.
@@ -487,6 +488,7 @@
 - [meefs/Claude-Command-Suite](https://github.com/meefs/Claude-Command-Suite): Professional slash commands for Claude Code that provide   structured workflows for software development tasks including   code review, feature creation, security auditing, and   architectural analysis.
 - [meefs/cc-trace](https://github.com/meefs/cc-trace): Claude Code CLI skill: Interactive assistant for intercepting, debugging, analyzing and reviewing Claude Code API requests using mitmproxy
 - [meefs/claude-sparc](https://github.com/meefs/claude-sparc): No description
+- [meefs/codebase-harness](https://github.com/meefs/codebase-harness): No description
 - [meefs/dotgov-data](https://github.com/meefs/dotgov-data): Official list of .gov domains
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
 - [meefs/iTerm2-Color-Schemes](https://github.com/meefs/iTerm2-Color-Schemes): Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
@@ -631,6 +633,7 @@
 - [meefs/SuperPrompt](https://github.com/meefs/SuperPrompt): No description
 - [meefs/TouchOSC](https://github.com/meefs/TouchOSC): A collection of examples and modules for TouchOSC MK2
 - [meefs/advisory-database](https://github.com/meefs/advisory-database): Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
+- [meefs/agent.md](https://github.com/meefs/agent.md): This repository defines AGENT.md, a standardized format that lets your codebase speak directly to any agentic coding tool.
 - [meefs/algorithms](https://github.com/meefs/algorithms): Bug-tracking for Jeff's algorithms book, notes, etc.
 - [meefs/arc_pi_taxonomy](https://github.com/meefs/arc_pi_taxonomy): The Arcanum Prompt Injection Taxonomy
 - [meefs/as-ip-blocks](https://github.com/meefs/as-ip-blocks): Download IP block lists by ASN - network provider addresses, updated daily
