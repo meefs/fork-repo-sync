@@ -453,6 +453,7 @@
 
 ## Rust
 - [meefs/Graphite](https://github.com/meefs/Graphite): Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+- [meefs/Insert](https://github.com/meefs/Insert): Insert is a programming language for self-modifying code.
 - [meefs/RuView](https://github.com/meefs/RuView): π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
 - [meefs/ZeroOS](https://github.com/meefs/ZeroOS): ZeroOS: A Universal Modular Library OS for zkVMs
 - [meefs/baml](https://github.com/meefs/baml): The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
@@ -521,6 +522,7 @@
 - [meefs/alt-tab-macos](https://github.com/meefs/alt-tab-macos): Windows alt-tab on macOS 
 - [meefs/bitchat](https://github.com/meefs/bitchat): bluetooth mesh chat, IRC vibes
 - [meefs/container](https://github.com/meefs/container): A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon. 
+- [meefs/luma](https://github.com/meefs/luma): No description
 - [meefs/palmier-pro](https://github.com/meefs/palmier-pro): macOS video editor built for AI
 - [meefs/sam2-studio](https://github.com/meefs/sam2-studio): No description
 
