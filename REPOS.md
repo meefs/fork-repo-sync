@@ -196,6 +196,7 @@
 - [meefs/2024-openai-gpt-hiring-racial-discrimination](https://github.com/meefs/2024-openai-gpt-hiring-racial-discrimination): Data and materials to reproduce Bloomberg's investigation into racial and gender bias in OpenAI's GPT
 - [meefs/ARF-svox2](https://github.com/meefs/ARF-svox2): Artistic Radiance Fields (Colab)
 - [meefs/Data-Science-and-ML](https://github.com/meefs/Data-Science-and-ML): No description
+- [meefs/EigenSpider](https://github.com/meefs/EigenSpider): EigenSpider is a web crawler that is able to visit web pages and rank them based on their importance. This is an attempt in implementing a minimal version of Google's PageRank algorithm, atleast the initial version.
 - [meefs/FrontRunMe](https://github.com/meefs/FrontRunMe): No description
 - [meefs/HunyuanDiT](https://github.com/meefs/HunyuanDiT): Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding
 - [meefs/IllusionDiffusion-colab](https://github.com/meefs/IllusionDiffusion-colab): No description
@@ -379,6 +380,7 @@
 - [meefs/large_concept_model](https://github.com/meefs/large_concept_model): Large Concept Models: Language modeling in a sentence representation space
 - [meefs/lenu](https://github.com/meefs/lenu): Legal Entity Name Understanding
 - [meefs/linkml-project-copier](https://github.com/meefs/linkml-project-copier): A copier template for your next LinkML project
+- [meefs/live-music-diffusion-models](https://github.com/meefs/live-music-diffusion-models): No description
 - [meefs/llama-stack](https://github.com/meefs/llama-stack): Model components of the Llama Stack APIs
 - [meefs/llm-attacks](https://github.com/meefs/llm-attacks): Universal and Transferable Attacks on Aligned Language Models
 - [meefs/llm-engine](https://github.com/meefs/llm-engine): Scale LLM Engine public repository
