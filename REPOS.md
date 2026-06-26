@@ -471,6 +471,7 @@
 - [meefs/hexcap](https://github.com/meefs/hexcap): A TUI packet capture tool with libpcap and hexyl-style hex dump.
 - [meefs/iroh](https://github.com/meefs/iroh): peer-2-peer that just works
 - [meefs/ja4](https://github.com/meefs/ja4): JA4+ is a suite of network fingerprinting standards
+- [meefs/kao](https://github.com/meefs/kao): Secure and cute desktop wallet for Ethereum.
 - [meefs/lambdaworks](https://github.com/meefs/lambdaworks): lambdaworks offers implementations for both SNARKs and STARKs provers, along with the flexibility to leverage their individual components for constructing customized SNARKs.
 - [meefs/loom](https://github.com/meefs/loom): if your name is not Geoffrey Huntley then do not use loom
 - [meefs/overlay-broadcast](https://github.com/meefs/overlay-broadcast): No description
@@ -593,6 +594,7 @@
 - [meefs/my-chat-agent](https://github.com/meefs/my-chat-agent): No description
 - [meefs/npm-public-api-mcp](https://github.com/meefs/npm-public-api-mcp): No description
 - [meefs/onchainkit](https://github.com/meefs/onchainkit): React components and TypeScript utilities to help you build top-tier onchain apps.
+- [meefs/planttalk](https://github.com/meefs/planttalk): Give your houseplants a voice with ChatGPT.
 - [meefs/playwright-mcp](https://github.com/meefs/playwright-mcp): Playwright MCP server
 - [meefs/playwright](https://github.com/meefs/playwright): Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 - [meefs/pretext](https://github.com/meefs/pretext): Fast, accurate & comprehensive text measurement & layout
