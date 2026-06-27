@@ -3,6 +3,9 @@
 - [meefs/MS-DOS](https://github.com/meefs/MS-DOS): The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [meefs/gb-asm-tutorial](https://github.com/meefs/gb-asm-tutorial): Learn to create games for the Game Boy using Assembly
 
+## Astro
+- [meefs/agentic-workflows-that-read-the-room](https://github.com/meefs/agentic-workflows-that-read-the-room): This is a GitHub Skills exercise on how to get started with Agentic Workflows where we will create simple use case to show the power of an Agentic Workflow
+
 ## C#
 - [meefs/Bash-Wizard](https://github.com/meefs/Bash-Wizard): a bash script generator
 - [meefs/EKFiddle](https://github.com/meefs/EKFiddle): Your Swiss Army knife to analyze malicious web traffic based on the popular Fiddler web debugger.
@@ -249,6 +252,7 @@
 ## Objective-C
 - [meefs/ANE](https://github.com/meefs/ANE): Training neural networks on Apple Neural Engine via reverse-engineered private APIs
 - [meefs/Kronos](https://github.com/meefs/Kronos): No description
+- [meefs/write-ups](https://github.com/meefs/write-ups): No description
 
 ## PHP
 - [meefs/DVWA](https://github.com/meefs/DVWA): Damn Vulnerable Web Application (DVWA)
