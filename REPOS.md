@@ -328,6 +328,7 @@
 - [meefs/TradingAgents](https://github.com/meefs/TradingAgents): TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [meefs/TripoSplat](https://github.com/meefs/TripoSplat): TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.
 - [meefs/UniversalBackrooms](https://github.com/meefs/UniversalBackrooms): A replication of Andy Ayrey's "Backrooms" (https://dreams-of-an-electric-mind.webflow.io/), but runnable with Opus 3, Sonnet 3.5, GPT 4o, and o1-preview 
+- [meefs/Unlimited-OCR](https://github.com/meefs/Unlimited-OCR): Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [meefs/VSP-LLM](https://github.com/meefs/VSP-LLM): No description
 - [meefs/VibeVoice](https://github.com/meefs/VibeVoice): Open-Source Frontier Voice AI
 - [meefs/ag2](https://github.com/meefs/ag2): AG2 (formerly AutoGen) is a programming framework for agentic AI. Join the community at: https://discord.gg/pAbnFJrkgZ
@@ -474,7 +475,6 @@
 - [meefs/gambit](https://github.com/meefs/gambit): Using mutations to improve specs and test suites
 - [meefs/gpu-acceleration](https://github.com/meefs/gpu-acceleration): Explorations on mobile-first GPU acceleration, currently support MSM.
 - [meefs/halo2](https://github.com/meefs/halo2): The Halo2 zero-knowledge proving system
-- [meefs/hash](https://github.com/meefs/hash): 🚀  The open-source, multi-tenant, self-building knowledge graph
 - [meefs/hexcap](https://github.com/meefs/hexcap): A TUI packet capture tool with libpcap and hexyl-style hex dump.
 - [meefs/iroh](https://github.com/meefs/iroh): peer-2-peer that just works
 - [meefs/ja4](https://github.com/meefs/ja4): JA4+ is a suite of network fingerprinting standards
@@ -582,6 +582,7 @@
 - [meefs/gitcoin_co_30](https://github.com/meefs/gitcoin_co_30): No description
 - [meefs/glyphcss](https://github.com/meefs/glyphcss): ASCII polygon mesh renderer for the DOM. Forked from LayoutitStudio/polycss.
 - [meefs/gorest-2d-animation-spritesheet-generator](https://github.com/meefs/gorest-2d-animation-spritesheet-generator): Codex-assisted local 2D animation spritesheet generator and scene compositing workspace.
+- [meefs/hash](https://github.com/meefs/hash): 🚀  The open-source, multi-tenant, self-building knowledge graph
 - [meefs/humanlayer](https://github.com/meefs/humanlayer): HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more.  Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling
 - [meefs/hyperframes](https://github.com/meefs/hyperframes): Write HTML. Render video. Built for agents.
 - [meefs/infinite-canvas](https://github.com/meefs/infinite-canvas): No description
