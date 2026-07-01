@@ -470,6 +470,7 @@
 - [meefs/bitcoinphone](https://github.com/meefs/bitcoinphone): Voice over the BitcoinSV protocol (made for CoinGeek 2021)
 - [meefs/brush](https://github.com/meefs/brush): 3D Reconstruction for all
 - [meefs/c2c2pa](https://github.com/meefs/c2c2pa): Shows how to call the c2pa-rs sdk from an application written in C
+- [meefs/cape](https://github.com/meefs/cape): Configurable Asset Privacy for Ethereum
 - [meefs/cuda-oxide](https://github.com/meefs/cuda-oxide): cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.
 - [meefs/diamond-io](https://github.com/meefs/diamond-io): Diamond iO implementation https://eprint.iacr.org/2025/236
 - [meefs/gambit](https://github.com/meefs/gambit): Using mutations to improve specs and test suites
@@ -495,6 +496,7 @@
 - [meefs/steel](https://github.com/meefs/steel): Solana smart contract framework.
 - [meefs/tactile-rs](https://github.com/meefs/tactile-rs): Library for representing, manipulating, and drawing isohedral tilings
 - [meefs/thorium](https://github.com/meefs/thorium): A scalable file analysis and data generation platform that allows users to easily orchestrate arbitrary docker/vm/shell tools at scale.
+- [meefs/ttl](https://github.com/meefs/ttl): Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr.
 - [meefs/world-id-protocol](https://github.com/meefs/world-id-protocol): Main components and documentation for the World ID Protocol.
 - [meefs/wreq](https://github.com/meefs/wreq): An ergonomic Rust HTTP Client with TLS fingerprint
 - [meefs/zinc-plus](https://github.com/meefs/zinc-plus): Zinc+ is a performance-oriented SNARK framework designed to handle computations across multiple mathematical domains without the "witness inflation" overhead typical of traditional arithmetization.
