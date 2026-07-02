@@ -71,6 +71,7 @@
 - [meefs/KUVA](https://github.com/meefs/KUVA): KUVA: Graphcut textures
 - [meefs/PS5_kldload](https://github.com/meefs/PS5_kldload): A PlayStation 5 Kernel module loader inspired on FreeBSD's "kldload"
 - [meefs/bcc](https://github.com/meefs/bcc): BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
+- [meefs/box3d](https://github.com/meefs/box3d): Box3D is a 3D physics engine for games
 - [meefs/cntools](https://github.com/meefs/cntools): Incomplete-ish C "libraries"
 - [meefs/cve-2024-6387-poc](https://github.com/meefs/cve-2024-6387-poc): a signal handler race condition in OpenSSH's server (sshd)
 - [meefs/httpd](https://github.com/meefs/httpd): Mirror of Apache HTTP Server. Issues: http://issues.apache.org
@@ -450,6 +451,7 @@
 - [meefs/wintermute-hyperliquid-analysis](https://github.com/meefs/wintermute-hyperliquid-analysis): Wintermute Hyperliquid quoting strategy analysis
 - [meefs/wonder](https://github.com/meefs/wonder): metaprogramming for LLMs and other humans
 - [meefs/wordwise](https://github.com/meefs/wordwise): N-gram keyword extraction using spaCy and pretrained language models
+- [meefs/world_engine](https://github.com/meefs/world_engine): World Model Inference Engine
 
 ## Rich Text Format
 - [meefs/ga](https://github.com/meefs/ga): No description
@@ -465,6 +467,7 @@
 - [meefs/Graphite](https://github.com/meefs/Graphite): Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [meefs/Insert](https://github.com/meefs/Insert): Insert is a programming language for self-modifying code.
 - [meefs/RuView](https://github.com/meefs/RuView): π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
+- [meefs/STOK-CORE](https://github.com/meefs/STOK-CORE):  STOK-Core implements State-Time Option Kernels end-to-end: a reinforcement learning   toolkit modeling goal/constraint termination distributions for compositional planning.   It pairs Burn-backed GPU acceleration with Task MDP solvers, Chapman-Kolmogorov   composition, and factorized prediction kernels so hierarchical planners remain   modular.
 - [meefs/ZeroOS](https://github.com/meefs/ZeroOS): ZeroOS: A Universal Modular Library OS for zkVMs
 - [meefs/baml](https://github.com/meefs/baml): The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [meefs/bitcoinphone](https://github.com/meefs/bitcoinphone): Voice over the BitcoinSV protocol (made for CoinGeek 2021)
@@ -645,6 +648,7 @@
 - [meefs/Cosmos](https://github.com/meefs/Cosmos): Cosmos is a world model development platform that consists of world foundation models, tokenizers and video processing pipeline to accelerate the development of Physical AI at Robotics & AV labs.  Cosmos is purpose built for physical AI. The Cosmos repository will enable end users to run the Cosmos models, run inference scripts and generate videos.
 - [meefs/Crypto-OpSec-SelfGuard-RoadMap](https://github.com/meefs/Crypto-OpSec-SelfGuard-RoadMap): Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
 - [meefs/DoesItAgeVerify](https://github.com/meefs/DoesItAgeVerify): The age verification status of Open Source Operating Systems
+- [meefs/EXTERNAL](https://github.com/meefs/EXTERNAL): EXTERNAL-SHOWCASE
 - [meefs/FaceSynthetics](https://github.com/meefs/FaceSynthetics): No description
 - [meefs/GAI-is-going-well](https://github.com/meefs/GAI-is-going-well): This is a  curated collection of articles and  research  papers related to  the unexpected  or unwanted outcomes , security & privacy  risks associated with using LLMs/GAI. 
 - [meefs/HouSecCon](https://github.com/meefs/HouSecCon): a collection of information from HOU.SEC.CON
