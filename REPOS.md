@@ -136,6 +136,7 @@
 - [meefs/m3u-audiobooks](https://github.com/meefs/m3u-audiobooks): collection of 100k+ audio books, radio porgrams, music etc from archive.org in a easy to listen m3u playlist format
 - [meefs/meta-prompt](https://github.com/meefs/meta-prompt): For LLMs to better code with Jina API
 - [meefs/promptlikeanegyptian](https://github.com/meefs/promptlikeanegyptian): prompt like an egyptiaaaaannnnn
+- [meefs/style-skills](https://github.com/meefs/style-skills): A field guide to design languages, plus a copy-paste prompt to turn any of them into a reusable house-style skill for your AI agent.
 - [meefs/superdesign-site](https://github.com/meefs/superdesign-site): Superdesign — AI design agent for founders building AI products (landing page)
 - [meefs/terminals](https://github.com/meefs/terminals): Research done by Claude on modern TUI's
 - [meefs/tessellations](https://github.com/meefs/tessellations): Interactive SVGs
