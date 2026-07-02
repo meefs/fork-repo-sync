@@ -709,6 +709,7 @@
 - [meefs/potential-broccoli](https://github.com/meefs/potential-broccoli): No description
 - [meefs/pravda-network-dissemination-data](https://github.com/meefs/pravda-network-dissemination-data): This repository contains data used for the Pravda Network dissemination investigation. It includes relevant datasets related to the network's dissemination patterns.
 - [meefs/pumpfun-apis](https://github.com/meefs/pumpfun-apis): Entire pumpfun api spec
+- [meefs/recursive-prompting](https://github.com/meefs/recursive-prompting): A structured prompting method that iteratively refines model outputs by feeding them back through targeted re-processing, contradiction testing, and synthesis.
 - [meefs/resolvers](https://github.com/meefs/resolvers): The most exhaustive list of reliable DNS resolvers.
 - [meefs/salmonella](https://github.com/meefs/salmonella): Wrecking sandwich traders for fun and profit
 - [meefs/solidity-gas-optimization](https://github.com/meefs/solidity-gas-optimization): A extensive list of solidity gas optimization tricks
