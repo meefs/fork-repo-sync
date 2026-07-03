@@ -609,6 +609,7 @@
 - [meefs/my-chat-agent](https://github.com/meefs/my-chat-agent): No description
 - [meefs/npm-public-api-mcp](https://github.com/meefs/npm-public-api-mcp): No description
 - [meefs/onchainkit](https://github.com/meefs/onchainkit): React components and TypeScript utilities to help you build top-tier onchain apps.
+- [meefs/page-agent](https://github.com/meefs/page-agent): JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [meefs/planttalk](https://github.com/meefs/planttalk): Give your houseplants a voice with ChatGPT.
 - [meefs/playwright-mcp](https://github.com/meefs/playwright-mcp): Playwright MCP server
 - [meefs/playwright](https://github.com/meefs/playwright): Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
