@@ -75,6 +75,7 @@
 - [meefs/box3d](https://github.com/meefs/box3d): Box3D is a 3D physics engine for games
 - [meefs/cntools](https://github.com/meefs/cntools): Incomplete-ish C "libraries"
 - [meefs/cve-2024-6387-poc](https://github.com/meefs/cve-2024-6387-poc): a signal handler race condition in OpenSSH's server (sshd)
+- [meefs/ffglitch-core](https://github.com/meefs/ffglitch-core): FFglitch - FFmpeg fork for glitching
 - [meefs/httpd](https://github.com/meefs/httpd): Mirror of Apache HTTP Server. Issues: http://issues.apache.org
 - [meefs/jenn3d](https://github.com/meefs/jenn3d): A Toy for Visualizing Coxeter Polytopes
 - [meefs/malady](https://github.com/meefs/malady): maldev obviously
