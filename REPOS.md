@@ -50,6 +50,7 @@
 - [meefs/stable-diffusion.cpp](https://github.com/meefs/stable-diffusion.cpp): Stable Diffusion in pure C/C++
 - [meefs/stellarium](https://github.com/meefs/stellarium): Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 - [meefs/td](https://github.com/meefs/td): Cross-platform library for building Telegram clients
+- [meefs/vampire](https://github.com/meefs/vampire): The Vampire Theorem Prover
 - [meefs/vvdec](https://github.com/meefs/vvdec): VVdeC, the Fraunhofer Versatile Video Decoder
 - [meefs/vvenc](https://github.com/meefs/vvenc): VVenC, the Fraunhofer Versatile Video Encoder
 - [meefs/whisper.cpp](https://github.com/meefs/whisper.cpp): Port of OpenAI's Whisper model in C/C++
@@ -271,12 +272,14 @@
 
 ## Python
 - [meefs/ACE-Step](https://github.com/meefs/ACE-Step): ACE-Step: A Step Towards Music Generation Foundation Model
+- [meefs/AIComposer](https://github.com/meefs/AIComposer): AI Composer from Certora Labs
 - [meefs/AMT](https://github.com/meefs/AMT): Official code for "AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation" (CVPR2023)
 - [meefs/APT_REPORT](https://github.com/meefs/APT_REPORT): Interesting APT Report Collection And Some Special IOCs
 - [meefs/ASCILINE](https://github.com/meefs/ASCILINE): A high-performance, real-time ASCII video rendering engine. Streams binary-encoded frames via WebSockets for ultra-low latency, 30 FPS playback using HTML5 Canvas and requestAnimationFrame.
 - [meefs/ATLAS](https://github.com/meefs/ATLAS): Adaptive Test-time Learning and Autonomous Specialization
 - [meefs/AbletonOSC](https://github.com/meefs/AbletonOSC): Control Ableton Live via Open Sound Control (OSC)
 - [meefs/Agent-Reach](https://github.com/meefs/Agent-Reach): Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+- [meefs/AutoProver](https://github.com/meefs/AutoProver): No description
 - [meefs/Awesome-LLMs-for-Vulnerability-Detection](https://github.com/meefs/Awesome-LLMs-for-Vulnerability-Detection): Awesome Large Language Models for Vulnerability Detection
 - [meefs/BioFoundation](https://github.com/meefs/BioFoundation): No description
 - [meefs/BirdNET-Analyzer](https://github.com/meefs/BirdNET-Analyzer): BirdNET analyzer for scientific audio data processing.
@@ -385,6 +388,7 @@
 - [meefs/git-fix-finder](https://github.com/meefs/git-fix-finder): No description
 - [meefs/gitingest](https://github.com/meefs/gitingest): Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
 - [meefs/gsplat](https://github.com/meefs/gsplat): CUDA accelerated rasterization of gaussian splatting
+- [meefs/halmos](https://github.com/meefs/halmos): A symbolic testing tool for EVM smart contracts
 - [meefs/harlequin](https://github.com/meefs/harlequin): The SQL IDE for Your Terminal.
 - [meefs/hermes-agent](https://github.com/meefs/hermes-agent): The agent that grows with you
 - [meefs/iGAN](https://github.com/meefs/iGAN): Interactive Image Generation via Generative Adversarial Networks
