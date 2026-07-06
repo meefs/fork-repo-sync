@@ -189,6 +189,7 @@
 - [meefs/tonedesigner-app](https://github.com/meefs/tonedesigner-app): tone.js synth
 - [meefs/tt-research](https://github.com/meefs/tt-research): Motivated by recent success of the truth_terminal meta this is created as an open research repository of keen finds
 - [meefs/unglitch](https://github.com/meefs/unglitch): some of my projects (2018-2025), previously hosted on glitch.com
+- [meefs/windfoil](https://github.com/meefs/windfoil): an algorithm for computing winding & anti-aliasing of 2D vector shapes
 - [meefs/www-project-artificial-intelligence-vulnerability-scoring-system](https://github.com/meefs/www-project-artificial-intelligence-vulnerability-scoring-system): OWASP Foundation web repository
 - [meefs/zk-learning-group](https://github.com/meefs/zk-learning-group): No description
 
