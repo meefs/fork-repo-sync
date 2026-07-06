@@ -159,7 +159,6 @@
 - [meefs/cryptowallet-cli](https://github.com/meefs/cryptowallet-cli): cw — a crypto wallet generator CLI tool for a lot of blockchains: Bitcoin, Ethereum, Base, Solana, SUI, TON, any EVM (L1/L2/L3) and many others
 - [meefs/cwe-sdk-javascript](https://github.com/meefs/cwe-sdk-javascript): A Common Weakness Enumeration (CWE) Node.js SDK compliant with MITRE / CAPEC
 - [meefs/cwe-tool](https://github.com/meefs/cwe-tool): A command line CWE discovery tool based on OWASP / CAPSEC database of Common Weakness Enumeration.
-- [meefs/ditherQuest](https://github.com/meefs/ditherQuest): auto dither images in pleasing colors
 - [meefs/dockertacos](https://github.com/meefs/dockertacos): Sample project involving docker and tacos 🌮
 - [meefs/drawdata](https://github.com/meefs/drawdata): Draw datasets from within Jupyter.
 - [meefs/embedProxy](https://github.com/meefs/embedProxy): Proxy service built for CF workers that surfaces page HEAD content
@@ -382,7 +381,6 @@
 - [meefs/exploitarium](https://github.com/meefs/exploitarium): A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.
 - [meefs/fractal](https://github.com/meefs/fractal): the recursive language model (RLM) CLI agent
 - [meefs/frame-interpolation](https://github.com/meefs/frame-interpolation): FILM: Frame Interpolation for Large Motion, In arXiv 2022.
-- [meefs/free-llm-api-keys](https://github.com/meefs/free-llm-api-keys): Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card needed.
 - [meefs/freqtrade](https://github.com/meefs/freqtrade): Free, open source crypto trading bot
 - [meefs/garak](https://github.com/meefs/garak): the LLM vulnerability scanner
 - [meefs/ghosttype](https://github.com/meefs/ghosttype): Local forensic scanner that extracts credentials from AI tool conversation history. For authorized red team and DLP use only.
@@ -584,6 +582,7 @@
 - [meefs/daydreams](https://github.com/meefs/daydreams): Daydreams is a set of tools for building agents for commerce
 - [meefs/defillama-server](https://github.com/meefs/defillama-server): Server for defillama
 - [meefs/devtools](https://github.com/meefs/devtools): LayerZero Endpoint V2 Examples and Developer Tooling
+- [meefs/ditherQuest](https://github.com/meefs/ditherQuest): auto dither images in pleasing colors
 - [meefs/eigent](https://github.com/meefs/eigent): Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
 - [meefs/emoji-encoder](https://github.com/meefs/emoji-encoder): No description
 - [meefs/eth-phishing-detect](https://github.com/meefs/eth-phishing-detect): Utility for detecting phishing domains targeting Web3 users
@@ -705,6 +704,7 @@
 - [meefs/ethereumbook](https://github.com/meefs/ethereumbook): Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
 - [meefs/film](https://github.com/meefs/film): Custom implementation of Google FILM interpolation software
 - [meefs/fork-repo-sync](https://github.com/meefs/fork-repo-sync): A collection of GitHub Actions to automate the management of 100+ repositories
+- [meefs/free-llm-api-keys](https://github.com/meefs/free-llm-api-keys): Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card needed.
 - [meefs/gitaudio](https://github.com/meefs/gitaudio): No description
 - [meefs/github-pages](https://github.com/meefs/github-pages): My clone repository
 - [meefs/graph-fraud-detection-papers](https://github.com/meefs/graph-fraud-detection-papers): A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
