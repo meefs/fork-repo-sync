@@ -172,7 +172,6 @@
 - [meefs/hex.dance](https://github.com/meefs/hex.dance): simple client-side in-browser binary analysis and hex dump
 - [meefs/iframely](https://github.com/meefs/iframely): oEmbed proxy. Supports over 1800 domains via custom parsers, oEmbed, Twitter Cards and Open Graph
 - [meefs/jxl-art](https://github.com/meefs/jxl-art): Web app to make art using JPEG XL.
-- [meefs/loop-engineer-template](https://github.com/meefs/loop-engineer-template): Join the best AI Builder Community
 - [meefs/minimaps](https://github.com/meefs/minimaps): Create 3D minimap pucks of areas up to 30km wide from the world map 
 - [meefs/node-hls-downloader-tubitv](https://github.com/meefs/node-hls-downloader-tubitv): Command-line utility for downloading an offline copy of TubiTV HLS video streams.
 - [meefs/ponytail](https://github.com/meefs/ponytail): Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -403,6 +402,7 @@
 - [meefs/llm-attacks](https://github.com/meefs/llm-attacks): Universal and Transferable Attacks on Aligned Language Models
 - [meefs/llm-engine](https://github.com/meefs/llm-engine): Scale LLM Engine public repository
 - [meefs/llm-sidechannel](https://github.com/meefs/llm-sidechannel): No description
+- [meefs/loop-engineer-template](https://github.com/meefs/loop-engineer-template): Join the best AI Builder Community
 - [meefs/m3-agent](https://github.com/meefs/m3-agent): No description
 - [meefs/mlx-vlm](https://github.com/meefs/mlx-vlm): MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 - [meefs/modelscan](https://github.com/meefs/modelscan): Protection against Model Serialization Attacks
