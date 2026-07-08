@@ -704,7 +704,6 @@
 - [meefs/ethereumbook](https://github.com/meefs/ethereumbook): Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
 - [meefs/film](https://github.com/meefs/film): Custom implementation of Google FILM interpolation software
 - [meefs/fork-repo-sync](https://github.com/meefs/fork-repo-sync): A collection of GitHub Actions to automate the management of 100+ repositories
-- [meefs/free-llm-api-keys](https://github.com/meefs/free-llm-api-keys): Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card needed.
 - [meefs/gitaudio](https://github.com/meefs/gitaudio): No description
 - [meefs/github-pages](https://github.com/meefs/github-pages): My clone repository
 - [meefs/graph-fraud-detection-papers](https://github.com/meefs/graph-fraud-detection-papers): A curated list of graph-based fraud, anomaly, and outlier detection papers & resources
@@ -754,4 +753,5 @@
 - [meefs/zig-time-sharing-kernel](https://github.com/meefs/zig-time-sharing-kernel): Minimal implementation of a time-sharing kernel on RISC-V, implemented in Zig, on top of OpenSBI
 
 ## block
+- [meefs/free-llm-api-keys](https://github.com/meefs/free-llm-api-keys): Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card needed.
 - [meefs/rust-stealer](https://github.com/meefs/rust-stealer): Simple Rust Stealer
