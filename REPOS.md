@@ -641,6 +641,7 @@
 - [meefs/trpc](https://github.com/meefs/trpc): 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [meefs/ui2](https://github.com/meefs/ui2): The Unified Intent Interface: The easiest way to build intent-powered UIs
 - [meefs/vscode-copilot-chat](https://github.com/meefs/vscode-copilot-chat): Copilot Chat extension for VS Code
+- [meefs/webgl-ascii-hero](https://github.com/meefs/webgl-ascii-hero): Next.js boilerplate with a cool hero block 3d Ascii Animation. 3D GLTF model rendered with React Three Fiber, post-processed into ASCII art using custom GLSL shaders.
 - [meefs/wormhole](https://github.com/meefs/wormhole): A wormhole simulation.
 - [meefs/x402-starter-kit](https://github.com/meefs/x402-starter-kit): No description
 - [meefs/x402](https://github.com/meefs/x402): A payments protocol for the internet. Built on HTTP.
