@@ -174,6 +174,7 @@
 - [meefs/jxl-art](https://github.com/meefs/jxl-art): Web app to make art using JPEG XL.
 - [meefs/minimaps](https://github.com/meefs/minimaps): Create 3D minimap pucks of areas up to 30km wide from the world map 
 - [meefs/node-hls-downloader-tubitv](https://github.com/meefs/node-hls-downloader-tubitv): Command-line utility for downloading an offline copy of TubiTV HLS video streams.
+- [meefs/os-taxonomy](https://github.com/meefs/os-taxonomy): No description
 - [meefs/ponytail](https://github.com/meefs/ponytail): Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [meefs/portal-network-specs](https://github.com/meefs/portal-network-specs): Official repository for specifications for the Portal Network
 - [meefs/simple-icons](https://github.com/meefs/simple-icons): SVG icons for popular brands
