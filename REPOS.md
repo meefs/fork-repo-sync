@@ -71,6 +71,7 @@
 ## C
 - [meefs/AudioNoise](https://github.com/meefs/AudioNoise): Random digital audio effects
 - [meefs/Cog](https://github.com/meefs/Cog): Cog - A Free and Open Source Audio Player for macOS 10.14+
+- [meefs/CyberMeowfia](https://github.com/meefs/CyberMeowfia): PoCs and exploits for CVEs discovered by VEGA. 
 - [meefs/KUVA](https://github.com/meefs/KUVA): KUVA: Graphcut textures
 - [meefs/PS5_kldload](https://github.com/meefs/PS5_kldload): A PlayStation 5 Kernel module loader inspired on FreeBSD's "kldload"
 - [meefs/bcc](https://github.com/meefs/bcc): BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
