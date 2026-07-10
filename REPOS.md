@@ -30,6 +30,7 @@
 - [meefs/depth-anything.cpp](https://github.com/meefs/depth-anything.cpp): A from-scratch C++17/ggml port of Depth Anything 3 (ByteDance)
 - [meefs/dusk-audio-plugins](https://github.com/meefs/dusk-audio-plugins): All of my plugins
 - [meefs/gearmulator](https://github.com/meefs/gearmulator): Emulation of classic VA synths of the late 90s/2000s that are based on Motorola 56300 family DSPs
+- [meefs/geiss](https://github.com/meefs/geiss): The Geiss screensaver and Winamp music visualization plug-in
 - [meefs/ggml](https://github.com/meefs/ggml): Tensor library for machine learning
 - [meefs/ggwave](https://github.com/meefs/ggwave): Tiny data-over-sound library
 - [meefs/highway](https://github.com/meefs/highway): Performance-portable, length-agnostic SIMD with runtime dispatch
@@ -117,6 +118,7 @@
 - [meefs/goat](https://github.com/meefs/goat): Render ASCII art as SVG diagrams
 - [meefs/how-to-build-a-coding-agent](https://github.com/meefs/how-to-build-a-coding-agent): A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
 - [meefs/image-spec](https://github.com/meefs/image-spec): OCI Image Format
+- [meefs/kaggen](https://github.com/meefs/kaggen): A rather dangerous agentic assistant written in golang
 - [meefs/meemaw](https://github.com/meefs/meemaw): Trustless and Grandma-friendly Wallet as a Service
 - [meefs/moltnet](https://github.com/meefs/moltnet): Self-hostable chat network for AI agents. Pre-built bridges for Claude Code, Codex, and the Claws. Rooms, DMs, history. No      Slack bots, no Matrix, no glue code.
 - [meefs/nightshift](https://github.com/meefs/nightshift): Nightshift uses your leftover Claude / Codex budget to surprise you with useful PRs. Love them or leave them.
@@ -149,6 +151,7 @@
 ## JavaScript
 - [meefs/Code-Package-p5.js](https://github.com/meefs/Code-Package-p5.js): Code package of the book: Generative Design – Creative Coding for the Web with JavaScript in p5.js
 - [meefs/Codrops-Pixel-Voxel-Drop](https://github.com/meefs/Codrops-Pixel-Voxel-Drop): Codrops Demo & Tutorial
+- [meefs/ECC](https://github.com/meefs/ECC): The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [meefs/MIDI2.0Workbench](https://github.com/meefs/MIDI2.0Workbench): MIDI 2.0 Testing Tool
 - [meefs/SIP-Sentinel](https://github.com/meefs/SIP-Sentinel): No description
 - [meefs/WeavingType](https://github.com/meefs/WeavingType): No description
@@ -369,6 +372,7 @@
 - [meefs/claude-plugins-official](https://github.com/meefs/claude-plugins-official): Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [meefs/clearwing](https://github.com/meefs/clearwing): No description
 - [meefs/clip-as-service](https://github.com/meefs/clip-as-service): 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP
+- [meefs/compa](https://github.com/meefs/compa): Compa — touchscreen companion for Roland SP-404 MKII + P-6 on Raspberry Pi
 - [meefs/copyparty](https://github.com/meefs/copyparty): Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [meefs/datamoshing](https://github.com/meefs/datamoshing): Datamoshing in python
 - [meefs/deepteam](https://github.com/meefs/deepteam): DeepTeam is a framework to red team LLMs and LLM systems.
@@ -457,6 +461,7 @@
 - [meefs/turbovec](https://github.com/meefs/turbovec): A vector index built on TurboQuant, written in Rust with Python bindings
 - [meefs/ultralytics](https://github.com/meefs/ultralytics): Ultralytics YOLO11 🚀
 - [meefs/unsloth](https://github.com/meefs/unsloth): Finetune Llama 3.2, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
+- [meefs/video-use](https://github.com/meefs/video-use): Edit videos with coding agents
 - [meefs/web3-security-resources](https://github.com/meefs/web3-security-resources): Curated Web3 security learning hub for smart contract auditors and protocol teams: roadmaps, audit tools, public reports, fuzzing, formal verification, AI-assisted workflows, offchain security, incident response, and launch checklists.
 - [meefs/whisper_leak](https://github.com/meefs/whisper_leak): No description
 - [meefs/whisperbymeefs](https://github.com/meefs/whisperbymeefs): Robust Speech Recognition via Large-Scale Weak Supervision
@@ -573,6 +578,7 @@
 - [meefs/ai-job-search](https://github.com/meefs/ai-job-search): AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
 - [meefs/ai-website-cloner-template](https://github.com/meefs/ai-website-cloner-template): Clone any website with one command using AI coding agents
 - [meefs/ai](https://github.com/meefs/ai): No description
+- [meefs/audio-file-mcp-app](https://github.com/meefs/audio-file-mcp-app): An MCP App for playing and inspecting local audio files in an MCP host.
 - [meefs/basedocs](https://github.com/meefs/basedocs): Documentation for building on Base
 - [meefs/cdp-agentkit](https://github.com/meefs/cdp-agentkit): No description
 - [meefs/chaoschain](https://github.com/meefs/chaoschain): The accountability protocol for the autonomous AI economy.
