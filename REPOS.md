@@ -88,6 +88,7 @@
 - [meefs/rsk-powhsm](https://github.com/meefs/rsk-powhsm): Special purpose PowHSM firmware for the RSK PowPeg.
 - [meefs/suricata](https://github.com/meefs/suricata): Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
 - [meefs/swisseph](https://github.com/meefs/swisseph): Swiss Ephemeris source code, official release by Astrodienst. For reporting issues or problems, please use the public mailing list https://groups.io/g/swisseph
+- [meefs/ta-lib](https://github.com/meefs/ta-lib): TA-Lib (Core C Library)
 - [meefs/tkernel_2](https://github.com/meefs/tkernel_2): T-Kernel 2.0
 - [meefs/vss-fr2system](https://github.com/meefs/vss-fr2system): test
 - [meefs/wireshark](https://github.com/meefs/wireshark): Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
@@ -204,7 +205,6 @@
 - [meefs/cbomkit-action](https://github.com/meefs/cbomkit-action): GitHub Action to generate Cryptography Bill of Materials (CBOM)
 - [meefs/cbomkit](https://github.com/meefs/cbomkit): A toolset for dealing with Cryptography Bill of Materials (CBOM)
 - [meefs/eureka](https://github.com/meefs/eureka): AWS Service registry for resilient mid-tier load balancing and failover.
-- [meefs/ta-lib](https://github.com/meefs/ta-lib): TA-Lib (Core C Library)
 
 ## Jinja
 - [meefs/LLM-Prompt-Library](https://github.com/meefs/LLM-Prompt-Library): Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
