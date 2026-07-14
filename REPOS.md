@@ -78,6 +78,7 @@
 - [meefs/bcc](https://github.com/meefs/bcc): BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [meefs/box3d](https://github.com/meefs/box3d): Box3D is a 3D physics engine for games
 - [meefs/cntools](https://github.com/meefs/cntools): Incomplete-ish C "libraries"
+- [meefs/colibri](https://github.com/meefs/colibri): Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [meefs/cve-2024-6387-poc](https://github.com/meefs/cve-2024-6387-poc): a signal handler race condition in OpenSSH's server (sshd)
 - [meefs/ffglitch-core](https://github.com/meefs/ffglitch-core): FFglitch - FFmpeg fork for glitching
 - [meefs/httpd](https://github.com/meefs/httpd): Mirror of Apache HTTP Server. Issues: http://issues.apache.org
@@ -290,6 +291,7 @@
 - [meefs/BioFoundation](https://github.com/meefs/BioFoundation): No description
 - [meefs/BirdNET-Analyzer](https://github.com/meefs/BirdNET-Analyzer): BirdNET analyzer for scientific audio data processing.
 - [meefs/BitNet](https://github.com/meefs/BitNet): Official inference framework for 1-bit LLMs
+- [meefs/Bonsai-demo](https://github.com/meefs/Bonsai-demo): Bonsai Demo
 - [meefs/CLIP-based-NSFW-Detector](https://github.com/meefs/CLIP-based-NSFW-Detector): No description
 - [meefs/CVE-2025-31324](https://github.com/meefs/CVE-2025-31324): CVE-2025-31324, SAP Exploit
 - [meefs/ChaosNLI](https://github.com/meefs/ChaosNLI): [EMNLP 2020] Collective HumAn OpinionS on Natural Language Inference Data
@@ -526,7 +528,6 @@
 - [meefs/Curated_Data](https://github.com/meefs/Curated_Data): Set of runstreams to read in and clean up lots of various data
 
 ## Shell
-- [meefs/Bonsai-demo](https://github.com/meefs/Bonsai-demo): Bonsai Demo
 - [meefs/Claude-Command-Suite](https://github.com/meefs/Claude-Command-Suite): Professional slash commands for Claude Code that provide   structured workflows for software development tasks including   code review, feature creation, security auditing, and   architectural analysis.
 - [meefs/cc-trace](https://github.com/meefs/cc-trace): Claude Code CLI skill: Interactive assistant for intercepting, debugging, analyzing and reviewing Claude Code API requests using mitmproxy
 - [meefs/claude-sparc](https://github.com/meefs/claude-sparc): No description
