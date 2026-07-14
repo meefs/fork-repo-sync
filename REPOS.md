@@ -292,7 +292,6 @@
 - [meefs/BioFoundation](https://github.com/meefs/BioFoundation): No description
 - [meefs/BirdNET-Analyzer](https://github.com/meefs/BirdNET-Analyzer): BirdNET analyzer for scientific audio data processing.
 - [meefs/BitNet](https://github.com/meefs/BitNet): Official inference framework for 1-bit LLMs
-- [meefs/Bonsai-demo](https://github.com/meefs/Bonsai-demo): Bonsai Demo
 - [meefs/CLIP-based-NSFW-Detector](https://github.com/meefs/CLIP-based-NSFW-Detector): No description
 - [meefs/CVE-2025-31324](https://github.com/meefs/CVE-2025-31324): CVE-2025-31324, SAP Exploit
 - [meefs/ChaosNLI](https://github.com/meefs/ChaosNLI): [EMNLP 2020] Collective HumAn OpinionS on Natural Language Inference Data
@@ -529,6 +528,7 @@
 - [meefs/Curated_Data](https://github.com/meefs/Curated_Data): Set of runstreams to read in and clean up lots of various data
 
 ## Shell
+- [meefs/Bonsai-demo](https://github.com/meefs/Bonsai-demo): Bonsai Demo
 - [meefs/Claude-Command-Suite](https://github.com/meefs/Claude-Command-Suite): Professional slash commands for Claude Code that provide   structured workflows for software development tasks including   code review, feature creation, security auditing, and   architectural analysis.
 - [meefs/cc-trace](https://github.com/meefs/cc-trace): Claude Code CLI skill: Interactive assistant for intercepting, debugging, analyzing and reviewing Claude Code API requests using mitmproxy
 - [meefs/claude-sparc](https://github.com/meefs/claude-sparc): No description
