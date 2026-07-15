@@ -158,6 +158,7 @@
 - [meefs/ECC](https://github.com/meefs/ECC): The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [meefs/MIDI2.0Workbench](https://github.com/meefs/MIDI2.0Workbench): MIDI 2.0 Testing Tool
 - [meefs/SIP-Sentinel](https://github.com/meefs/SIP-Sentinel): No description
+- [meefs/TinyCode](https://github.com/meefs/TinyCode): Size Coding Magic 🧙
 - [meefs/WeavingType](https://github.com/meefs/WeavingType): No description
 - [meefs/WireMCP](https://github.com/meefs/WireMCP): An MCP for WireShark (tshark). Empower LLM's with realtime network traffic analysis capability
 - [meefs/Zer0](https://github.com/meefs/Zer0): No description
