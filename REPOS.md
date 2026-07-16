@@ -14,6 +14,7 @@
 - [meefs/tixl](https://github.com/meefs/tixl): TiXL is an open source software to create realtime motion graphics.
 
 ## C++
+- [meefs/BitNet](https://github.com/meefs/BitNet): Official inference framework for 1-bit LLMs
 - [meefs/CnC_Generals_Zero_Hour](https://github.com/meefs/CnC_Generals_Zero_Hour): Command and Conquer: Generals - Zero Hour
 - [meefs/FinceptTerminal](https://github.com/meefs/FinceptTerminal): FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
 - [meefs/GhostStrike](https://github.com/meefs/GhostStrike): Deploy stealthy reverse shells using advanced process hollowing with GhostStrike – a C++ tool for ethical hacking and Red Team operations.
@@ -293,7 +294,6 @@
 - [meefs/Awesome-LLMs-for-Vulnerability-Detection](https://github.com/meefs/Awesome-LLMs-for-Vulnerability-Detection): Awesome Large Language Models for Vulnerability Detection
 - [meefs/BioFoundation](https://github.com/meefs/BioFoundation): No description
 - [meefs/BirdNET-Analyzer](https://github.com/meefs/BirdNET-Analyzer): BirdNET analyzer for scientific audio data processing.
-- [meefs/BitNet](https://github.com/meefs/BitNet): Official inference framework for 1-bit LLMs
 - [meefs/CLIP-based-NSFW-Detector](https://github.com/meefs/CLIP-based-NSFW-Detector): No description
 - [meefs/CVE-2025-31324](https://github.com/meefs/CVE-2025-31324): CVE-2025-31324, SAP Exploit
 - [meefs/ChaosNLI](https://github.com/meefs/ChaosNLI): [EMNLP 2020] Collective HumAn OpinionS on Natural Language Inference Data
