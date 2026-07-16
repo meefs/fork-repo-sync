@@ -90,6 +90,7 @@
 - [meefs/suricata](https://github.com/meefs/suricata): Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
 - [meefs/swisseph](https://github.com/meefs/swisseph): Swiss Ephemeris source code, official release by Astrodienst. For reporting issues or problems, please use the public mailing list https://groups.io/g/swisseph
 - [meefs/ta-lib](https://github.com/meefs/ta-lib): TA-Lib (Core C Library)
+- [meefs/timescaledb](https://github.com/meefs/timescaledb): A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [meefs/tkernel_2](https://github.com/meefs/tkernel_2): T-Kernel 2.0
 - [meefs/vss-fr2system](https://github.com/meefs/vss-fr2system): test
 - [meefs/wireshark](https://github.com/meefs/wireshark): Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead.
@@ -308,6 +309,7 @@
 - [meefs/EpsteIn](https://github.com/meefs/EpsteIn): See which of your LinkedIn connections appear in the Epstein files.
 - [meefs/FyeldGenerator](https://github.com/meefs/FyeldGenerator): Easily generate random fields
 - [meefs/GFPGAN](https://github.com/meefs/GFPGAN): GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
+- [meefs/GNM](https://github.com/meefs/GNM): An open ecosystem of parametric human models and perception stacks, starting with GNM Head.
 - [meefs/HiringAlgorithms](https://github.com/meefs/HiringAlgorithms): Codebase for Algorithmic Monocultures in Hiring (Bommasani, Bana, Creel et al., FAccT 2026)
 - [meefs/Hunyuan3D-2.1](https://github.com/meefs/Hunyuan3D-2.1): From Images to High-Fidelity 3D Assets with Production-Ready PBR Material
 - [meefs/ImageBind](https://github.com/meefs/ImageBind): ImageBind One Embedding Space to Bind Them All
