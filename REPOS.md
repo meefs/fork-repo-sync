@@ -599,6 +599,7 @@
 - [meefs/devtools](https://github.com/meefs/devtools): LayerZero Endpoint V2 Examples and Developer Tooling
 - [meefs/ditherQuest](https://github.com/meefs/ditherQuest): auto dither images in pleasing colors
 - [meefs/eigent](https://github.com/meefs/eigent): Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
+- [meefs/eliza](https://github.com/meefs/eliza): Open source agentic operating system
 - [meefs/emoji-encoder](https://github.com/meefs/emoji-encoder): No description
 - [meefs/eth-phishing-detect](https://github.com/meefs/eth-phishing-detect): Utility for detecting phishing domains targeting Web3 users
 - [meefs/evm-mirror](https://github.com/meefs/evm-mirror): No description
