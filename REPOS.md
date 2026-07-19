@@ -90,7 +90,6 @@
 - [meefs/rsk-powhsm](https://github.com/meefs/rsk-powhsm): Special purpose PowHSM firmware for the RSK PowPeg.
 - [meefs/suricata](https://github.com/meefs/suricata): Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
 - [meefs/swisseph](https://github.com/meefs/swisseph): Swiss Ephemeris source code, official release by Astrodienst. For reporting issues or problems, please use the public mailing list https://groups.io/g/swisseph
-- [meefs/ta-lib](https://github.com/meefs/ta-lib): TA-Lib (Core C Library)
 - [meefs/timescaledb](https://github.com/meefs/timescaledb): A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [meefs/tkernel_2](https://github.com/meefs/tkernel_2): T-Kernel 2.0
 - [meefs/vss-fr2system](https://github.com/meefs/vss-fr2system): test
@@ -210,6 +209,7 @@
 - [meefs/cbomkit-action](https://github.com/meefs/cbomkit-action): GitHub Action to generate Cryptography Bill of Materials (CBOM)
 - [meefs/cbomkit](https://github.com/meefs/cbomkit): A toolset for dealing with Cryptography Bill of Materials (CBOM)
 - [meefs/eureka](https://github.com/meefs/eureka): AWS Service registry for resilient mid-tier load balancing and failover.
+- [meefs/ta-lib](https://github.com/meefs/ta-lib): TA-Lib (Core C Library)
 
 ## Jinja
 - [meefs/LLM-Prompt-Library](https://github.com/meefs/LLM-Prompt-Library): Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for Siri, GPT-4o, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
@@ -665,6 +665,7 @@
 ## Unknown
 - [meefs/2025-youtube-podcast-men-for-trump](https://github.com/meefs/2025-youtube-podcast-men-for-trump): Data from the Bloomberg News analysis on streamers and podcasters on YouTube
 - [meefs/3d-guided-genai-rtx](https://github.com/meefs/3d-guided-genai-rtx): No description
+- [meefs/Aiken-opaque-expect-bypass](https://github.com/meefs/Aiken-opaque-expect-bypass): Aiken expect strips opaque invariants `convert_opaque_type` result forged dict.get/quantity_of/compare
 - [meefs/Avionics-talk](https://github.com/meefs/Avionics-talk): No description
 - [meefs/Awesome-AI-Security](https://github.com/meefs/Awesome-AI-Security): Curated resources, research, and tools for securing AI systems
 - [meefs/Awesome-LLM](https://github.com/meefs/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
