@@ -391,6 +391,7 @@
 - [meefs/entseeker](https://github.com/meefs/entseeker): entseeker is a command-line tool for Named Entity Recognition (NER) and web entity searches in text files. It uses spaCy's NLP capabilities for standard named entities and custom rules for web-related entities.
 - [meefs/exo](https://github.com/meefs/exo): Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [meefs/exploitarium](https://github.com/meefs/exploitarium): A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.
+- [meefs/fractal-loops](https://github.com/meefs/fractal-loops): Hierarchical agent loops with recursive self-organization.
 - [meefs/fractal](https://github.com/meefs/fractal): the recursive language model (RLM) CLI agent
 - [meefs/frame-interpolation](https://github.com/meefs/frame-interpolation): FILM: Frame Interpolation for Large Motion, In arXiv 2022.
 - [meefs/freqtrade](https://github.com/meefs/freqtrade): Free, open source crypto trading bot
