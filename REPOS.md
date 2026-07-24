@@ -342,6 +342,7 @@
 - [meefs/Sana](https://github.com/meefs/Sana): SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
 - [meefs/SkyReels-V2](https://github.com/meefs/SkyReels-V2): SkyReels-V2: Infinite-length Film Generative model
 - [meefs/Skywork](https://github.com/meefs/Skywork): Skywork series models are pre-trained on 3.2TB of high-quality multilingual (mainly Chinese and English) and code data. We have open-sourced the model, training data, evaluation data, evaluation methods, etc.  
+- [meefs/Substrates](https://github.com/meefs/Substrates): Code, prompts, protocols, and reproducibility materials for Substrates.
 - [meefs/TRELLIS.2](https://github.com/meefs/TRELLIS.2): Native and Compact Structured Latents for 3D Generation
 - [meefs/TeleVision](https://github.com/meefs/TeleVision): Open-TeleVision: Teleoperation with Immersive Active Visual Feedback
 - [meefs/TheBigBrother](https://github.com/meefs/TheBigBrother): The Big Brother V3.0 is a weaponized OSINT platform featuring username enumeration (473+ platforms), quad-vector visual intelligence, Sky Radar tracking, crypto wallet analysis, SSL intelligence, digital footprint reconstruction, EXIF extraction, advanced dorking, and network reconnaissance.
