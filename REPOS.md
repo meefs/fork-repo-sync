@@ -136,6 +136,7 @@
 - [meefs/Top10](https://github.com/meefs/Top10): Official OWASP Top 10 Document Repository
 - [meefs/agent-skills](https://github.com/meefs/agent-skills): A collection of experimental AI agent skills created and used across HashLips development workflows and YouTube tutorial content.
 - [meefs/agentic-book](https://github.com/meefs/agentic-book): An AI-generated book exploring how artificial intelligence development reveals hidden patterns in human cognition and communication
+- [meefs/ai-engineering-field-guide](https://github.com/meefs/ai-engineering-field-guide): Research into AI engineering interview assignments, take-home challenges, and hiring practices from 2026
 - [meefs/apple-permissions](https://github.com/meefs/apple-permissions): A layered field guide to the macOS app permission model: POSIX bits, Gatekeeper, XProtect, SIP, and where TCC fits.
 - [meefs/awesome-compose](https://github.com/meefs/awesome-compose): Awesome Docker Compose samples
 - [meefs/cloud_haiku](https://github.com/meefs/cloud_haiku): Community-made poetry about infrastructure
