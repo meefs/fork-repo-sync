@@ -704,6 +704,7 @@
 - [meefs/awesome--sora-prompts](https://github.com/meefs/awesome--sora-prompts): A reference containing Visual Style Prompt and Editing Style Prompt that you can use with Sora AI. 
 - [meefs/awesome-ace-step](https://github.com/meefs/awesome-ace-step): No description
 - [meefs/awesome-claude-prompts](https://github.com/meefs/awesome-claude-prompts): This repo includes Claude prompt curation to use Claude better.
+- [meefs/awesome-cybersecurity-podcasts](https://github.com/meefs/awesome-cybersecurity-podcasts): Discover the best cybersecurity podcasts covering trends, stories, and expert insights. Staying current in cybersecurity is essential, and podcasts offer an accessible, on-the-go way to keep up with the latest threats, news and industry trends. 
 - [meefs/awesome-deepseek-integration](https://github.com/meefs/awesome-deepseek-integration): No description
 - [meefs/awesome-foundation-agents](https://github.com/meefs/awesome-foundation-agents): About Awesome things towards foundation agents. Papers / Repos / Blogs / ...
 - [meefs/awesome-mcp-servers](https://github.com/meefs/awesome-mcp-servers): A collection of MCP servers.
