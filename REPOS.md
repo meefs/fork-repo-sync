@@ -232,6 +232,7 @@
 - [meefs/PhotoMaker](https://github.com/meefs/PhotoMaker): PhotoMaker
 - [meefs/PixelAlchemist](https://github.com/meefs/PixelAlchemist): Semantic image editing in realtime with a multi-parameter interface for StyleCLIP global directions
 - [meefs/RecursiveSummarizer](https://github.com/meefs/RecursiveSummarizer): RecursiveSummarizer script shown in https://www.youtube.com/watch?v=es8e4SEuvV0&t=263s
+- [meefs/analisis-perfumes-fragrantica](https://github.com/meefs/analisis-perfumes-fragrantica): No description
 - [meefs/anthropic-cookbook](https://github.com/meefs/anthropic-cookbook): A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [meefs/art](https://github.com/meefs/art): No description
 - [meefs/audiocraft](https://github.com/meefs/audiocraft): Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
