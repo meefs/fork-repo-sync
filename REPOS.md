@@ -410,6 +410,7 @@
 - [meefs/innertube](https://github.com/meefs/innertube): Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more!
 - [meefs/jepa](https://github.com/meefs/jepa): PyTorch code and models for V-JEPA self-supervised learning from video.
 - [meefs/jobassist](https://github.com/meefs/jobassist): Application with Database to help you manage your job search
+- [meefs/kimi-k3-mlx](https://github.com/meefs/kimi-k3-mlx): MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis
 - [meefs/large_concept_model](https://github.com/meefs/large_concept_model): Large Concept Models: Language modeling in a sentence representation space
 - [meefs/lenu](https://github.com/meefs/lenu): Legal Entity Name Understanding
 - [meefs/linkml-project-copier](https://github.com/meefs/linkml-project-copier): A copier template for your next LinkML project
@@ -596,6 +597,7 @@
 - [meefs/claude-code-flow](https://github.com/meefs/claude-code-flow): This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
 - [meefs/claude-context-mode](https://github.com/meefs/claude-context-mode): Stop losing context to large outputs.
 - [meefs/cobold](https://github.com/meefs/cobold): telegram bot for downloading media, powered by cobalt
+- [meefs/codex-security](https://github.com/meefs/codex-security): SDKs and CLI for Codex Security
 - [meefs/conviction](https://github.com/meefs/conviction): No description
 - [meefs/daydreams](https://github.com/meefs/daydreams): Daydreams is a set of tools for building agents for commerce
 - [meefs/defillama-server](https://github.com/meefs/defillama-server): Server for defillama
