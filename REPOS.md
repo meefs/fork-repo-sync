@@ -195,6 +195,7 @@
 - [meefs/tactile-js](https://github.com/meefs/tactile-js): A Javascript library for representing, manipulating, and drawing periodic tilings of the plane.
 - [meefs/telegram-inline-calendar](https://github.com/meefs/telegram-inline-calendar): Date and time picker and Inline calendar for Node.js telegram bots
 - [meefs/test-webgpu](https://github.com/meefs/test-webgpu): No description
+- [meefs/text-to-cad](https://github.com/meefs/text-to-cad): A collection of agent skills for CAD, robotics and hardware design
 - [meefs/three.js](https://github.com/meefs/three.js): JavaScript 3D Library.
 - [meefs/tonedesigner-app](https://github.com/meefs/tonedesigner-app): tone.js synth
 - [meefs/tt-research](https://github.com/meefs/tt-research): Motivated by recent success of the truth_terminal meta this is created as an open research repository of keen finds
@@ -590,6 +591,7 @@
 - [meefs/ai](https://github.com/meefs/ai): No description
 - [meefs/audio-file-mcp-app](https://github.com/meefs/audio-file-mcp-app): An MCP App for playing and inspecting local audio files in an MCP host.
 - [meefs/basedocs](https://github.com/meefs/basedocs): Documentation for building on Base
+- [meefs/camelAI](https://github.com/meefs/camelAI): camelAI — an AI coding assistant platform built on Cloudflare Workers and Durable Objects
 - [meefs/cdp-agentkit](https://github.com/meefs/cdp-agentkit): No description
 - [meefs/chaoschain](https://github.com/meefs/chaoschain): The accountability protocol for the autonomous AI economy.
 - [meefs/chipotlai-max](https://github.com/meefs/chipotlai-max): The AI coding agent that runs on stolen Chipotle compute 🌯 Fork of OpenCode with Pepper AI as default model. Community project to add providers from Home Depot, Lowes, Target, Starbucks & more.
