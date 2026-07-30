@@ -469,7 +469,6 @@
 - [meefs/tinygrad](https://github.com/meefs/tinygrad): You like pytorch? You like micrograd? You love tinygrad! ❤️ 
 - [meefs/tplmap](https://github.com/meefs/tplmap): Server-Side Template Injection and Code Injection Detection and Exploitation Tool
 - [meefs/trailofbits-skills](https://github.com/meefs/trailofbits-skills): Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
-- [meefs/turbovec](https://github.com/meefs/turbovec): A vector index built on TurboQuant, written in Rust with Python bindings
 - [meefs/ultralytics](https://github.com/meefs/ultralytics): Ultralytics YOLO11 🚀
 - [meefs/unsloth](https://github.com/meefs/unsloth): Finetune Llama 3.2, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
 - [meefs/video-use](https://github.com/meefs/video-use): Edit videos with coding agents
@@ -528,6 +527,7 @@
 - [meefs/tactile-rs](https://github.com/meefs/tactile-rs): Library for representing, manipulating, and drawing isohedral tilings
 - [meefs/thorium](https://github.com/meefs/thorium): A scalable file analysis and data generation platform that allows users to easily orchestrate arbitrary docker/vm/shell tools at scale.
 - [meefs/ttl](https://github.com/meefs/ttl): Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr.
+- [meefs/turbovec](https://github.com/meefs/turbovec): A vector index built on TurboQuant, written in Rust with Python bindings
 - [meefs/world-id-protocol](https://github.com/meefs/world-id-protocol): Main components and documentation for the World ID Protocol.
 - [meefs/wreq](https://github.com/meefs/wreq): An ergonomic Rust HTTP Client with TLS fingerprint
 - [meefs/zinc-plus](https://github.com/meefs/zinc-plus): Zinc+ is a performance-oriented SNARK framework designed to handle computations across multiple mathematical domains without the "witness inflation" overhead typical of traditional arithmetization.
