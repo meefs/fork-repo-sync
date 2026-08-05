@@ -144,7 +144,6 @@
 - [meefs/fluid](https://github.com/meefs/fluid): Dependency-free WebGL studio for generative backgrounds and live embeds.
 - [meefs/gigahorse-toolchain](https://github.com/meefs/gigahorse-toolchain): A binary lifter and analysis framework for Ethereum smart contracts
 - [meefs/government-data-fun](https://github.com/meefs/government-data-fun): Various tools to easily access public data from different government departments and services. 
-- [meefs/knowledge-catalog](https://github.com/meefs/knowledge-catalog): Google Cloud Knowledge Catalog Tools and Samples
 - [meefs/m3u-audiobooks](https://github.com/meefs/m3u-audiobooks): collection of 100k+ audio books, radio porgrams, music etc from archive.org in a easy to listen m3u playlist format
 - [meefs/meta-prompt](https://github.com/meefs/meta-prompt): For LLMs to better code with Jina API
 - [meefs/promptlikeanegyptian](https://github.com/meefs/promptlikeanegyptian): prompt like an egyptiaaaaannnnn
@@ -629,6 +628,7 @@
 - [meefs/json-render](https://github.com/meefs/json-render): The Generative UI framework
 - [meefs/jupyter](https://github.com/meefs/jupyter): A Waldiez JupyterLab extension.
 - [meefs/kit](https://github.com/meefs/kit): Solana JavaScript SDK
+- [meefs/knowledge-catalog](https://github.com/meefs/knowledge-catalog): Google Cloud Knowledge Catalog Tools and Samples
 - [meefs/lemmy](https://github.com/meefs/lemmy): Wrapper around tool using LLMs for agentic workflows
 - [meefs/lucid-agents](https://github.com/meefs/lucid-agents): Lucid Agents Commerce SDK. Bootstrap AI agents in 60 seconds that can pay, sell, and participate in agentic commerce supply chains. Our protocol agnostic SDK provides CLI-generated templates and drop-in adapters for Hono, Express, Next.js, and TanStack, giving you instant access to crypto/fiat payment rails (AP2, A2A, x402, ERC8004).
 - [meefs/magicblock-engine-examples](https://github.com/meefs/magicblock-engine-examples): Ephemeral Rollups - Integration Examples
