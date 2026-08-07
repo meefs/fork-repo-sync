@@ -184,6 +184,7 @@
 - [meefs/jxl-art](https://github.com/meefs/jxl-art): Web app to make art using JPEG XL.
 - [meefs/minimaps](https://github.com/meefs/minimaps): Create 3D minimap pucks of areas up to 30km wide from the world map 
 - [meefs/node-hls-downloader-tubitv](https://github.com/meefs/node-hls-downloader-tubitv): Command-line utility for downloading an offline copy of TubiTV HLS video streams.
+- [meefs/npm-incident-response](https://github.com/meefs/npm-incident-response): No description
 - [meefs/os-taxonomy](https://github.com/meefs/os-taxonomy): No description
 - [meefs/ponytail](https://github.com/meefs/ponytail): Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [meefs/portal-network-specs](https://github.com/meefs/portal-network-specs): Official repository for specifications for the Portal Network
@@ -358,7 +359,6 @@
 - [meefs/agentskills](https://github.com/meefs/agentskills): Specification and documentation for Agent Skills
 - [meefs/aixcc-afc-archive](https://github.com/meefs/aixcc-afc-archive): Public Source code Release of Theori's AIxCC AFC Submission
 - [meefs/anamorpher](https://github.com/meefs/anamorpher): image scaling attacks for multi-modal prompt injection
-- [meefs/anthropic-quickstarts](https://github.com/meefs/anthropic-quickstarts): A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
 - [meefs/atom](https://github.com/meefs/atom): optical attention via wave interference in holographic crystals verified to float precision. the math is done. contribute to build the hardware.star it, fork it, break it.
 - [meefs/auto-md](https://github.com/meefs/auto-md): Convert Files /  Folders / GitHub Repos Into AI / LLM-ready Files
 - [meefs/automated-prompt-engineering-from-scratch](https://github.com/meefs/automated-prompt-engineering-from-scratch): A repo with an automated prompt engineering workflow from scratch. It leverages the OPRO technique.
@@ -589,6 +589,7 @@
 - [meefs/ai-job-search](https://github.com/meefs/ai-job-search): AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
 - [meefs/ai-website-cloner-template](https://github.com/meefs/ai-website-cloner-template): Clone any website with one command using AI coding agents
 - [meefs/ai](https://github.com/meefs/ai): No description
+- [meefs/anthropic-quickstarts](https://github.com/meefs/anthropic-quickstarts): A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
 - [meefs/audio-file-mcp-app](https://github.com/meefs/audio-file-mcp-app): An MCP App for playing and inspecting local audio files in an MCP host.
 - [meefs/basedocs](https://github.com/meefs/basedocs): Documentation for building on Base
 - [meefs/camelAI](https://github.com/meefs/camelAI): camelAI — an AI coding assistant platform built on Cloudflare Workers and Durable Objects
