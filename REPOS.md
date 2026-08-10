@@ -65,6 +65,7 @@
 - [meefs/hound](https://github.com/meefs/hound): Hound is a simple and light tool for information gathering and capture exact GPS coordinates
 - [meefs/packgod](https://github.com/meefs/packgod): Repository for a packgod roast generator im developing
 - [meefs/skills-github-pages](https://github.com/meefs/skills-github-pages): My clone repository
+- [meefs/wstg](https://github.com/meefs/wstg): The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 
 ## Clojure
 - [meefs/birdsong-as-code](https://github.com/meefs/birdsong-as-code): Exploring the music theory of birdsong
@@ -756,7 +757,6 @@
 - [meefs/solsec](https://github.com/meefs/solsec): A collection of resources to study Solana smart contract security, auditing, and exploits.
 - [meefs/system-prompts-and-models-of-ai-tools](https://github.com/meefs/system-prompts-and-models-of-ai-tools): FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 - [meefs/windows-api-function-cheatsheets](https://github.com/meefs/windows-api-function-cheatsheets): A reference of Windows API function calls, including functions for file operations, process management, memory management, thread management, dynamic-link library (DLL) management, synchronization, interprocess communication, Unicode string manipulation, error handling, Winsock networking operations, and registry operations.
-- [meefs/wstg](https://github.com/meefs/wstg): The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [meefs/x402-gitbook](https://github.com/meefs/x402-gitbook): No description
 - [meefs/xss-payload-list](https://github.com/meefs/xss-payload-list): 🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List
 - [meefs/zashi](https://github.com/meefs/zashi): Issue Tracking and common resources for the Zashi Zcash Wallets
