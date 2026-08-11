@@ -197,7 +197,6 @@
 - [meefs/tactile-js](https://github.com/meefs/tactile-js): A Javascript library for representing, manipulating, and drawing periodic tilings of the plane.
 - [meefs/telegram-inline-calendar](https://github.com/meefs/telegram-inline-calendar): Date and time picker and Inline calendar for Node.js telegram bots
 - [meefs/test-webgpu](https://github.com/meefs/test-webgpu): No description
-- [meefs/text-to-cad](https://github.com/meefs/text-to-cad): A collection of agent skills for CAD, robotics and hardware design
 - [meefs/three.js](https://github.com/meefs/three.js): JavaScript 3D Library.
 - [meefs/tonedesigner-app](https://github.com/meefs/tonedesigner-app): tone.js synth
 - [meefs/tt-research](https://github.com/meefs/tt-research): Motivated by recent success of the truth_terminal meta this is created as an open research repository of keen finds
@@ -463,6 +462,7 @@
 - [meefs/style-transfer-pytorch](https://github.com/meefs/style-transfer-pytorch): Neural style transfer in PyTorch.
 - [meefs/subzuf](https://github.com/meefs/subzuf): a smart DNS response-guided subdomain fuzzer
 - [meefs/telegram_link_sanitizer](https://github.com/meefs/telegram_link_sanitizer): Gets rid of those garbage share params in URLs
+- [meefs/text-to-cad](https://github.com/meefs/text-to-cad): A collection of agent skills for CAD, robotics and hardware design
 - [meefs/textual](https://github.com/meefs/textual): The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [meefs/theHarvester](https://github.com/meefs/theHarvester): E-mails, subdomains and names Harvester - OSINT 
 - [meefs/theZoo](https://github.com/meefs/theZoo): A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public.
