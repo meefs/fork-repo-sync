@@ -340,6 +340,7 @@
 - [meefs/PyRIT](https://github.com/meefs/PyRIT): The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.
 - [meefs/RFdiffusion](https://github.com/meefs/RFdiffusion): Code for running RFdiffusion
 - [meefs/SODE](https://github.com/meefs/SODE): No description
+- [meefs/STONKBOT](https://github.com/meefs/STONKBOT): Bankr-style X bot for StonkFun (Solana). Users link wallet, launch stock-paired tokens, claim creator fees. Operator takes 0.1 SOL service fee per launch.
 - [meefs/Sana](https://github.com/meefs/Sana): SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
 - [meefs/SkyReels-V2](https://github.com/meefs/SkyReels-V2): SkyReels-V2: Infinite-length Film Generative model
 - [meefs/Skywork](https://github.com/meefs/Skywork): Skywork series models are pre-trained on 3.2TB of high-quality multilingual (mainly Chinese and English) and code data. We have open-sourced the model, training data, evaluation data, evaluation methods, etc.  
