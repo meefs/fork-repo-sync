@@ -358,6 +358,7 @@
 - [meefs/ag2](https://github.com/meefs/ag2): AG2 (formerly AutoGen) is a programming framework for agentic AI. Join the community at: https://discord.gg/pAbnFJrkgZ
 - [meefs/agents-for-openbb](https://github.com/meefs/agents-for-openbb): Custom agents for OpenBB Workspace
 - [meefs/agentskills](https://github.com/meefs/agentskills): Specification and documentation for Agent Skills
+- [meefs/ai-job-search](https://github.com/meefs/ai-job-search): AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
 - [meefs/aixcc-afc-archive](https://github.com/meefs/aixcc-afc-archive): Public Source code Release of Theori's AIxCC AFC Submission
 - [meefs/anamorpher](https://github.com/meefs/anamorpher): image scaling attacks for multi-modal prompt injection
 - [meefs/atom](https://github.com/meefs/atom): optical attention via wave interference in holographic crystals verified to float precision. the math is done. contribute to build the hardware.star it, fork it, break it.
@@ -589,7 +590,6 @@
 - [meefs/agents-starter](https://github.com/meefs/agents-starter): A starter kit for building ai agents on Cloudflare
 - [meefs/ai-agent-cognitivedriftt](https://github.com/meefs/ai-agent-cognitivedriftt): Cognitive Drift AI Agent
 - [meefs/ai-brainstore](https://github.com/meefs/ai-brainstore): A proof-of-concept of a brain for an AI agent.
-- [meefs/ai-job-search](https://github.com/meefs/ai-job-search): AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
 - [meefs/ai](https://github.com/meefs/ai): No description
 - [meefs/anthropic-quickstarts](https://github.com/meefs/anthropic-quickstarts): A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
 - [meefs/audio-file-mcp-app](https://github.com/meefs/audio-file-mcp-app): An MCP App for playing and inspecting local audio files in an MCP host.
