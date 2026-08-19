@@ -65,7 +65,6 @@
 - [meefs/hound](https://github.com/meefs/hound): Hound is a simple and light tool for information gathering and capture exact GPS coordinates
 - [meefs/packgod](https://github.com/meefs/packgod): Repository for a packgod roast generator im developing
 - [meefs/skills-github-pages](https://github.com/meefs/skills-github-pages): My clone repository
-- [meefs/wstg](https://github.com/meefs/wstg): The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 
 ## Clojure
 - [meefs/birdsong-as-code](https://github.com/meefs/birdsong-as-code): Exploring the music theory of birdsong
@@ -482,6 +481,7 @@
 - [meefs/wonder](https://github.com/meefs/wonder): metaprogramming for LLMs and other humans
 - [meefs/wordwise](https://github.com/meefs/wordwise): N-gram keyword extraction using spaCy and pretrained language models
 - [meefs/world_engine](https://github.com/meefs/world_engine): World Model Inference Engine
+- [meefs/wstg](https://github.com/meefs/wstg): The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 
 ## Rich Text Format
 - [meefs/ga](https://github.com/meefs/ga): No description
