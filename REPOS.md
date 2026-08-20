@@ -258,6 +258,9 @@
 ## Lean
 - [meefs/sphincsminus](https://github.com/meefs/sphincsminus): Implementations of sphnics minus in python and lean
 
+## MATLAB
+- [meefs/psiconnect](https://github.com/meefs/psiconnect): Code used to preprocess, clean, and analyse the PsiConnect dataset
+
 ## MDX
 - [meefs/Prompt-Engineering-Guide](https://github.com/meefs/Prompt-Engineering-Guide): 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [meefs/cloudflare-docs](https://github.com/meefs/cloudflare-docs): Cloudflare’s documentation
