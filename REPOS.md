@@ -414,6 +414,7 @@
 - [meefs/jobassist](https://github.com/meefs/jobassist): Application with Database to help you manage your job search
 - [meefs/kimi-k3-mlx](https://github.com/meefs/kimi-k3-mlx): MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis
 - [meefs/large_concept_model](https://github.com/meefs/large_concept_model): Large Concept Models: Language modeling in a sentence representation space
+- [meefs/legal-templates](https://github.com/meefs/legal-templates): Public collection of high-quality templates created by General Legal attorneys with CC0 license
 - [meefs/lenu](https://github.com/meefs/lenu): Legal Entity Name Understanding
 - [meefs/linkml-project-copier](https://github.com/meefs/linkml-project-copier): A copier template for your next LinkML project
 - [meefs/live-music-diffusion-models](https://github.com/meefs/live-music-diffusion-models): No description
