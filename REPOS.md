@@ -666,6 +666,7 @@
 - [meefs/jupyter](https://github.com/meefs/jupyter): A Waldiez JupyterLab extension.
 - [meefs/kit](https://github.com/meefs/kit): Solana JavaScript SDK
 - [meefs/knowledge-catalog](https://github.com/meefs/knowledge-catalog): Google Cloud Knowledge Catalog Tools and Samples
+- [meefs/legion](https://github.com/meefs/legion): Legion: local Claude-only multi-agent desktop app
 - [meefs/lemmy](https://github.com/meefs/lemmy): Wrapper around tool using LLMs for agentic workflows
 - [meefs/lossless-cut](https://github.com/meefs/lossless-cut): The swiss army knife of lossless video/audio editing
 - [meefs/lucid-agents](https://github.com/meefs/lucid-agents): Lucid Agents Commerce SDK. Bootstrap AI agents in 60 seconds that can pay, sell, and participate in agentic commerce supply chains. Our protocol agnostic SDK provides CLI-generated templates and drop-in adapters for Hono, Express, Next.js, and TanStack, giving you instant access to crypto/fiat payment rails (AP2, A2A, x402, ERC8004).
