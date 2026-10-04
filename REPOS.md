@@ -50,6 +50,7 @@
 - [meefs/sentencepiece](https://github.com/meefs/sentencepiece): Unsupervised text tokenizer for Neural Network-based text generation.
 - [meefs/shadPS4](https://github.com/meefs/shadPS4): PS4 emulator for Windows,Linux,MacOS
 - [meefs/shapeml](https://github.com/meefs/shapeml): ShapeML is a rule- or grammar-based procedural 3D modeling framework.
+- [meefs/signalflow](https://github.com/meefs/signalflow): A sound synthesis framework for Python, designed for clear and concise expression of musical ideas
 - [meefs/stable-diffusion.cpp](https://github.com/meefs/stable-diffusion.cpp): Stable Diffusion in pure C/C++
 - [meefs/stellarium](https://github.com/meefs/stellarium): Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 - [meefs/td](https://github.com/meefs/td): Cross-platform library for building Telegram clients
@@ -163,6 +164,7 @@
 - [meefs/ECC](https://github.com/meefs/ECC): The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [meefs/Jevons](https://github.com/meefs/Jevons): Jev
 - [meefs/MIDI2.0Workbench](https://github.com/meefs/MIDI2.0Workbench): MIDI 2.0 Testing Tool
+- [meefs/OrigamiSimulator](https://github.com/meefs/OrigamiSimulator): Realtime WebGL origami simulator
 - [meefs/SIP-Sentinel](https://github.com/meefs/SIP-Sentinel): No description
 - [meefs/TinyCode](https://github.com/meefs/TinyCode): Size Coding Magic 🧙
 - [meefs/WeavingType](https://github.com/meefs/WeavingType): No description
