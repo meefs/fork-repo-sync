@@ -576,6 +576,7 @@
 - [meefs/codebase-harness](https://github.com/meefs/codebase-harness): No description
 - [meefs/gpt3-cli](https://github.com/meefs/gpt3-cli): A lightweight command-line interface to OpenAI's GPT-3. Temperature, presence, and frequency up to 2. Streaming support
 - [meefs/iTerm2-Color-Schemes](https://github.com/meefs/iTerm2-Color-Schemes): Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more
+- [meefs/icons](https://github.com/meefs/icons): All SVG icons available on https://game-icons.net
 - [meefs/ipranges](https://github.com/meefs/ipranges): 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
 - [meefs/ohmyzsh](https://github.com/meefs/ohmyzsh): 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [meefs/omarchy](https://github.com/meefs/omarchy): Beautiful, Modern & Opinionated Linux
