@@ -316,6 +316,7 @@
 - [meefs/BirdNET-Analyzer](https://github.com/meefs/BirdNET-Analyzer): BirdNET analyzer for scientific audio data processing.
 - [meefs/CLIP-based-NSFW-Detector](https://github.com/meefs/CLIP-based-NSFW-Detector): No description
 - [meefs/CVE-2025-31324](https://github.com/meefs/CVE-2025-31324): CVE-2025-31324, SAP Exploit
+- [meefs/CeeloScratch](https://github.com/meefs/CeeloScratch): Generic scratch
 - [meefs/ChaosNLI](https://github.com/meefs/ChaosNLI): [EMNLP 2020] Collective HumAn OpinionS on Natural Language Inference Data
 - [meefs/ChatDoctor](https://github.com/meefs/ChatDoctor): No description
 - [meefs/Claude-BugHunter](https://github.com/meefs/Claude-BugHunter): A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
