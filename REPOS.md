@@ -133,6 +133,7 @@
 - [meefs/ticker](https://github.com/meefs/ticker): Track stocks, crypto, and derivatives prices and positions in real time from your terminal
 
 ## HTML
+- [meefs/InverseCramer](https://github.com/meefs/InverseCramer): An exploration of motion graphics
 - [meefs/NSA-Playset](https://github.com/meefs/NSA-Playset): Mirror of the NSA Playset Project
 - [meefs/TheBigPromptLibrary](https://github.com/meefs/TheBigPromptLibrary): A collection of prompts, system prompts and LLM instructions
 - [meefs/Top10](https://github.com/meefs/Top10): Official OWASP Top 10 Document Repository
