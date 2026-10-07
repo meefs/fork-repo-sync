@@ -736,6 +736,7 @@
 - [meefs/Crypto-OpSec-SelfGuard-RoadMap](https://github.com/meefs/Crypto-OpSec-SelfGuard-RoadMap): Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
 - [meefs/DoesItAgeVerify](https://github.com/meefs/DoesItAgeVerify): The age verification status of Open Source Operating Systems
 - [meefs/EXTERNAL](https://github.com/meefs/EXTERNAL): EXTERNAL-SHOWCASE
+- [meefs/ExploitingBooks](https://github.com/meefs/ExploitingBooks): Reversing & Exploiting Books Collection
 - [meefs/FaceSynthetics](https://github.com/meefs/FaceSynthetics): No description
 - [meefs/GAI-is-going-well](https://github.com/meefs/GAI-is-going-well): This is a  curated collection of articles and  research  papers related to  the unexpected  or unwanted outcomes , security & privacy  risks associated with using LLMs/GAI. 
 - [meefs/HouSecCon](https://github.com/meefs/HouSecCon): a collection of information from HOU.SEC.CON
