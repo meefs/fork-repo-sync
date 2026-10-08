@@ -8,6 +8,7 @@
 
 ## C#
 - [meefs/Bash-Wizard](https://github.com/meefs/Bash-Wizard): a bash script generator
+- [meefs/Cpp2IL](https://github.com/meefs/Cpp2IL): Work-in-progress tool to reverse unity's IL2CPP toolchain.
 - [meefs/EKFiddle](https://github.com/meefs/EKFiddle): Your Swiss Army knife to analyze malicious web traffic based on the popular Fiddler web debugger.
 - [meefs/Open-XML-SDK](https://github.com/meefs/Open-XML-SDK): Open XML SDK by Microsoft
 - [meefs/WaveFunctionCollapse](https://github.com/meefs/WaveFunctionCollapse): Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
@@ -23,7 +24,9 @@
 - [meefs/LichtFeld-Studio](https://github.com/meefs/LichtFeld-Studio): Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.
 - [meefs/LiteRT-LM](https://github.com/meefs/LiteRT-LM): No description
 - [meefs/MIDIsprout](https://github.com/meefs/MIDIsprout): MIDI Sprout is a Biodata Sonification system, capable of reading microfluctuations in conductivity across the surface of a plant's leaf and translating those changes into MIDI notes.
+- [meefs/MilkDrop3](https://github.com/meefs/MilkDrop3): MilkDrop 3.0, supports any audio source, double-preset (.milk2), loading presets based on beat detection and much more...
 - [meefs/OperatorGraph](https://github.com/meefs/OperatorGraph): Shape grammar base system and auto-tuner based on the operator graph idea
+- [meefs/PortPS5](https://github.com/meefs/PortPS5): Converts decrypted PS5 game dumps into native Windows executables via binary relinking, replacement system libraries, and Vulkan. No CPU emulation.
 - [meefs/RoguePlanet](https://github.com/meefs/RoguePlanet): RoguePlanet Windows Defender Vulnerability
 - [meefs/context-free](https://github.com/meefs/context-free): Context Free is a program that generates images from written instructions called a grammar. The program follows the instructions in a few seconds to create images that can contain millions of shapes.
 - [meefs/cryptominisat](https://github.com/meefs/cryptominisat): An advanced SAT solver
@@ -221,6 +224,7 @@
 - [meefs/cbomkit-action](https://github.com/meefs/cbomkit-action): GitHub Action to generate Cryptography Bill of Materials (CBOM)
 - [meefs/cbomkit](https://github.com/meefs/cbomkit): A toolset for dealing with Cryptography Bill of Materials (CBOM)
 - [meefs/eureka](https://github.com/meefs/eureka): AWS Service registry for resilient mid-tier load balancing and failover.
+- [meefs/ghidra-mcp](https://github.com/meefs/ghidra-mcp): Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.
 - [meefs/ta-lib](https://github.com/meefs/ta-lib): TA-Lib (Core C Library)
 
 ## Jinja
@@ -435,6 +439,7 @@
 - [meefs/harlequin](https://github.com/meefs/harlequin): The SQL IDE for Your Terminal.
 - [meefs/hermes-agent](https://github.com/meefs/hermes-agent): The agent that grows with you
 - [meefs/iGAN](https://github.com/meefs/iGAN): Interactive Image Generation via Generative Adversarial Networks
+- [meefs/ida-mcp](https://github.com/meefs/ida-mcp): Official Hex-Rays IDA MCP Server.
 - [meefs/ieml](https://github.com/meefs/ieml): IEML semantic language - a meaning-representation system based on semantic primitives and a regular grammar. Basic semantic relationships between concepts are automatically computed from syntactic similarities.
 - [meefs/infinigen](https://github.com/meefs/infinigen): Infinite Photorealistic Worlds using Procedural Generation
 - [meefs/innertube](https://github.com/meefs/innertube): Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more!
@@ -506,6 +511,7 @@
 - [meefs/tplmap](https://github.com/meefs/tplmap): Server-Side Template Injection and Code Injection Detection and Exploitation Tool
 - [meefs/trailofbits-skills](https://github.com/meefs/trailofbits-skills): Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 - [meefs/ultralytics](https://github.com/meefs/ultralytics): Ultralytics YOLO11 🚀
+- [meefs/universal-modder](https://github.com/meefs/universal-modder): Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.
 - [meefs/unsloth](https://github.com/meefs/unsloth): Finetune Llama 3.2, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
 - [meefs/video-use](https://github.com/meefs/video-use): Edit videos with coding agents
 - [meefs/web3-security-resources](https://github.com/meefs/web3-security-resources): Curated Web3 security learning hub for smart contract auditors and protocol teams: roadmaps, audit tools, public reports, fuzzing, formal verification, AI-assisted workflows, offchain security, incident response, and launch checklists.
@@ -695,6 +701,7 @@
 - [meefs/puter](https://github.com/meefs/puter): 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [meefs/react-native-webgpu](https://github.com/meefs/react-native-webgpu): React Native implementation of WebGPU using Dawn
 - [meefs/react-video-ascii](https://github.com/meefs/react-video-ascii): Video to ASCII React component.
+- [meefs/rea](https://github.com/meefs/rea): Reverse engineer anything with agents, from app behavior down to native binaries.
 - [meefs/repomix](https://github.com/meefs/repomix): 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 - [meefs/revoke.cash](https://github.com/meefs/revoke.cash): ❌ Revoke or update your token approvals
 - [meefs/scrolls](https://github.com/meefs/scrolls): No description
@@ -752,6 +759,7 @@
 - [meefs/TouchOSC](https://github.com/meefs/TouchOSC): A collection of examples and modules for TouchOSC MK2
 - [meefs/advisory-database](https://github.com/meefs/advisory-database): Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 - [meefs/agent.md](https://github.com/meefs/agent.md): This repository defines AGENT.md, a standardized format that lets your codebase speak directly to any agentic coding tool.
+- [meefs/ai-game-modding-guides](https://github.com/meefs/ai-game-modding-guides): Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting.
 - [meefs/algorithms](https://github.com/meefs/algorithms): Bug-tracking for Jeff's algorithms book, notes, etc.
 - [meefs/arc_pi_taxonomy](https://github.com/meefs/arc_pi_taxonomy): The Arcanum Prompt Injection Taxonomy
 - [meefs/as-ip-blocks](https://github.com/meefs/as-ip-blocks): Download IP block lists by ASN - network provider addresses, updated daily
