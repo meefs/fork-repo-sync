@@ -62,6 +62,7 @@
 - [meefs/vvenc](https://github.com/meefs/vvenc): VVenC, the Fraunhofer Versatile Video Encoder
 - [meefs/whisper.cpp](https://github.com/meefs/whisper.cpp): Port of OpenAI's Whisper model in C/C++
 - [meefs/workerd](https://github.com/meefs/workerd): The JavaScript / Wasm runtime that powers Cloudflare Workers
+- [meefs/yue2.cpp](https://github.com/meefs/yue2.cpp): Portable C++17 implementation of YuE2 AI Music Generator using GGML. Text + lyrics in, stereo 48kHz MP3 or WAV out. Runs on CPU, CUDA, ROCm, Metal, Vulkan.
 - [meefs/zeek](https://github.com/meefs/zeek): Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
 
 ## CSS
@@ -383,6 +384,7 @@
 - [meefs/Unlimited-OCR](https://github.com/meefs/Unlimited-OCR): Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [meefs/VSP-LLM](https://github.com/meefs/VSP-LLM): No description
 - [meefs/VibeVoice](https://github.com/meefs/VibeVoice): Open-Source Frontier Voice AI
+- [meefs/YuE](https://github.com/meefs/YuE): YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
 - [meefs/ag2](https://github.com/meefs/ag2): AG2 (formerly AutoGen) is a programming framework for agentic AI. Join the community at: https://discord.gg/pAbnFJrkgZ
 - [meefs/agents-for-openbb](https://github.com/meefs/agents-for-openbb): Custom agents for OpenBB Workspace
 - [meefs/agentskills](https://github.com/meefs/agentskills): Specification and documentation for Agent Skills
