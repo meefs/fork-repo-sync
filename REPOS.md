@@ -166,6 +166,7 @@
 - [meefs/Code-Package-p5.js](https://github.com/meefs/Code-Package-p5.js): Code package of the book: Generative Design – Creative Coding for the Web with JavaScript in p5.js
 - [meefs/Codrops-Pixel-Voxel-Drop](https://github.com/meefs/Codrops-Pixel-Voxel-Drop): Codrops Demo & Tutorial
 - [meefs/ECC](https://github.com/meefs/ECC): The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [meefs/ImWeb](https://github.com/meefs/ImWeb): Real-time video synthesis instrument in the browser — a reimagining of Steina Vasulka & Tom Demeyer's Image/ine (STEIM). Compositing, 3D, audio engine, live GLSL, MIDI/OSC, and an AI layer that can see the output. Free, AGPL.
 - [meefs/Jevons](https://github.com/meefs/Jevons): Jev
 - [meefs/MIDI2.0Workbench](https://github.com/meefs/MIDI2.0Workbench): MIDI 2.0 Testing Tool
 - [meefs/OrigamiSimulator](https://github.com/meefs/OrigamiSimulator): Realtime WebGL origami simulator
@@ -555,6 +556,7 @@
 - [meefs/kao](https://github.com/meefs/kao): Secure and cute desktop wallet for Ethereum.
 - [meefs/lambdaworks](https://github.com/meefs/lambdaworks): lambdaworks offers implementations for both SNARKs and STARKs provers, along with the flexibility to leverage their individual components for constructing customized SNARKs.
 - [meefs/loom](https://github.com/meefs/loom): if your name is not Geoffrey Huntley then do not use loom
+- [meefs/mxc](https://github.com/meefs/mxc): Policy-driven, layered isolation and containment 
 - [meefs/overlay-broadcast](https://github.com/meefs/overlay-broadcast): No description
 - [meefs/pingora](https://github.com/meefs/pingora): A library for building fast, reliable and evolvable network services.
 - [meefs/pkarr](https://github.com/meefs/pkarr): Public Key Addressable Resource Records (sovereign TLDs)
