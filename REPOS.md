@@ -68,6 +68,7 @@
 ## CSS
 - [meefs/SocialFish](https://github.com/meefs/SocialFish): Phishing Tool & Information Collector 
 - [meefs/ableton-controllers-research](https://github.com/meefs/ableton-controllers-research): A list of natively supported control surfaces within Ableton Live created with the help of Claude Code
+- [meefs/easings.net](https://github.com/meefs/easings.net): Easing Functions Cheat Sheet
 - [meefs/hound](https://github.com/meefs/hound): Hound is a simple and light tool for information gathering and capture exact GPS coordinates
 - [meefs/packgod](https://github.com/meefs/packgod): Repository for a packgod roast generator im developing
 - [meefs/skills-github-pages](https://github.com/meefs/skills-github-pages): My clone repository
@@ -210,6 +211,7 @@
 - [meefs/splat](https://github.com/meefs/splat): WebGL 3D Gaussian Splat Viewer
 - [meefs/stemdeck](https://github.com/meefs/stemdeck): Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface
 - [meefs/tactile-js](https://github.com/meefs/tactile-js): A Javascript library for representing, manipulating, and drawing periodic tilings of the plane.
+- [meefs/tearout-gun](https://github.com/meefs/tearout-gun): Browser synth for tearout guns, snares and chugs, fitted to real sounds
 - [meefs/telegram-inline-calendar](https://github.com/meefs/telegram-inline-calendar): Date and time picker and Inline calendar for Node.js telegram bots
 - [meefs/test-webgpu](https://github.com/meefs/test-webgpu): No description
 - [meefs/three.js](https://github.com/meefs/three.js): JavaScript 3D Library.
@@ -400,6 +402,7 @@
 - [meefs/basic-pitch](https://github.com/meefs/basic-pitch): A lightweight yet powerful audio-to-MIDI converter with pitch bend detection
 - [meefs/binance-public-data](https://github.com/meefs/binance-public-data): Details on how to get Binance public data
 - [meefs/bitstamp-btcusd-minute-data](https://github.com/meefs/bitstamp-btcusd-minute-data): Daily updates of Bitstamp BTC/USD 1-minute OHLC data, with historical data since 2012
+- [meefs/blender-midi-motion](https://github.com/meefs/blender-midi-motion): Blender plugin to generate animation keyframes from MIDI files
 - [meefs/bro-clickhouse](https://github.com/meefs/bro-clickhouse): No description
 - [meefs/browser-use](https://github.com/meefs/browser-use): 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [meefs/bug-bounty-labs](https://github.com/meefs/bug-bounty-labs): All the labs in this repository simulate real world bugs I found in the wild
@@ -487,6 +490,7 @@
 - [meefs/prompt-injection-as-role-confusion](https://github.com/meefs/prompt-injection-as-role-confusion): Prompt Injection as Role Confusion
 - [meefs/psalm-alignment](https://github.com/meefs/psalm-alignment): Does injecting biblical Psalms into an LLM's system prompt measurably affect ethical alignment? An empirical experiment using the Hendrycks ETHICS benchmark on Claude Sonnet 4 and GPT-4o.
 - [meefs/public-apis](https://github.com/meefs/public-apis): A collective list of free APIs
+- [meefs/pushing-creation](https://github.com/meefs/pushing-creation): Cinematic prompt methodology for AI image and video generation. Install into Claude Code, author director-grade style packs and storyboards from your reference images. Output is markdown, drop-in compatible with PUSHING FRAMES.
 - [meefs/raptor](https://github.com/meefs/raptor): Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations.
 - [meefs/sam3](https://github.com/meefs/sam3): The repository provides code for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [meefs/sandbox_escape_bench](https://github.com/meefs/sandbox_escape_bench): No description
