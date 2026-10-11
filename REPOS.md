@@ -206,6 +206,7 @@
 - [meefs/os-taxonomy](https://github.com/meefs/os-taxonomy): No description
 - [meefs/ponytail](https://github.com/meefs/ponytail): Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [meefs/portal-network-specs](https://github.com/meefs/portal-network-specs): Official repository for specifications for the Portal Network
+- [meefs/servers](https://github.com/meefs/servers): Model Context Protocol Servers
 - [meefs/simple-icons](https://github.com/meefs/simple-icons): SVG icons for popular brands
 - [meefs/skills-getting-started-with-github-copilot](https://github.com/meefs/skills-getting-started-with-github-copilot): Exercise: Get started using GitHub Copilot
 - [meefs/splat](https://github.com/meefs/splat): WebGL 3D Gaussian Splat Viewer
@@ -713,7 +714,6 @@
 - [meefs/repomix](https://github.com/meefs/repomix): 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.
 - [meefs/revoke.cash](https://github.com/meefs/revoke.cash): ❌ Revoke or update your token approvals
 - [meefs/scrolls](https://github.com/meefs/scrolls): No description
-- [meefs/servers](https://github.com/meefs/servers): Model Context Protocol Servers
 - [meefs/shaders](https://github.com/meefs/shaders): Zero-dependency canvas shaders that can be installed from npm or designed in Paper
 - [meefs/shannon](https://github.com/meefs/shannon): Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 - [meefs/solana-app-kit](https://github.com/meefs/solana-app-kit): build solana apps under 15 mins
