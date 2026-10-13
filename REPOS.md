@@ -148,6 +148,7 @@
 - [meefs/ai-engineering-field-guide](https://github.com/meefs/ai-engineering-field-guide): Research into AI engineering interview assignments, take-home challenges, and hiring practices from 2026
 - [meefs/apple-permissions](https://github.com/meefs/apple-permissions): A layered field guide to the macOS app permission model: POSIX bits, Gatekeeper, XProtect, SIP, and where TCC fits.
 - [meefs/awesome-compose](https://github.com/meefs/awesome-compose): Awesome Docker Compose samples
+- [meefs/cipher-museum](https://github.com/meefs/cipher-museum): Cipher Museum is an open-source, interactive cryptography-history museum where visitors learn ciphers by using them, attacking them, and seeing how each failure shaped modern security.
 - [meefs/cloud_haiku](https://github.com/meefs/cloud_haiku): Community-made poetry about infrastructure
 - [meefs/cve](https://github.com/meefs/cve): Gather and update all available and newest CVEs with their PoC.
 - [meefs/docs](https://github.com/meefs/docs): documentation for content creation
@@ -561,6 +562,7 @@
 - [meefs/hexcap](https://github.com/meefs/hexcap): A TUI packet capture tool with libpcap and hexyl-style hex dump.
 - [meefs/iroh](https://github.com/meefs/iroh): peer-2-peer that just works
 - [meefs/ja4](https://github.com/meefs/ja4): JA4+ is a suite of network fingerprinting standards
+- [meefs/just](https://github.com/meefs/just): 🤖 Just a command runner
 - [meefs/kao](https://github.com/meefs/kao): Secure and cute desktop wallet for Ethereum.
 - [meefs/lambdaworks](https://github.com/meefs/lambdaworks): lambdaworks offers implementations for both SNARKs and STARKs provers, along with the flexibility to leverage their individual components for constructing customized SNARKs.
 - [meefs/loom](https://github.com/meefs/loom): if your name is not Geoffrey Huntley then do not use loom
