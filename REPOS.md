@@ -268,6 +268,7 @@
 - [meefs/gemma-cookbook](https://github.com/meefs/gemma-cookbook): A collection of guides and examples for the Gemma open models from Google.
 - [meefs/gpt-oss-alignment](https://github.com/meefs/gpt-oss-alignment): No description
 - [meefs/illusion-diffusion-stable](https://github.com/meefs/illusion-diffusion-stable): This project works by using Monster Labs QR Control Net. Given a prompt and your pattern, we use a QR code conditioned controlnet to create a stunning illusion! Credit to: MrUgleh & AP123
+- [meefs/ishkurs-guide-dataset](https://github.com/meefs/ishkurs-guide-dataset): Structured Data from Ishkur's Guide to Electronic Music. Working Mirror for v2.5 here: https://igorbrigadir.github.io/ishkurs-guide-dataset/
 - [meefs/llama-recipes](https://github.com/meefs/llama-recipes): Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger.
 - [meefs/llms-txt](https://github.com/meefs/llms-txt): The /llms.txt file, helping language models use your website
 - [meefs/nano-banana-hackathon-kit](https://github.com/meefs/nano-banana-hackathon-kit): 🍌 The official starter kit for the Nano Banana Hackathon. Clone this repo to get building fast!
@@ -628,6 +629,9 @@
 - [meefs/luma](https://github.com/meefs/luma): No description
 - [meefs/palmier-pro](https://github.com/meefs/palmier-pro): macOS video editor built for AI
 - [meefs/sam2-studio](https://github.com/meefs/sam2-studio): No description
+
+## TeX
+- [meefs/acousticbrainz-genre-dataset](https://github.com/meefs/acousticbrainz-genre-dataset): The AcousticBrainz Genre Dataset
 
 ## Text
 - [meefs/dns-blocklists](https://github.com/meefs/dns-blocklists): DNS-Blocklists: For a better internet - keep the internet clean!
