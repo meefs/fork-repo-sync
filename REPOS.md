@@ -39,7 +39,6 @@
 - [meefs/ggwave](https://github.com/meefs/ggwave): Tiny data-over-sound library
 - [meefs/highway](https://github.com/meefs/highway): Performance-portable, length-agnostic SIMD with runtime dispatch
 - [meefs/llama.cpp](https://github.com/meefs/llama.cpp): LLM inference in C/C++
-- [meefs/longfellow-zk](https://github.com/meefs/longfellow-zk): Implementation of the Google Zero-Knowledge library for Identity Protocols.
 - [meefs/m4l-connection-kit](https://github.com/meefs/m4l-connection-kit): Max for Live Connection Kit
 - [meefs/mediapipe](https://github.com/meefs/mediapipe): Cross-platform, customizable ML solutions for live and streaming media.
 - [meefs/mlx](https://github.com/meefs/mlx): MLX: An array framework for Apple silicon
@@ -283,6 +282,7 @@
 
 ## Lean
 - [meefs/lean4](https://github.com/meefs/lean4): Lean 4 programming language and theorem prover
+- [meefs/longfellow-zk](https://github.com/meefs/longfellow-zk): Implementation of the Google Zero-Knowledge library for Identity Protocols.
 - [meefs/sparkle](https://github.com/meefs/sparkle): A type-safe, formally verifiable HDL compiler in Lean 4. Inspired by Clash, built for high-assurance hardware synthesis.
 - [meefs/sphincsminus](https://github.com/meefs/sphincsminus): Implementations of sphnics minus in python and lean
 
