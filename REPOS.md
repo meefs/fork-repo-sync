@@ -50,6 +50,7 @@
 - [meefs/paulxstretch](https://github.com/meefs/paulxstretch): PaulXStretch - Extreme Timestretching application and plugin
 - [meefs/powertabeditor](https://github.com/meefs/powertabeditor): View and edit guitar tablature.
 - [meefs/quiche](https://github.com/meefs/quiche): No description
+- [meefs/receiver-basecamp](https://github.com/meefs/receiver-basecamp): Listen-only Logos Basecamp module — discover & play decentralized radio over LogosMessaging (delivery_module). Works on the 268 build; the latest 295 hangs getClient (platform regression, logos-basecamp#150).
 - [meefs/sentencepiece](https://github.com/meefs/sentencepiece): Unsupervised text tokenizer for Neural Network-based text generation.
 - [meefs/shadPS4](https://github.com/meefs/shadPS4): PS4 emulator for Windows,Linux,MacOS
 - [meefs/shapeml](https://github.com/meefs/shapeml): ShapeML is a rule- or grammar-based procedural 3D modeling framework.
@@ -355,6 +356,7 @@
 - [meefs/Lens](https://github.com/meefs/Lens): Lens is a 3.8B-parameter text-to-image diffusion model that achieves quality competitive with and in several cases surpassing models like FLUX and SD3, while requiring significantly less training compute. Key ideas include maximizing data information density per batch and accelerating convergence. 
 - [meefs/MMAudio](https://github.com/meefs/MMAudio): [arXiv 2024] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
 - [meefs/Maestro](https://github.com/meefs/Maestro): An all-in-one, 100% local AI video, image, and music studio. Director mode plans full music videos and short films from a single prompt. Built on the WanGP pipeline. Install via Pinokio.
+- [meefs/MidiTok](https://github.com/meefs/MidiTok): MIDI / symbolic music tokenizers for Deep Learning models 🎶
 - [meefs/MiniMax-01](https://github.com/meefs/MiniMax-01): No description
 - [meefs/MiroFish](https://github.com/meefs/MiroFish): A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 - [meefs/MoneyPrinterTurbo](https://github.com/meefs/MoneyPrinterTurbo): 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -632,6 +634,7 @@
 
 ## TeX
 - [meefs/acousticbrainz-genre-dataset](https://github.com/meefs/acousticbrainz-genre-dataset): The AcousticBrainz Genre Dataset
+- [meefs/awesome-deep-learning-music](https://github.com/meefs/awesome-deep-learning-music): List of articles related to deep learning applied to music
 
 ## Text
 - [meefs/dns-blocklists](https://github.com/meefs/dns-blocklists): DNS-Blocklists: For a better internet - keep the internet clean!
