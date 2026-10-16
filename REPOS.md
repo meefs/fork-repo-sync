@@ -120,6 +120,7 @@
 - [meefs/agent-sandbox](https://github.com/meefs/agent-sandbox): agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.
 - [meefs/ai-context](https://github.com/meefs/ai-context): CLI tool to produce MD context files from many sources, to help interact with LLMs (ChatGPT, Llama3, Claude, etc.).
 - [meefs/assets](https://github.com/meefs/assets): A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+- [meefs/binny](https://github.com/meefs/binny): BINNY: an open source agent harness for reverse engineering. Plug in any model, or a local one.
 - [meefs/btcvm](https://github.com/meefs/btcvm): BTC virtual machine for Metal Blockchain
 - [meefs/cheat](https://github.com/meefs/cheat): cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - [meefs/cilium](https://github.com/meefs/cilium): eBPF-based Networking, Security, and Observability
