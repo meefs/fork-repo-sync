@@ -356,6 +356,7 @@
 - [meefs/LAPTOP](https://github.com/meefs/LAPTOP): No description
 - [meefs/LLMs4OL](https://github.com/meefs/LLMs4OL): LLMs4OL:‌ Large Language Models for Ontology Learning
 - [meefs/Lens](https://github.com/meefs/Lens): Lens is a 3.8B-parameter text-to-image diffusion model that achieves quality competitive with and in several cases surpassing models like FLUX and SD3, while requiring significantly less training compute. Key ideas include maximizing data information density per batch and accelerating convergence. 
+- [meefs/LiveMosher](https://github.com/meefs/LiveMosher): Front-end app for FFglitch
 - [meefs/MMAudio](https://github.com/meefs/MMAudio): [arXiv 2024] Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
 - [meefs/Maestro](https://github.com/meefs/Maestro): An all-in-one, 100% local AI video, image, and music studio. Director mode plans full music videos and short films from a single prompt. Built on the WanGP pipeline. Install via Pinokio.
 - [meefs/MidiTok](https://github.com/meefs/MidiTok): MIDI / symbolic music tokenizers for Deep Learning models 🎶
