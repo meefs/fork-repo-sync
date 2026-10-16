@@ -90,6 +90,7 @@
 - [meefs/cve-2024-6387-poc](https://github.com/meefs/cve-2024-6387-poc): a signal handler race condition in OpenSSH's server (sshd)
 - [meefs/ffglitch-core](https://github.com/meefs/ffglitch-core): FFglitch - FFmpeg fork for glitching
 - [meefs/httpd](https://github.com/meefs/httpd): Mirror of Apache HTTP Server. Issues: http://issues.apache.org
+- [meefs/iris.c](https://github.com/meefs/iris.c): Flux 2 image generation model pure C inference
 - [meefs/jenn3d](https://github.com/meefs/jenn3d): A Toy for Visualizing Coxeter Polytopes
 - [meefs/malady](https://github.com/meefs/malady): maldev obviously
 - [meefs/nginx](https://github.com/meefs/nginx): The official NGINX Open Source repository.
