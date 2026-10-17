@@ -504,6 +504,7 @@
 - [meefs/pushing-creation](https://github.com/meefs/pushing-creation): Cinematic prompt methodology for AI image and video generation. Install into Claude Code, author director-grade style packs and storyboards from your reference images. Output is markdown, drop-in compatible with PUSHING FRAMES.
 - [meefs/raptor](https://github.com/meefs/raptor): Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations.
 - [meefs/sam3](https://github.com/meefs/sam3): The repository provides code for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+- [meefs/samuel](https://github.com/meefs/samuel): A silly speech model - Pink Trombone automated
 - [meefs/sandbox_escape_bench](https://github.com/meefs/sandbox_escape_bench): No description
 - [meefs/shell_gpt](https://github.com/meefs/shell_gpt): A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.
 - [meefs/sherlock](https://github.com/meefs/sherlock): Hunt down social media accounts by username across social networks
@@ -554,6 +555,7 @@
 - [meefs/Graphite](https://github.com/meefs/Graphite): Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [meefs/Insert](https://github.com/meefs/Insert): Insert is a programming language for self-modifying code.
 - [meefs/RuView](https://github.com/meefs/RuView): π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
+- [meefs/SPACE](https://github.com/meefs/SPACE): Sandboxed Platform for Agentic Code Execution: pluggable-runtime sandboxes for running agent and user code in isolation.
 - [meefs/STOK-CORE](https://github.com/meefs/STOK-CORE):  STOK-Core implements State-Time Option Kernels end-to-end: a reinforcement learning   toolkit modeling goal/constraint termination distributions for compositional planning.   It pairs Burn-backed GPU acceleration with Task MDP solvers, Chapman-Kolmogorov   composition, and factorized prediction kernels so hierarchical planners remain   modular.
 - [meefs/ZeroOS](https://github.com/meefs/ZeroOS): ZeroOS: A Universal Modular Library OS for zkVMs
 - [meefs/baml](https://github.com/meefs/baml): The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
