@@ -93,6 +93,7 @@
 - [meefs/httpd](https://github.com/meefs/httpd): Mirror of Apache HTTP Server. Issues: http://issues.apache.org
 - [meefs/iris.c](https://github.com/meefs/iris.c): Flux 2 image generation model pure C inference
 - [meefs/jenn3d](https://github.com/meefs/jenn3d): A Toy for Visualizing Coxeter Polytopes
+- [meefs/kryptoradio](https://github.com/meefs/kryptoradio): Bitcoin serialization and broadcasting tool (and more!)
 - [meefs/malady](https://github.com/meefs/malady): maldev obviously
 - [meefs/nginx](https://github.com/meefs/nginx): The official NGINX Open Source repository.
 - [meefs/prvhash](https://github.com/meefs/prvhash): PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor. (Codename Gradilac/Градилак)
@@ -115,6 +116,7 @@
 - [meefs/SoundThread](https://github.com/meefs/SoundThread): Node based GUI for The Composers Desktop Project
 
 ## GLSL
+- [meefs/shader-skills](https://github.com/meefs/shader-skills): No description
 - [meefs/thebookofshaders](https://github.com/meefs/thebookofshaders): Step-by-step guide through the abstract and complex universe of Fragment Shaders.
 
 ## Go
@@ -518,6 +520,7 @@
 - [meefs/stable-audio-3](https://github.com/meefs/stable-audio-3): No description
 - [meefs/stable-diffusion-webui](https://github.com/meefs/stable-diffusion-webui): Stable Diffusion web UI
 - [meefs/stablediffusion](https://github.com/meefs/stablediffusion): High-Resolution Image Synthesis with Latent Diffusion Models
+- [meefs/strix](https://github.com/meefs/strix): Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [meefs/style-transfer-pytorch](https://github.com/meefs/style-transfer-pytorch): Neural style transfer in PyTorch.
 - [meefs/subzuf](https://github.com/meefs/subzuf): a smart DNS response-guided subdomain fuzzer
 - [meefs/telegram_link_sanitizer](https://github.com/meefs/telegram_link_sanitizer): Gets rid of those garbage share params in URLs
