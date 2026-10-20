@@ -668,6 +668,7 @@
 - [meefs/anthropic-quickstarts](https://github.com/meefs/anthropic-quickstarts): A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
 - [meefs/audio-file-mcp-app](https://github.com/meefs/audio-file-mcp-app): An MCP App for playing and inspecting local audio files in an MCP host.
 - [meefs/basic-pitch-ts](https://github.com/meefs/basic-pitch-ts): A lightweight yet powerful audio-to-MIDI converter with pitch bend detection.
+- [meefs/bsv-desktop](https://github.com/meefs/bsv-desktop): Electron Desktop Wallet for BSV
 - [meefs/camelAI](https://github.com/meefs/camelAI): camelAI — an AI coding assistant platform built on Cloudflare Workers and Durable Objects
 - [meefs/cdp-agentkit](https://github.com/meefs/cdp-agentkit): No description
 - [meefs/chaoschain](https://github.com/meefs/chaoschain): The accountability protocol for the autonomous AI economy.
