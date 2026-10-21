@@ -171,6 +171,7 @@
 - [meefs/terminals](https://github.com/meefs/terminals): Research done by Claude on modern TUI's
 - [meefs/tessellations](https://github.com/meefs/tessellations): Interactive SVGs
 - [meefs/threeui](https://github.com/meefs/threeui): Open-source ThreeUI Community catalog with live interactive components and complete Community source.
+- [meefs/we-have-a-problem.com](https://github.com/meefs/we-have-a-problem.com): No description
 
 ## JavaScript
 - [meefs/Code-Package-p5.js](https://github.com/meefs/Code-Package-p5.js): Code package of the book: Generative Design – Creative Coding for the Web with JavaScript in p5.js
