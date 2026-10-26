@@ -2,7 +2,6 @@
 ## Assembly
 - [meefs/MS-DOS](https://github.com/meefs/MS-DOS): The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [meefs/gb-asm-tutorial](https://github.com/meefs/gb-asm-tutorial): Learn to create games for the Game Boy using Assembly
-- [meefs/pumpfun-source](https://github.com/meefs/pumpfun-source): Pump.fun deployment evidence and byte-exact reconstruction research (incomplete)
 
 ## Astro
 - [meefs/agentic-workflows-that-read-the-room](https://github.com/meefs/agentic-workflows-that-read-the-room): This is a GitHub Skills exercise on how to get started with Agentic Workflows where we will create simple use case to show the power of an Agentic Workflow
@@ -590,6 +589,7 @@
 - [meefs/pingora](https://github.com/meefs/pingora): A library for building fast, reliable and evolvable network services.
 - [meefs/pkarr](https://github.com/meefs/pkarr): Public Key Addressable Resource Records (sovereign TLDs)
 - [meefs/portal](https://github.com/meefs/portal): 🔵🟠 Portal Explorer — web visualization of mind-blowing portals using ray-tracing.
+- [meefs/pumpfun-source](https://github.com/meefs/pumpfun-source): Pump.fun deployment evidence and byte-exact reconstruction research (incomplete)
 - [meefs/pyxel](https://github.com/meefs/pyxel): A retro game engine for Python
 - [meefs/ralph-os](https://github.com/meefs/ralph-os): A vibe-coded toy operating system - x86-64, co-op multitasking, no memory protection, written in Rust
 - [meefs/ripgrep](https://github.com/meefs/ripgrep): ripgrep recursively searches directories for a regex pattern while respecting your gitignore
