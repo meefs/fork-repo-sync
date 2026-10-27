@@ -15,6 +15,7 @@
 - [meefs/tixl](https://github.com/meefs/tixl): TiXL is an open source software to create realtime motion graphics.
 
 ## C++
+- [meefs/0700-AAM](https://github.com/meefs/0700-AAM): Professional Standalone Music Production Center with 7" Touch Screen, Sampler, Touch Strip and Music Tribe JAM DAW
 - [meefs/BitNet](https://github.com/meefs/BitNet): Official inference framework for 1-bit LLMs
 - [meefs/CnC_Generals_Zero_Hour](https://github.com/meefs/CnC_Generals_Zero_Hour): Command and Conquer: Generals - Zero Hour
 - [meefs/FS1R.emu](https://github.com/meefs/FS1R.emu): A Windows emulation of the Yamaha FS1R, reconstructed from the firmware
