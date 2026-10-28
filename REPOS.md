@@ -285,6 +285,7 @@
 - [meefs/prompt-eng-interactive-tutorial](https://github.com/meefs/prompt-eng-interactive-tutorial): Anthropic's Interactive Prompt Engineering Tutorial
 - [meefs/prompt-to-prompt](https://github.com/meefs/prompt-to-prompt): No description
 - [meefs/psgan](https://github.com/meefs/psgan): Periodic Spatial Generative Adversarial Networks 
+- [meefs/psiconnect](https://github.com/meefs/psiconnect): Code used to preprocess, clean, and analyse the PsiConnect dataset
 - [meefs/research](https://github.com/meefs/research): Research notes
 - [meefs/segment-anything-2](https://github.com/meefs/segment-anything-2): The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [meefs/stable-diffusion-webui-colab](https://github.com/meefs/stable-diffusion-webui-colab): Stable Difffusion webui Google Colab Notebooks
@@ -294,9 +295,6 @@
 - [meefs/longfellow-zk](https://github.com/meefs/longfellow-zk): Implementation of the Google Zero-Knowledge library for Identity Protocols.
 - [meefs/sparkle](https://github.com/meefs/sparkle): A type-safe, formally verifiable HDL compiler in Lean 4. Inspired by Clash, built for high-assurance hardware synthesis.
 - [meefs/sphincsminus](https://github.com/meefs/sphincsminus): Implementations of sphnics minus in python and lean
-
-## MATLAB
-- [meefs/psiconnect](https://github.com/meefs/psiconnect): Code used to preprocess, clean, and analyse the PsiConnect dataset
 
 ## MDX
 - [meefs/Prompt-Engineering-Guide](https://github.com/meefs/Prompt-Engineering-Guide): 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
