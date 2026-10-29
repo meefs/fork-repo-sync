@@ -218,6 +218,7 @@
 - [meefs/os-taxonomy](https://github.com/meefs/os-taxonomy): No description
 - [meefs/ponytail](https://github.com/meefs/ponytail): Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [meefs/portal-network-specs](https://github.com/meefs/portal-network-specs): Official repository for specifications for the Portal Network
+- [meefs/pumpfun-source](https://github.com/meefs/pumpfun-source): Pump.fun deployment evidence and byte-exact reconstruction research (incomplete)
 - [meefs/simple-icons](https://github.com/meefs/simple-icons): SVG icons for popular brands
 - [meefs/skills-getting-started-with-github-copilot](https://github.com/meefs/skills-getting-started-with-github-copilot): Exercise: Get started using GitHub Copilot
 - [meefs/splat](https://github.com/meefs/splat): WebGL 3D Gaussian Splat Viewer
@@ -588,7 +589,6 @@
 - [meefs/pingora](https://github.com/meefs/pingora): A library for building fast, reliable and evolvable network services.
 - [meefs/pkarr](https://github.com/meefs/pkarr): Public Key Addressable Resource Records (sovereign TLDs)
 - [meefs/portal](https://github.com/meefs/portal): 🔵🟠 Portal Explorer — web visualization of mind-blowing portals using ray-tracing.
-- [meefs/pumpfun-source](https://github.com/meefs/pumpfun-source): Pump.fun deployment evidence and byte-exact reconstruction research (incomplete)
 - [meefs/pyxel](https://github.com/meefs/pyxel): A retro game engine for Python
 - [meefs/ralph-os](https://github.com/meefs/ralph-os): A vibe-coded toy operating system - x86-64, co-op multitasking, no memory protection, written in Rust
 - [meefs/ripgrep](https://github.com/meefs/ripgrep): ripgrep recursively searches directories for a regex pattern while respecting your gitignore
