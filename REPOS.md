@@ -218,7 +218,6 @@
 - [meefs/os-taxonomy](https://github.com/meefs/os-taxonomy): No description
 - [meefs/ponytail](https://github.com/meefs/ponytail): Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [meefs/portal-network-specs](https://github.com/meefs/portal-network-specs): Official repository for specifications for the Portal Network
-- [meefs/pumpfun-source](https://github.com/meefs/pumpfun-source): Pump.fun deployment evidence and byte-exact reconstruction research (incomplete)
 - [meefs/simple-icons](https://github.com/meefs/simple-icons): SVG icons for popular brands
 - [meefs/skills-getting-started-with-github-copilot](https://github.com/meefs/skills-getting-started-with-github-copilot): Exercise: Get started using GitHub Copilot
 - [meefs/splat](https://github.com/meefs/splat): WebGL 3D Gaussian Splat Viewer
@@ -509,6 +508,7 @@
 - [meefs/prompt-injection-as-role-confusion](https://github.com/meefs/prompt-injection-as-role-confusion): Prompt Injection as Role Confusion
 - [meefs/psalm-alignment](https://github.com/meefs/psalm-alignment): Does injecting biblical Psalms into an LLM's system prompt measurably affect ethical alignment? An empirical experiment using the Hendrycks ETHICS benchmark on Claude Sonnet 4 and GPT-4o.
 - [meefs/public-apis](https://github.com/meefs/public-apis): A collective list of free APIs
+- [meefs/pumpfun-source](https://github.com/meefs/pumpfun-source): Pump.fun deployment evidence and byte-exact reconstruction research (incomplete)
 - [meefs/pushing-creation](https://github.com/meefs/pushing-creation): Cinematic prompt methodology for AI image and video generation. Install into Claude Code, author director-grade style packs and storyboards from your reference images. Output is markdown, drop-in compatible with PUSHING FRAMES.
 - [meefs/raptor](https://github.com/meefs/raptor): Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations.
 - [meefs/sam3](https://github.com/meefs/sam3): The repository provides code for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
