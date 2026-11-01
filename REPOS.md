@@ -508,7 +508,6 @@
 - [meefs/prompt-injection-as-role-confusion](https://github.com/meefs/prompt-injection-as-role-confusion): Prompt Injection as Role Confusion
 - [meefs/psalm-alignment](https://github.com/meefs/psalm-alignment): Does injecting biblical Psalms into an LLM's system prompt measurably affect ethical alignment? An empirical experiment using the Hendrycks ETHICS benchmark on Claude Sonnet 4 and GPT-4o.
 - [meefs/public-apis](https://github.com/meefs/public-apis): A collective list of free APIs
-- [meefs/pumpfun-source](https://github.com/meefs/pumpfun-source): Pump.fun deployment evidence and byte-exact reconstruction research (incomplete)
 - [meefs/pushing-creation](https://github.com/meefs/pushing-creation): Cinematic prompt methodology for AI image and video generation. Install into Claude Code, author director-grade style packs and storyboards from your reference images. Output is markdown, drop-in compatible with PUSHING FRAMES.
 - [meefs/raptor](https://github.com/meefs/raptor): Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations.
 - [meefs/sam3](https://github.com/meefs/sam3): The repository provides code for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
@@ -589,6 +588,7 @@
 - [meefs/pingora](https://github.com/meefs/pingora): A library for building fast, reliable and evolvable network services.
 - [meefs/pkarr](https://github.com/meefs/pkarr): Public Key Addressable Resource Records (sovereign TLDs)
 - [meefs/portal](https://github.com/meefs/portal): 🔵🟠 Portal Explorer — web visualization of mind-blowing portals using ray-tracing.
+- [meefs/pumpfun-source](https://github.com/meefs/pumpfun-source): Pump.fun deployment evidence and byte-exact reconstruction research (incomplete)
 - [meefs/pyxel](https://github.com/meefs/pyxel): A retro game engine for Python
 - [meefs/ralph-os](https://github.com/meefs/ralph-os): A vibe-coded toy operating system - x86-64, co-op multitasking, no memory protection, written in Rust
 - [meefs/ripgrep](https://github.com/meefs/ripgrep): ripgrep recursively searches directories for a regex pattern while respecting your gitignore
