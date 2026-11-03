@@ -21,6 +21,7 @@
 - [meefs/FS1R.emu](https://github.com/meefs/FS1R.emu): A Windows emulation of the Yamaha FS1R, reconstructed from the firmware
 - [meefs/FinceptTerminal](https://github.com/meefs/FinceptTerminal): FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
 - [meefs/GhostStrike](https://github.com/meefs/GhostStrike): Deploy stealthy reverse shells using advanced process hollowing with GhostStrike – a C++ tool for ethical hacking and Red Team operations.
+- [meefs/Intel-Phi-QwenPU](https://github.com/meefs/Intel-Phi-QwenPU): An LLM inside an LLM: a RISC-V machine and NPU compiled into Qwen3.8-35B's weights, running Qwen3.8-2B, on a Xeon Phi 7120A's vector units. C and C++.
 - [meefs/LeftoverLocalsRelease](https://github.com/meefs/LeftoverLocalsRelease): The public release of LeftoverLocals code
 - [meefs/LichtFeld-Studio](https://github.com/meefs/LichtFeld-Studio): Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.
 - [meefs/LiteRT-LM](https://github.com/meefs/LiteRT-LM): No description
