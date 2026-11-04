@@ -195,6 +195,7 @@
 - [meefs/basedocs](https://github.com/meefs/basedocs): Documentation for building on Base
 - [meefs/bgit](https://github.com/meefs/bgit): Publish git repositories to Bitcoin. Clone them back with stock git. Forever.
 - [meefs/bsv-explorer](https://github.com/meefs/bsv-explorer): Simple, database-free, self-hosted Bitcoin blockchain explorer, via RPC. Built with Node.js, express, bootstrap-v4.
+- [meefs/claude-context-mode](https://github.com/meefs/claude-context-mode): Stop losing context to large outputs.
 - [meefs/claude-yank-patcher](https://github.com/meefs/claude-yank-patcher): tool to patch versions of claude-code to add ^Y (yank) functionality. 
 - [meefs/cryptowallet-cli](https://github.com/meefs/cryptowallet-cli): cw — a crypto wallet generator CLI tool for a lot of blockchains: Bitcoin, Ethereum, Base, Solana, SUI, TON, any EVM (L1/L2/L3) and many others
 - [meefs/cwe-sdk-javascript](https://github.com/meefs/cwe-sdk-javascript): A Common Weakness Enumeration (CWE) Node.js SDK compliant with MITRE / CAPEC
@@ -682,7 +683,6 @@
 - [meefs/chipotle-llm-provider](https://github.com/meefs/chipotle-llm-provider): OpenAI-compatible LLM proxy backed by Chipotle's Pepper AI (IPsoft Amelia) — free inference via fast food
 - [meefs/claude-code-flow](https://github.com/meefs/claude-code-flow): This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
 - [meefs/claude-code](https://github.com/meefs/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- [meefs/claude-context-mode](https://github.com/meefs/claude-context-mode): Stop losing context to large outputs.
 - [meefs/cobold](https://github.com/meefs/cobold): telegram bot for downloading media, powered by cobalt
 - [meefs/codex-security](https://github.com/meefs/codex-security): SDKs and CLI for Codex Security
 - [meefs/conviction](https://github.com/meefs/conviction): No description
