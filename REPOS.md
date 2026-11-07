@@ -522,6 +522,7 @@
 - [meefs/skills](https://github.com/meefs/skills): Public repository for Skills
 - [meefs/skypilot](https://github.com/meefs/skypilot): SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
 - [meefs/slither](https://github.com/meefs/slither): Static Analyzer for Solidity
+- [meefs/so3lr](https://github.com/meefs/so3lr): SO3krates and Universal Pairwise Force Field for Molecular Simulation
 - [meefs/speech-analyser](https://github.com/meefs/speech-analyser): An interactive Streamlit app that analyses your recorded or uploaded speech for vocal fluency, filler words, long pauses, and acoustic clarity — using Montreal Forced Aligner, Praat-Parselmouth, and custom heuristics.
 - [meefs/splunk-dnstwist-cmd](https://github.com/meefs/splunk-dnstwist-cmd): Splunk add-on providing a custom command to generate lookalike domain permutations
 - [meefs/stable-audio-3](https://github.com/meefs/stable-audio-3): No description
