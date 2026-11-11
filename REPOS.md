@@ -30,6 +30,7 @@
 - [meefs/OperatorGraph](https://github.com/meefs/OperatorGraph): Shape grammar base system and auto-tuner based on the operator graph idea
 - [meefs/PortPS5](https://github.com/meefs/PortPS5): Converts decrypted PS5 game dumps into native Windows executables via binary relinking, replacement system libraries, and Vulkan. No CPU emulation.
 - [meefs/RoguePlanet](https://github.com/meefs/RoguePlanet): RoguePlanet Windows Defender Vulnerability
+- [meefs/audio2midi](https://github.com/meefs/audio2midi): Self-hosted, open-source alternative to Mirelo Audio-to-MIDI: a VST3/AU plugin that turns audio into per-instrument MIDI, running MuScriptor locally.
 - [meefs/context-free](https://github.com/meefs/context-free): Context Free is a program that generates images from written instructions called a grammar. The program follows the instructions in a few seconds to create images that can contain millions of shapes.
 - [meefs/cryptominisat](https://github.com/meefs/cryptominisat): An advanced SAT solver
 - [meefs/dawn](https://github.com/meefs/dawn): Native WebGPU implementation. Mirror of https://dawn.googlesource.com/dawn. File bugs here: https://crbug.com/dawn/new
