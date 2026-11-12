@@ -441,6 +441,7 @@
 - [meefs/clip-as-service](https://github.com/meefs/clip-as-service): 🏄 Scalable embedding, reasoning, ranking for images and sentences with CLIP
 - [meefs/compa](https://github.com/meefs/compa): Compa — touchscreen companion for Roland SP-404 MKII + P-6 on Raspberry Pi
 - [meefs/copyparty](https://github.com/meefs/copyparty): Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+- [meefs/cozempic](https://github.com/meefs/cozempic): Context cleaning for Claude Code — prune bloated sessions, protect Agent Teams from context loss, auto-guard with tiered pruning
 - [meefs/datamoshing](https://github.com/meefs/datamoshing): Datamoshing in python
 - [meefs/deepteam](https://github.com/meefs/deepteam): DeepTeam is a framework to red team LLMs and LLM systems.
 - [meefs/defending-code-reference-harness](https://github.com/meefs/defending-code-reference-harness): Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
