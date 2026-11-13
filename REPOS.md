@@ -758,6 +758,7 @@
 - [meefs/stack-chan](https://github.com/meefs/stack-chan): A JavaScript-driven M5Stack-embedded super-kawaii robot.
 - [meefs/stratos](https://github.com/meefs/stratos): Stratos: Web-based Management UI for Cloud Foundry and Kubernetes
 - [meefs/symm](https://github.com/meefs/symm): No description
+- [meefs/t3code](https://github.com/meefs/t3code): The best way to control Claude Code, Codex and more from any computer or phone
 - [meefs/trpc](https://github.com/meefs/trpc): 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
 - [meefs/ts-stack](https://github.com/meefs/ts-stack): No description
 - [meefs/ui2](https://github.com/meefs/ui2): The Unified Intent Interface: The easiest way to build intent-powered UIs
