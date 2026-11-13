@@ -313,6 +313,9 @@
 ## Max
 - [meefs/littlescale-max-patches](https://github.com/meefs/littlescale-max-patches): Max patches by little-scale
 
+## Nix
+- [meefs/nix-demo](https://github.com/meefs/nix-demo): Patch git once with a Nix overlay; use it in devenv, a NixOS VM test and a Docker image
+
 ## Objective-C
 - [meefs/ANE](https://github.com/meefs/ANE): Training neural networks on Apple Neural Engine via reverse-engineered private APIs
 - [meefs/Kronos](https://github.com/meefs/Kronos): No description
