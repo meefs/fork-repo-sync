@@ -536,6 +536,7 @@
 - [meefs/strix](https://github.com/meefs/strix): Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [meefs/style-transfer-pytorch](https://github.com/meefs/style-transfer-pytorch): Neural style transfer in PyTorch.
 - [meefs/subzuf](https://github.com/meefs/subzuf): a smart DNS response-guided subdomain fuzzer
+- [meefs/symbolic_mbpp](https://github.com/meefs/symbolic_mbpp): No description
 - [meefs/telegram_link_sanitizer](https://github.com/meefs/telegram_link_sanitizer): Gets rid of those garbage share params in URLs
 - [meefs/text-to-cad](https://github.com/meefs/text-to-cad): A collection of agent skills for CAD, robotics and hardware design
 - [meefs/textual](https://github.com/meefs/textual): The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
