@@ -119,7 +119,6 @@
 - [meefs/SoundThread](https://github.com/meefs/SoundThread): Node based GUI for The Composers Desktop Project
 
 ## GLSL
-- [meefs/shader-skills](https://github.com/meefs/shader-skills): No description
 - [meefs/thebookofshaders](https://github.com/meefs/thebookofshaders): Step-by-step guide through the abstract and complex universe of Fragment Shaders.
 
 ## Go
@@ -168,6 +167,7 @@
 - [meefs/government-data-fun](https://github.com/meefs/government-data-fun): Various tools to easily access public data from different government departments and services. 
 - [meefs/m3u-audiobooks](https://github.com/meefs/m3u-audiobooks): collection of 100k+ audio books, radio porgrams, music etc from archive.org in a easy to listen m3u playlist format
 - [meefs/meta-prompt](https://github.com/meefs/meta-prompt): For LLMs to better code with Jina API
+- [meefs/os-taxonomy](https://github.com/meefs/os-taxonomy): No description
 - [meefs/promptlikeanegyptian](https://github.com/meefs/promptlikeanegyptian): prompt like an egyptiaaaaannnnn
 - [meefs/style-skills](https://github.com/meefs/style-skills): A field guide to design languages, plus a copy-paste prompt to turn any of them into a reusable house-style skill for your AI agent.
 - [meefs/superdesign-site](https://github.com/meefs/superdesign-site): Superdesign — AI design agent for founders building AI products (landing page)
@@ -218,7 +218,6 @@
 - [meefs/minimaps](https://github.com/meefs/minimaps): Create 3D minimap pucks of areas up to 30km wide from the world map 
 - [meefs/node-hls-downloader-tubitv](https://github.com/meefs/node-hls-downloader-tubitv): Command-line utility for downloading an offline copy of TubiTV HLS video streams.
 - [meefs/npm-incident-response](https://github.com/meefs/npm-incident-response): No description
-- [meefs/os-taxonomy](https://github.com/meefs/os-taxonomy): No description
 - [meefs/ponytail](https://github.com/meefs/ponytail): Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [meefs/portal-network-specs](https://github.com/meefs/portal-network-specs): Official repository for specifications for the Portal Network
 - [meefs/simple-icons](https://github.com/meefs/simple-icons): SVG icons for popular brands
@@ -604,6 +603,7 @@
 - [meefs/ripgrep](https://github.com/meefs/ripgrep): ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [meefs/rvm](https://github.com/meefs/rvm): RVM — The Virtual Machine Built for the Agentic Age, in Rust.
 - [meefs/sendme](https://github.com/meefs/sendme): A tool to send files and directories, based on iroh
+- [meefs/shader-skills](https://github.com/meefs/shader-skills): No description
 - [meefs/solana-stream](https://github.com/meefs/solana-stream): Solana Stream SDK
 - [meefs/starship](https://github.com/meefs/starship): ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [meefs/steel](https://github.com/meefs/steel): Solana smart contract framework.
