@@ -95,6 +95,7 @@
 - [meefs/ffglitch-core](https://github.com/meefs/ffglitch-core): FFglitch - FFmpeg fork for glitching
 - [meefs/httpd](https://github.com/meefs/httpd): Mirror of Apache HTTP Server. Issues: http://issues.apache.org
 - [meefs/iris.c](https://github.com/meefs/iris.c): Flux 2 image generation model pure C inference
+- [meefs/ja4](https://github.com/meefs/ja4): JA4+ is a suite of network fingerprinting standards
 - [meefs/jenn3d](https://github.com/meefs/jenn3d): A Toy for Visualizing Coxeter Polytopes
 - [meefs/kryptoradio](https://github.com/meefs/kryptoradio): Bitcoin serialization and broadcasting tool (and more!)
 - [meefs/malady](https://github.com/meefs/malady): maldev obviously
@@ -587,7 +588,6 @@
 - [meefs/halo2](https://github.com/meefs/halo2): The Halo2 zero-knowledge proving system
 - [meefs/hexcap](https://github.com/meefs/hexcap): A TUI packet capture tool with libpcap and hexyl-style hex dump.
 - [meefs/iroh](https://github.com/meefs/iroh): peer-2-peer that just works
-- [meefs/ja4](https://github.com/meefs/ja4): JA4+ is a suite of network fingerprinting standards
 - [meefs/just](https://github.com/meefs/just): 🤖 Just a command runner
 - [meefs/kao](https://github.com/meefs/kao): Secure and cute desktop wallet for Ethereum.
 - [meefs/lambdaworks](https://github.com/meefs/lambdaworks): lambdaworks offers implementations for both SNARKs and STARKs provers, along with the flexibility to leverage their individual components for constructing customized SNARKs.
