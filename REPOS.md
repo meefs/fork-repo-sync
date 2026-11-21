@@ -656,6 +656,7 @@
 - [meefs/luma](https://github.com/meefs/luma): No description
 - [meefs/palmier-pro](https://github.com/meefs/palmier-pro): macOS video editor built for AI
 - [meefs/sam2-studio](https://github.com/meefs/sam2-studio): No description
+- [meefs/shader-lab](https://github.com/meefs/shader-lab): A playground for live Metal shaders on iPhone, iPad, iPhone Duo, Apple TV, Apple Vision Pro and Apple Watch. Save any shader as a wallpaper.
 
 ## TeX
 - [meefs/acousticbrainz-genre-dataset](https://github.com/meefs/acousticbrainz-genre-dataset): The AcousticBrainz Genre Dataset
