@@ -219,6 +219,7 @@
 - [meefs/minimaps](https://github.com/meefs/minimaps): Create 3D minimap pucks of areas up to 30km wide from the world map 
 - [meefs/node-hls-downloader-tubitv](https://github.com/meefs/node-hls-downloader-tubitv): Command-line utility for downloading an offline copy of TubiTV HLS video streams.
 - [meefs/npm-incident-response](https://github.com/meefs/npm-incident-response): No description
+- [meefs/play.core](https://github.com/meefs/play.core): ASCII Playground 
 - [meefs/ponytail](https://github.com/meefs/ponytail): Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [meefs/portal-network-specs](https://github.com/meefs/portal-network-specs): Official repository for specifications for the Portal Network
 - [meefs/simple-icons](https://github.com/meefs/simple-icons): SVG icons for popular brands
@@ -654,6 +655,7 @@
 - [meefs/bitchat](https://github.com/meefs/bitchat): bluetooth mesh chat, IRC vibes
 - [meefs/container](https://github.com/meefs/container): A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon. 
 - [meefs/luma](https://github.com/meefs/luma): No description
+- [meefs/nospeaker](https://github.com/meefs/nospeaker): make your macbook's trackpad talk using its haptic motor
 - [meefs/palmier-pro](https://github.com/meefs/palmier-pro): macOS video editor built for AI
 - [meefs/sam2-studio](https://github.com/meefs/sam2-studio): No description
 - [meefs/shader-lab](https://github.com/meefs/shader-lab): A playground for live Metal shaders on iPhone, iPad, iPhone Duo, Apple TV, Apple Vision Pro and Apple Watch. Save any shader as a wallpaper.
