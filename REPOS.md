@@ -219,12 +219,14 @@
 - [meefs/minimaps](https://github.com/meefs/minimaps): Create 3D minimap pucks of areas up to 30km wide from the world map 
 - [meefs/node-hls-downloader-tubitv](https://github.com/meefs/node-hls-downloader-tubitv): Command-line utility for downloading an offline copy of TubiTV HLS video streams.
 - [meefs/npm-incident-response](https://github.com/meefs/npm-incident-response): No description
+- [meefs/papercraft](https://github.com/meefs/papercraft): Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style
 - [meefs/play.core](https://github.com/meefs/play.core): ASCII Playground 
 - [meefs/ponytail](https://github.com/meefs/ponytail): Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [meefs/portal-network-specs](https://github.com/meefs/portal-network-specs): Official repository for specifications for the Portal Network
 - [meefs/simple-icons](https://github.com/meefs/simple-icons): SVG icons for popular brands
 - [meefs/skills-getting-started-with-github-copilot](https://github.com/meefs/skills-getting-started-with-github-copilot): Exercise: Get started using GitHub Copilot
 - [meefs/splat](https://github.com/meefs/splat): WebGL 3D Gaussian Splat Viewer
+- [meefs/sprite-stack-engine](https://github.com/meefs/sprite-stack-engine): A sprite-stacking renderer in plain WebGL2: free camera, deferred lighting, hidden-surface removal, and overdraw that is measured, not guessed.
 - [meefs/stemdeck](https://github.com/meefs/stemdeck): Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface
 - [meefs/tactile-js](https://github.com/meefs/tactile-js): A Javascript library for representing, manipulating, and drawing periodic tilings of the plane.
 - [meefs/tearout-gun](https://github.com/meefs/tearout-gun): Browser synth for tearout guns, snares and chugs, fitted to real sounds
@@ -755,6 +757,7 @@
 - [meefs/servers](https://github.com/meefs/servers): Model Context Protocol Servers
 - [meefs/shaders](https://github.com/meefs/shaders): Zero-dependency canvas shaders that can be installed from npm or designed in Paper
 - [meefs/shannon](https://github.com/meefs/shannon): Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+- [meefs/skia-wasm](https://github.com/meefs/skia-wasm): Skia Graphite as WebAssembly
 - [meefs/solana-app-kit](https://github.com/meefs/solana-app-kit): build solana apps under 15 mins
 - [meefs/solana-web3.js](https://github.com/meefs/solana-web3.js): Solana JavaScript SDK
 - [meefs/sparc](https://github.com/meefs/sparc): No description
