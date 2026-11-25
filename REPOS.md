@@ -297,6 +297,7 @@
 - [meefs/stable-diffusion-webui-colab](https://github.com/meefs/stable-diffusion-webui-colab): Stable Difffusion webui Google Colab Notebooks
 
 ## Lean
+- [meefs/formal-math](https://github.com/meefs/formal-math): No description
 - [meefs/lean4](https://github.com/meefs/lean4): Lean 4 programming language and theorem prover
 - [meefs/longfellow-zk](https://github.com/meefs/longfellow-zk): Implementation of the Google Zero-Knowledge library for Identity Protocols.
 - [meefs/sparkle](https://github.com/meefs/sparkle): A type-safe, formally verifiable HDL compiler in Lean 4. Inspired by Clash, built for high-assurance hardware synthesis.
@@ -407,7 +408,6 @@
 - [meefs/TeleVision](https://github.com/meefs/TeleVision): Open-TeleVision: Teleoperation with Immersive Active Visual Feedback
 - [meefs/TheBigBrother](https://github.com/meefs/TheBigBrother): The Big Brother V3.0 is a weaponized OSINT platform featuring username enumeration (473+ platforms), quad-vector visual intelligence, Sky Radar tracking, crypto wallet analysis, SSL intelligence, digital footprint reconstruction, EXIF extraction, advanced dorking, and network reconnaissance.
 - [meefs/TimeSlice-Nodes](https://github.com/meefs/TimeSlice-Nodes): Temporal slit-scan / time-displacement effects for ComfyUI — angled, animated and dual-source slicing on a shared engine.
-- [meefs/TradingAgents](https://github.com/meefs/TradingAgents): TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [meefs/TripoSplat](https://github.com/meefs/TripoSplat): TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.
 - [meefs/UniversalBackrooms](https://github.com/meefs/UniversalBackrooms): A replication of Andy Ayrey's "Backrooms" (https://dreams-of-an-electric-mind.webflow.io/), but runnable with Opus 3, Sonnet 3.5, GPT 4o, and o1-preview 
 - [meefs/Unlimited-OCR](https://github.com/meefs/Unlimited-OCR): Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
@@ -677,6 +677,7 @@
 - [meefs/GeoLibre](https://github.com/meefs/GeoLibre): A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data across desktop and web environments, with a responsive layout for mobile screens.
 - [meefs/Raydium-Bundler-Extra-Bot-V4-Avoid-Bubblemaps](https://github.com/meefs/Raydium-Bundler-Extra-Bot-V4-Avoid-Bubblemaps): This is the extra bot of Raydium bundler to avoid detecting from bubble maps with JITO
 - [meefs/SnitchBench](https://github.com/meefs/SnitchBench): No description
+- [meefs/TradingAgents](https://github.com/meefs/TradingAgents): TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [meefs/TypeChain](https://github.com/meefs/TypeChain): 🔌 TypeScript bindings for Ethereum smart contracts
 - [meefs/a2a-js](https://github.com/meefs/a2a-js): Official JavaScript SDK for the Agent2Agent (A2A) Protocol
 - [meefs/agent-native](https://github.com/meefs/agent-native): A framework for building agent-native applications.
