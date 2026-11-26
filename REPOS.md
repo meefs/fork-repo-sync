@@ -53,6 +53,7 @@
 - [meefs/powertabeditor](https://github.com/meefs/powertabeditor): View and edit guitar tablature.
 - [meefs/quiche](https://github.com/meefs/quiche): No description
 - [meefs/receiver-basecamp](https://github.com/meefs/receiver-basecamp): Listen-only Logos Basecamp module — discover & play decentralized radio over LogosMessaging (delivery_module). Works on the 268 build; the latest 295 hangs getClient (platform regression, logos-basecamp#150).
+- [meefs/risc0](https://github.com/meefs/risc0): RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.
 - [meefs/sentencepiece](https://github.com/meefs/sentencepiece): Unsupervised text tokenizer for Neural Network-based text generation.
 - [meefs/shadPS4](https://github.com/meefs/shadPS4): PS4 emulator for Windows,Linux,MacOS
 - [meefs/shapeml](https://github.com/meefs/shapeml): ShapeML is a rule- or grammar-based procedural 3D modeling framework.
@@ -223,6 +224,7 @@
 - [meefs/play.core](https://github.com/meefs/play.core): ASCII Playground 
 - [meefs/ponytail](https://github.com/meefs/ponytail): Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [meefs/portal-network-specs](https://github.com/meefs/portal-network-specs): Official repository for specifications for the Portal Network
+- [meefs/shapeshift-labs-ink-studio](https://github.com/meefs/shapeshift-labs-ink-studio): Sculpting, animation and simulation toolkit for pixel-art Gaussian splats
 - [meefs/simple-icons](https://github.com/meefs/simple-icons): SVG icons for popular brands
 - [meefs/skills-getting-started-with-github-copilot](https://github.com/meefs/skills-getting-started-with-github-copilot): Exercise: Get started using GitHub Copilot
 - [meefs/splat](https://github.com/meefs/splat): WebGL 3D Gaussian Splat Viewer
