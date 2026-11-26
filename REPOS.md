@@ -2,6 +2,7 @@
 ## Assembly
 - [meefs/MS-DOS](https://github.com/meefs/MS-DOS): The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [meefs/gb-asm-tutorial](https://github.com/meefs/gb-asm-tutorial): Learn to create games for the Game Boy using Assembly
+- [meefs/llm.asm](https://github.com/meefs/llm.asm): Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.
 
 ## Astro
 - [meefs/agentic-workflows-that-read-the-room](https://github.com/meefs/agentic-workflows-that-read-the-room): This is a GitHub Skills exercise on how to get started with Agentic Workflows where we will create simple use case to show the power of an Agentic Workflow
@@ -187,6 +188,7 @@
 - [meefs/MIDI2.0Workbench](https://github.com/meefs/MIDI2.0Workbench): MIDI 2.0 Testing Tool
 - [meefs/OrigamiSimulator](https://github.com/meefs/OrigamiSimulator): Realtime WebGL origami simulator
 - [meefs/SIP-Sentinel](https://github.com/meefs/SIP-Sentinel): No description
+- [meefs/SonomikaPatch](https://github.com/meefs/SonomikaPatch): No description
 - [meefs/TinyCode](https://github.com/meefs/TinyCode): Size Coding Magic 🧙
 - [meefs/WeavingType](https://github.com/meefs/WeavingType): No description
 - [meefs/WireMCP](https://github.com/meefs/WireMCP): An MCP for WireShark (tshark). Empower LLM's with realtime network traffic analysis capability
