@@ -748,6 +748,7 @@
 - [meefs/playwright-mcp](https://github.com/meefs/playwright-mcp): Playwright MCP server
 - [meefs/playwright](https://github.com/meefs/playwright): Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 - [meefs/pretext](https://github.com/meefs/pretext): Fast, accurate & comprehensive text measurement & layout
+- [meefs/procedural-rpg](https://github.com/meefs/procedural-rpg): No description
 - [meefs/puter](https://github.com/meefs/puter): 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [meefs/react-native-webgpu](https://github.com/meefs/react-native-webgpu): React Native implementation of WebGPU using Dawn
 - [meefs/react-video-ascii](https://github.com/meefs/react-video-ascii): Video to ASCII React component.
